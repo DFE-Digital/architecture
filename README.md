@@ -77,7 +77,7 @@ when building digital services.
 
 ## Adding new guidance
 
-Create a new Markdown file in the [DfE Architecture guidance repo](https://github.com/DFE-Digital/architecture) that follows this pattern, add a link to it
+Create a new Markdown file in the [DfE Architecture repo](https://github.com/luke-slowen/architecture) that follows this pattern, add a link to it
 from this page, and make a pull request:
 
 ```markdown
@@ -89,10 +89,8 @@ expires: yyyy-mm-dd (6 months from now)
 
 Introduction of a couple of paragraphs to explain why what you're
 writing about is important. The [title should probably be a verb, not a
-noun][good-services-are-verbs] (e.g. “Storing source code”, not “Code
+noun](https://designnotes.blog.gov.uk/2015/06/22/good-services-are-verbs-2/) (e.g. “Storing source code”, not “Code
 repositories”).
-
-[good-services-are-verbs]: https://designnotes.blog.gov.uk/2015/06/22/good-services-are-verbs-2/
 
 ## User needs
 
@@ -104,7 +102,7 @@ What broad approaches do we follow when we do this?
 
 ## Tools
 
-What specific software (commercial or open source) do we use to help us do this thing?
+What specific software (commercial or open source) do we use to help us do this?
 ```
 
 The service manual has some useful information on
