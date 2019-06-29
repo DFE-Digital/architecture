@@ -10,9 +10,9 @@ defaults:
       standard: true
   -
     scope:
-      path: "guides"
+      path: "patterns"
     values:
-      guide: true
+      pattern: true
   -
     scope:
       path: "principles"
@@ -23,3 +23,8 @@ defaults:
       path: "capability"
     values:
       capability: true
+  -
+    scope:
+      path: "repositories"
+    values:
+      repository: true

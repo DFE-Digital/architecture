@@ -5,9 +5,11 @@ to follow when designing services.
 
 It complements the [Service Manual](https://www.gov.uk/service-manual) and its
 [Technology section](https://www.gov.uk/service-manual/technology),
-which covers service design more broadly. 
+which covers service design more broadly.
 
-It is inspired by the [DfE Technical Guidance](https://dfe-digital.github.io/technology-guidance)
+It should be used in conjunction with the
+[DfE Digital Technical Guidance](https://dfe-digital.github.io/technology-guidance),
+when building digital services.
 
 ## Principles
 
@@ -37,22 +39,31 @@ It is inspired by the [DfE Technical Guidance](https://dfe-digital.github.io/tec
 {% endfor %}
 {% endfor %}
 
-## Guides
+## Patterns
 
 {% assign guides = site.pages
-  | where: "guide", true
+  | where: "pattern", true
   | group_by: "category" %}
 
-{% for guide_group in guides %}
-{% if guide_group.name != "" %}
-### {{ guide_group.name }}
+{% for pattern_group in patterns %}
+{% if pattern_group.name != "" %}
+### {{ pattern_group.name }}
 {% else %}
-### General guides
+### General patterns
 {% endif %}
 
-{% for guide in guide_group.items %}
-- [{{ guide.title }}]({{ guide.url | relative_url }})
+{% for pattern in pattern_group.items %}
+- [{{ pattern.title }}]({{ pattern.url | relative_url }})
 {% endfor %}
+{% endfor %}
+
+## Repositories
+
+{% assign repository_groups = site.pages
+  | where: "repository", true %}
+
+{% for repository in repository_groups %}
+- [{{ repository.title }}]({{ repository.url | relative_url }})
 {% endfor %}
 
 ## Capability
