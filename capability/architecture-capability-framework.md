@@ -7,14 +7,14 @@ expires: 2020-01-01
 
 ## Purpose
 This framework provides an outline of the roles, skills, experience and tools that architects
-working within DfE have or would like to build. It describes the pathways into architecture and
-how to develop an architecture career. It should help also people interacting with
-architects understand what we do and how we do it. It builds on the
-[GDS DDaT Capability Framework](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework),
-extending the various skills, levels and mastery for the DfE context.
+working within DfE have or would like to build.
 
-## Pathways into architecture
-*DDaT pathways + DfE - BA, Dev, DevOps*
+It describes the pathways into architecture and
+how to develop an architecture career. It should help also people interacting with
+architects understand what we do and how we do it.
+
+It builds on the [GDS DDaT Capability Framework](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework),
+extending the various skills, levels and mastery for the DfE context.
 
 ## The skills and experience you'll need
 In the DfE architecture team, we centre on Enterprise and Solution Architects.
@@ -48,6 +48,9 @@ We also have an architecture practice manager and some functional support, to ke
 Review our [repositories](/repositories) for useful artefacts, standards, patterns and designs.
 ### Managed services
 *Architecture service contracts, how to access them, example job specs, RfQs*
+
+## Pathways into architecture
+*DDaT pathways + DfE - from business analysis, development / DevOps, technnical roles*
 
 ## Profiles
 *Case studies for Enterprise / Solution Architect*
