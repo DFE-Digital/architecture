@@ -56,6 +56,15 @@ It is inspired by the [GDS Way](https://gds-way.cloudapps.digital) and the
 {% endfor %}
 {% endfor %}
 
+## Capability
+
+{% assign capability_groups = site.pages
+  | where: "capability", true %}
+
+{% for capability in principle_groups %}
+- [{{ capability.title }}]({{ capability.url | relative_url }})
+{% endfor %}
+
 ## Adding new guidance
 
 Create a new Markdown file in the [DfE Architecture guidance repo](https://github.com/DFE-Digital/architecture) that follows this pattern, add a link to it
