@@ -1,10 +1,10 @@
 # DfE Architecture
 This site documents the architecture principles, standards and guidance that we expect teams working
-within the [Department for Education](https://www.gov.uk/government/organisations/department-for-education)
+within the [Department for Education (DfE)](https://www.gov.uk/government/organisations/department-for-education)
 to follow when designing services.
 
-It complements the [Service Manual](https://www.gov.uk/service-manual) and its
-[Technology section](https://www.gov.uk/service-manual/technology),
+It complements the [GDS Service Manual](https://www.gov.uk/service-manual) and its
+[technology section](https://www.gov.uk/service-manual/technology),
 which covers service design more broadly.
 
 It should be used in conjunction with the

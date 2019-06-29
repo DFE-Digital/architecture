@@ -6,17 +6,17 @@ expires: 2020-01-01
 # Architecture Capability Framework
 
 ## Purpose
-This framework is designed to help anybody interacting with the architecture team or wanting to get into architecture.
-It outlines the roles, skills and experience that work within the department
+This framework provides an outline of the roles, skills, experience and tools that architects
+working within DfE have or would like to build. It describes the pathways into architecture and
+how to develop an architecture career. It should help also people interacting with
+architects understand what we do and how we do it. It builds on the
+[GDS DDaT Capability Framework](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework),
+extending the various skills, levels and mastery for the DfE context.
 
 ## Pathways into architecture
 *DDaT pathways + DfE - BA, Dev, DevOps*
 
 ## The skills and experience you'll need
-This capability framework builds on the [GDS DDaT Capability Framework](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework).
-
-*Skills & mastery (how DfE use and adapts), read across with DDaT Tech Arch skill levels*
-
 In the DfE architecture team, we centre on Enterprise and Solution Architects.
 We form part of a wider community of architects working across DfE, but have found
 that these two roles tend to work best within the central team, working closely
@@ -28,6 +28,8 @@ We broadly align our roles with the Technical Architect levels in the GDS DDaT C
   * G7 Enterprise / Solution Architect = [Senior Technical Architect](https://www.gov.uk/government/publications/senior-technical-architect-skills-they-need/senior-technical-architect-skills-they-need)
   * SEO Solution Architect = [Technical Architect](https://www.gov.uk/government/publications/technical-architect-skills-they-need/technical-architect-skills-they-need)
   * HEO Associate Architect = [Associate Architect](https://www.gov.uk/government/publications/associate-technical-architect-skills-they-need/associate-technical-architect-skills-they-need)
+
+*Skills & mastery (how DfE use and adapts), read across with DDaT Tech Arch skill levels*
 
 In the team, we also have [Data Architects](https://www.gov.uk/government/publications/data-architect-role-description/data-architect-role-description)
 and [Specialist Technical Architects](https://www.gov.uk/government/publications/technical-specialist-architect-role-description/technical-specialist-architect-role-description),
