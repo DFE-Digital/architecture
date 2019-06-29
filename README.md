@@ -1,14 +1,13 @@
-# DfE Architecture guidance
-This site documents the architecture and design standards and guidance that we expect teams working
+# DfE Architecture
+This site documents the architecture principles, standards and guidance that we expect teams working
 within the [Department for Education](https://www.gov.uk/government/organisations/department-for-education)
-to follow when building services.
+to follow when designing services.
 
 It complements the [Service Manual](https://www.gov.uk/service-manual) and its
 [Technology section](https://www.gov.uk/service-manual/technology),
-which covers service design more broadly.
+which covers service design more broadly. 
 
-It is inspired by the [GDS Way](https://gds-way.cloudapps.digital) and the
-[Ministry of Justice Technical Guidance](https://ministryofjustice.github.io/technical-guidance/#moj-technical-guidance)
+It is inspired by the [DfE Technical Guidance](https://dfe-digital.github.io/technology-guidance)
 
 ## Principles
 
