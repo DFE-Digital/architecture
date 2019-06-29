@@ -1,0 +1,25 @@
+title: DfE Architecture
+
+permalink: pretty
+
+defaults:
+  -
+    scope:
+      path: "standards"
+    values:
+      standard: true
+  -
+    scope:
+      path: "guides"
+    values:
+      guide: true
+  -
+    scope:
+      path: "principles"
+    values:
+      principle: true
+  -
+    scope:
+      path: "capability"
+    values:
+      capability: true

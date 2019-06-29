@@ -19,3 +19,21 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+The DfE Architecture guidance site incorporates code from
+[GDS's Tech Docs Template](https://github.com/alphagov/tech-docs-template),
+Copyright (c) 2016 Crown Copyright (Government Digital Service).
+GDS's Tech Docs Template is distributed under the terms of the MIT
+License
+
+The DfE Architecture guidance site incorporates [@allejo's
+Pure Liquid Jekyll Table of Contents](https://allejo.io/blog/a-jekyll-toc-in-liquid-only/),
+Copyright (c) 2017 Vladimir Jimenez.
+Pure Liquid Jekyll Table of Contents is distributed under the terms of
+the BSD-3 License
+
+The DfE Architecture guidance site incorporates content from
+[GDS's The GDS Way](https://github.com/alphagov/gds-way),
+Copyright (c) 2017 Crown Copyright (Government Digital Service).
+GDS's The GDS Way is distributed under the terms of the [Open
+Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
