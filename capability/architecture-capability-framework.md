@@ -45,7 +45,7 @@ We also have an architecture practice manager and some functional support, to ke
 ### Community
 *Events, peer review*
 ### Repositories
-Review our [repositories](/repositories) for useful artefacts, standards, patterns and designs.
+Review our [repositories](../repositories) for useful artefacts, standards, patterns and designs.
 ### Managed services
 *Architecture service contracts, how to access them, example job specs, RfQs*
 
