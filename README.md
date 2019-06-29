@@ -61,7 +61,7 @@ It is inspired by the [GDS Way](https://gds-way.cloudapps.digital) and the
 {% assign capability_groups = site.pages
   | where: "capability", true %}
 
-{% for capability in principle_groups %}
+{% for capability in capability_groups %}
 - [{{ capability.title }}]({{ capability.url | relative_url }})
 {% endfor %}
 
