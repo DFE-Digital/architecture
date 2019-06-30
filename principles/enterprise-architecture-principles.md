@@ -5,6 +5,8 @@ expires: 2020-01-01
 
 # Enterprise Architecture Principles
 
+(Draft, structure only)
+
 These principles are stated in no particular order, and are *always* open to debate.
 Architecture and design is a trade-off between competing pressures - these principles are
 meant to help you decide which trade-offs are acceptable.
