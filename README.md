@@ -47,7 +47,6 @@ when building digital services.
 {% for pattern in pattern_groups %}
 - [{{ pattern.title }}]({{ pattern.url | relative_url }})
 {% endfor %}
-{% endfor %}
 
 ## Repositories
 
