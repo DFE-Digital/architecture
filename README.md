@@ -41,18 +41,10 @@ when building digital services.
 
 ## Patterns
 
-{% assign guides = site.pages
-  | where: "pattern", true
-  | group_by: "category" %}
+{% assign pattern_groups = site.pages
+  | where: "pattern", true %}
 
-{% for pattern_group in patterns %}
-{% if pattern_group.name != "" %}
-### {{ pattern_group.name }}
-{% else %}
-### General patterns
-{% endif %}
-
-{% for pattern in pattern_group.items %}
+{% for pattern in pattern_groups %}
 - [{{ pattern.title }}]({{ pattern.url | relative_url }})
 {% endfor %}
 {% endfor %}
