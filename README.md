@@ -20,23 +20,13 @@ when building digital services.
 - [{{ principle.title }}]({{ principle.url | relative_url }})
 {% endfor %}
 
-
 ## Standards
 
-{% assign standards = site.pages
-  | where: "standard", true
-  | group_by: "category" %}
+{% assign standard_groups = site.pages
+  | where: "standard", true %}
 
-{% for standard_group in standards %}
-{% if standard_group.name != "" %}
-### {{ standard_group.name }}
-{% else %}
-### General standards
-{% endif %}
-
-{% for standard in standard_group.items %}
+{% for standard in standard_groups %}
 - [{{ standard.title }}]({{ standard.url | relative_url }})
-{% endfor %}
 {% endfor %}
 
 ## Patterns
@@ -65,6 +55,8 @@ when building digital services.
 {% for capability in capability_groups %}
 - [{{ capability.title }}]({{ capability.url | relative_url }})
 {% endfor %}
+
+
 
 ## Adding new guidance
 
