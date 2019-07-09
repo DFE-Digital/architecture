@@ -77,7 +77,7 @@ when building digital services.
 
 ## Adding new guidance
 
-Create a new Markdown file in the [DfE Architecture repo](https://github.com/luke-slowen/architecture) that follows this pattern, add a link to it
+Create a new Markdown (.md) file in the [DfE Architecture repo](https://github.com/luke-slowen/architecture) that follows this pattern, add a link to it
 from this page, and make a pull request:
 
 ```markdown
