@@ -5,6 +5,11 @@ permalink: pretty
 defaults:
   -
     scope:
+      path: "principles"
+    values:
+      principle: true
+  -
+    scope:
       path: "standards"
     values:
       standard: true
@@ -15,16 +20,16 @@ defaults:
       pattern: true
   -
     scope:
-      path: "principles"
+      path: "components"
     values:
-      principle: true
-  -
-    scope:
-      path: "capability"
-    values:
-      capability: true
+      component: true
   -
     scope:
       path: "repositories"
     values:
       repository: true
+  -
+    scope:
+      path: "capability"
+    values:
+      capability: true
