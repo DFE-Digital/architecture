@@ -38,6 +38,15 @@ when building digital services.
 - [{{ pattern.title }}]({{ pattern.url | relative_url }})
 {% endfor %}
 
+## Common Components ##
+
+{% assign component_groups = site.pages
+  | where: "component", true %}
+
+{% for component in component_groups %}
+- [{{ component.title }}]({{ component.url | relative_url }})
+{% endfor %}
+
 ## Repositories
 
 {% assign repository_groups = site.pages
