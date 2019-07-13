@@ -30,7 +30,7 @@ End User Compute | Outlook and Teams | Leanna Green | Live
 | Telephony and Skype | Leanna Green | Live
 | Mobile telephony | Leanna Green | Live
 Hosting | [Cloud Infrastructure Platform (CIP)](https://educationgovuk.sharepoint.com/sites/ciog/groupdelivery/Home.aspx) | Saghir Akbar | Live
-Security & networks | [DfE Sign-in](/dfe-signin) | Leanna Green | Live
+Security & networks | [DfE Sign-in](dfe-signin) | Leanna Green | Live
 | Core network | Jon Gilbert | Live
 Service Management | Service desk toolset | Leanna Green | Live
 Integration | Enterprise API Management (EAPIM) | Saghir Akbar | Beta
