@@ -40,12 +40,7 @@ when building digital services.
 
 ## Common Components ##
 
-{% assign component_groups = site.pages
-  | where: "component", true %}
-
-{% for component in component_groups %}
-- [{{ component.title }}]({{ component.url | relative_url }})
-{% endfor %}
+[Common Components](/common-components/)
 
 ## Repositories
 

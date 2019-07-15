@@ -30,7 +30,7 @@ End User Compute | Outlook and Teams | Leanna Green | Live
 | Telephony and Skype | Leanna Green | Live
 | Mobile telephony | Leanna Green | Live
 Hosting | [Cloud Infrastructure Platform (CIP)](https://educationgovuk.sharepoint.com/sites/ciog/groupdelivery/Home.aspx) | Saghir Akbar | Live
-Security & networks | [DfE Sign-in](../dfe-signin) | Leanna Green | Live
+Security & networks | [DfE Sign-in](#dfe-signin) | Leanna Green | Live
 | Core network | Jon Gilbert | Live
 Service Management | Service desk toolset | Leanna Green | Live
 Integration | Enterprise API Management (EAPIM) | Saghir Akbar | Beta
@@ -43,6 +43,28 @@ Applications | Shared Customer Relationship Management (CRM) platform | Saghir A
 | 360 customer view | Saghir Akbar | Alpha
 | Marketing Automation platform | tbc | Discovery
 | Robotic Process Automation (RPA) platform | tbc | Alpha
+
+## Components ##
+
+<a name="dfe-signin"></a>
+### 1. DfE Sign-in
+DfE Sign-in is the new way for users to access DfE online services and has now replaced Secure Access.
+
+#### Documentation
+Links to tech docs, onboarding info
+
+#### Support
+Questions regarding adoption and use
+
+Where to go if there's a problem
+
+#### Roadmap
+Who's already using this components - see ['Services accessed using DfE Sign-in'](https://services.signin.education.gov.uk/)
+
+What's being onboarded
+
+## Further guidance ##
+Who creates / maintains this content (support email)
 
 ## Further guidance ##
 
