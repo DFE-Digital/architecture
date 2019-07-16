@@ -40,7 +40,7 @@ when building digital services.
 
 ## Common Components ##
 
-[Common Components](common-components/)
+- [Common Components](common-components/)
 
 ## Repositories
 
