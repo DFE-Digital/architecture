@@ -33,7 +33,7 @@ Hosting | [Cloud Infrastructure Platform (CIP)](https://educationgovuk.sharepoin
 Security & networks | [DfE Sign-in](#dfe-signin) | Leanna Green | Live
 | Core network | Jon Gilbert | Live
 Service Management | Service desk toolset | Leanna Green | Live
-Integration | Enterprise API Management (EAPIM) | Saghir Akbar | Beta
+Integration | [Enterprise API Management (EAPIM)](#eapim) | Saghir Akbar | Beta
 Information & data | SharePoint | Harj Bilan | Live
 | Enterprise Data and Analytics Platform (EDAP) | Harj Bilan | Live
 | Data collection | Harj Bilan | Live
@@ -44,26 +44,42 @@ Applications | Shared Customer Relationship Management (CRM) platform | Saghir A
 | Marketing Automation platform | tbc | Discovery
 | Robotic Process Automation (RPA) platform | tbc | Alpha
 
+_(Note. the following sections are placeholders, content to be developed)_
+
 <a name="dfe-signin"></a>
 ### 1. DfE Sign-in
 DfE Sign-in is the new way for users to access DfE online services and has now replaced Secure Access.
 
-#### Documentation
-_Links to tech docs, onboarding info_
+__Documentation__
 
-#### Support
-_Questions regarding adoption and use
+- _Links to tech docs, onboarding info_
 
-Where to go if there's a problem_
+__Support__
 
-#### Roadmap
-_Who's already using this components - see ['Services accessed using DfE Sign-in'](https://services.signin.education.gov.uk/)
+- _Questions regarding adoption and use_
+- _Where to go if there's a problem_
 
-What's being onboarded_
+__Roadmap__
 
-#### Further guidance
-_Who creates / maintains this content (support email)_
+- _Who's already using this component - see ['Services accessed using DfE Sign-in'](https://services.signin.education.gov.uk/)_
+- _What's being onboarded_
 
+__Further guidance__
+
+- _Who creates / maintains this content (support email)_
+
+<a name="eapim"></a>
+### 2. Enterprise API Management platform
+
+[description]
+
+__Documentation__
+
+__Support__
+
+__Roadmap__
+
+__Further guidance__
 
 ## Further guidance ##
 
