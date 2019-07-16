@@ -64,6 +64,7 @@ What's being onboarded_
 #### Further guidance
 _Who creates / maintains this content (support email)_
 
+
 ## Further guidance ##
 
 For more information on common components or to discuss adding your component to the repository, contact the [Architecture team](mailto:architecture.governance@education.gov.uk)
