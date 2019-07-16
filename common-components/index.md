@@ -44,27 +44,25 @@ Applications | Shared Customer Relationship Management (CRM) platform | Saghir A
 | Marketing Automation platform | tbc | Discovery
 | Robotic Process Automation (RPA) platform | tbc | Alpha
 
-## Components ##
-
 <a name="dfe-signin"></a>
 ### 1. DfE Sign-in
 DfE Sign-in is the new way for users to access DfE online services and has now replaced Secure Access.
 
 #### Documentation
-Links to tech docs, onboarding info
+_Links to tech docs, onboarding info_
 
 #### Support
-Questions regarding adoption and use
+_Questions regarding adoption and use
 
-Where to go if there's a problem
+Where to go if there's a problem_
 
 #### Roadmap
-Who's already using this components - see ['Services accessed using DfE Sign-in'](https://services.signin.education.gov.uk/)
+_Who's already using this components - see ['Services accessed using DfE Sign-in'](https://services.signin.education.gov.uk/)
 
-What's being onboarded
+What's being onboarded_
 
-## Further guidance ##
-Who creates / maintains this content (support email)
+#### Further guidance
+_Who creates / maintains this content (support email)_
 
 ## Further guidance ##
 
