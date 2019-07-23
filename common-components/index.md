@@ -63,7 +63,7 @@ __Roadmap__
 __Further guidance__
 
 <a name="cip"></a>
-### 2. Cloud Infrastructure Platform (CIP)
+### 2. Cloud Infrastructure Platform
 
 [description]
 
@@ -99,7 +99,7 @@ __Further guidance__
 - _Who creates / maintains this content (support email)_
 
 <a name="eapim"></a>
-### 4. Enterprise API Management (EAPIM) platform
+### 4. Enterprise API Management
 
 [description]
 
@@ -112,7 +112,7 @@ __Roadmap__
 __Further guidance__
 
 <a name="edap"></a>
-### 5. Enterprise Data and Analytics Platform (EDAP)
+### 5. Enterprise Data and Analytics
 
 [description]
 
@@ -125,7 +125,7 @@ __Roadmap__
 __Further guidance__
 
 <a name="crm"></a>
-### 6. Shared Customer Relationship Management (CRM) platform
+### 6. Shared CRM
 
 [description]
 
