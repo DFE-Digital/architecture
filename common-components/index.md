@@ -4,6 +4,9 @@ expires: 2020-01-01
 ---
 
 # Common Components
+
+## What are they?
+
 Common components are software or technical systems that are created once and reused many times in different services or business contexts. They could be applications, data, integration, a network, security products, hosting. They are building blocks, typically mapped to a business or technical capability, which can be used to deliver modular services or systems of a higher order.
 
 __Key characteristics__
@@ -15,7 +18,7 @@ Common components can be of any size but they all share the same characteristics
 4. They are treated as an asset and therefore require asset lifecycle management – support wrap, continuous improvement, enhancement or replacement.
 5. They are standalone but interoperable with other common components, such that change to one does not cause a ripple effect change to others.
 
-## Why should we use common components? ##
+## Why should we use them? ##
 
 The adoption of common components can bring significant benefits to DfE. Some of these benefits are:
 - __Speed to market__ – reuse can save time to build, test and deliver services. We should not have to build services from scratch every time.
@@ -26,28 +29,55 @@ The adoption of common components can bring significant benefits to DfE. Some of
 
 Domain | Component | Owner | Status
 - | - | - | -
-End User Compute | Outlook and Teams | Leanna Green | Live
+[End User Compute](#euc) | Outlook and Teams | Leanna Green | Live
 | Telephony and Skype | Leanna Green | Live
 | Mobile telephony | Leanna Green | Live
-Hosting | [Cloud Infrastructure Platform (CIP)](https://educationgovuk.sharepoint.com/sites/ciog/groupdelivery/Home.aspx) | Saghir Akbar | Live
+Hosting | [Cloud Infrastructure Platform (CIP)](#cip) | Saghir Akbar | Live
 Security & networks | [DfE Sign-in](#dfe-signin) | Leanna Green | Live
 | Core network | Jon Gilbert | Live
 Service Management | Service desk toolset | Leanna Green | Live
 Integration | [Enterprise API Management (EAPIM)](#eapim) | Saghir Akbar | Beta
 Information & data | SharePoint | Harj Bilan | Live
-| Enterprise Data and Analytics Platform (EDAP) | Harj Bilan | Live
+| [Enterprise Data and Analytics Platform (EDAP)](#edap) | Harj Bilan | Beta
 | Data collection | Harj Bilan | Live
 | Postcode lookup | Harj Bilan | Discovery
 | Geospatial / maps | Harj Bilan | Discovery
-Applications | Shared Customer Relationship Management (CRM) platform | Saghir Akbar | Beta
+Applications | [Shared Customer Relationship Management (CRM) platform](#crm) | Saghir Akbar | Beta
 | 360 customer view | Saghir Akbar | Alpha
 | Marketing Automation platform | tbc | Discovery
 | Robotic Process Automation (RPA) platform | tbc | Alpha
 
 _(Note. the following sections are placeholders, content to be developed)_
 
-<a name="dfe-signin"></a>
-### 1. DfE Sign-in
+<a name="euc"></a>
+### 1. End User Compute
+
+[description]
+
+__Documentation__
+
+__Support__
+
+__Roadmap__
+
+__Further guidance__
+
+<a name="cip"></a>
+### 2. Cloud Infrastructure Platform (CIP)
+
+[description]
+
+__Documentation__
+
+- [SharePoint wiki](https://educationgovuk.sharepoint.com/sites/ciog/groupdelivery/Home.aspx)
+
+__Support__
+
+__Roadmap__
+
+__Further guidance__
+
+### 3. DfE Sign-in
 DfE Sign-in is the new way for users to access DfE online services and has now replaced Secure Access.
 
 __Documentation__
@@ -69,7 +99,7 @@ __Further guidance__
 - _Who creates / maintains this content (support email)_
 
 <a name="eapim"></a>
-### 2. Enterprise API Management platform
+### 4. Enterprise API Management (EAPIM) platform
 
 [description]
 
@@ -81,6 +111,33 @@ __Roadmap__
 
 __Further guidance__
 
-## Further guidance ##
+<a name="edap"></a>
+### 5. Enterprise Data and Analytics Platform (EDAP)
+
+[description]
+
+__Documentation__
+
+__Support__
+
+__Roadmap__
+
+__Further guidance__
+
+<a name="crm"></a>
+### 6. Shared Customer Relationship Management (CRM) platform
+
+[description]
+
+__Documentation__
+
+__Support__
+
+__Roadmap__
+
+__Further guidance__
+
+
+## Further guidance on common components ##
 
 For more information on common components or to discuss adding your component to the repository, contact the [Architecture team](mailto:architecture.governance@education.gov.uk)
