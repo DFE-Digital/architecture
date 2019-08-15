@@ -65,7 +65,7 @@ __Further guidance__
 <a name="cip"></a>
 ### 2. Cloud Infrastructure Platform
 
-[description]
+The Cloud Infrastructure Platform (CIP) is Technology Directorate’s new Microsoft Azure cloud hosting offer. It’s managed centrally and provides a highly flexible model that gives service lines __control__ and __consistency__ over how their business services are hosted. 
 
 __Documentation__
 
