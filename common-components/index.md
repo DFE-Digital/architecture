@@ -7,7 +7,7 @@ expires: 2020-01-01
 
 ## What are they?
 
-Common components are software or technical systems that are created once and reused many times in different services or business contexts. They could be applications, data, integration, a network, security products, hosting. They are building blocks, typically mapped to a business or technical capability, which can be used to deliver modular services or systems of a higher order.
+Common components are software or technical systems that are created once and reused many times in different services or business contexts. They could be applications, data, integration, a network, security products, hosting or something else. They are __building blocks__, typically mapped to a business or technical capability, which can be used to deliver modular services or systems of a higher order.
 
 __Key characteristics__
 
@@ -20,7 +20,7 @@ Common components can be of any size but they all share the same characteristics
 
 ## Why should we use them? ##
 
-The adoption of common components can bring significant benefits to DfE. Some of these benefits are:
+The adoption of common components can bring significant benefits to DfE and help people build better services, more quickly. Some of these benefits are:
 - __Speed to market__ – reuse can save time to build, test and deliver services. We should not have to build services from scratch every time.
 - __Reduced costs__ – the more we can reuse, the more we can save through reduced technical diversity or duplication, enabling us to focus our efforts on the differentiating or innovative aspects of the service.
 - __Lower risk__ – building to common standards and through lifecycle management lowers the risk of failure.
@@ -47,7 +47,9 @@ Applications | [Shared Customer Relationship Management (CRM) platform](#crm) | 
 | Marketing Automation platform | tbc | Discovery
 | Robotic Process Automation (RPA) platform | tbc | Alpha
 
-_(Note. the following sections are placeholders, content to be developed)_
+## How do we use them? ##
+
+_(Note. Content is in development for the following sections)_
 
 <a name="euc"></a>
 ### 1. End User Compute
@@ -65,18 +67,38 @@ __Further guidance__
 <a name="cip"></a>
 ### 2. Cloud Infrastructure Platform
 
-The Cloud Infrastructure Platform (CIP) is Technology Directorate’s Microsoft Azure cloud hosting offer. It’s managed centrally and provides a highly flexible model that gives service lines __control__ and __consistency__ over how their business services are hosted. 
+The Cloud Infrastructure Platform (CIP) is Technology Directorate’s Microsoft Azure cloud hosting offer. It’s managed centrally and provides a highly flexible model that gives service lines __control__ and __consistency__ over how their business services are hosted.
 
 __Documentation__
 
-- [SharePoint wiki](https://educationgovuk.sharepoint.com/sites/ciog/groupdelivery/Home.aspx)
+At its core, CIP is a set of principles, processes, and technologies that facilitate the development and delivery of cloud computing, cloud applications, and cloud services.
+
+- [Platform documentation](https://docs.platform.education.gov.uk/help/intro.html) (requires access to the CIP platform)
 
 __Support__
 
+- Raise an [onboarding request](https://dfe.service-now.com/serviceportal?id=sc_cat_item&sys_id=51b0b9c5db1ff7809402e1aa4b96197d&sysparm_category=19d07bc3dbff17003b929334ca9619bd) via the ServiceNow catalogue
+- Talk to [the team](https://educationgovuk.sharepoint.com/sites/ciog/groupdelivery/Home.aspx)
+
 __Roadmap__
+
+To efficiently and effectively implement a layer of enterprise compliance and control, the DfE must:
+-	Create a holistic Cloud Operating Model, meeting the needs of both the DfE and ESFA platform management and service engineering and delivery teams.
+-	Create tailored principles and processes, ensuring resources offered directly by the Cloud Hosting provider (Microsoft Azure) are consumed and configured in the desired manner.
+-	Define, create, and manage, a selection of services that enable, empower, and protect, delivery teams and the services created by them.
+-	Ensure that services offered to the engineering and delivery teams are fit for purpose, fit for use, isolated from one another, and can be easily discovered and consumed by engineering and delivery teams.
+
+This results in the DfE’s Cloud Infrastructure Platform being understood as “a set of documented principles and processes, underpinning a range of decoupled ‘Platform Services’, that are orchestrated and automated ensuring consistency and quality throughout”.
+
+With this holistic operating model, definition of platform services and appropriate process orchestration, the Cloud Hosting provider (e.g. Azure, AWS, Google Cloud Platform, etc) becomes largely irrelevant, as multiple providers can be considered for use in conjunction with one another, supporting the organisation's operating model and management tool(s).
+
+The operating model, under active development and being matured, results in a Cloud Infrastructure Platform that is consistent, understood, repeatable, flexible, secure, encompassing, and controlled.
 
 __Further guidance__
 
+- [Cloud Infrastructure Platform Services wiki on SharePoint](https://educationgovuk.sharepoint.com/sites/ciog/groupdelivery/Home.aspx)
+
+<a name="dfe-signin"></a>
 ### 3. DfE Sign-in
 DfE Sign-in is the new way for users to access DfE online services and has now replaced Secure Access.
 
