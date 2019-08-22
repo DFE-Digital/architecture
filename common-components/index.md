@@ -75,23 +75,23 @@ __Further guidance__
 <a name="cip"></a>
 ### 2. Cloud Infrastructure Platform
 
-The Cloud Infrastructure Platform (CIP) is Technology Directorate’s Microsoft Azure cloud hosting offer. It’s managed centrally and provides a highly flexible model that gives service lines __control__ and __consistency__ over how their business services are hosted.
-
-__Documentation__
+The Cloud Infrastructure Platform (CIP) is Technology Directorate’s Microsoft Azure cloud hosting offer. It’s managed centrally and provides a highly flexible model that gives service lines _control_ and _consistency_ over how their business services are hosted.
 
 At its core, CIP is a set of principles, processes, and technologies that facilitate the development and delivery of cloud computing, cloud applications, and cloud services.
 
-Read the [platform documentation](https://docs.platform.education.gov.uk/help/intro.html), that covers security, access, operations, monitoring. (Note. you'll need access to the CIP)
+__Documentation__
+
+Read the [platform documentation](https://docs.platform.education.gov.uk/help/intro.html), that covers security, access, operations, monitoring. Note - you may need to request access.
 
 __Support__
 
-CIP has a support team who handle incidents and requests. For each service that is using the platform, a range of support services are provided. All services will get:
+CIP has a support team who handle incidents and requests. For each service using the platform, a range of support services are provided. All services receive:
 1. Policy support
 2. Guidance for security
 3. Guidance on best practice into production
 4. Working hours support
 
-The optional services support services that are requested during the on boarding are:
+Optional support services that can be requested during onboarding are:
 
 1. Support for Azure DevOps for new users
 2. More extensive support for security / firewalls
@@ -99,7 +99,7 @@ The optional services support services that are requested during the o
 
 Read the team's [SharePoint wiki](https://educationgovuk.sharepoint.com/sites/ciog/groupdelivery/Home.aspx) for further information and ways to contact the CIP Engineering team.
 
-You can also raise an [onboarding request](https://dfe.service-now.com/serviceportal?id=sc_cat_item&sys_id=51b0b9c5db1ff7809402e1aa4b96197d&sysparm_category=19d07bc3dbff17003b929334ca9619bd) via the service catalogue.
+You can raise an [onboarding request](https://dfe.service-now.com/serviceportal?id=sc_cat_item&sys_id=51b0b9c5db1ff7809402e1aa4b96197d&sysparm_category=19d07bc3dbff17003b929334ca9619bd) via the service catalogue.
 
 __Roadmap__
 
@@ -109,7 +109,7 @@ To efficiently and effectively implement a layer of enterprise compliance and co
 -	Define, create, and manage, a selection of services that enable, empower, and protect, delivery teams and the services created by them.
 -	Ensure that services offered to the engineering and delivery teams are fit for purpose, fit for use, isolated from one another, and can be easily discovered and consumed by engineering and delivery teams.
 
-This results in the DfE’s Cloud Infrastructure Platform being understood as “a set of documented principles and processes, underpinning a range of decoupled ‘Platform Services’, that are orchestrated and automated ensuring consistency and quality throughout”.
+This results in CIP being understood as “a set of documented principles and processes, underpinning a range of decoupled ‘Platform Services’, that are orchestrated and automated ensuring consistency and quality throughout”.
 
 With this holistic operating model, definition of platform services and appropriate process orchestration, the Cloud Hosting provider (e.g. Azure, AWS, Google Cloud Platform, etc) becomes largely irrelevant, as multiple providers can be considered for use in conjunction with one another, supporting the organisation's operating model and management tool(s).
 
@@ -117,7 +117,7 @@ The operating model, under active development and being matured, results in a Cl
 
 __Further guidance__
 
-- [Cloud Infrastructure Platform Services wiki on SharePoint](https://educationgovuk.sharepoint.com/sites/ciog/groupdelivery/Home.aspx)
+- Read the [Cloud Infrastructure and Platform Services wiki](https://educationgovuk.sharepoint.com/sites/ciog/groupdelivery/Home.aspx) on SharePoint
 
 <a name="dfe-signin"></a>
 ### 3. DfE Sign-in
@@ -155,7 +155,7 @@ __Roadmap__
 __Further guidance__
 
 <a name="edap"></a>
-### 5. Enterprise Data and Analytics Platform (EDAP)
+### 5. Enterprise Data and Analytics Platform
 
 [description]
 
