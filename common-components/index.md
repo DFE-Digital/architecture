@@ -42,7 +42,7 @@ Information & data | SharePoint | Harj Bilan | Live
 | Data collection | Harj Bilan | Live
 | Postcode lookup | Harj Bilan | Discovery
 | Geospatial / maps | Harj Bilan | Discovery
-Applications | [Shared Customer Relationship Management (CRM) platform](#crm) | Saghir Akbar | Beta
+Applications | [Enterprise CRM Services](#crm) | Saghir Akbar | Beta
 | 360 customer view | Saghir Akbar | Alpha
 | Marketing Automation platform | tbc | Discovery
 | Robotic Process Automation (RPA) platform | tbc | Alpha
@@ -54,13 +54,21 @@ _(Note. Content is in development for the following sections)_
 <a name="euc"></a>
 ### 1. End User Compute
 
-[description]
+Providing your devices, productivity and collaboration tools, including laptops and tablets, smart phones, telephony, Office 365, Skype for Business and other software, plus facilities to print, fax and scan.
 
 __Documentation__
 
+- Search through and read articles on the [service portal](https://dfe.service-now.com/serviceportal)
+
 __Support__
 
+- Talk to the Product Owners, contact details on the [Technology Directorate service offer](https://educationgovuk.sharepoint.com/sites/ciog/SitePages/Technology-Directorate-Services.aspx) pages
+- All incidents and request should be raised via the [service portal](https://dfe.service-now.com/serviceportal)
+
 __Roadmap__
+
+- _Unified comms_
+- _Desktop / productivity_
 
 __Further guidance__
 
@@ -73,12 +81,25 @@ __Documentation__
 
 At its core, CIP is a set of principles, processes, and technologies that facilitate the development and delivery of cloud computing, cloud applications, and cloud services.
 
-- [Platform documentation](https://docs.platform.education.gov.uk/help/intro.html) (requires access to the CIP platform)
+Read the [platform documentation](https://docs.platform.education.gov.uk/help/intro.html), that covers security, access, operations, monitoring. (Note. you'll need access to the CIP)
 
 __Support__
 
-- Raise an [onboarding request](https://dfe.service-now.com/serviceportal?id=sc_cat_item&sys_id=51b0b9c5db1ff7809402e1aa4b96197d&sysparm_category=19d07bc3dbff17003b929334ca9619bd) via the ServiceNow catalogue
-- Talk to [the team](https://educationgovuk.sharepoint.com/sites/ciog/groupdelivery/Home.aspx)
+CIP has a support team who handle incidents and requests. For each service that is using the platform, a range of support services are provided. All services will get:
+1. Policy support
+2. Guidance for security
+3. Guidance on best practice into production
+4. Working hours support
+
+The optional services support services that are requested during the on boarding are:
+
+1. Support for Azure DevOps for new users
+2. More extensive support for security / firewalls
+3. Guidance for Azure engineering
+
+Read the team's [SharePoint wiki](https://educationgovuk.sharepoint.com/sites/ciog/groupdelivery/Home.aspx) for further information and ways to contact the CIP Engineering team.
+
+You can also raise an [onboarding request](https://dfe.service-now.com/serviceportal?id=sc_cat_item&sys_id=51b0b9c5db1ff7809402e1aa4b96197d&sysparm_category=19d07bc3dbff17003b929334ca9619bd) via the service catalogue.
 
 __Roadmap__
 
@@ -92,7 +113,7 @@ This results in the DfE’s Cloud Infrastructure Platform being understood as �
 
 With this holistic operating model, definition of platform services and appropriate process orchestration, the Cloud Hosting provider (e.g. Azure, AWS, Google Cloud Platform, etc) becomes largely irrelevant, as multiple providers can be considered for use in conjunction with one another, supporting the organisation's operating model and management tool(s).
 
-The operating model, under active development and being matured, results in a Cloud Infrastructure Platform that is consistent, understood, repeatable, flexible, secure, encompassing, and controlled.
+The operating model, under active development and being matured, results in a Cloud Infrastructure Platform that is consistent, understood, repeatable, flexible, secure, encompassing and controlled.
 
 __Further guidance__
 
@@ -134,7 +155,7 @@ __Roadmap__
 __Further guidance__
 
 <a name="edap"></a>
-### 5. Enterprise Data and Analytics
+### 5. Enterprise Data and Analytics Platform (EDAP)
 
 [description]
 
@@ -147,7 +168,7 @@ __Roadmap__
 __Further guidance__
 
 <a name="crm"></a>
-### 6. Shared CRM
+### 6. Enterprise CRM Services
 
 [description]
 
