@@ -27,18 +27,18 @@ The adoption of common components can bring significant benefits to DfE and help
 
 ## What's available? ##
 
+We make a distinction between components _used_ to build a service and tools
+to _enable_ the building of services.
+
+### Service components ###
+
 Domain | Component | Owner | Status
 - | - | - | -
-[End User Compute](#euc) | Outlook and Teams | Leanna Green | Live
-| Telephony and Skype | Leanna Green | Live
-| Mobile telephony | Leanna Green | Live
-Hosting | [Cloud Infrastructure Platform (CIP)](#cip) | Saghir Akbar | Live
+Hosting | [Cloud Infrastructure Platform (CIP)](#cip) | Saghir Akbar | Beta
 Security & networks | [DfE Sign-in](#dfe-signin) | Leanna Green | Live
 | Core network | Jon Gilbert | Live
-Service Management | Service desk toolset | Leanna Green | Live
 Integration | [Enterprise API Management (EAPIM)](#eapim) | Saghir Akbar | Beta
-Information & data | SharePoint | Harj Bilan | Live
-| [Enterprise Data and Analytics Platform (EDAP)](#edap) | Harj Bilan | Beta
+Information & data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | Harj Bilan | Beta
 | Data collection | Harj Bilan | Live
 | Postcode lookup | Harj Bilan | Discovery
 | Geospatial / maps | Harj Bilan | Discovery
@@ -47,33 +47,24 @@ Applications | [Enterprise CRM Services](#crm) | Saghir Akbar | Beta
 | Marketing Automation platform | tbc | Discovery
 | Robotic Process Automation (RPA) platform | tbc | Alpha
 
+### Common tooling ###
+
+Domain | Component | Owner | Status
+- | - | - | -
+[End User Compute](#euc) | Outlook and Teams | Leanna Green | Live
+| Telephony and Skype | Leanna Green | Live
+| Mobile telephony | Leanna Green | Live
+Service Management | Service desk toolset | Leanna Green | Live
+Digital | Productivity tools (Slack, Trello, Confluence) | Ashley Stephens | Beta
+Development | Dev tools (Azure DevOps, Github) | Saghir Akbar | Live
+Information & data | SharePoint | Harj Bilan | Live
+
 ## How do we use them? ##
 
 _(Note. Content is in development for the following sections)_
 
-<a name="euc"></a>
-### 1. End User Compute
-
-Providing your devices, productivity and collaboration tools, including laptops and tablets, smart phones, telephony, Office 365, Skype for Business and other software, plus facilities to print, fax and scan.
-
-__Documentation__
-
-- Search through and read articles on the [service portal](https://dfe.service-now.com/serviceportal)
-
-__Support__
-
-- Talk to the Product Owners, contact details on the [Technology Directorate service offer](https://educationgovuk.sharepoint.com/sites/ciog/SitePages/Technology-Directorate-Services.aspx) pages
-- All incidents and request should be raised via the [service portal](https://dfe.service-now.com/serviceportal)
-
-__Roadmap__
-
-- _Unified comms_
-- _Desktop / productivity_
-
-__Further guidance__
-
 <a name="cip"></a>
-### 2. Cloud Infrastructure Platform
+### 1. Cloud Infrastructure Platform
 
 The Cloud Infrastructure Platform (CIP) is Technology Directorate’s Microsoft Azure cloud hosting offer. It’s managed centrally and provides a highly flexible model that gives service lines _control_ and _consistency_ over how their business services are hosted.
 
@@ -119,8 +110,37 @@ __Further guidance__
 
 - Read the [Cloud Infrastructure and Platform Services wiki](https://educationgovuk.sharepoint.com/sites/ciog/groupdelivery/Home.aspx) on SharePoint
 
+
+<a name="eapim"></a>
+### 2. Enterprise API Management
+
+[description]
+
+__Documentation__
+
+__Support__
+
+__Roadmap__
+
+__Further guidance__
+
+
+<a name="edap"></a>
+### 3. Enterprise Data and Analytics Platform
+
+[description]
+
+__Documentation__
+
+__Support__
+
+__Roadmap__
+
+__Further guidance__
+
+
 <a name="dfe-signin"></a>
-### 3. DfE Sign-in
+### 4. DfE Sign-in
 DfE Sign-in is the new way for users to access DfE online services and has now replaced Secure Access.
 
 __Documentation__
@@ -141,34 +161,9 @@ __Further guidance__
 
 - _Who creates / maintains this content (support email)_
 
-<a name="eapim"></a>
-### 4. Enterprise API Management
-
-[description]
-
-__Documentation__
-
-__Support__
-
-__Roadmap__
-
-__Further guidance__
-
-<a name="edap"></a>
-### 5. Enterprise Data and Analytics Platform
-
-[description]
-
-__Documentation__
-
-__Support__
-
-__Roadmap__
-
-__Further guidance__
 
 <a name="crm"></a>
-### 6. Enterprise CRM Services
+### 5. Enterprise CRM Services
 
 [description]
 
@@ -177,6 +172,28 @@ __Documentation__
 __Support__
 
 __Roadmap__
+
+__Further guidance__
+
+
+<a name="euc"></a>
+### 6. End User Compute
+
+Providing your devices, productivity and collaboration tools, including laptops and tablets, smart phones, telephony, Office 365, Skype for Business and other software, plus facilities to print, fax and scan.
+
+__Documentation__
+
+- Search through and read articles on the [service portal](https://dfe.service-now.com/serviceportal)
+
+__Support__
+
+- Talk to the Product Owners, contact details on the [Technology Directorate service offer](https://educationgovuk.sharepoint.com/sites/ciog/SitePages/Technology-Directorate-Services.aspx) pages
+- All incidents and request should be raised via the [service portal](https://dfe.service-now.com/serviceportal)
+
+__Roadmap__
+
+- _Unified comms_
+- _Desktop / productivity_
 
 __Further guidance__
 
