@@ -66,29 +66,31 @@ _(Note. Content is in development for the following sections)_
 <a name="cip"></a>
 ### 1. Cloud Infrastructure Platform
 
-The Cloud Infrastructure Platform (CIP) is Technology Directorate’s Microsoft Azure cloud hosting offer. It’s managed centrally and provides a highly flexible model that gives service lines _control_ and _consistency_ over how their business services are hosted.
+The Cloud Infrastructure Platform (CIP) is the department's Microsoft Azure cloud hosting offer. It’s managed centrally and provides a highly flexible model that gives service lines _control_ and _consistency_ over how their business services are hosted.
 
-At its core, CIP is a set of principles, processes, and technologies that facilitate the development and delivery of cloud computing, cloud applications, and cloud services.
+At its core, CIP is a set of principles, processes, and technologies that facilitate the development and delivery of cloud computing, cloud applications and cloud services.
+
+It's extended features include [Enterprise API Management](#eapim).
 
 __Documentation__
 
-Read the [platform documentation](https://docs.platform.education.gov.uk/help/intro.html), that covers security, access, operations, monitoring. Note - you may need to request access.
+Read the [platform documentation](https://docs.platform.education.gov.uk/help/intro.html) that covers security, access, operations and monitoring. Note - you may need to request CIP access.
 
 __Support__
 
 CIP has a support team who handle incidents and requests. For each service using the platform, a range of support services are provided. All services receive:
-1. Policy support
-2. Guidance for security
-3. Guidance on best practice into production
-4. Working hours support
+1. Policy support
+2. Guidance for security
+3. Guidance on best practice into production
+4. Working hours support
 
 Optional support services that can be requested during onboarding are:
 
-1. Support for Azure DevOps for new users
-2. More extensive support for security / firewalls
-3. Guidance for Azure engineering
+1. Support for Azure DevOps for new users
+2. More extensive support for security / firewalls
+3. Guidance for Azure engineering
 
-Read the team's [SharePoint wiki](https://educationgovuk.sharepoint.com/sites/ciog/groupdelivery/Home.aspx) for further information and ways to contact the CIP Engineering team.
+Read the team's [wiki](https://educationgovuk.sharepoint.com/sites/ciog/groupdelivery/Home.aspx) for further information and ways to contact the CIP Engineering team.
 
 You can raise an [onboarding request](https://dfe.service-now.com/serviceportal?id=sc_cat_item&sys_id=51b0b9c5db1ff7809402e1aa4b96197d&sysparm_category=19d07bc3dbff17003b929334ca9619bd) via the service catalogue.
 
@@ -108,7 +110,12 @@ The operating model, under active development and being matured, results in a Cl
 
 __Further guidance__
 
-- Read the [Cloud Infrastructure and Platform Services wiki](https://educationgovuk.sharepoint.com/sites/ciog/groupdelivery/Home.aspx) on SharePoint
+Read the [Cloud Infrastructure and Platform Services wiki](https://educationgovuk.sharepoint.com/sites/ciog/groupdelivery/Home.aspx) or contact one of the team:
+- CIP Product Owner / Head of Infrastructure - [Huw Evans](https://eur.delve.office.com/?u=9d286650-5ffc-4c99-bada-31bcb22cbc10&v=work)
+- Cloud Engineering lead - [Ritesh Patel](https://eur.delve.office.com/?u=f090a9e5-0260-483c-97e2-8b51439ccc92&v=work)
+- Head of DevOps - [Jeffery Odiase](https://eur.delve.office.com/?u=a206fb4f-4f84-4717-b250-16d2577faeaf&v=work)
+- Platform support lead - [Paul Cripwell](https://eur.delve.office.com/?u=11bcb046-7de9-4dd9-858d-7997129df02d&v=work)
+
 
 
 <a name="eapim"></a>
