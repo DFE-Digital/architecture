@@ -141,25 +141,42 @@ __Further guidance__
 
 <a name="dfe-signin"></a>
 ### 4. DfE Sign-in
-DfE Sign-in is the new way for users to access DfE online services and has now replaced Secure Access.
+DfE Sign-in is the department’s strategic Identity and Access Management (IdAM) solution. DfE Sign-in already provides IdAM for services migrated from Secure Access and a number of other services that have on-boarded during 2019. All new services should use DfE Sign-in.
+
+DfE Sign-in is an OpenID Connect Identity provider (with support for SAMLp). It is designed to serve as a delegated authority for identity management, harnessing the global experience for all users. The net result is that Service Owners don't need to build identity solutions into their services and service users don't need to maintain many sets of credentials.
+
+Because DfE Sign-in is a standards-based identity provider, integration is simple. Many technologies and frameworks have stable integration components and examples.
 
 __Documentation__
 
-- _Links to tech docs, onboarding info_
+Please read our getting started guide.
+
+You may also find the following links to code repositories for services that use DfE Sign-in and some example integrations that we have built:
+- [Teachers Payment Service](https://github.com/DFE-Digital/dfe-teachers-payment-service) (Ruby on Rails)
+-	[Course Directory](https://github.com/SkillsFundingAgency/dfc-coursedirectory) (.NET Core)
+-	[Other integration examples](https://github.com/dfe-digital/?utf8=%E2%9C%93&q=example)
 
 __Support__
 
-- _Questions regarding adoption and use_
-- _Where to go if there's a problem_
+Support for DfE Sign-in is available through our [help pages](https://help.signin.education.gov.uk/contact). These pages contain useful information for users and approvers on how to use DfE Sign-in. If a user is still having problems, they can submit a support request too.
+
+DfE Sign-in support requests are managed via a dedicated DfE Sign-in service desk where we can monitor and track support requests. That enables us to collect information to help improve the service, highlight any potential service issues and regularly update the help pages to further support our users.
+
+Please direct your users through this support route. If there is anything you would like to discuss or be taken through common issues or regular queries, please contact the Product Manager.
 
 __Roadmap__
 
-- _Who's already using this component - see ['Services accessed using DfE Sign-in'](https://services.signin.education.gov.uk/)_
-- _What's being onboarded_
+You can see [who’s already using DfE Sign-in](https://services.signin.education.gov.uk/). Any staff, provider and citizen services that currently use the Pirean Access: One product will migrate across to DfE Sign-in by July 2020.
+
+A full roadmap of services to be onboarded can be seen below:
+
+<img src="../images/dfesignin-roadmap.png" alt="Image of the DfE Sign-in roadmap" /><vr/>
 
 __Further guidance__
+-	Product Manager: Ravi Jassal
+-	Delivery Manager: James Cheetham
+-	Product Owner: Jane Ludlow
 
-- _Who creates / maintains this content (support email)_
 
 
 <a name="crm"></a>
