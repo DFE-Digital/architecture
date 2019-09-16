@@ -156,9 +156,11 @@ Because DfE Sign-in is a standards-based identity provider, integration is simpl
 
 __Documentation__
 
-Please read our getting started guide.
+Our service is available at [https://services.signin.education.gov.uk](https://services.signin.education.gov.uk/)
 
-You may also find the following links to code repositories for services that use DfE Sign-in and some example integrations that we have built:
+Please read our [getting started](#) guide.
+
+You may also find the following code repositories for services that use DfE Sign-in useful, along with some example integrations that we have built:
 - [Teachers Payment Service](https://github.com/DFE-Digital/dfe-teachers-payment-service) (Ruby on Rails)
 -	[Course Directory](https://github.com/SkillsFundingAgency/dfc-coursedirectory) (.NET Core)
 -	[Other integration examples](https://github.com/dfe-digital/?utf8=%E2%9C%93&q=example)
@@ -180,9 +182,9 @@ A full roadmap of services to be onboarded can be seen below:
 <img src="../images/dfesignin-roadmap.png" alt="Image of the DfE Sign-in roadmap" /><vr/>
 
 __Further guidance__
--	Product Manager: Ravi Jassal
--	Delivery Manager: James Cheetham
--	Product Owner: Jane Ludlow
+-	Product Manager - [Ravi Jassal](https://eur.delve.office.com/?u=ec77c25a-0307-40cc-9e6b-4e1d05eda0fc&v=work)
+-	Delivery Manager - [James Cheetham](https://eur.delve.office.com/?u=05f12707-cf64-4928-a6da-d5b4d96c5870&v=work)
+-	Product Owner - [Jane Ludlow](https://eur.delve.office.com/?u=29a68eae-0685-4e19-af80-e51da80951ae&v=work)
 
 
 
