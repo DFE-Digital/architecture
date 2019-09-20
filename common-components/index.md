@@ -17,6 +17,7 @@ Common components can be of any size but they all share the same characteristics
 3. They are mapped to a specific business or technical capability/service. This enables easy search and prevents duplication.
 4. They are treated as an asset and therefore require asset lifecycle management – support wrap, continuous improvement, enhancement or replacement.
 5. They are standalone but interoperable with other common components, such that change to one does not cause a ripple effect change to others.
+6. test
 
 ## Why should we use them? ##
 
