@@ -43,11 +43,37 @@ We also have an architecture practice manager and some functional support, to ke
 ### Learning and development
 *Offer, recommended learning, shadowing / mentoring, how to access*
 ### Community
-*Events, peer review*
+
+There is a thriving architecture community in DfE. We meet up monthly, to show & tell good things that are happening in the architecture space and hear from wider Government, private sector, relevant suppliers and vendors on new, innovative solutions. And just chew the fat and share knowledge. You don't have to be an architect to join in - we often hear from other business areas and those interested in what we're doing. If you want to get involved or have something to share, drop us a line in the [Architecture team](mailto:architecture.governance@education.gov.uk).
+
+The conversation continues on the following channels:
+
+- [Architecture Community on Teams](https://teams.microsoft.com/l/team/19%3a431430007aba4eceaddb4a0ab32dc412%40thread.skype/conversations?groupId=a7bd5aaa-9b44-4594-b058-4ac717af83d9&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9)
+- [#architecture](https://app.slack.com/client/T50RK42V7/CFGA9DZSL) channel on [DfE Slack](https://ukgovernmentdfe.slack.com)
+- [#architecture](https://app.slack.com/client/T04V6EBTR/C04V6F4SX) channel on [UK Government Slack](https://ukgovernmentdigital.slack.com)
+
 ### Repositories
-Review our [repositories](../repositories) for useful artefacts, standards, patterns and designs.
+Review our current repositories for useful artefacts, standards, patterns and designs:
+
+- [DfE SharePoint repo](https://educationgovuk.sharepoint.com/sites/gp/WorkplaceDocuments)
+- [ESFA SharePoint repo](https://educationgovuk.sharepoint.com/sites/ops-cto/strategyandarchitecture)
+- [DfE Digital Confluence](https://dfedigital.atlassian.net)
+- [ESFA Confluence](https://skillsfundingagency.atlassian.net)
+
+We're working on building a DfE Design System (like [Ministry of Justice](https://moj-design-system.herokuapp.com/)) to surface common components and patterns in use across DfE and its ALBs.
+
+In the meantime, have a look at our prototype [Common Components guidance](../common-components).
+
 ### Managed services
-*Architecture service contracts, how to access them, example job specs, RfQs*
+
+The Architecture team have a number of compliant commercial routes to market for architecture services. Architecture Partners work with Service Owners and their delivery teams to assess and suggest appropriate use of these commercial routes, enabling them to:
+- get the right architecture skills, at the right time, at the right price
+- on-board architects into DfE properly, so they understand our ways of working, our common components approach and our governance and assurance framework
+- provide oversight and assurance of their outputs and deliverables
+- link them into the wider DfE architecture profession and community
+- exit them professionally, with appropriate handover and knowledge transfer when their work is complete
+
+If you'd like to know more, contact the contact the [Architecture team](mailto:architecture.governance@education.gov.uk).
 
 ## Pathways into architecture
 *DDaT pathways + DfE - from business analysis, development / DevOps, technnical roles*
