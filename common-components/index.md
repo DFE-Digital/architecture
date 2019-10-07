@@ -179,7 +179,7 @@ You can see [who’s already using DfE Sign-in](https://services.signin.educatio
 
 A full roadmap of services to be onboarded can be seen below:
 
-<img src="../images/dfesignin-roadmap.png" alt="Image of the DfE Sign-in roadmap" /><vr/>
+![Image of the DfE Sign-in roadmap](../images/dfesignin-roadmap.png)
 
 __Further guidance__
 -	Product Manager - [Ravi Jassal](https://eur.delve.office.com/?u=ec77c25a-0307-40cc-9e6b-4e1d05eda0fc&v=work)
