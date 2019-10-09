@@ -151,6 +151,11 @@ __Support__
 The service is supported internally by a central team of specialists within the Cloud Infrastructure and Platform Services team. To report an issue with the service, log a ticket via the [Service Portal](https://dfe.service-now.com/serviceportal); the team are available from 08:00 – 22:00 hrs Monday to Friday, excluding English public holidays.  
 
 __Roadmap__
+DfE customers already using EAPIM or undergoing a transition to adopt the service include:
+-	Finance
+-	Better Financial Reporting Programme
+-	We’ve also recently integrated ServiceNow and Zendesk with the Enterprise CRM to improve data sharing for the Apprenticeships Service Consolidated Support Team (40 users).  
+
 Over the next 18 months, these services are evolving in two key areas:
 - Driving adoption
     - Onboarding more APIs onto the platform
@@ -253,11 +258,15 @@ Read the [Operating Model](https://educationgovuk.sharepoint.com/:w:/r/sites/lve
 __Support__
 The Enterprise CRM is supported internally by a central team within CIPS.  The team uses the ServiceNow toolset to manage the support of this service and follow DfE’s central service management processes.
 
-Contact the service desk to report an issue, the team are available from 08:00 – 22:00 hrs Monday to Friday, excluding English public holidays.  If the service desk is unable to resolve your query, the issue will be passed to a specialist technical team.  
+To report an issue with the service, log a ticket via the [Service Portal](https://dfe.service-now.com/serviceportal); the team are available from 08:00 – 22:00 hrs Monday to Friday, excluding English public holidays.  If the service desk is unable to resolve your query, the issue will be passed to a specialist technical team.  
 
 __Roadmap__
+DfE customers already using the Enterprise CRM or undergoing a transition to adopt the service include: 
+- National Apprenticeship Service (NAS – 267 users) 
+- ESFA Customer Service Team (1076 users)
+
 The Enterprise CRM is tailored to meet unique customer requirements in every new deployment. A range of enhanced solution features are also planned, these include:
-- email
+- Outlook integration
 - Document storage
 - Data analysis
 - Notifications
