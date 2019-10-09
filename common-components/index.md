@@ -118,7 +118,7 @@ Read the [Cloud Infrastructure and Platform Services wiki](https://educationgovu
 ### 2. Enterprise API Management
 Enterprise Integration and API management services make it easier to share data quickly and securely – whether you’re an integration partner, developer, publisher, or data consumer.
 
-##### Enterprise API Management (EAPIM) Platform
+**Enterprise API Management (EAPIM) Platform**
 The EAPIM platform provides a central place to host and discover APIs. It is a secure and fully accredited service that makes it easy to both publish and consume APIs.
 
 EAPIM has been developed using Microsoft Azure’s API gateway, and the solution is deployed within the [CIP hosting platform](#cip) with an expert team supporting the infrastructure.
@@ -140,17 +140,21 @@ Below is an overview of some of the key benefits.
 - By moving APIs to EAPIM, we are reducing the number of duplicate API platforms across the estate
 
 __Integration middleware__
+
 In addition to the API platform, integration middleware services are also available. These services use APIs to improve data sharing between multiple systems.
 
 The middleware technology improves access to siloed data and can deliver it between multiple systems in near real-time. By integrating systems in this way, we get better visibility of data, reduce the need to manually input data into multiple systems, increase efficiency, and reduce the risk of data error.
 
 __Documentation__
+
 Read the [Operating Model](https://educationgovuk.sharepoint.com/sites/lveesfa00073/API%20Management/Forms/AllItems.aspx?id=%2Fsites%2Flveesfa00073%2FAPI%20Management%2FPlatform%20Documentation%2FService%20Operating%20Model%20%28SOM%29%2FCurrent%20Version&viewid=00000000%2D0000%2D0000%2D0000%2D000000000000) for more information about the solution design, security, availability, support and governance. If you need access to this document, please contact Matt Morgan.  
 
 __Support__
+
 The service is supported internally by a central team of specialists within the Cloud Infrastructure and Platform Services team. To report an issue with the service, log a ticket via the [Service Portal](https://dfe.service-now.com/serviceportal); the team are available from 08:00 – 22:00 hrs Monday to Friday, excluding English public holidays.  
 
 __Roadmap__
+
 DfE customers already using EAPIM or undergoing a transition to adopt the service include:
 -	Finance
 -	Better Financial Reporting Programme
@@ -162,7 +166,8 @@ Over the next 18 months, these services are evolving in two key areas:
     - Promoting reuse of integration middleware
 
 __Further guidance__
-Contact [Sarfraz Malik] (https://eur.delve.office.com/?u=8d0b2191-9a02-4a7f-8ad3-9b41ea129354&v=profiledetails) to find out more about this solution.
+
+Contact [Sarfraz Malik](https://eur.delve.office.com/?u=8d0b2191-9a02-4a7f-8ad3-9b41ea129354&v=profiledetails); to find out more about this solution.
 
 <a name="edap"></a>
 ### 3. Enterprise Data and Analytics Platform
@@ -225,6 +230,7 @@ An enterprise-aligned CRM platform built on Microsoft Dynamics 365 that provides
 The platform is **centrally supported** within the Cloud Infrastructure and Platform Services team and offers CRM services to a range of DfE customers. The platform is versatile and scalable, and easy to customise to meet different user needs and requirements.
 
 __Opportunities for teams across DFE__
+
 The Enterprise CRM service is constantly evolving, with new capabilities and functionality being incorporated regularly. Teams across DfE are adopting the Enterprise CRM services to:
 - enhance their current CRM solutions
 - benefit from more integration and data sharing
@@ -253,14 +259,17 @@ Below is an overview of some of the key benefits.
 - Lowered cost of total ownership and economies of scale as multiple business areas contribute to maintenance costs
 
 __Documentation__
+
 Read the [Operating Model](https://educationgovuk.sharepoint.com/:w:/r/sites/lveesfa00073/_layouts/15/Doc.aspx?sourcedoc=%7b5E35BFD1-44C0-478B-81AA-368CAEED4CC3%7d&file=SharedCRM_Service_Operating_Model%20v0.1.docx&action=default&mobileredirect=true&CID=D33D9D75-C993-40C8-AAF5-449A95931FD9&wdLOR=c43C81DA6-1EF4-4B25-B4E7-F798DB011FE5) for more information about the solution design, security, availability, support and governance. If you need access to this document, please contact Matt Morgan.  
 
 __Support__
+
 The Enterprise CRM is supported internally by a central team within CIPS.  The team uses the ServiceNow toolset to manage the support of this service and follow DfE’s central service management processes.
 
 To report an issue with the service, log a ticket via the [Service Portal](https://dfe.service-now.com/serviceportal); the team are available from 08:00 – 22:00 hrs Monday to Friday, excluding English public holidays.  If the service desk is unable to resolve your query, the issue will be passed to a specialist technical team.  
 
 __Roadmap__
+
 DfE customers already using the Enterprise CRM or undergoing a transition to adopt the service include: 
 - National Apprenticeship Service (NAS – 267 users) 
 - ESFA Customer Service Team (1076 users)
@@ -275,6 +284,7 @@ The Enterprise CRM is tailored to meet unique customer requirements in every new
 - Customer relationship insights
 
 __Further guidance__
+
 Contact [David Bowley](https://eur.delve.office.com/?u=2f894eab-9154-4025-9a34-4d6236a07b08&v=profiledetails) to find out more about this solution.
 
 
