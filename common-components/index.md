@@ -116,38 +116,37 @@ Read the [Cloud Infrastructure and Platform Services wiki](https://educationgovu
 
 <a name="eapim"></a>
 ### 2. Enterprise API Management
-Enterprise Integration and API management services make it easier to share data quickly and securely – whether you’re an integration partner, developer, publisher, or data consumer.
+Enterprise integration and API management services make it easier to share data quickly and securely – whether you’re an integration partner, developer, publisher or data consumer.
 
 **Enterprise API Management (EAPIM) Platform**
+
 The EAPIM platform provides a central place to host and discover APIs. It is a secure and fully accredited service that makes it easy to both publish and consume APIs.
 
 EAPIM has been developed using Microsoft Azure’s API gateway, and the solution is deployed within the [CIP hosting platform](#cip) with an expert team supporting the infrastructure.
 
-Below is an overview of some of the key benefits.
+Here are some of the key benefits:
 
-**Making it easier to share data**
-- Developers can securely publish their APIs quickly in one place using the developer portal
-- Data consumers can view all the APIs available and request access to data
-- The service scales quickly in response to changing demand
-
-**Reducing the admin for developer teams**
-- Developers can host their APIs quickly by using automated features to build, test and publish. Features include automated on-boarding, templates, tested global policy controls, and identity and access management
-- Once an APIs is hosted, there’s no need for developers to perform any platform maintenance
-- Security accreditation is already in place
-
-**Cost savings**
-- EAPIM has a flexible subscription model, which means you won’t pay for more hosting space than you use
-- By moving APIs to EAPIM, we are reducing the number of duplicate API platforms across the estate
+- **Making it easier to share data**
+  - Developers can securely publish their APIs quickly in one place using the developer portal
+  - Data consumers can view all the APIs available and request access to data
+  - The service scales quickly in response to changing demand
+- **Reducing the admin for developer teams**
+  - Developers can host their APIs quickly by using automated features to build, test and publish. Features include automated on-boarding, templates, tested global policy controls, and identity and access management
+  - Once an APIs is hosted, there’s no need for developers to perform any platform maintenance
+  - Security accreditation is already in place
+- **Cost savings**
+  - EAPIM has a flexible subscription model, which means you won’t pay for more hosting space than you use
+  - By moving APIs to EAPIM, we are reducing the number of duplicate API platforms across the estate
 
 __Integration middleware__
 
 In addition to the API platform, integration middleware services are also available. These services use APIs to improve data sharing between multiple systems.
 
-The middleware technology improves access to siloed data and can deliver it between multiple systems in near real-time. By integrating systems in this way, we get better visibility of data, reduce the need to manually input data into multiple systems, increase efficiency, and reduce the risk of data error.
+The middleware technology improves access to siloed data and can deliver it between multiple systems in near real-time. By integrating systems in this way, we get better visibility of data, reduce the need to manually input data into multiple systems, increase efficiency and reduce the risk of data error.
 
 __Documentation__
 
-Read the [Operating Model](https://educationgovuk.sharepoint.com/sites/lveesfa00073/API%20Management/Forms/AllItems.aspx?id=%2Fsites%2Flveesfa00073%2FAPI%20Management%2FPlatform%20Documentation%2FService%20Operating%20Model%20%28SOM%29%2FCurrent%20Version&viewid=00000000%2D0000%2D0000%2D0000%2D000000000000) for more information about the solution design, security, availability, support and governance. If you need access to this document, please contact Matt Morgan.  
+Read the [Operating Model](https://educationgovuk.sharepoint.com/sites/lveesfa00073/API%20Management/Forms/AllItems.aspx?id=%2Fsites%2Flveesfa00073%2FAPI%20Management%2FPlatform%20Documentation%2FService%20Operating%20Model%20%28SOM%29%2FCurrent%20Version&viewid=00000000%2D0000%2D0000%2D0000%2D000000000000) for more information about the solution design, security, availability, support and governance. If you need access to this document, please contact [Matt Morgan](https://eur.delve.office.com/?u=2bea9bd4-72ee-4174-850b-f6531174a2c7&v=work).  
 
 __Support__
 
@@ -167,7 +166,7 @@ Over the next 18 months, these services are evolving in two key areas:
 
 __Further guidance__
 
-Contact [Sarfraz Malik](https://eur.delve.office.com/?u=8d0b2191-9a02-4a7f-8ad3-9b41ea129354&v=profiledetails); to find out more about this solution.
+Contact [Sarfraz Malik](https://eur.delve.office.com/?u=8d0b2191-9a02-4a7f-8ad3-9b41ea129354&v=work) to find out more about this solution.
 
 <a name="edap"></a>
 ### 3. Enterprise Data and Analytics Platform
@@ -236,27 +235,24 @@ The Enterprise CRM service is constantly evolving, with new capabilities and fun
 - benefit from more integration and data sharing
 - make significant savings on development and support
 
-Below is an overview of some of the key benefits.
+Here are some of the key benefits:
 
-**Strategic benefits:**
-- Aligns with DfE and wider government strategy
-- The Enterprise CRM strategic roadmap has a host of capability enhancements to increase functional maturity
-- System and development knowledge is retained in-house, enabling quicker and more flexible delivery of future capabilities
-
-**Technical benefits:**
-- Ready to use solution, with no procurement required
-- Over time, there will be increased opportunities to integrate with other DfE systems and improve data sharing
-- There’s no obligation to move from your current platform, the Enterprise CRM services can help enhance and evolve your current solution
-
-**Support benefits:**
-- Specialist in-house engineers delivering 2nd and 3rd line support
-- Operating model integrated with the ServiceNow toolset
-- Flexible and fast-turnaround change management
-- Testing and training for technical and user readiness
-
-**Cost benefits:**
-- Save money by consolidating support models, exiting from expensive external supplier contracts, and sharing central resources
-- Lowered cost of total ownership and economies of scale as multiple business areas contribute to maintenance costs
+- **Strategic**
+  - Aligns with DfE and wider government strategy
+  - The Enterprise CRM strategic roadmap has a host of capability enhancements to increase functional maturity
+  - System and development knowledge is retained in-house, enabling quicker and more flexible delivery of future capabilities
+- **Technical**
+  - Ready to use solution, with no procurement required
+  - Over time, there will be increased opportunities to integrate with other DfE systems and improve data sharing
+  - There’s no obligation to move from your current platform, the Enterprise CRM services can help enhance and evolve your current solution
+- **Support**
+  - Specialist in-house engineers delivering 2nd and 3rd line support
+  - Operating model integrated with the ServiceNow toolset
+  - Flexible and fast-turnaround change management
+  - Testing and training for technical and user readiness
+- **Cost**
+  - Save money by consolidating support models, exiting from expensive external supplier contracts, and sharing central resources
+  - Lowered cost of total ownership and economies of scale as multiple business areas contribute to maintenance costs
 
 __Documentation__
 
