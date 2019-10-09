@@ -150,7 +150,7 @@ Read the [Operating Model](https://educationgovuk.sharepoint.com/sites/lveesfa00
 
 __Support__
 
-The service is supported internally by a central team of specialists within the Cloud Infrastructure and Platform Services team. To report an issue with the service, log a ticket via the [Service Portal](https://dfe.service-now.com/serviceportal); the team are available from 08:00 – 22:00 hrs Monday to Friday, excluding English public holidays.  
+The service is supported internally by a central team of specialists within the Cloud Infrastructure and Platform Services team. To report an issue with the service, log a ticket via the [Service Portal](https://dfe.service-now.com/serviceportal). The team are available from 08:00 – 22:00 hrs Monday to Friday, excluding UK public holidays.  
 
 __Roadmap__
 
@@ -159,10 +159,10 @@ DfE customers already using EAPIM or undergoing a transition to adopt the servic
 -	Better Financial Reporting Programme
 -	We’ve also recently integrated ServiceNow and Zendesk with the Enterprise CRM to improve data sharing for the Apprenticeships Service Consolidated Support Team (40 users).  
 
-Over the next 18 months, these services are evolving in two key areas:
+Over the next 18 months, these services are evolving in following key areas:
 - Driving adoption
-    - Onboarding more APIs onto the platform
-    - Promoting reuse of integration middleware
+- Onboarding more APIs onto the platform
+- Promoting reuse of integration middleware
 
 __Further guidance__
 
@@ -256,18 +256,18 @@ Here are some of the key benefits:
 
 __Documentation__
 
-Read the [Operating Model](https://educationgovuk.sharepoint.com/:w:/r/sites/lveesfa00073/_layouts/15/Doc.aspx?sourcedoc=%7b5E35BFD1-44C0-478B-81AA-368CAEED4CC3%7d&file=SharedCRM_Service_Operating_Model%20v0.1.docx&action=default&mobileredirect=true&CID=D33D9D75-C993-40C8-AAF5-449A95931FD9&wdLOR=c43C81DA6-1EF4-4B25-B4E7-F798DB011FE5) for more information about the solution design, security, availability, support and governance. If you need access to this document, please contact Matt Morgan.  
+Read the [Operating Model](https://educationgovuk.sharepoint.com/:w:/r/sites/lveesfa00073/_layouts/15/Doc.aspx?sourcedoc=%7b5E35BFD1-44C0-478B-81AA-368CAEED4CC3%7d&file=SharedCRM_Service_Operating_Model%20v0.1.docx&action=default&mobileredirect=true&CID=D33D9D75-C993-40C8-AAF5-449A95931FD9&wdLOR=c43C81DA6-1EF4-4B25-B4E7-F798DB011FE5) for more information about the solution design, security, availability, support and governance. If you need access to this document, please contact [Matt Morgan](https://eur.delve.office.com/?u=2bea9bd4-72ee-4174-850b-f6531174a2c7&v=work).  
 
 __Support__
 
 The Enterprise CRM is supported internally by a central team within CIPS.  The team uses the ServiceNow toolset to manage the support of this service and follow DfE’s central service management processes.
 
-To report an issue with the service, log a ticket via the [Service Portal](https://dfe.service-now.com/serviceportal); the team are available from 08:00 – 22:00 hrs Monday to Friday, excluding English public holidays.  If the service desk is unable to resolve your query, the issue will be passed to a specialist technical team.  
+To report an issue with the service, log a ticket via the [Service Portal](https://dfe.service-now.com/serviceportal). The team are available from 08:00 – 22:00 hrs Monday to Friday, excluding UK public holidays. If the service desk is unable to resolve your query, the issue will be passed to a specialist technical team.  
 
 __Roadmap__
 
 DfE customers already using the Enterprise CRM or undergoing a transition to adopt the service include: 
-- National Apprenticeship Service (NAS – 267 users) 
+- National Apprenticeship Service (267 users) 
 - ESFA Customer Service Team (1076 users)
 
 The Enterprise CRM is tailored to meet unique customer requirements in every new deployment. A range of enhanced solution features are also planned, these include:
