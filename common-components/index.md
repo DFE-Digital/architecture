@@ -39,7 +39,6 @@ Security & networks | [DfE Sign-in](#dfe-signin) | Leanna Green | Live
 | Core network | Jon Gilbert | Live
 Integration | [Enterprise API Management (EAPIM)](#eapim) | Saghir Akbar | Beta
 Information & data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | Harj Bilan | Beta
-| Data collection | Harj Bilan | Live
 | Postcode lookup | Harj Bilan | Discovery
 | Geospatial / maps | Harj Bilan | Discovery
 Applications | [Enterprise CRM](#crm) | Saghir Akbar | Beta
@@ -171,15 +170,65 @@ Contact [Sarfraz Malik](https://eur.delve.office.com/?u=8d0b2191-9a02-4a7f-8ad3-
 <a name="edap"></a>
 ### 3. Enterprise Data and Analytics Platform
 
-[description]
+The Enterprise Data and Analytics Platform (EDAP) provides the DfE with a strategic and consolidated data management capability. It is an Azure hosted solution fronted by a remote desktop (RD) farm with a range of installed software, including many analytical tools. The Department’s analysts, researchers and data scientists use these tools to analyse data from various data sources. SQL server and a file server complete the platform make-up.
+
+![Image of the Enterprise Data and Analytics Platform](../images/edap-overview.png)
 
 __Documentation__
 
+The EDAP support team’s [SharePoint site](https://educationgovuk.sharepoint.com/sites/lvedfe00120/EDAP Wiki/EDAP Home.aspx) has content supporting the customers and both technical and process content supporting the EDAP support team.
+
 __Support__
+
+There is a specialist in-house technical team providing 2nd and 3rd line support from 09:00 to 17:00 Monday-Friday, excluding UK Bank Holidays. EDAP processes are aligned with DfE standard Service Management processes utilising ServiceNow via the [Service Portal](https://dfe.service-now.com/serviceportal?id=home) for both Incident Management, Access Management, Request Fulfilment etc.
+
+The majority of the Service Requests fulfilled by the team can be categorised under:
+
+•	New / Remove Access to the EDAP platform
+•	Change permissions to databases and / or file shares available on the platform
+•	New working environment – creating new database(s) and file share(s)
+•	Data support / ETL requests – providing administration and specialist support
+•	General SQL / tooling guidance and advice
+
+The day-to-day working practices of the team ensures that Information Asset Owners and Managers are able to fulfil their obligations under the [Information Asset Ownership and Registration Policy](https://educationgovuk.sharepoint.com/how-do-i/information-management/kim/Pages/managing-information-assets.aspx)
 
 __Roadmap__
 
+Customers from across DfE already utilising EDAP include:
+
+- Capital Directorate
+- DfE Operations
+- FE Data and statistics
+- Graduate Outcomes and Skills Analysis
+- HE Modelling
+- HE Social Research
+- HE Statistics Unit
+- Learner Data Strategy
+- NPD Modernisation
+- Skills Policy Analysis
+- SPA Data Modelling
+- Student Finance Modelling
+
+Alongside on-boarding new customers and data over the coming months the EDAP support team are looking to:
+
+- Enhance and further automate operational reporting
+- Embed a Continuous Improvement approach
+- Work even more closely with the DfE Service Management teams, looking for further opportunities to streamline and automate processes
+
 __Further guidance__
+
+Resources for the user community:
+
+- [Raise a Support Request](https://educationgovuk.sharepoint.com/sites/lvedfe00120/EDAP Wiki/Raise a Support Request.aspx) – further guidance for the EDAP community and templates
+- [EDAP User Guides](https://educationgovuk.sharepoint.com/sites/lvedfe00120/EDAP Wiki/EDAP User Guides.aspx) – from the names of the servers and URLs to step by step instructions of how to log on
+- [Frequently Asked Questions](https://educationgovuk.sharepoint.com/sites/lvedfe00120/EDAP Wiki/Frequently Asked Questions.aspx)
+- [Information Asset Registration](https://educationgovuk.sharepoint.com/sites/lvedfe00120/EDAP Wiki/Information Asset Registration.aspx)
+- [Training Resources](https://educationgovuk.sharepoint.com/sites/lvedfe00120/EDAP Wiki/Training Resources.aspx)
+- Link to the [RD farm](https://rds.ad.hq.dept/RDweb)
+
+Team Mailbox: [edap.support@education.gov.uk](mailto:edap.support@education.gov.uk)
+
+Platform Support Manager: [Chris Collins](https://eur.delve.office.com/?u=2fd29a66-b45f-4d1d-ac69-cd73a9e9e276&v=work) 
 
 
 <a name="dfe-signin"></a>
