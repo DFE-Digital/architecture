@@ -51,4 +51,4 @@ when building digital services.
 
 ## Capability
 
-- [Architecture Capability Framework](capability/)
+- [Architecture Capability Framework](capability/architecture-capability-framework.md)
