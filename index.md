@@ -44,12 +44,10 @@ when building digital services.
 
 ## Repositories
 
-{% assign repository_groups = site.pages
-  | where: "repository", true %}
-
-{% for repository in repository_groups %}
-- [{{ repository.title }}]({{ repository.url | relative_url }})
-{% endfor %}
+- [DfE SharePoint repo](https://educationgovuk.sharepoint.com/sites/gp/WorkplaceDocuments)
+- [ESFA SharePoint repo](https://educationgovuk.sharepoint.com/sites/ops-cto/strategyandarchitecture)
+- [DfE Digital Confluence](https://dfedigital.atlassian.net)
+- [ESFA Confluence](https://skillsfundingagency.atlassian.net)
 
 ## Capability
 
