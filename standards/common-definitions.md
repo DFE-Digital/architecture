@@ -136,7 +136,7 @@ Common Components can be of any size but they all share the same characteristics
 In a mature organisation, common components allow us to build services and products more quickly. Reusing common elements from other services, such as ‘log in’, rather than recreating it multiple times, in multiple ways.
 Some examples of common components in DfE are the Cloud Infrastructure Platform (CIP), DfE Sign-in for identity and access management and the Enterprise API Management platform (EAPIM).
 
-Read more on the [common components guidance](../common-components).
+Read more on the [common components guidance](../../common-components).
 
 <a name="platform"></a>
 **Platform**
