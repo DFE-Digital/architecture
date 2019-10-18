@@ -5,9 +5,10 @@ expires: 2020-01-01
 
 # Architecture Capability Framework
 
+(Note - this page is being drafted)
+
 ## Purpose
-This framework provides an outline of the roles, skills, experience and tools that architects
-working within DfE have or would like to build.
+This framework provides an outline of the roles, skills and experience that architects working within DfE have or would like to build.
 
 It describes the pathways into architecture and
 how to develop an architecture career. It should help also people interacting with
@@ -29,7 +30,9 @@ We broadly align our roles with the Technical Architect levels in the GDS DDaT C
   * SEO Solution Architect = [Technical Architect](https://www.gov.uk/government/publications/technical-architect-skills-they-need/technical-architect-skills-they-need)
   * HEO Associate Architect = [Associate Architect](https://www.gov.uk/government/publications/associate-technical-architect-skills-they-need/associate-technical-architect-skills-they-need)
 
-*Skills & mastery (how DfE use and adapts), read across with DDaT Tech Arch skill levels*
+We use the skills, levels and mastery from the Technical Architect roles and adapt them for our Enterprise and Solution Architect roles.
+
+*[Add read across with DDaT Tech Arch skill levels]*
 
 In the team, we also have [Data Architects](https://www.gov.uk/government/publications/data-architect-role-description/data-architect-role-description)
 and [Specialist Technical Architects](https://www.gov.uk/government/publications/technical-specialist-architect-role-description/technical-specialist-architect-role-description),
@@ -39,12 +42,12 @@ We also have an architecture practice manager and some functional support, to ke
 
 ## Things to help you
 ### Objectives
-*Standard deliverables, expectations*
+*[Add standard deliverables, expectations]*
 ### Learning and development
-*Offer, recommended learning, shadowing / mentoring, how to access*
+*[Add offer, recommended learning, shadowing / mentoring, how to access]*
 ### Community
 
-There is a thriving architecture community in DfE. We meet up monthly, to show & tell good things that are happening in the architecture space and hear from wider Government, private sector, relevant suppliers and vendors on new, innovative solutions. And just chew the fat and share knowledge. You don't have to be an architect to join in - we often hear from other business areas and those interested in what we're doing. If you want to get involved or have something to share, drop us a line in the [Architecture team](mailto:architecture.governance@education.gov.uk).
+There is a thriving architecture community in DfE. We meet up monthly, to Show and Tell good things that are happening in the architecture space and hear from wider Government, private sector, relevant suppliers and vendors on new, innovative solutions. And just chew the fat and share knowledge. You don't have to be an architect to join in - we often hear from other business areas and those interested in what we're doing. If you want to get involved or have something to share, drop us a line in the [Architecture team](mailto:architecture.governance@education.gov.uk).
 
 The conversation continues on the following channels:
 
@@ -76,9 +79,11 @@ The Architecture team have a number of compliant commercial routes to market for
 If you'd like to know more, contact the contact the [Architecture team](mailto:architecture.governance@education.gov.uk).
 
 ## Pathways into architecture
-*DDaT pathways + DfE - from business analysis, development / DevOps, technnical roles*
+[![Image of the pathways into architecture](../images/framework-pathways.jpg)]((../images/framework-pathways.jpg)
+
+*[Add detail on DDaT pathways + DfE - from business analysis, development / DevOps, technnical roles]*
 
 ## Profiles
-*Case studies for Enterprise / Solution Architect*
+*[Add case studies for Enterprise / Solution / Technical Architect]*
 
 For more information, contact the [Architecture team](mailto:architecture.governance@education.gov.uk)
