@@ -79,7 +79,7 @@ The Architecture team have a number of compliant commercial routes to market for
 If you'd like to know more, contact the contact the [Architecture team](mailto:architecture.governance@education.gov.uk).
 
 ## Pathways into architecture
-[![Image of the pathways into architecture](../images/framework-pathways.jpg)]((../images/framework-pathways.jpg)
+![Image of the pathways into architecture](../images/framework-pathways.jpg)
 
 *[Add detail on DDaT pathways + DfE - from business analysis, development / DevOps, technnical roles]*
 

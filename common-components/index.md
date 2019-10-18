@@ -50,7 +50,7 @@ Applications | [Enterprise CRM](#crm) | Saghir Akbar | Beta
 
 Domain | Component | Owner | Status
 - | - | - | -
-[End User Compute](#euc) | Outlook and Teams | Leanna Green | Live
+End User Compute | Outlook and Teams | Leanna Green | Live
 | Telephony and Skype | Leanna Green | Live
 | Mobile telephony | Leanna Green | Live
 Service Management | Service desk toolset | Leanna Green | Live
@@ -228,7 +228,7 @@ Resources for the user community:
 
 Team Mailbox: [edap.support@education.gov.uk](mailto:edap.support@education.gov.uk)
 
-Platform Support Manager: [Chris Collins](https://eur.delve.office.com/?u=2fd29a66-b45f-4d1d-ac69-cd73a9e9e276&v=work) 
+Platform Support Manager: [Chris Collins](https://eur.delve.office.com/?u=2fd29a66-b45f-4d1d-ac69-cd73a9e9e276&v=work)
 
 
 <a name="dfe-signin"></a>
@@ -331,28 +331,6 @@ The Enterprise CRM is tailored to meet unique customer requirements in every new
 __Further guidance__
 
 Contact [David Bowley](https://eur.delve.office.com/?u=2f894eab-9154-4025-9a34-4d6236a07b08&v=profiledetails) to find out more about this solution.
-
-
-<a name="euc"></a>
-### 6. End User Compute
-
-Providing your devices, productivity and collaboration tools, including laptops and tablets, smart phones, telephony, Office 365, Skype for Business and other software, plus facilities to print, fax and scan.
-
-__Documentation__
-
-- Search through and read articles on the [service portal](https://dfe.service-now.com/serviceportal)
-
-__Support__
-
-- Talk to the Product Owners, contact details on the [Technology Directorate service offer](https://educationgovuk.sharepoint.com/sites/ciog/SitePages/Technology-Directorate-Services.aspx) pages
-- All incidents and request should be raised via the [service portal](https://dfe.service-now.com/serviceportal)
-
-__Roadmap__
-
-- _Unified comms_
-- _Desktop / productivity_
-
-__Further guidance__
 
 
 ## Further guidance on common components ##
