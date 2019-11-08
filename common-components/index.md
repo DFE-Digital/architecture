@@ -68,9 +68,12 @@ The Cloud Infrastructure Platform (CIP) is the department's Microsoft Azure clou
 
 At its core, CIP is a set of principles, processes, and technologies that facilitate the development and delivery of cloud computing, cloud applications and cloud services. The CIP platform is designed using a ‘loose coupling’ approach, which enables services to be hosted independently from each other. This means changes can be made without affecting other components, which supports our highly agile working environment.  
 
-Below is an overview of some of the key benefits:
-Consuming a shared hosting service brings many benefits, including improving efficiency and consistency for delivery teams, and reducing implementation times for projects. CIP introduces best practice templates, automation, and customer self-service features, and you can now get access to a secure sandpit environment within just 24hrs.  
+Here are some of the key benefits:
 
+- improving efficiency and consistency for delivery teams
+- reducing implementation times for projects
+- best practice templates, automation and customer self-service features
+- access to a secure sandpit environment within just 24hrs
 
 __Documentation__
 
@@ -96,6 +99,7 @@ Read the team's [wiki](https://educationgovuk.sharepoint.com/sites/ciog/groupdel
 You can raise an [onboarding request](https://dfe.service-now.com/serviceportal?id=sc_cat_item&sys_id=51b0b9c5db1ff7809402e1aa4b96197d&sysparm_category=19d07bc3dbff17003b929334ca9619bd) via the service catalogue.
 
 __Roadmap__
+
 We’ve moved into the continual improvement phase with ongoing effort to improve our hosting offer, products, services and processes. We’re also moving our services away from our legacy cloud platforms on to the Cloud Infrastructure Platform (CIP). Discovery work to migrate to this central strategic platform has begun.
 
 To deliver an enterprise aligned solution to our customer, we will:
@@ -104,7 +108,7 @@ To deliver an enterprise aligned solution to our customer, we will:
 3. Define, create, and manage, a selection of services that enable, empower, and protect, delivery teams and the services created by them.
 4. Ensure that services offered to the engineering and delivery teams are fit for purpose, fit for use, isolated from one another, and can be easily discovered and consumed by engineering and delivery teams.
 
-To help us deliver the above, we’ve joined forces with the Architecture Team to review our cloud strategy. This includes considering how to evolve as a central provider of cloud services, and where hot topics like multi-vendor and containerisation fit with our future thinking.
+To help us deliver the above, we’ve joined forces with the architecture team to review our cloud strategy. This includes considering how to evolve as a central provider of cloud services and where hot topics like 'multi-vendor' and containerisation fit with our future thinking.
 
 __Further guidance__
 
