@@ -66,9 +66,11 @@ _(Note. Content is in development for the following sections)_
 ### 1. Cloud Infrastructure Platform
 The Cloud Infrastructure Platform (CIP) is the department's Microsoft Azure cloud hosting offer. It’s managed centrally and provides a highly flexible model that gives service lines _control_ and _consistency_ over how their business services are hosted.
 
-At its core, CIP is a set of principles, processes, and technologies that facilitate the development and delivery of cloud computing, cloud applications and cloud services.
+At its core, CIP is a set of principles, processes, and technologies that facilitate the development and delivery of cloud computing, cloud applications and cloud services. The CIP platform is designed using a ‘loose coupling’ approach, which enables services to be hosted independently from each other. This means changes can be made without affecting other components, which supports our highly agile working environment.  
 
-It's extended features include [Enterprise API Management](#eapim).
+Below is an overview of some of the key benefits:
+Consuming a shared hosting service brings many benefits, including improving efficiency and consistency for delivery teams, and reducing implementation times for projects. CIP introduces best practice templates, automation, and customer self-service features, and you can now get access to a secure sandpit environment within just 24hrs.  
+
 
 __Documentation__
 
@@ -76,7 +78,7 @@ Read the [platform documentation](https://docs.platform.education.gov.uk/help/in
 
 __Support__
 
-CIP has a support team who handle incidents and requests. For each service using the platform, a range of support services are provided. All services receive:
+CIP has a support team who handle incidents and requests. Our tiered support operating model makes it easy to accommodate different business requirements. For each service using the platform, a range of support services are provided. All services receive:
 1. Policy support
 2. Guidance for security
 3. Guidance on best practice into production
@@ -87,23 +89,22 @@ Optional support services that can be requested during onboarding are:
 2. More extensive support for security / firewalls
 3. Guidance for Azure engineering
 
+We’ve made costing transparent – each service is assigned an ID linked to its Azure account; this makes it simple to track resources being consumed
+
 Read the team's [wiki](https://educationgovuk.sharepoint.com/sites/ciog/groupdelivery/Home.aspx) for further information and ways to contact the CIP Engineering team.
 
 You can raise an [onboarding request](https://dfe.service-now.com/serviceportal?id=sc_cat_item&sys_id=51b0b9c5db1ff7809402e1aa4b96197d&sysparm_category=19d07bc3dbff17003b929334ca9619bd) via the service catalogue.
 
 __Roadmap__
+We’ve moved into the continual improvement phase with ongoing effort to improve our hosting offer, products, services and processes. We’re also moving our services away from our legacy cloud platforms on to the Cloud Infrastructure Platform (CIP). Discovery work to migrate to this central strategic platform has begun.
 
-To efficiently and effectively implement a layer of enterprise compliance and control, the DfE must:
--	Create a holistic Cloud Operating Model, meeting the needs of both the DfE and ESFA platform management and service engineering and delivery teams.
--	Create tailored principles and processes, ensuring resources offered directly by the Cloud Hosting provider (Microsoft Azure) are consumed and configured in the desired manner.
--	Define, create, and manage, a selection of services that enable, empower, and protect, delivery teams and the services created by them.
--	Ensure that services offered to the engineering and delivery teams are fit for purpose, fit for use, isolated from one another, and can be easily discovered and consumed by engineering and delivery teams.
+To deliver an enterprise aligned solution to our customer, we will:
+1. Create a holistic cloud operating model, meeting the needs of both the DfE and ESFA platform management and service engineering and delivery teams.
+2. Create tailored principles and processes, ensuring resources offered directly by the Cloud Hosting provider (Microsoft Azure) are consumed and configured in the desired manner.
+3. Define, create, and manage, a selection of services that enable, empower, and protect, delivery teams and the services created by them.
+4. Ensure that services offered to the engineering and delivery teams are fit for purpose, fit for use, isolated from one another, and can be easily discovered and consumed by engineering and delivery teams.
 
-This results in CIP being understood as “a set of documented principles and processes, underpinning a range of decoupled ‘Platform Services’, that are orchestrated and automated ensuring consistency and quality throughout”.
-
-With this holistic operating model, definition of platform services and appropriate process orchestration, the Cloud Hosting provider (e.g. Azure, AWS, Google Cloud Platform, etc) becomes largely irrelevant, as multiple providers can be considered for use in conjunction with one another, supporting the organisation's operating model and management tool(s).
-
-The operating model, under active development and being matured, results in a Cloud Infrastructure Platform that is consistent, understood, repeatable, flexible, secure, encompassing and controlled.
+To help us deliver the above, we’ve joined forces with the Architecture Team to review our cloud strategy. This includes considering how to evolve as a central provider of cloud services, and where hot topics like multi-vendor and containerisation fit with our future thinking.
 
 __Further guidance__
 
@@ -275,7 +276,7 @@ __Further guidance__
 ### 5. Enterprise CRM
 An enterprise-aligned CRM platform built on Microsoft Dynamics 365 that provides a modern, secure and cost-effective solution for managing customer relationships.  
 
-The platform is **centrally supported** within the Cloud Infrastructure and Platform Services team and offers CRM services to a range of DfE customers. The platform is versatile and scalable, and easy to customise to meet different user needs and requirements.
+The platform is **centrally supported** within the Cloud Infrastructure and Platform Services team and offers CRM services to a range of DfE customers. The platform is versatile and scalable, and can be customised to meet different user needs and requirements.
 
 __Opportunities for teams across DFE__
 
