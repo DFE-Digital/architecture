@@ -44,7 +44,9 @@ The terms we use in the different levels of work may have different meanings or 
 
 We describe a whole service as:
 
-_“everything the user needs to do to achieve a goal, including non-transactional things, such as research and choosing how to achieve their goal; a whole service is also everything government needs to do to achieve an outcome, including delivering and supporting the service”_
+_“everything the user needs to do to achieve a goal. It is the end-to-end journey that helps a user to achieve something - e.g. from thinking a career in teaching to stepping into a classroom as a newly qualified teacher, from start to finish.”_
+
+The whole service is defined from the user’s perspective, rather than from ours.  That's why in government it is standard practice to name services by how a user would think of them or search for them online - eg ‘get a passport’, ‘become a teacher’, ‘learn to drive’ or ‘become an apprentice’.
 
 In DfE, a user could be a student, a parent or guardian, a child, an external training provider, a civil servant - anyone that needs to do something, where they or government has a particular outcome to achieve.
 
