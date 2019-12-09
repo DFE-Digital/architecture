@@ -5,21 +5,21 @@ expires: 2020-01-01
 
 # Enterprise Architecture Principles
 
-(Draft, structure only)
+Principles are general rules and guidelines, intended to be enduring and seldom amended, that inform and support the way in which the DfE fulfils its vision and principles. They reflect a level of consensus across the enterprise and embody the spirit and thinking of the enterprise architecture.
 
-These principles are stated in no particular order, and are *always* open to debate.
-Architecture and design is a trade-off between competing pressures - these principles are
-meant to help you decide which trade-offs are acceptable.
+If a decision is made that does not adhere to the principles an exemption needs to be sought during Logical design review either at the Architecture Review Board or Peer review.
 
-They are guidance, not The Law - there will always be edge cases, but you should
-expect to be challenged if you go your own way. The principles are to guide future
-and current architecture - use your judgement, but in general, follow the principle of
-'reuse, before buy, before build'.
+Number | Principle | Rationale (reason for adoption) | Implication (what are the consequences of conforming to this principle) | GDS service standard (SS) / Technology Code of Practice (TCoP) alignment
+- | - | - | - | -
+1 | Re-use standardised approved services/ components | Duplication of services or components adds cost and complexity. | •	 When re-using components and services, projects are likely to need to assemble several components / services to meet end-to-end requirements and not just look for single solutions.
 
-They seek to inform those seeking to invest in solutions for DfE of the architectural principles
-that have been agreed, which will govern data, technology and applications investments.
+•	 Where no approved service or component exists , any new service or component should be designed to maximise reusability
 
-The DfE Architecture Review Board will review and agree these principles on a 6 monthly basis.
+•	 Services or components should be delivered at the smallest possible granularity to facilitate re-use | TCoP8: Share, reuse and collaborate
+
+SS2: Solve a whole problem for users
+
+SS13: Use and contribute to open standards, common components and patterns
 
 ## Foundation Principles
 These are the foundation principles that guide the way in which DfE investments
@@ -37,7 +37,7 @@ _Implications_ - DDaT will pursue solutions in accordance with real user needs a
 *	Solutions delivered by DDaT projects resulting in new or amended services will demonstrate user-centred outcomes.
 
 ### 2. Heading
-_Statement_ - 
+_Statement_ -
 
 _Rationale_ -  
 
