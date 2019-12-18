@@ -11,9 +11,18 @@ It should be used in conjunction with the
 [DfE Digital Technical Guidance](https://dfe-digital.github.io/technology-guidance),
 when building digital services.
 
+## Service offer
+
+  {% assign service_offer_groups = site.pages}
+    | where: "service offer", true %}
+
+  {% for service offer in service_offer_groups %}
+  - [{{ service_offer.title}}]({{_service offer.url | relative_url_}})
+  {% endfor %}
+
 ## Principles
 
-{% assign principle_groups = site.pages
+{% assign principle_groups = site.pages 
   | where: "principle", true %}
 
 {% for principle in principle_groups %}
@@ -41,6 +50,15 @@ when building digital services.
 ## Common Components ##
 
 - [Common Components](common-components/)
+
+## Governance and design
+
+  { assign governance_and_design_groups = site.pages
+    | where "governance and design", true %}
+
+  {% for governance in governance_and_design_groups}
+  -[{{ governance_and_design.title}}]({{_governance_and_design.url | relative_url}})
+  {% endfor %}
 
 ## Repositories
 
