@@ -56,7 +56,7 @@ when building digital services.
   {% assign governance_groups = site.pages
     | where: "governance and design", true %}
 
-  {% for governance in governance_groups}
+  {% for governance in governance_groups %}
   -[{{ governance.title }}]({{ governance.url | relative_url}})
   {% endfor %}
 
