@@ -16,13 +16,13 @@ when building digital services.
   {% assign service_offer_groups = site.pages}
     | where: "service offer", true %}
 
-  {% for service offer in standard_offer_groups %}
+  {% for service offer in service_offer_groups %}
   - [{{ service_offer.title}}]({{_service offer.url | relative_url_}})
   {% endfor %}
 
 ## Principles
 
-{% assign principle_groups = site.pages
+{% assign principle_groups = site.pages 
   | where: "principle", true %}
 
 {% for principle in principle_groups %}
