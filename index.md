@@ -57,7 +57,7 @@ when building digital services.
     | where: "governance and design", true %}
 
   {% for governance in governance_groups %}
-  -[{{ governance.title }}]({{ governance.url | relative_url}})
+  - [{{ governance.title }}]({{ governance.url | relative_url}})
   {% endfor %}
 
 ## Repositories
