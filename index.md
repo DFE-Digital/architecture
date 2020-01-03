@@ -14,7 +14,7 @@ when building digital services.
 ## Service offer
 
   {% assign service_offer_groups = site.pages}
-    | where: "service offer", true %}
+    | where: "offer", true %}
 
   {% for service_offer in service_offer_groups %}
   - [{{ service_offer.title }}]({{ service_offer.url | relative_url }})
@@ -22,7 +22,7 @@ when building digital services.
 
 ## Principles
 
-{% assign principle_groups = site.pages 
+{% assign principle_groups = site.pages
   | where: "principle", true %}
 
 {% for principle in principle_groups %}
@@ -54,7 +54,7 @@ when building digital services.
 ## Governance and design
 
   {% assign governance_groups = site.pages
-    | where: "governance and design", true %}
+    | where: "governance", true %}
 
   {% for governance in governance_groups %}
   - [{{ governance.title }}]({{ governance.url | relative_url}})
