@@ -14,7 +14,7 @@ when building digital services.
 ## Service offer
 
   {% assign service_offer_groups = site.pages}
-    | where: "offer", true %}
+    | where: "service-offer", true %}
 
   {% for service_offer in service_offer_groups %}
   - [{{ service_offer.title }}]({{ service_offer.url | relative_url }})
