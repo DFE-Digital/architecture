@@ -9,6 +9,36 @@ Principles are general rules and guidelines, intended to be enduring and seldom 
 
 Requirements gathering provide user needs and wants, principles provide the guidance to meet those requirements.
 
+## 1. Re-use standardised approved services and components
+
+__Why?__
+
+Duplication of services or components adds cost and complexity.
+
+__How?__
+- When re-using components and services, projects are likely to need to assemble several components / services to meet end-to-end requirements and not just look for single solutions
+- Where no approved service or component exists, any new service or component should be designed to maximise re-usability
+- Services or components should be delivered at the smallest possible granularity to facilitate re-use
+
+__Relates to__
+
+- TCoP8: Share, reuse and collaborate
+- SS2: Solve a whole problem for users.
+- SS13: Use and contribute to open standards, common components and patterns
+
+## 2. Align technology choices with cross government strategies and services
+
+__Why?__
+
+x
+
+__How?__
+- x
+
+__Relates to__
+
+- x
+
 Number | Principle | Rationale (reason for adoption) | Implication (what are the consequences of conforming to this principle) | GDS service standard (SS) / Technology Code of Practice (TCoP) alignment
 - | - | - | - | -
 1 | Re-use standardised approved services/ components | Duplication of services or components adds cost and complexity. | * When re-using components and services, projects are likely to need to assemble several components / services to meet end-to-end requirements and not just look for single solutions. *	 Where no approved service or component exists , any new service or component should be designed to maximise reusability.	 * Services or components should be delivered at the smallest possible granularity to facilitate re-use | * TCoP8: Share, reuse and collaborate. * SS2: Solve a whole problem for users.* SS13: Use and contribute to open standards, common components and patterns
