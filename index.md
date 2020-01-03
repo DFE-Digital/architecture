@@ -13,7 +13,7 @@ when building digital services.
 
 ## Service offer
 
-  {% assign service_offer_groups = site.pages}
+  {% assign service_offer_groups = site.pages
     | where: "service-offer", true %}
 
   {% for service_offer in service_offer_groups %}
