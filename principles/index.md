@@ -30,20 +30,21 @@ __Relates to__
 
 __Why?__
 
-- Components and services should be aligned with government strategies to increase reusability, minimise cost and improve consistency of user experience across government services. Cross government components include Gov.UK Notify, Gov.UK Verify, Gov.UK Pay etc
+Components and services should be aligned with government strategies to increase reusability, minimise cost and improve consistency of user experience across government services. Cross government components include Gov.UK Notify, Gov.UK Verify, Gov.UK Pay etc
 
 __How?__
-- Projects delivering new products or services should assess alignment with cross government strategies and deliver re-useable components and services which can be used at cross-government level
+
+Projects delivering new products or services should assess alignment with cross government strategies and deliver re-useable components and services which can be used at cross-government level
 
 __Relates to__
 
-- SS3: Provide a joined up experience across all channels
+SS3: Provide a joined up experience across all channels
 
 ## 3. Technology decisions and project choices must be linked to DfE goals and drivers 
 
 __Why?__
 
-- Technology investment should only be made where it demonstrably contributes to DfE goals or drivers
+Technology investment should only be made where it demonstrably contributes to DfE goals or drivers
 
 __How?__
 - All projects should have a business case with measurable business outcomes aligned to DfE Goals and drivers.
@@ -51,7 +52,7 @@ __How?__
 
 __Relates to__
 
-- SS10: Define what success looks like and publish performance data
+SS10: Define what success looks like and publish performance data
 
 ## 4. Total Cost of Ownership must be evaluated 
 
@@ -69,13 +70,13 @@ __How?__
 
 __Relates to__
 
-- SS10: Define what success looks like and publish performance data
+SS10: Define what success looks like and publish performance data
 
 ## 5. Data is a shared asset 
 
 __Why?__
 
-- We are striving to be a data-driven department: Data is the golden thread that supports seamless, user-centric user journeys.  Data enables evidence based decisions to be made, supports management and governance of our business activities, is used to hold us to account for delivery and allows us to assess the effectiveness of our Departmental policies.
+We are striving to be a data-driven department: Data is the golden thread that supports seamless, user-centric user journeys.  Data enables evidence based decisions to be made, supports management and governance of our business activities, is used to hold us to account for delivery and allows us to assess the effectiveness of our Departmental policies.
 
 __How?__
 -  Data must be sharable – solutions should adhere to Departmental Data Standards, working with DfE Data Governance team to extend those standards if necessary.
@@ -84,13 +85,13 @@ __How?__
 
 __Relates to__
 
-- TCoP10: Make better use of data
+TCoP10: Make better use of data
 
 ## 6. Consider buy before build
 
 __Why?__
 
-- Provides for economies of scale, should reduce risk and timescales
+Provides for economies of scale, should reduce risk and timescales
 
 __How?__
 -  Requirements may need to be prioritised or forfeited to avoid bespoke solutions
@@ -99,13 +100,13 @@ __How?__
 
 __Relates to__
 
-- SS11: Choose the right tools and technology
+SS11: Choose the right tools and technology
 
 ## 7. Design for accessibility 
 
 __Why?__
 
-- Provides an equal playing field for all users
+Provides an equal playing field for all users
 
 __How?__
 -  Systems must adhere to current government accessibility regulations
@@ -122,7 +123,7 @@ __Relates to__
 
 __Why?__
 
-- The department’s information assets must be protected to ensure that they are not inadvertently exposed to an unintended audience. 
+The department’s information assets must be protected to ensure that they are not inadvertently exposed to an unintended audience. 
 
 __How?__
 -   Early engagement with the Chief Information Security Officer (CISO) division will ensure that risk assessments are completed and appropriate security controls are designed into solutions before development has begun.
@@ -148,13 +149,13 @@ __How?__
 
 __Relates to__
 
-- TCoP5: Use cloud first
+TCoP5: Use cloud first
 
 ## 10. Design for interoperability 
 
 __Why?__
 
-- Interoperability enables sharing of capabilities and data between systems
+Interoperability enables sharing of capabilities and data between systems
 
 __How?__
 -  Service Oriented and Microservice architectures maximise interoperability and re-use
@@ -163,7 +164,7 @@ __How?__
 
 __Relates to__
 
-- TCoP9: Integrate and adapt technology
+TCoP9: Integrate and adapt technology
 
 ## 11. Open standards must be considered
 
@@ -174,7 +175,8 @@ __Why?__
 - Open standards facilitate interoperability and data exchange among different products or services.
 
 __How?__
-- Where open standards  do not exist, create one or find the best fit with least lock in 
+
+Where open standards  do not exist, create one or find the best fit with least lock in 
 
 __Relates to__
 
@@ -206,13 +208,13 @@ __How?__
 
 __Relates to__
 
-- TCoP9: Integrate and adapt technology
+TCoP9: Integrate and adapt technology
 
 ## 14. Minimise technical debt
 
 __Why?__
 
-- Replacing or superseding a component or service without removing existing components or services increases technical debt
+Replacing or superseding a component or service without removing existing components or services increases technical debt
 
 __How?__
 - Any project delivering a technology component or service designed to supersede or replace an existing component or service must remove the existing service as part of that project
@@ -220,5 +222,5 @@ __How?__
 
 __Relates to__
 
-- SS2. Solve the whole problem for a users
+SS2. Solve the whole problem for a users
 
