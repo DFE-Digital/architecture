@@ -3,94 +3,98 @@ category: Components
 expires: 2020-01-01
 ---
 
-# Common Components
+# Common components
 
-## What are they?
+## What are common components?
 
-Common components are software or technical systems that are created once and reused many times in different services or business contexts. They could be applications, data, integration, a network, security products, hosting or something else. They are __building blocks__, typically mapped to a business or technical capability, which can be used to deliver modular services or systems of a higher order.
+Common components are typically software or technical systems created once and reused many times in different services or business contexts.
 
-__Key characteristics__
+Examples include applications, data, a network, security products and hosting. They are like building blocks, typically mapped to a business or technical capability, which can be used to deliver more complex services or systems.
 
-Common components can be of any size but they all share the same characteristics:
-1. They are designed according to common standards, principles and patterns, with independent quality assurance to ensure the principles and patterns have been applied.
-2. They are designed and developed in a modular, scalable and resilient way to support ease of reuse and reliability.
-3. They are mapped to a specific business or technical capability/service. This enables easy search and prevents duplication.
-4. They are treated as an asset and therefore require asset lifecycle management – support wrap, continuous improvement, enhancement or replacement.
-5. They are standalone but interoperable with other common components, such that change to one does not cause a ripple effect change to others.
+### Key characteristics
 
-## Why should we use them? ##
+Common components can be of any size but they all share the same characteristics. They are:
+- designed according to common standards, principles and patterns, with independent quality assurance
+- designed and developed in a modular, scalable and resilient way to support ease of reuse and reliability
+- mapped to a specific business or technical capability/service. This enables easy search and prevents duplication
+- treated as an asset and therefore require support, continuous improvement, enhancement or replacement
+- standalone but work alongside other common components, so that a change on one component doesn't affect another
 
-The adoption of common components can bring significant benefits to DfE and help people build better services, more quickly. Some of these benefits are:
-- __Speed to market__ – reuse can save time to build, test and deliver services. We should not have to build services from scratch every time.
-- __Reduced costs__ – the more we can reuse, the more we can save through reduced technical diversity or duplication, enabling us to focus our efforts on the differentiating or innovative aspects of the service.
-- __Lower risk__ – building to common standards and through lifecycle management lowers the risk of failure.
+## Why should we use common components?
 
-## What's available? ##
+The adoption of common components can bring significant benefits to the department and help people build better services, more quickly. Some of these benefits are:
+- speed to market – reuse can save time to build, test and deliver services. You should not have to build services from scratch every time
+- efficiency and reduced costs – the more you can reuse, the more you can save through reduced duplication. This will enable you to focus your efforts on the innovative aspects of the service
+- lower risk – building to common standards lowers the risk of failure
 
-We make a distinction between components _used_ to build a service and tools
-to _enable_ the building of services.
+## What components are available?
 
-### Service components ###
+There is a distinction between components used to build a service and tools
+to enable the building of services.
+
+### Service components
 
 Domain | Component | Owner | Status
 - | - | - | -
 Hosting | [Cloud Infrastructure Platform (CIP)](#cip) | Saghir Akbar | Beta
-Security & networks | [DfE Sign-in](#dfe-signin) | Leanna Green | Live
+Security and networks | [DfE Sign-in](#dfe-signin) | Leanna Green | Live
 | Core network | Jon Gilbert | Live
 Integration | [Enterprise API Management (EAPIM)](#eapim) | Saghir Akbar | Beta
-Information & data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | Harj Bilan | Beta
+Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | Harj Bilan | Beta
 | Postcode lookup | Harj Bilan | Discovery
-| Geospatial / maps | Harj Bilan | Discovery
+| Geospatial mapping | Harj Bilan | Discovery
 Applications | [Enterprise CRM](#crm) | Saghir Akbar | Beta
 | 360 customer view | Saghir Akbar | Alpha
 | Marketing Automation platform | tbc | Discovery
 | Robotic Process Automation (RPA) platform | tbc | Alpha
 
-### Common tooling ###
+### Common tooling
 
 Domain | Component | Owner | Status
 - | - | - | -
-End User Compute | Outlook and Teams | Leanna Green | Live
-| Telephony and Skype | Leanna Green | Live
-| Mobile telephony | Leanna Green | Live
-Service Management | Service desk toolset | Leanna Green | Live
+End User Computing | Outlook and Teams | Leanna Green | Live
+| Phones and Skype | Leanna Green | Live
+| Mobile phones | Leanna Green | Live
+Service management | Service desk tools | Leanna Green | Live
 Digital | Productivity tools (Slack, Trello, Confluence) | Ashley Stephens | Beta
-Development | Dev tools (Azure DevOps, Github) | Saghir Akbar | Live
-Information & data | SharePoint | Harj Bilan | Live
+Development | Development tools (Azure DevOps, Github) | Saghir Akbar | Live
+Information and data | SharePoint | Harj Bilan | Live
 
-## How do we use them? ##
-
-_(Note. Content is in development for the following sections)_
+## How do we use components?
 
 <a name="cip"></a>
-### 1. Cloud Infrastructure Platform
-The Cloud Infrastructure Platform (CIP) is the department's Microsoft Azure cloud hosting offer. It’s managed centrally and provides a highly flexible model that gives service lines _control_ and _consistency_ over how their business services are hosted.
+### Cloud Infrastructure Platform
+The Cloud Infrastructure Platform (CIP) is the department's Microsoft Azure cloud hosting offer. It’s managed centrally and provides a highly flexible model that gives services control and consistency over how their business services are hosted.
 
-At its core, CIP is a set of principles, processes, and technologies that facilitate the development and delivery of cloud computing, cloud applications and cloud services. The CIP platform is designed using a ‘loose coupling’ approach, which enables services to be hosted independently from each other. This means changes can be made without affecting other components, which supports our highly agile working environment.  
+CIP is a set of principles, processes and technologies that support the development and delivery of cloud computing, applications and services.
 
-Here are some of the key benefits:
+The CIP platform is designed using a ‘loosely-coupled’ approach, which enables services to be hosted independently from each other. This means changes can be made without affecting other components.  
+
+Key benefits include:
 
 - improving efficiency and consistency for delivery teams
 - reducing implementation times for projects
-- best practice templates, automation and customer self-service features
-- access to a secure sandpit environment within just 24hrs
+- access to best practice templates, automation and customer self-service features
+- quick access to a secure 'sandpit' environment
 
 __Documentation__
 
-Read the [platform documentation](https://docs.platform.education.gov.uk/help/intro.html) that covers security, access, operations and monitoring. Note - you may need to request CIP access.
+Read the [platform documentation](https://docs.platform.education.gov.uk/help/intro.html) that covers security, access, operations and monitoring.
+
+Request CIP access via the [Service Portal](https://dfe.service-now.com/serviceportal?id=sc_cat_item&sys_id=51b0b9c5db1ff7809402e1aa4b96197d&sysparm_category=19d07bc3dbff17003b929334ca9619bd), if you don't already have it.
 
 __Support__
 
 CIP has a support team who handle incidents and requests. Our tiered support operating model makes it easy to accommodate different business requirements. For each service using the platform, a range of support services are provided. All services receive:
-1. Policy support
-2. Guidance for security
-3. Guidance on best practice into production
-4. Working hours support
+- policy support
+- guidance for security
+- guidance on best practice into production
+- working hours support
 
 Optional support services that can be requested during onboarding are:
-1. Support for Azure DevOps for new users
-2. More extensive support for security / firewalls
-3. Guidance for Azure engineering
+- support for Azure DevOps for new users
+- more extensive support for security / firewalls
+- guidance for Azure engineering
 
 We’ve made costing transparent – each service is assigned an ID linked to its Azure account; this makes it simple to track resources being consumed
 
@@ -119,7 +123,7 @@ Read the [Cloud Infrastructure and Platform Services wiki](https://educationgovu
 - Platform support lead - [Paul Cripwell](https://eur.delve.office.com/?u=11bcb046-7de9-4dd9-858d-7997129df02d&v=work)
 
 <a name="eapim"></a>
-### 2. Enterprise API Management
+### Enterprise API Management
 Enterprise integration and API management services make it easier to share data quickly and securely – whether you’re an integration partner, developer, publisher or data consumer.
 
 **Enterprise API Management (EAPIM) Platform**
