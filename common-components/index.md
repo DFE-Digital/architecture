@@ -265,7 +265,11 @@ __Postcode lookup components__
 <a name="mapping"></a>
 ### 5. Geospatial mapping
 
-Geospatial mapping text.
+Geospatial Mapping tooling offers web and application based services that provide detailed information about geographical regions and sites. Satellite imagery, aerial photography, street maps, 360° interactive street views, real-time traffic conditions, and directions with route planning for traveling by foot, car, bicycle and public transportation.
+
+![Image of the DfE Mapping Capabilities](../images/mapping-overview.png)
+
+
 
 <a name="dfe-signin"></a>
 ### 6. DfE Sign-in
