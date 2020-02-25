@@ -41,8 +41,8 @@ Security and networks | [DfE Sign-in](#dfe-signin) | Leanna Green | Live
 | Core network | Jon Gilbert | Live
 Integration | [Enterprise API Management (EAPIM)](#eapim) | Saghir Akbar | Beta
 Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | Harj Bilan | Beta
-| Postcode lookup | Harj Bilan | Discovery
-| Geospatial mapping | Harj Bilan | Discovery
+| [Postcode lookup.](#postcode) | Harj Bilan | Discovery
+| [Geospatial mapping.](#mapping) | Harj Bilan | Discovery
 Applications | [Enterprise CRM](#crm) | Saghir Akbar | Beta
 | 360 customer view | Saghir Akbar | Alpha
 | Marketing Automation platform | tbc | Discovery
@@ -239,6 +239,16 @@ Team Mailbox: [edap.support@education.gov.uk](mailto:edap.support@education.gov.
 
 Platform Support Manager: [Chris Collins](https://eur.delve.office.com/?u=2fd29a66-b45f-4d1d-ac69-cd73a9e9e276&v=work)
 
+<a name="postcode"></a>
+### 3. Postcode lookup
+
+Postcode lookup text.
+
+
+<a name="mapping"></a>
+### 3. Geospatial mapping
+
+Geospatial mapping text.
 
 <a name="dfe-signin"></a>
 ### 4. DfE Sign-in
