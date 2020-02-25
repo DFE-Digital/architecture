@@ -242,7 +242,23 @@ Platform Support Manager: [Chris Collins](https://eur.delve.office.com/?u=2fd29a
 <a name="postcode"></a>
 ### 4. Postcode lookup
 
-Postcode lookup text.
+The Department is helping programs make the right strategic choices for delivering postcode capabilities within their service by defining a set of common tooling.
+
+The postcode tools identified below allow you to search for the address details of locations across the UK. The tools will return results as you type meaning you can choose the correct address as you go. Using postcode tooling can help your service in several ways including:
+	
+- Reducing inaccuracies from manual entry
+- Avoiding the chances of having duplicate data enter your database
+- Improved user experience for data entry and retrival.
+
+__Postcode lookup components__
+
+- Postcodes.io
+- GetAddress.io
+- Loqate
+- Experian QAS
+- Royal Mail
+- ONS postcode directory
+
 ![Image of the DfE Postcode Capabilities](../images/postcode-overview.png)
 
 
