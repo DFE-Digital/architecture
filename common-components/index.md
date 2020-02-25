@@ -242,12 +242,12 @@ Platform Support Manager: [Chris Collins](https://eur.delve.office.com/?u=2fd29a
 <a name="postcode"></a>
 ### 4. Postcode lookup
 
-The Department is helping programs make the right strategic choices for delivering postcode capabilities within their service by defining a set of common tooling.
+The Department is helping programs make the right strategic choices for delivering postcode capabilities within their service by identifying a set of common postcode tools.
 
-The postcode tools identified below allow you to search for the address details of locations across the UK. The tools will return results as you type meaning you can choose the correct address as you go. Using postcode tooling can help your service in several ways including:
+The postcode tools identified below allow service users the functionality to search address details across the UK. The tools can return results as you type meaning you can choose the correct address as you go. Using postcode tools can help your service in several ways including:
 	
-- Reducing inaccuracies from manual entry
-- Avoiding the chances of having duplicate data enter your database
+- Reducing inaccuracies from manual entry.
+- Avoiding the chances of having duplicate data.
 - Improved user experience for data entry and retrival.
 
 __Postcode lookup components__
