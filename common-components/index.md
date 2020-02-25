@@ -243,6 +243,7 @@ Platform Support Manager: [Chris Collins](https://eur.delve.office.com/?u=2fd29a
 ### 4. Postcode lookup
 
 Postcode lookup text.
+![Image of the DfE Postcode Capabilities](../images/postcode-overview.png)
 
 
 <a name="mapping"></a>
