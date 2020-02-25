@@ -41,8 +41,8 @@ Security and networks | [DfE Sign-in](#dfe-signin) | Leanna Green | Live
 | Core network | Jon Gilbert | Live
 Integration | [Enterprise API Management (EAPIM)](#eapim) | Saghir Akbar | Beta
 Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | Harj Bilan | Beta
-| [Postcode lookup.](#postcode) | Harj Bilan | Discovery
-| [Geospatial mapping.](#mapping) | Harj Bilan | Discovery
+| [Postcode lookup](#postcode) | Harj Bilan | Discovery
+| [Geospatial mapping](#mapping) | Harj Bilan | Discovery
 Applications | [Enterprise CRM](#crm) | Saghir Akbar | Beta
 | 360 customer view | Saghir Akbar | Alpha
 | Marketing Automation platform | tbc | Discovery
