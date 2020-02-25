@@ -240,18 +240,18 @@ Team Mailbox: [edap.support@education.gov.uk](mailto:edap.support@education.gov.
 Platform Support Manager: [Chris Collins](https://eur.delve.office.com/?u=2fd29a66-b45f-4d1d-ac69-cd73a9e9e276&v=work)
 
 <a name="postcode"></a>
-### 3. Postcode lookup
+### 4. Postcode lookup
 
 Postcode lookup text.
 
 
 <a name="mapping"></a>
-### 3. Geospatial mapping
+### 5. Geospatial mapping
 
 Geospatial mapping text.
 
 <a name="dfe-signin"></a>
-### 4. DfE Sign-in
+### 6. DfE Sign-in
 DfE Sign-in is the department’s strategic Identity and Access Management (IdAM) solution. DfE Sign-in already provides IdAM for services migrated from Secure Access and a number of other services that have on-boarded during 2019. All new services should use DfE Sign-in.
 
 DfE Sign-in is an OpenID Connect Identity provider (with support for SAMLp). It is designed to serve as a delegated authority for identity management, harnessing the global experience for all users. The net result is that Service Owners don't need to build identity solutions into their services and service users don't need to maintain many sets of credentials.
@@ -291,7 +291,7 @@ __Further guidance__
 -	Product Owner - [Jane Ludlow](https://eur.delve.office.com/?u=29a68eae-0685-4e19-af80-e51da80951ae&v=work)
 
 <a name="crm"></a>
-### 5. Enterprise CRM
+### 7. Enterprise CRM
 An enterprise-aligned CRM platform built on Microsoft Dynamics 365 that provides a modern, secure and cost-effective solution for managing customer relationships.  
 
 The platform is **centrally supported** within the Cloud Infrastructure and Platform Services team and offers CRM services to a range of DfE customers. The platform is versatile and scalable, and can be customised to meet different user needs and requirements.
