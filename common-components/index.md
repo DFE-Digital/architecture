@@ -267,6 +267,12 @@ __Postcode lookup components__
 
 Geospatial Mapping tooling offers web and application based services that provide detailed information about geographical regions and sites. Satellite imagery, aerial photography, street maps, 360° interactive street views, real-time traffic conditions, and directions with route planning for traveling by foot, car, bicycle and public transportation.
 
+__Geospatial mapping components__
+
+- Azure Maps
+- Google Maps
+- Bing Maps
+
 ![Image of the DfE Mapping Capabilities](../images/mapping-overview.png)
 
 
