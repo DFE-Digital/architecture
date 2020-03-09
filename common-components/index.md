@@ -43,6 +43,7 @@ Integration | [Enterprise API Management (EAPIM)](#eapim) | Saghir Akbar | Beta
 Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | Harj Bilan | Beta
 | [Postcode lookup](#postcode) | Harj Bilan | Discovery
 | [Geospatial mapping](#mapping) | Harj Bilan | Discovery
+| [Notifications](#notifications) | Ashley Stephens | Discovery
 Applications | [Enterprise CRM](#crm) | Saghir Akbar | Beta
 | 360 customer view | Saghir Akbar | Alpha
 | Marketing Automation platform | tbc | Discovery
@@ -275,7 +276,24 @@ __Geospatial mapping components__
 
 ![Image of the DfE Mapping Capabilities](../images/mapping-overview.png)
 
+<a name="notifications"></a>
+### 6. Notifications
 
+Notification components will enable your service to deliver messages to users. We have two categories of notification applications these are communication and error tracking. 
+
+__Communication__
+These applications will let your service send out email, SMS, letters or a combination of there using HTTPS or SMTP. 
+- GovUKNotify
+- SMTP
+- Sparkpost
+- Intellisoft SMS
+- Send Grid
+__Error Tracking__ 
+These applications will provide error monitoring and alerts to services that are developing solutions, so that they are aware of errors as they appear. 
+- Rollbar
+- Sentry
+
+![Image of the DfE Notification Capabilities](../images/notifications-overview.png)
 
 <a name="dfe-signin"></a>
 ### 6. DfE Sign-in
