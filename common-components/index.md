@@ -279,15 +279,16 @@ __Geospatial mapping components__
 <a name="notifications"></a>
 ### 6. Notifications
 
-Notification components will enable your service to deliver messages to users. We have two categories of notification applications these are communication and error tracking. 
+Notification components will enable your service to deliver messages to users. We have two categories of notification applications these are __communication__ and __error tracking__. 
 
 __Communication__
-These applications will let your service send out email, SMS, letters or a combination of there using HTTPS or SMTP. 
+These applications will let your service send out email, SMS, letters or a combination using HTTPS or SMTP. 
 - GovUKNotify
 - SMTP
 - Sparkpost
 - Intellisoft SMS
 - Send Grid
+
 __Error Tracking__ 
 These applications will provide error monitoring and alerts to services that are developing solutions, so that they are aware of errors as they appear. 
 - Rollbar
