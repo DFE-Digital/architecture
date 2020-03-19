@@ -320,11 +320,15 @@ Geospatial Mapping tooling offers web and application based services that provid
 
 __Geospatial mapping components__
 
-- Azure Maps
-- Google Maps
-- Bing Maps
+- [Azure Maps](https://docs.microsoft.com/en-gb/azure/azure-maps/)
+- [Google Maps](https://developers.google.com/maps/documentation)
+- [Bing Maps](https://docs.microsoft.com/en-us/bingmaps/)
 
 ![Image of the DfE Mapping Capabilities](../images/mapping-overview.png)
+
+Here's a link to an [Excel version of the table](#doc-to-add).
+
+If you're considering your options and want more advice, get in touch with your [architecture partner](../service-offer/).
 
 <a name="notifications"></a>
 ### Notifications
@@ -333,11 +337,11 @@ Notification components will enable your service to deliver messages to users. W
 
 __Communication__
 These applications will let your service send out email, SMS, letters or a combination using HTTPS or SMTP.
-- GovUKNotify
+- [GovUKNotify](https://www.notifications.service.gov.uk/documentation)
 - SMTP
-- Sparkpost
-- Intellisoft SMS
-- Send Grid
+- [Sparkpost](https://developers.sparkpost.com/api/)
+- [Intellisoft SMS](https://www.intellisoftware.co.uk/sms-gateway/interfaces/) 
+- [Send Grid](https://sendgrid.com/docs/https://www.intellisoftware.co.uk/sms-gateway/interfaces/)  
 
 __Error Tracking__
 These applications will provide error monitoring and alerts to services that are developing solutions, so that they are aware of errors as they appear.
@@ -345,6 +349,10 @@ These applications will provide error monitoring and alerts to services that are
 - Sentry
 
 ![Image of the DfE Notification Capabilities](../images/notifications-overview.png)
+
+Here's a link to an [Excel version of the table](#doc-to-add).
+
+If you're considering your options and want more advice, get in touch with your [architecture partner](../service-offer/).
 
 <a name="crm"></a>
 ### Enterprise CRM
