@@ -341,12 +341,12 @@ These applications will let your service send out email, SMS, letters or a combi
 - SMTP
 - [Sparkpost](https://developers.sparkpost.com/api/)
 - [Intellisoft SMS](https://www.intellisoftware.co.uk/sms-gateway/interfaces/) 
-- [Send Grid](https://sendgrid.com/docs/https://www.intellisoftware.co.uk/sms-gateway/interfaces/)  
+- [Send Grid](https://sendgrid.com/docs/)  
 
 __Error Tracking__
 These applications will provide error monitoring and alerts to services that are developing solutions, so that they are aware of errors as they appear.
-- Rollbar
-- Sentry
+- [Rollbar](https://docs.sentry.io/)  
+- [Sentry](https://docs.rollbar.com/docs)  
 
 ![Image of the DfE Notification Capabilities](../images/notifications-overview.png)
 
