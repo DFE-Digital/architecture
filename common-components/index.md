@@ -32,18 +32,19 @@ The adoption of common components can bring significant benefits to the departme
 There is a distinction between components used to build a service and tools
 to enable the building of services.
 
-### Service components
+### Service components and products
 
 Domain | Component | Owner | Status
 - | - | - | -
 Hosting | [Cloud Infrastructure Platform (CIP)](#cip) | Saghir Akbar | Beta
+ | Gov.UK PaaS | tbc | Discovery
 Security and networks | [DfE Sign-in](#dfe-signin) | Leanna Green | Live
 | Core network | Jon Gilbert | Live
 Integration | [Enterprise API Management (EAPIM)](#eapim) | Saghir Akbar | Beta
 Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | Harj Bilan | Beta
-| [Postcode lookup](#postcode) | Harj Bilan | Discovery
-| [Geospatial mapping](#mapping) | Harj Bilan | Discovery
-| [Notifications](#notifications) | Ashley Stephens | Discovery
+| [Postcode lookup](#postcode) | tbc | Discovery
+| [Geospatial mapping](#mapping) | tbc | Discovery
+| [Notifications](#notifications) | tbc | Discovery
 Applications | [Enterprise CRM](#crm) | Saghir Akbar | Beta
 | 360 customer view | Saghir Akbar | Alpha
 | Marketing Automation platform | tbc | Discovery
@@ -123,6 +124,48 @@ Read the [Cloud Infrastructure and Platform Services wiki](https://educationgovu
 - Head of DevOps - [Jeffery Odiase](https://eur.delve.office.com/?u=a206fb4f-4f84-4717-b250-16d2577faeaf&v=work)
 - Platform support lead - [Paul Cripwell](https://eur.delve.office.com/?u=11bcb046-7de9-4dd9-858d-7997129df02d&v=work)
 
+
+<a name="dfe-signin"></a>
+### DfE Sign-in
+DfE Sign-in is the department’s strategic Identity and Access Management (IdAM) solution. DfE Sign-in already provides IdAM for services migrated from Secure Access and a number of other services that have on-boarded during 2019. All new services should use DfE Sign-in.
+
+DfE Sign-in is an OpenID Connect Identity provider (with support for SAMLp). It is designed to serve as a delegated authority for identity management, harnessing the global experience for all users. The net result is that Service Owners don't need to build identity solutions into their services and service users don't need to maintain many sets of credentials.
+
+Because DfE Sign-in is a standards-based identity provider, integration is simple. Many technologies and frameworks have stable integration components and examples.
+
+__Documentation__
+
+Our service is available at [https://services.signin.education.gov.uk](https://services.signin.education.gov.uk/)
+
+Please read our [getting started](#) guide.
+
+You may also find the following code repositories for services that use DfE Sign-in useful, along with some example integrations that we have built:
+- [Teachers Payment Service](https://github.com/DFE-Digital/dfe-teachers-payment-service) (Ruby on Rails)
+-	[Course Directory](https://github.com/SkillsFundingAgency/dfc-coursedirectory) (.NET Core)
+-	[Other integration examples](https://github.com/dfe-digital/?utf8=%E2%9C%93&q=example)
+
+__Support__
+
+Support for DfE Sign-in is available through our [help pages](https://help.signin.education.gov.uk/contact). These pages contain useful information for users and approvers on how to use DfE Sign-in. If a user is still having problems, they can submit a support request too.
+
+DfE Sign-in support requests are managed via a dedicated DfE Sign-in service desk where we can monitor and track support requests. That enables us to collect information to help improve the service, highlight any potential service issues and regularly update the help pages to further support our users.
+
+Please direct your users through this support route. If there is anything you would like to discuss or be taken through common issues or regular queries, please contact the Product Manager.
+
+__Roadmap__
+
+You can see [who’s already using DfE Sign-in](https://services.signin.education.gov.uk/). Any staff, provider and citizen services that currently use the Pirean Access: One product will migrate across to DfE Sign-in by July 2020.
+
+A full roadmap of services to be onboarded can be seen below:
+
+![Image of the DfE Sign-in roadmap](../images/dfesignin-roadmap.png)
+
+__Further guidance__
+-	Product Manager - [Ravi Jassal](https://eur.delve.office.com/?u=ec77c25a-0307-40cc-9e6b-4e1d05eda0fc&v=work)
+-	Delivery Manager - [James Cheetham](https://eur.delve.office.com/?u=05f12707-cf64-4928-a6da-d5b4d96c5870&v=work)
+-	Product Owner - [Jane Ludlow](https://eur.delve.office.com/?u=29a68eae-0685-4e19-af80-e51da80951ae&v=work)
+
+
 <a name="eapim"></a>
 ### Enterprise API Management
 Enterprise integration and API management services make it easier to share data quickly and securely – whether you’re an integration partner, developer, publisher or data consumer.
@@ -178,7 +221,7 @@ __Further guidance__
 Contact [Sarfraz Malik](https://eur.delve.office.com/?u=8d0b2191-9a02-4a7f-8ad3-9b41ea129354&v=work) to find out more about this solution.
 
 <a name="edap"></a>
-### 3. Enterprise Data and Analytics Platform
+### Enterprise Data and Analytics Platform
 
 The Enterprise Data and Analytics Platform (EDAP) provides the DfE with a strategic and consolidated data management capability. It is an Azure hosted solution fronted by a remote desktop (RD) farm with a range of installed software, including many analytical tools. The Department’s analysts, researchers and data scientists use these tools to analyse data from various data sources. SQL server and a file server complete the platform make-up.
 
@@ -241,30 +284,37 @@ Team Mailbox: [edap.support@education.gov.uk](mailto:edap.support@education.gov.
 Platform Support Manager: [Chris Collins](https://eur.delve.office.com/?u=2fd29a66-b45f-4d1d-ac69-cd73a9e9e276&v=work)
 
 <a name="postcode"></a>
-### 4. Postcode lookup
+### Postcode lookup
 
-The Department is helping programs make the right strategic choices for delivering postcode capabilities within their service by identifying a set of common postcode tools.
+We're helping service delivery teams make the right strategic choices for delivering postcode capabilities within their service by identifying a set of common postcode lookup solutions.
 
-The postcode tools identified below allow service users the functionality to search address details across the UK. The tools can return results as you type meaning you can choose the correct address as you go. Using postcode tools can help your service in several ways including:
-	
-- Reducing inaccuracies from manual entry.
-- Avoiding the chances of having duplicate data.
-- Improved user experience for data entry and retrival.
+The solutions identified below provide functionality to search address details across the UK. They can return results 'as you type', meaning users can choose the correct address as they go. Using these solutions can help your service to:
+
+- Reduce inaccuracies from manual entry
+- Avoid the chances of having duplicate data
+- Improve user experience for data entry and retrieval
 
 __Postcode lookup components__
 
-- Postcodes.io
-- GetAddress.io
-- Loqate
-- Experian QAS
-- Royal Mail
-- ONS postcode directory
+These are the products and services in use and available across the department:
+
+- [Postcodes.io](http://postcodes.io/)
+- [GetAddress.io](https://getaddress.io/)
+- [Loqate](https://www.loqate.com/)
+- [Experian QAS](https://www.experian.co.uk/qas/index.html)
+- [Royal Mail](https://www.royalmail.com/find-a-postcode)
+- [ONS postcode directory](https://www.ons.gov.uk/methodology/geography/geographicalproducts/postcodeproducts)
+
+They each bring a slightly different set of features and capabilities that fit different use cases. This table provides an overview:
 
 ![Image of the DfE Postcode Capabilities](../images/postcode-overview.png)
 
+Here's a link to an [Excel version of the table](#doc-to-add).
+
+If you're considering your options and want more advice, get in touch with your [architecture partner](../service-offer/).
 
 <a name="mapping"></a>
-### 5. Geospatial mapping
+### Geospatial mapping
 
 Geospatial Mapping tooling offers web and application based services that provide detailed information about geographical regions and sites. Satellite imagery, aerial photography, street maps, 360° interactive street views, real-time traffic conditions, and directions with route planning for traveling by foot, car, bicycle and public transportation.
 
@@ -277,67 +327,27 @@ __Geospatial mapping components__
 ![Image of the DfE Mapping Capabilities](../images/mapping-overview.png)
 
 <a name="notifications"></a>
-### 6. Notifications
+### Notifications
 
-Notification components will enable your service to deliver messages to users. We have two categories of notification applications these are __communication__ and __error tracking__. 
+Notification components will enable your service to deliver messages to users. We have two categories of notification applications these are __communication__ and __error tracking__.
 
 __Communication__
-These applications will let your service send out email, SMS, letters or a combination using HTTPS or SMTP. 
+These applications will let your service send out email, SMS, letters or a combination using HTTPS or SMTP.
 - GovUKNotify
 - SMTP
 - Sparkpost
 - Intellisoft SMS
 - Send Grid
 
-__Error Tracking__ 
-These applications will provide error monitoring and alerts to services that are developing solutions, so that they are aware of errors as they appear. 
+__Error Tracking__
+These applications will provide error monitoring and alerts to services that are developing solutions, so that they are aware of errors as they appear.
 - Rollbar
 - Sentry
 
 ![Image of the DfE Notification Capabilities](../images/notifications-overview.png)
 
-<a name="dfe-signin"></a>
-### 6. DfE Sign-in
-DfE Sign-in is the department’s strategic Identity and Access Management (IdAM) solution. DfE Sign-in already provides IdAM for services migrated from Secure Access and a number of other services that have on-boarded during 2019. All new services should use DfE Sign-in.
-
-DfE Sign-in is an OpenID Connect Identity provider (with support for SAMLp). It is designed to serve as a delegated authority for identity management, harnessing the global experience for all users. The net result is that Service Owners don't need to build identity solutions into their services and service users don't need to maintain many sets of credentials.
-
-Because DfE Sign-in is a standards-based identity provider, integration is simple. Many technologies and frameworks have stable integration components and examples.
-
-__Documentation__
-
-Our service is available at [https://services.signin.education.gov.uk](https://services.signin.education.gov.uk/)
-
-Please read our [getting started](#) guide.
-
-You may also find the following code repositories for services that use DfE Sign-in useful, along with some example integrations that we have built:
-- [Teachers Payment Service](https://github.com/DFE-Digital/dfe-teachers-payment-service) (Ruby on Rails)
--	[Course Directory](https://github.com/SkillsFundingAgency/dfc-coursedirectory) (.NET Core)
--	[Other integration examples](https://github.com/dfe-digital/?utf8=%E2%9C%93&q=example)
-
-__Support__
-
-Support for DfE Sign-in is available through our [help pages](https://help.signin.education.gov.uk/contact). These pages contain useful information for users and approvers on how to use DfE Sign-in. If a user is still having problems, they can submit a support request too.
-
-DfE Sign-in support requests are managed via a dedicated DfE Sign-in service desk where we can monitor and track support requests. That enables us to collect information to help improve the service, highlight any potential service issues and regularly update the help pages to further support our users.
-
-Please direct your users through this support route. If there is anything you would like to discuss or be taken through common issues or regular queries, please contact the Product Manager.
-
-__Roadmap__
-
-You can see [who’s already using DfE Sign-in](https://services.signin.education.gov.uk/). Any staff, provider and citizen services that currently use the Pirean Access: One product will migrate across to DfE Sign-in by July 2020.
-
-A full roadmap of services to be onboarded can be seen below:
-
-![Image of the DfE Sign-in roadmap](../images/dfesignin-roadmap.png)
-
-__Further guidance__
--	Product Manager - [Ravi Jassal](https://eur.delve.office.com/?u=ec77c25a-0307-40cc-9e6b-4e1d05eda0fc&v=work)
--	Delivery Manager - [James Cheetham](https://eur.delve.office.com/?u=05f12707-cf64-4928-a6da-d5b4d96c5870&v=work)
--	Product Owner - [Jane Ludlow](https://eur.delve.office.com/?u=29a68eae-0685-4e19-af80-e51da80951ae&v=work)
-
 <a name="crm"></a>
-### 7. Enterprise CRM
+### Enterprise CRM
 An enterprise-aligned CRM platform built on Microsoft Dynamics 365 that provides a modern, secure and cost-effective solution for managing customer relationships.  
 
 The platform is **centrally supported** within the Cloud Infrastructure and Platform Services team and offers CRM services to a range of DfE customers. The platform is versatile and scalable, and can be customised to meet different user needs and requirements.
