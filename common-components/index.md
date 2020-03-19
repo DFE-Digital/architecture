@@ -326,7 +326,7 @@ __Geospatial mapping components__
 
 ![Image of the DfE Mapping Capabilities](../images/mapping-overview.png)
 
-Here's a link to an [Excel version of the table](#doc-to-add).
+Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
 If you're considering your options and want more advice, get in touch with your [architecture partner](../service-offer/).
 
