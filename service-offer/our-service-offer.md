@@ -52,6 +52,6 @@ They are generally specialists or technical subject matter experts in one or mor
 
 ## Further guidance
 
-More information on architecture roles and responsibilities is available on the [Architecture Capability Framework](../capability/architecture-capability-framework/) guidance.
+More information on architecture roles and responsibilities is available on the [Architecture Capability Framework](/capability/architecture-capability-framework/) guidance.
 
 For any other information on the architecture practice, contact the [Architecture team](mailto:architecture.governance@education.gov.uk)
