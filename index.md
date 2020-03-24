@@ -1,72 +1,343 @@
-# DfE Architecture
-This site documents the architecture principles, standards and guidance that we expect teams working
-within the [Department for Education (DfE)](https://www.gov.uk/government/organisations/department-for-education)
-to follow when designing services.
+---
+category: Components
+expires: 2020-01-01
+---
 
-It complements the [GDS Service Manual](https://www.gov.uk/service-manual) and its
-[technology section](https://www.gov.uk/service-manual/technology),
-which covers service design more broadly.
+# Common Components
 
-It should be used in conjunction with the
-[DfE Digital Technical Guidance](https://dfe-digital.github.io/technical-guidance),
-when building digital services.
+## What are they?
 
-## Service offer
+Common components are software or technical systems that are created once and reused many times in different services or business contexts. They could be applications, data, integration, a network, security products, hosting or something else. They are __building blocks__, typically mapped to a business or technical capability, which can be used to deliver modular services or systems of a higher order.
 
-  {% assign service_offer_groups = site.pages
-    | where: "service-offer", true %}
+__Key characteristics__
 
-  {% for service_offer in service_offer_groups %}
-  - [{{ service_offer.title }}]({{ service_offer.url | relative_url }})
-  {% endfor %}
+Common components can be of any size but they all share the same characteristics:
+1. They are designed according to common standards, principles and patterns, with independent quality assurance to ensure the principles and patterns have been applied.
+2. They are designed and developed in a modular, scalable and resilient way to support ease of reuse and reliability.
+3. They are mapped to a specific business or technical capability/service. This enables easy search and prevents duplication.
+4. They are treated as an asset and therefore require asset lifecycle management – support wrap, continuous improvement, enhancement or replacement.
+5. They are standalone but interoperable with other common components, such that change to one does not cause a ripple effect change to others.
 
-## Principles
+## Why should we use them? ##
 
-{% assign principle_groups = site.pages
-  | where: "principle", true %}
+The adoption of common components can bring significant benefits to DfE and help people build better services, more quickly. Some of these benefits are:
+- __Speed to market__ – reuse can save time to build, test and deliver services. We should not have to build services from scratch every time.
+- __Reduced costs__ – the more we can reuse, the more we can save through reduced technical diversity or duplication, enabling us to focus our efforts on the differentiating or innovative aspects of the service.
+- __Lower risk__ – building to common standards and through lifecycle management lowers the risk of failure.
 
-{% for principle in principle_groups %}
-- [{{ principle.title }}]({{ principle.url | relative_url }})
-{% endfor %}
+## What's available? ##
 
-## Standards
+We make a distinction between components _used_ to build a service and tools
+to _enable_ the building of services.
 
-{% assign standard_groups = site.pages
-  | where: "standard", true %}
+### Service components ###
 
-{% for standard in standard_groups %}
-- [{{ standard.title }}]({{ standard.url | relative_url }})
-{% endfor %}
+Domain | Component | Owner | Status
+- | - | - | -
+Hosting | [Cloud Infrastructure Platform (CIP)](#cip) | Saghir Akbar | Beta
+Security & networks | [DfE Sign-in](#dfe-signin) | Leanna Green | Live
+| Core network | Jon Gilbert | Live
+Integration | [Enterprise API Management (EAPIM)](#eapim) | Saghir Akbar | Beta
+Information & data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | Harj Bilan | Beta
+| Postcode lookup | Harj Bilan | Discovery
+| Geospatial / maps | Harj Bilan | Discovery
+Applications | [Enterprise CRM](#crm) | Saghir Akbar | Beta
+| 360 customer view | Saghir Akbar | Alpha
+| Marketing Automation platform | tbc | Discovery
+| Robotic Process Automation (RPA) platform | tbc | Alpha
 
-## Patterns
+### Common tooling ###
 
-{% assign pattern_groups = site.pages
-  | where: "pattern", true %}
+Domain | Component | Owner | Status
+- | - | - | -
+End User Compute | Outlook and Teams | Leanna Green | Live
+| Telephony and Skype | Leanna Green | Live
+| Mobile telephony | Leanna Green | Live
+Service Management | Service desk toolset | Leanna Green | Live
+Digital | Productivity tools (Slack, Trello, Confluence) | Ashley Stephens | Beta
+Development | Dev tools (Azure DevOps, Github) | Saghir Akbar | Live
+Information & data | SharePoint | Harj Bilan | Live
 
-{% for pattern in pattern_groups %}
-- [{{ pattern.title }}]({{ pattern.url | relative_url }})
-{% endfor %}
+## How do we use them? ##
 
-## Common Components ##
+_(Note. Content is in development for the following sections)_
 
-- [Common Components](common-components/)
+<a name="cip"></a>
+### 1. Cloud Infrastructure Platform
+The Cloud Infrastructure Platform (CIP) is the department's Microsoft Azure cloud hosting offer. It’s managed centrally and provides a highly flexible model that gives service lines _control_ and _consistency_ over how their business services are hosted.
 
-## Governance and design
+At its core, CIP is a set of principles, processes, and technologies that facilitate the development and delivery of cloud computing, cloud applications and cloud services. The CIP platform is designed using a ‘loose coupling’ approach, which enables services to be hosted independently from each other. This means changes can be made without affecting other components, which supports our highly agile working environment.  
 
-  {% assign governance_groups = site.pages
-    | where: "governance", true %}
+Here are some of the key benefits:
 
-  {% for governance in governance_groups %}
-  - [{{ governance.title }}]({{ governance.url | relative_url}})
-  {% endfor %}
+- improving efficiency and consistency for delivery teams
+- reducing implementation times for projects
+- best practice templates, automation and customer self-service features
+- access to a secure sandpit environment within just 24hrs
 
-## Repositories
+__Documentation__
 
-- [DfE SharePoint repo](https://educationgovuk.sharepoint.com/sites/gp/WorkplaceDocuments)
-- [ESFA SharePoint repo](https://educationgovuk.sharepoint.com/sites/ops-cto/strategyandarchitecture)
-- [DfE Digital Confluence](https://dfedigital.atlassian.net)
-- [ESFA Confluence](https://skillsfundingagency.atlassian.net)
+Read the [platform documentation](https://docs.platform.education.gov.uk/help/intro.html) that covers security, access, operations and monitoring. Note - you may need to request CIP access.
 
-## Capability
+__Support__
 
-- [Architecture Capability Framework](capability/architecture-capability-framework.md)
+CIP has a support team who handle incidents and requests. Our tiered support operating model makes it easy to accommodate different business requirements. For each service using the platform, a range of support services are provided. All services receive:
+1. Policy support
+2. Guidance for security
+3. Guidance on best practice into production
+4. Working hours support
+
+Optional support services that can be requested during onboarding are:
+1. Support for Azure DevOps for new users
+2. More extensive support for security / firewalls
+3. Guidance for Azure engineering
+
+We’ve made costing transparent – each service is assigned an ID linked to its Azure account; this makes it simple to track resources being consumed
+
+Read the team's [wiki](https://educationgovuk.sharepoint.com/sites/ciog/groupdelivery/Home.aspx) for further information and ways to contact the CIP Engineering team.
+
+You can raise an [onboarding request](https://dfe.service-now.com/serviceportal?id=sc_cat_item&sys_id=51b0b9c5db1ff7809402e1aa4b96197d&sysparm_category=19d07bc3dbff17003b929334ca9619bd) via the service catalogue.
+
+__Roadmap__
+
+We’ve moved into the continual improvement phase with ongoing effort to improve our hosting offer, products, services and processes. We’re also moving our services away from our legacy cloud platforms on to the Cloud Infrastructure Platform (CIP). Discovery work to migrate to this central strategic platform has begun.
+
+To deliver an enterprise aligned solution to our customer, we will:
+1. Create a holistic cloud operating model, meeting the needs of both the DfE and ESFA platform management and service engineering and delivery teams.
+2. Create tailored principles and processes, ensuring resources offered directly by the Cloud Hosting provider (Microsoft Azure) are consumed and configured in the desired manner.
+3. Define, create, and manage, a selection of services that enable, empower, and protect, delivery teams and the services created by them.
+4. Ensure that services offered to the engineering and delivery teams are fit for purpose, fit for use, isolated from one another, and can be easily discovered and consumed by engineering and delivery teams.
+
+To help us deliver the above, we’ve joined forces with the architecture team to review our cloud strategy. This includes considering how to evolve as a central provider of cloud services and where hot topics like 'multi-vendor' and containerisation fit with our future thinking.
+
+__Further guidance__
+
+Read the [Cloud Infrastructure and Platform Services wiki](https://educationgovuk.sharepoint.com/sites/ciog/groupdelivery/Home.aspx) or contact one of the team:
+- CIP Product Owner / Head of Infrastructure - [Huw Evans](https://eur.delve.office.com/?u=9d286650-5ffc-4c99-bada-31bcb22cbc10&v=work)
+- Cloud Engineering lead - [Ritesh Patel](https://eur.delve.office.com/?u=f090a9e5-0260-483c-97e2-8b51439ccc92&v=work)
+- Head of DevOps - [Jeffery Odiase](https://eur.delve.office.com/?u=a206fb4f-4f84-4717-b250-16d2577faeaf&v=work)
+- Platform support lead - [Paul Cripwell](https://eur.delve.office.com/?u=11bcb046-7de9-4dd9-858d-7997129df02d&v=work)
+
+<a name="eapim"></a>
+### 2. Enterprise API Management
+Enterprise integration and API management services make it easier to share data quickly and securely – whether you’re an integration partner, developer, publisher or data consumer.
+
+**Enterprise API Management (EAPIM) Platform**
+
+The EAPIM platform provides a central place to host and discover APIs. It is a secure and fully accredited service that makes it easy to both publish and consume APIs.
+
+EAPIM has been developed using Microsoft Azure’s API gateway, and the solution is deployed within the [CIP hosting platform](#cip) with an expert team supporting the infrastructure.
+
+Here are some of the key benefits:
+
+- **Making it easier to share data**
+  - Developers can securely publish their APIs quickly in one place using the developer portal
+  - Data consumers can view all the APIs available and request access to data
+  - The service scales quickly in response to changing demand
+- **Reducing the admin for developer teams**
+  - Developers can host their APIs quickly by using automated features to build, test and publish. Features include automated on-boarding, templates, tested global policy controls, and identity and access management
+  - Once an APIs is hosted, there’s no need for developers to perform any platform maintenance
+  - Security accreditation is already in place
+- **Cost savings**
+  - EAPIM has a flexible subscription model, which means you won’t pay for more hosting space than you use
+  - By moving APIs to EAPIM, we are reducing the number of duplicate API platforms across the estate
+
+__Integration middleware__
+
+In addition to the API platform, integration middleware services are also available. These services use APIs to improve data sharing between multiple systems.
+
+The middleware technology improves access to siloed data and can deliver it between multiple systems in near real-time. By integrating systems in this way, we get better visibility of data, reduce the need to manually input data into multiple systems, increase efficiency and reduce the risk of data error.
+
+__Documentation__
+
+Read the [Operating Model](https://educationgovuk.sharepoint.com/sites/lveesfa00073/API%20Management/Forms/AllItems.aspx?id=%2Fsites%2Flveesfa00073%2FAPI%20Management%2FPlatform%20Documentation%2FService%20Operating%20Model%20%28SOM%29%2FCurrent%20Version&viewid=00000000%2D0000%2D0000%2D0000%2D000000000000) for more information about the solution design, security, availability, support and governance. If you need access to this document, please contact [Matt Morgan](https://eur.delve.office.com/?u=2bea9bd4-72ee-4174-850b-f6531174a2c7&v=work).  
+
+__Support__
+
+The service is supported internally by a central team of specialists within the Cloud Infrastructure and Platform Services team. To report an issue with the service, log a ticket via the [Service Portal](https://dfe.service-now.com/serviceportal). The team are available from 08:00 – 22:00 hrs Monday to Friday, excluding UK public holidays.  
+
+__Roadmap__
+
+DfE customers already using EAPIM or undergoing a transition to adopt the service include:
+-	Finance
+-	Better Financial Reporting Programme
+-	We’ve also recently integrated ServiceNow and Zendesk with the Enterprise CRM to improve data sharing for the Apprenticeships Service Consolidated Support Team (40 users).  
+
+Over the next 18 months, these services are evolving in following key areas:
+- Driving adoption
+- Onboarding more APIs onto the platform
+- Promoting reuse of integration middleware
+
+__Further guidance__
+
+Contact [Sarfraz Malik](https://eur.delve.office.com/?u=8d0b2191-9a02-4a7f-8ad3-9b41ea129354&v=work) to find out more about this solution.
+
+<a name="edap"></a>
+### 3. Enterprise Data and Analytics Platform
+
+The Enterprise Data and Analytics Platform (EDAP) provides the DfE with a strategic and consolidated data management capability. It is an Azure hosted solution fronted by a remote desktop (RD) farm with a range of installed software, including many analytical tools. The Department’s analysts, researchers and data scientists use these tools to analyse data from various data sources. SQL server and a file server complete the platform make-up.
+
+![Image of the Enterprise Data and Analytics Platform](../images/edap-overview.png)
+
+__Documentation__
+
+The EDAP support team’s [SharePoint site](https://educationgovuk.sharepoint.com/sites/lvedfe00120/EDAP Wiki/EDAP Home.aspx) has content supporting the customers and both technical and process content supporting the EDAP support team.
+
+__Support__
+
+There is a specialist in-house technical team providing 2nd and 3rd line support from 09:00 to 17:00 Monday-Friday, excluding UK Bank Holidays. EDAP processes are aligned with DfE standard Service Management processes utilising ServiceNow via the [Service Portal](https://dfe.service-now.com/serviceportal?id=home) for both Incident Management, Access Management, Request Fulfilment etc.
+
+The majority of the Service Requests fulfilled by the team can be categorised under:
+
+•	New / Remove Access to the EDAP platform
+•	Change permissions to databases and / or file shares available on the platform
+•	New working environment – creating new database(s) and file share(s)
+•	Data support / ETL requests – providing administration and specialist support
+•	General SQL / tooling guidance and advice
+
+The day-to-day working practices of the team ensures that Information Asset Owners and Managers are able to fulfil their obligations under the [Information Asset Ownership and Registration Policy](https://educationgovuk.sharepoint.com/how-do-i/information-management/kim/Pages/managing-information-assets.aspx)
+
+__Roadmap__
+
+Customers from across DfE already utilising EDAP include:
+
+- Capital Directorate
+- DfE Operations
+- FE Data and statistics
+- Graduate Outcomes and Skills Analysis
+- HE Modelling
+- HE Social Research
+- HE Statistics Unit
+- Learner Data Strategy
+- NPD Modernisation
+- Skills Policy Analysis
+- SPA Data Modelling
+- Student Finance Modelling
+
+Alongside on-boarding new customers and data over the coming months the EDAP support team are looking to:
+
+- Enhance and further automate operational reporting
+- Embed a Continuous Improvement approach
+- Work even more closely with the DfE Service Management teams, looking for further opportunities to streamline and automate processes
+
+__Further guidance__
+
+Resources for the user community:
+
+- [Raise a Support Request](https://educationgovuk.sharepoint.com/sites/lvedfe00120/EDAP Wiki/Raise a Support Request.aspx) – further guidance for the EDAP community and templates
+- [EDAP User Guides](https://educationgovuk.sharepoint.com/sites/lvedfe00120/EDAP Wiki/EDAP User Guides.aspx) – from the names of the servers and URLs to step by step instructions of how to log on
+- [Frequently Asked Questions](https://educationgovuk.sharepoint.com/sites/lvedfe00120/EDAP Wiki/Frequently Asked Questions.aspx)
+- [Information Asset Registration](https://educationgovuk.sharepoint.com/sites/lvedfe00120/EDAP Wiki/Information Asset Registration.aspx)
+- [Training Resources](https://educationgovuk.sharepoint.com/sites/lvedfe00120/EDAP Wiki/Training Resources.aspx)
+- Link to the [RD farm](https://rds.ad.hq.dept/RDweb)
+
+Team Mailbox: [edap.support@education.gov.uk](mailto:edap.support@education.gov.uk)
+
+Platform Support Manager: [Chris Collins](https://eur.delve.office.com/?u=2fd29a66-b45f-4d1d-ac69-cd73a9e9e276&v=work)
+
+
+<a name="dfe-signin"></a>
+### 4. DfE Sign-in
+DfE Sign-in is the department’s strategic Identity and Access Management (IdAM) solution. DfE Sign-in already provides IdAM for services migrated from Secure Access and a number of other services that have on-boarded during 2019. All new services should use DfE Sign-in.
+
+DfE Sign-in is an OpenID Connect Identity provider (with support for SAMLp). It is designed to serve as a delegated authority for identity management, harnessing the global experience for all users. The net result is that Service Owners don't need to build identity solutions into their services and service users don't need to maintain many sets of credentials.
+
+Because DfE Sign-in is a standards-based identity provider, integration is simple. Many technologies and frameworks have stable integration components and examples.
+
+__Documentation__
+
+Our service is available at [https://services.signin.education.gov.uk](https://services.signin.education.gov.uk/)
+
+Please read our [getting started](#) guide.
+
+You may also find the following code repositories for services that use DfE Sign-in useful, along with some example integrations that we have built:
+- [Teachers Payment Service](https://github.com/DFE-Digital/dfe-teachers-payment-service) (Ruby on Rails)
+-	[Course Directory](https://github.com/SkillsFundingAgency/dfc-coursedirectory) (.NET Core)
+-	[Other integration examples](https://github.com/dfe-digital/?utf8=%E2%9C%93&q=example)
+
+__Support__
+
+Support for DfE Sign-in is available through our [help pages](https://help.signin.education.gov.uk/contact). These pages contain useful information for users and approvers on how to use DfE Sign-in. If a user is still having problems, they can submit a support request too.
+
+DfE Sign-in support requests are managed via a dedicated DfE Sign-in service desk where we can monitor and track support requests. That enables us to collect information to help improve the service, highlight any potential service issues and regularly update the help pages to further support our users.
+
+Please direct your users through this support route. If there is anything you would like to discuss or be taken through common issues or regular queries, please contact the Product Manager.
+
+__Roadmap__
+
+You can see [who’s already using DfE Sign-in](https://services.signin.education.gov.uk/). Any staff, provider and citizen services that currently use the Pirean Access: One product will migrate across to DfE Sign-in by July 2020.
+
+A full roadmap of services to be onboarded can be seen below:
+
+![Image of the DfE Sign-in roadmap](../images/dfesignin-roadmap.png)
+
+__Further guidance__
+-	Product Manager - [Ravi Jassal](https://eur.delve.office.com/?u=ec77c25a-0307-40cc-9e6b-4e1d05eda0fc&v=work)
+-	Delivery Manager - [James Cheetham](https://eur.delve.office.com/?u=05f12707-cf64-4928-a6da-d5b4d96c5870&v=work)
+-	Product Owner - [Jane Ludlow](https://eur.delve.office.com/?u=29a68eae-0685-4e19-af80-e51da80951ae&v=work)
+
+<a name="crm"></a>
+### 5. Enterprise CRM
+An enterprise-aligned CRM platform built on Microsoft Dynamics 365 that provides a modern, secure and cost-effective solution for managing customer relationships.  
+
+The platform is **centrally supported** within the Cloud Infrastructure and Platform Services team and offers CRM services to a range of DfE customers. The platform is versatile and scalable, and can be customised to meet different user needs and requirements.
+
+__Opportunities for teams across DFE__
+
+The Enterprise CRM service is constantly evolving, with new capabilities and functionality being incorporated regularly. Teams across DfE are adopting the Enterprise CRM services to:
+- enhance their current CRM solutions
+- benefit from more integration and data sharing
+- make significant savings on development and support
+
+Here are some of the key benefits:
+
+- **Strategic**
+  - Aligns with DfE and wider government strategy
+  - The Enterprise CRM strategic roadmap has a host of capability enhancements to increase functional maturity
+  - System and development knowledge is retained in-house, enabling quicker and more flexible delivery of future capabilities
+- **Technical**
+  - Ready to use solution, with no procurement required
+  - Over time, there will be increased opportunities to integrate with other DfE systems and improve data sharing
+  - There’s no obligation to move from your current platform, the Enterprise CRM services can help enhance and evolve your current solution
+- **Support**
+  - Specialist in-house engineers delivering 2nd and 3rd line support
+  - Operating model integrated with the ServiceNow toolset
+  - Flexible and fast-turnaround change management
+  - Testing and training for technical and user readiness
+- **Cost**
+  - Save money by consolidating support models, exiting from expensive external supplier contracts, and sharing central resources
+  - Lowered cost of total ownership and economies of scale as multiple business areas contribute to maintenance costs
+
+__Documentation__
+
+Read the [Operating Model](https://educationgovuk.sharepoint.com/:w:/r/sites/lveesfa00073/_layouts/15/Doc.aspx?sourcedoc=%7b5E35BFD1-44C0-478B-81AA-368CAEED4CC3%7d&file=SharedCRM_Service_Operating_Model%20v0.1.docx&action=default&mobileredirect=true&CID=D33D9D75-C993-40C8-AAF5-449A95931FD9&wdLOR=c43C81DA6-1EF4-4B25-B4E7-F798DB011FE5) for more information about the solution design, security, availability, support and governance. If you need access to this document, please contact [Matt Morgan](https://eur.delve.office.com/?u=2bea9bd4-72ee-4174-850b-f6531174a2c7&v=work).  
+
+__Support__
+
+The Enterprise CRM is supported internally by a central team within CIPS.  The team uses the ServiceNow toolset to manage the support of this service and follow DfE’s central service management processes.
+
+To report an issue with the service, log a ticket via the [Service Portal](https://dfe.service-now.com/serviceportal). The team are available from 08:00 – 22:00 hrs Monday to Friday, excluding UK public holidays. If the service desk is unable to resolve your query, the issue will be passed to a specialist technical team.  
+
+__Roadmap__
+
+DfE customers already using the Enterprise CRM or undergoing a transition to adopt the service include: 
+- National Apprenticeship Service (267 users) 
+- ESFA Customer Service Team (1076 users)
+
+The Enterprise CRM is tailored to meet unique customer requirements in every new deployment. A range of enhanced solution features are also planned, these include:
+- Outlook integration
+- Document storage
+- Data analysis
+- Notifications
+- Integrated reporting
+- AI builder
+- Customer relationship insights
+
+__Further guidance__
+
+Contact [David Bowley](https://eur.delve.office.com/?u=2f894eab-9154-4025-9a34-4d6236a07b08&v=profiledetails) to find out more about this solution.
+
+
+## Further guidance on common components ##
+
+For more information on common components or to discuss adding your component to the repository, contact the [Architecture team](mailto:architecture.governance@education.gov.uk)
