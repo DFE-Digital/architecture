@@ -44,7 +44,7 @@ Integration | [Enterprise API Management (EAPIM)](#eapim) | Saghir Akbar | Beta
 Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | Harj Bilan | Beta
 | [Postcode lookup](#postcode) | tbc | Discovery
 | [Geospatial mapping](#mapping) | tbc | Discovery
-| [Notifications](#notifications) | tbc | Discovery
+| [Notifications and messaging](#notifications) | tbc | Discovery
 Applications | [Enterprise CRM](#crm) | Saghir Akbar | Beta
 | 360 customer view | Saghir Akbar | Alpha
 | Marketing Automation platform | tbc | Discovery
@@ -309,50 +309,60 @@ They each bring a slightly different set of features and capabilities that fit d
 
 ![Image of the DfE Postcode Capabilities](../images/postcode-overview.png)
 
-Here's a link to an [Excel version of the table](#doc-to-add).
+Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
-If you're considering your options and want more advice, get in touch with your [architecture partner](../service-offer/).
+If you're considering your options and want more advice, get in touch with your [architecture partner](../service-offer/our-service-offer).
 
 <a name="mapping"></a>
 ### Geospatial mapping
 
-Geospatial Mapping tooling offers web and application based services that provide detailed information about geographical regions and sites. Satellite imagery, aerial photography, street maps, 360° interactive street views, real-time traffic conditions, and directions with route planning for traveling by foot, car, bicycle and public transportation.
+Geospatial mapping tools provide detailed information about geographical regions and sites. These include features like satellite imagery, aerial photography, street maps, 360° interactive street views, real-time traffic conditions and directions (with route planning for traveling by foot, car, bicycle and public transportation).
 
 __Geospatial mapping components__
+
+These are the products and services in use and available across the department:
 
 - [Azure Maps](https://docs.microsoft.com/en-gb/azure/azure-maps/)
 - [Google Maps](https://developers.google.com/maps/documentation)
 - [Bing Maps](https://docs.microsoft.com/en-us/bingmaps/)
 
+They each bring a slightly different set of features and capabilities that fit different use cases. This table provides an overview:
+
 ![Image of the DfE Mapping Capabilities](../images/mapping-overview.png)
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
-If you're considering your options and want more advice, get in touch with your [architecture partner](../service-offer/).
+If you're considering your options and want more advice, get in touch with your [architecture partner](../service-offer/our-service-offer).
 
 <a name="notifications"></a>
-### Notifications
+### Notifications and messaging
 
-Notification components will enable your service to deliver messages to users. We have two categories of notification applications these are __communication__ and __error tracking__.
+Notification components will enable your service to deliver messages to users. We have two main categories of notification applications - 'communication' and 'error tracking'.
 
 __Communication__
-These applications will let your service send out email, SMS, letters or a combination using HTTPS or SMTP.
+
+These applications will let your service send out email, SMS (text messages), letters, or a combination of all three, using HTTPS or SMTP protocols:
+
 - [GovUKNotify](https://www.notifications.service.gov.uk/documentation)
 - SMTP
 - [Sparkpost](https://developers.sparkpost.com/api/)
-- [Intellisoft SMS](https://www.intellisoftware.co.uk/sms-gateway/interfaces/) 
+- [Intellisoft SMS](https://www.intellisoftware.co.uk/sms-gateway/interfaces/)
 - [Send Grid](https://sendgrid.com/docs/)  
 
-__Error Tracking__
-These applications will provide error monitoring and alerts to services that are developing solutions, so that they are aware of errors as they appear.
+__Error tracking__
+
+These applications will provide error monitoring and alerts to services that are developing solutions, so that they are aware of errors as they appear:
+
 - [Rollbar](https://docs.sentry.io/)  
 - [Sentry](https://docs.rollbar.com/docs)  
 
+Each application brings a slightly different set of features and capabilities that fit different use cases. This table provides an overview:
+
 ![Image of the DfE Notification Capabilities](../images/notifications-overview.png)
 
-Here's a link to an [Excel version of the table](#doc-to-add).
+Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
-If you're considering your options and want more advice, get in touch with your [architecture partner](../service-offer/).
+If you're considering your options and want more advice, get in touch with your [architecture partner](../service-offer/our-service-offer).
 
 <a name="crm"></a>
 ### Enterprise CRM
