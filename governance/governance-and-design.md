@@ -16,7 +16,7 @@ Above all, a design pack should move the design process forward, enabling effect
 
 It is important to remember that this document should be used as a template and adapted as necessary. Only certain views are necessary in order to ensure effective governance and assurance against IT strategy and technical standards.  
 
-You must discuss the development of a design pack with your [Architecture Partner](/service-offer/our-service-offer/) and adapt appropriately.
+You must discuss the development of a design pack with your [Architecture Partner](../../service-offer/our-service-offer/) and adapt appropriately.
 
 ## Our boards and assurance forums
 
@@ -28,7 +28,7 @@ We provide governance and assurance of architecture and design at the conceptual
 All programmes / projects should complete a conceptual design pack (including options analysis) which will be peer reviewed by at least two Enterprise Architects and relevant stakeholders. Any resulting decisions and actions will be logged on the Architecture RAID log and added to the weekly architecture communications.
 
 ### Logical design assurance
-Your [Architecture Partner](/service-offer/our-service-offer/) will work with you to confirm if any architecture change is significant (novel or contentious) and should therefore be reviewed at ARB, or if a peer review is sufficient.
+Your [Architecture Partner](../../service-offer/our-service-offer/) will work with you to confirm if any architecture change is significant (novel or contentious) and should therefore be reviewed at ARB, or if a peer review is sufficient.
 
 #### Architecture Review Board (ARB)
 The ARB is the central architecture governance board for significant architecture change. Its scope includes DfE's Executive Agencies and, where appropriate, Arms Length Bodies (ALBs).
@@ -51,18 +51,18 @@ This is arranged by the architecture practice for projects where the architectur
 A design pack with the conceptual / logical design sections completed is required.
 
 ### Physical design assurance
-Physical design assurance ensures proportionate review of your technical designs takes place. Your [Architecture Partner](/service-offer/our-service-offer/) will work with you to agree the most appropriate route to review and endorse your physical design, which may involve one or more of the following activities:
+Physical design assurance ensures proportionate review of your technical designs takes place. Your [Architecture Partner](../../service-offer/our-service-offer/) will work with you to agree the most appropriate route to review and endorse your physical design, which may involve one or more of the following activities:
 
 #### Technical Design Authority (TDA)
 TDA considers and approves physical designs. The membership includes architects and technical specialists from different domains, including representation from IT Security Assurance, Cloud Operations and IT Service Management.
 
-To attend TDA, you must submit a completed [TDA security checklist](../documents/security-checklist.xlsx) and a [design pack](../documents/design-pack.docx) with the conceptual, logical and physical design sections completed.
+To attend TDA, you must submit a completed [security checklist](../documents/security-checklist.xlsx) and a [design pack](../documents/design-pack.docx) with the conceptual, logical and physical design sections completed.
 
 #### Technical Show and Tells
 It may be more appropriate for your project to bring architects and team members together for a technical Show and Tell. These are a great way to provide support, challenge and design assurance in a less formal setting. As with other assurance activities, any resulting decisions and actions will be logged on the Architecture RAID log and added to the weekly architecture communications.
 
 #### Peer review (physical)
-If there is a very minor change to a design or the solution is not complex, then a peer review with architects and technical specialists may be a more appropriate way of reviewing the change. Your [Architecture Partner](/service-offer/our-service-offer/) will help ensure this takes place.
+If there is a very minor change to a design or the solution is not complex, then a peer review with architects and technical specialists may be a more appropriate way of reviewing the change. Your [Architecture Partner](../../service-offer/our-service-offer/) will help ensure this takes place.
 
 ## Further guidance
 
