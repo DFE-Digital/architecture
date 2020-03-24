@@ -13,12 +13,7 @@ when building digital services.
 
 ## Service offer
 
-  {% assign service_offer_groups = site.pages
-    | where: "service-offer", true %}
-
-  {% for service_offer in service_offer_groups %}
-  - [{{ service_offer.title }}]({{ service_offer.url | relative_url }})
-  {% endfor %}
+- [Our architecture service offer](service-offer/our-service-offer)
 
 ## Principles
 
@@ -53,12 +48,7 @@ when building digital services.
 
 ## Governance and design
 
-  {% assign governance_groups = site.pages
-    | where: "governance", true %}
-
-  {% for governance in governance_groups %}
-  - [{{ governance.title }}]({{ governance.url | relative_url}})
-  {% endfor %}
+- [Architecture governance and design assurance](governance/governance-and-design)
 
 ## Repositories
 
