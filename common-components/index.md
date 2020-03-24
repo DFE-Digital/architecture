@@ -3,94 +3,100 @@ category: Components
 expires: 2020-01-01
 ---
 
-# Common Components
+# Common components
 
-## What are they?
+## What are common components?
 
-Common components are software or technical systems that are created once and reused many times in different services or business contexts. They could be applications, data, integration, a network, security products, hosting or something else. They are __building blocks__, typically mapped to a business or technical capability, which can be used to deliver modular services or systems of a higher order.
+Common components are typically software or technical systems created once and reused many times in different services or business contexts.
 
-__Key characteristics__
+Examples include applications, data, a network, security products and hosting. They are like building blocks, typically mapped to a business or technical capability, which can be used to deliver more complex services or systems.
 
-Common components can be of any size but they all share the same characteristics:
-1. They are designed according to common standards, principles and patterns, with independent quality assurance to ensure the principles and patterns have been applied.
-2. They are designed and developed in a modular, scalable and resilient way to support ease of reuse and reliability.
-3. They are mapped to a specific business or technical capability/service. This enables easy search and prevents duplication.
-4. They are treated as an asset and therefore require asset lifecycle management – support wrap, continuous improvement, enhancement or replacement.
-5. They are standalone but interoperable with other common components, such that change to one does not cause a ripple effect change to others.
+### Key characteristics
 
-## Why should we use them? ##
+Common components can be of any size but they all share the same characteristics. They are:
+- designed according to common standards, principles and patterns, with independent quality assurance
+- designed and developed in a modular, scalable and resilient way to support ease of reuse and reliability
+- mapped to a specific business or technical capability/service. This enables easy search and prevents duplication
+- treated as an asset and therefore require support, continuous improvement, enhancement or replacement
+- standalone but work alongside other common components, so that a change on one component doesn't affect another
 
-The adoption of common components can bring significant benefits to DfE and help people build better services, more quickly. Some of these benefits are:
-- __Speed to market__ – reuse can save time to build, test and deliver services. We should not have to build services from scratch every time.
-- __Reduced costs__ – the more we can reuse, the more we can save through reduced technical diversity or duplication, enabling us to focus our efforts on the differentiating or innovative aspects of the service.
-- __Lower risk__ – building to common standards and through lifecycle management lowers the risk of failure.
+## Why should we use common components?
 
-## What's available? ##
+The adoption of common components can bring significant benefits to the department and help people build better services, more quickly. Some of these benefits are:
+- speed to market – reuse can save time to build, test and deliver services. You should not have to build services from scratch every time
+- efficiency and reduced costs – the more you can reuse, the more you can save through reduced duplication. This will enable you to focus your efforts on the innovative aspects of the service
+- lower risk – building to common standards lowers the risk of failure
 
-We make a distinction between components _used_ to build a service and tools
-to _enable_ the building of services.
+## What components are available?
 
-### Service components ###
+There is a distinction between components used to build a service and tools
+to enable the building of services.
+
+### Service components and products
 
 Domain | Component | Owner | Status
 - | - | - | -
 Hosting | [Cloud Infrastructure Platform (CIP)](#cip) | Saghir Akbar | Beta
-Security & networks | [DfE Sign-in](#dfe-signin) | Leanna Green | Live
+ | Gov.UK PaaS | tbc | Discovery
+Security and networks | [DfE Sign-in](#dfe-signin) | Leanna Green | Live
 | Core network | Jon Gilbert | Live
 Integration | [Enterprise API Management (EAPIM)](#eapim) | Saghir Akbar | Beta
-Information & data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | Harj Bilan | Beta
-| Postcode lookup | Harj Bilan | Discovery
-| Geospatial / maps | Harj Bilan | Discovery
+Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | Harj Bilan | Beta
+| [Postcode lookup](#postcode) | tbc | Discovery
+| [Geospatial mapping](#mapping) | tbc | Discovery
+| [Notifications and messaging](#notifications) | tbc | Discovery
 Applications | [Enterprise CRM](#crm) | Saghir Akbar | Beta
 | 360 customer view | Saghir Akbar | Alpha
 | Marketing Automation platform | tbc | Discovery
 | Robotic Process Automation (RPA) platform | tbc | Alpha
 
-### Common tooling ###
+### Common tooling
 
 Domain | Component | Owner | Status
 - | - | - | -
-End User Compute | Outlook and Teams | Leanna Green | Live
-| Telephony and Skype | Leanna Green | Live
-| Mobile telephony | Leanna Green | Live
-Service Management | Service desk toolset | Leanna Green | Live
+End User Computing | Outlook and Teams | Leanna Green | Live
+| Phones and Skype | Leanna Green | Live
+| Mobile phones | Leanna Green | Live
+Service management | Service desk tools | Leanna Green | Live
 Digital | Productivity tools (Slack, Trello, Confluence) | Ashley Stephens | Beta
-Development | Dev tools (Azure DevOps, Github) | Saghir Akbar | Live
-Information & data | SharePoint | Harj Bilan | Live
+Development | Development tools (Azure DevOps, Github) | Saghir Akbar | Live
+Information and data | SharePoint | Harj Bilan | Live
 
-## How do we use them? ##
-
-_(Note. Content is in development for the following sections)_
+## How do we use components?
 
 <a name="cip"></a>
-### 1. Cloud Infrastructure Platform
-The Cloud Infrastructure Platform (CIP) is the department's Microsoft Azure cloud hosting offer. It’s managed centrally and provides a highly flexible model that gives service lines _control_ and _consistency_ over how their business services are hosted.
+### Cloud Infrastructure Platform
+The Cloud Infrastructure Platform (CIP) is the department's Microsoft Azure cloud hosting offer. It’s managed centrally and provides a highly flexible model that gives services control and consistency over how their business services are hosted.
 
-At its core, CIP is a set of principles, processes, and technologies that facilitate the development and delivery of cloud computing, cloud applications and cloud services. The CIP platform is designed using a ‘loose coupling’ approach, which enables services to be hosted independently from each other. This means changes can be made without affecting other components, which supports our highly agile working environment.  
+CIP is a set of principles, processes and technologies that support the development and delivery of cloud computing, applications and services.
 
-Here are some of the key benefits:
+The CIP platform is designed using a ‘loosely-coupled’ approach, which enables services to be hosted independently from each other. This means changes can be made without affecting other components.  
+
+Key benefits include:
 
 - improving efficiency and consistency for delivery teams
 - reducing implementation times for projects
-- best practice templates, automation and customer self-service features
-- access to a secure sandpit environment within just 24hrs
+- access to best practice templates, automation and customer self-service features
+- quick access to a secure 'sandpit' environment
 
 __Documentation__
 
-Read the [platform documentation](https://docs.platform.education.gov.uk/help/intro.html) that covers security, access, operations and monitoring. Note - you may need to request CIP access.
+Read the [platform documentation](https://docs.platform.education.gov.uk/help/intro.html) that covers security, access, operations and monitoring.
+
+Request CIP access via the [Service Portal](https://dfe.service-now.com/serviceportal?id=sc_cat_item&sys_id=51b0b9c5db1ff7809402e1aa4b96197d&sysparm_category=19d07bc3dbff17003b929334ca9619bd), if you don't already have it.
 
 __Support__
 
 CIP has a support team who handle incidents and requests. Our tiered support operating model makes it easy to accommodate different business requirements. For each service using the platform, a range of support services are provided. All services receive:
-1. Policy support
-2. Guidance for security
-3. Guidance on best practice into production
-4. Working hours support
+- policy support
+- guidance for security
+- guidance on best practice into production
+- working hours support
 
 Optional support services that can be requested during onboarding are:
-1. Support for Azure DevOps for new users
-2. More extensive support for security / firewalls
-3. Guidance for Azure engineering
+- support for Azure DevOps for new users
+- more extensive support for security / firewalls
+- guidance for Azure engineering
 
 We’ve made costing transparent – each service is assigned an ID linked to its Azure account; this makes it simple to track resources being consumed
 
@@ -118,8 +124,50 @@ Read the [Cloud Infrastructure and Platform Services wiki](https://educationgovu
 - Head of DevOps - [Jeffery Odiase](https://eur.delve.office.com/?u=a206fb4f-4f84-4717-b250-16d2577faeaf&v=work)
 - Platform support lead - [Paul Cripwell](https://eur.delve.office.com/?u=11bcb046-7de9-4dd9-858d-7997129df02d&v=work)
 
+
+<a name="dfe-signin"></a>
+### DfE Sign-in
+DfE Sign-in is the department’s strategic Identity and Access Management (IdAM) solution. DfE Sign-in already provides IdAM for services migrated from Secure Access and a number of other services that have on-boarded during 2019. All new services should use DfE Sign-in.
+
+DfE Sign-in is an OpenID Connect Identity provider (with support for SAMLp). It is designed to serve as a delegated authority for identity management, harnessing the global experience for all users. The net result is that Service Owners don't need to build identity solutions into their services and service users don't need to maintain many sets of credentials.
+
+Because DfE Sign-in is a standards-based identity provider, integration is simple. Many technologies and frameworks have stable integration components and examples.
+
+__Documentation__
+
+Our service is available at [https://services.signin.education.gov.uk](https://services.signin.education.gov.uk/)
+
+Please read our [getting started](#) guide.
+
+You may also find the following code repositories for services that use DfE Sign-in useful, along with some example integrations that we have built:
+- [Teachers Payment Service](https://github.com/DFE-Digital/dfe-teachers-payment-service) (Ruby on Rails)
+-	[Course Directory](https://github.com/SkillsFundingAgency/dfc-coursedirectory) (.NET Core)
+-	[Other integration examples](https://github.com/dfe-digital/?utf8=%E2%9C%93&q=example)
+
+__Support__
+
+Support for DfE Sign-in is available through our [help pages](https://help.signin.education.gov.uk/contact). These pages contain useful information for users and approvers on how to use DfE Sign-in. If a user is still having problems, they can submit a support request too.
+
+DfE Sign-in support requests are managed via a dedicated DfE Sign-in service desk where we can monitor and track support requests. That enables us to collect information to help improve the service, highlight any potential service issues and regularly update the help pages to further support our users.
+
+Please direct your users through this support route. If there is anything you would like to discuss or be taken through common issues or regular queries, please contact the Product Manager.
+
+__Roadmap__
+
+You can see [who’s already using DfE Sign-in](https://services.signin.education.gov.uk/). Any staff, provider and citizen services that currently use the Pirean Access: One product will migrate across to DfE Sign-in by July 2020.
+
+A full roadmap of services to be onboarded can be seen below:
+
+![Image of the DfE Sign-in roadmap](../images/dfesignin-roadmap.png)
+
+__Further guidance__
+-	Product Manager - [Ravi Jassal](https://eur.delve.office.com/?u=ec77c25a-0307-40cc-9e6b-4e1d05eda0fc&v=work)
+-	Delivery Manager - [James Cheetham](https://eur.delve.office.com/?u=05f12707-cf64-4928-a6da-d5b4d96c5870&v=work)
+-	Product Owner - [Jane Ludlow](https://eur.delve.office.com/?u=29a68eae-0685-4e19-af80-e51da80951ae&v=work)
+
+
 <a name="eapim"></a>
-### 2. Enterprise API Management
+### Enterprise API Management
 Enterprise integration and API management services make it easier to share data quickly and securely – whether you’re an integration partner, developer, publisher or data consumer.
 
 **Enterprise API Management (EAPIM) Platform**
@@ -173,7 +221,7 @@ __Further guidance__
 Contact [Sarfraz Malik](https://eur.delve.office.com/?u=8d0b2191-9a02-4a7f-8ad3-9b41ea129354&v=work) to find out more about this solution.
 
 <a name="edap"></a>
-### 3. Enterprise Data and Analytics Platform
+### Enterprise Data and Analytics Platform
 
 The Enterprise Data and Analytics Platform (EDAP) provides the DfE with a strategic and consolidated data management capability. It is an Azure hosted solution fronted by a remote desktop (RD) farm with a range of installed software, including many analytical tools. The Department’s analysts, researchers and data scientists use these tools to analyse data from various data sources. SQL server and a file server complete the platform make-up.
 
@@ -235,49 +283,89 @@ Team Mailbox: [edap.support@education.gov.uk](mailto:edap.support@education.gov.
 
 Platform Support Manager: [Chris Collins](https://eur.delve.office.com/?u=2fd29a66-b45f-4d1d-ac69-cd73a9e9e276&v=work)
 
+<a name="postcode"></a>
+### Postcode lookup
 
-<a name="dfe-signin"></a>
-### 4. DfE Sign-in
-DfE Sign-in is the department’s strategic Identity and Access Management (IdAM) solution. DfE Sign-in already provides IdAM for services migrated from Secure Access and a number of other services that have on-boarded during 2019. All new services should use DfE Sign-in.
+We're helping service delivery teams make the right strategic choices for delivering postcode capabilities within their service by identifying a set of common postcode lookup solutions.
 
-DfE Sign-in is an OpenID Connect Identity provider (with support for SAMLp). It is designed to serve as a delegated authority for identity management, harnessing the global experience for all users. The net result is that Service Owners don't need to build identity solutions into their services and service users don't need to maintain many sets of credentials.
+The solutions identified below provide functionality to search address details across the UK. They can return results 'as you type', meaning users can choose the correct address as they go. Using these solutions can help your service to:
 
-Because DfE Sign-in is a standards-based identity provider, integration is simple. Many technologies and frameworks have stable integration components and examples.
+- Reduce inaccuracies from manual entry
+- Avoid the chances of having duplicate data
+- Improve user experience for data entry and retrieval
 
-__Documentation__
+__Postcode lookup components__
 
-Our service is available at [https://services.signin.education.gov.uk](https://services.signin.education.gov.uk/)
+These are the products and services in use and available across the department:
 
-Please read our [getting started](#) guide.
+- [Postcodes.io](http://postcodes.io/)
+- [GetAddress.io](https://getaddress.io/)
+- [Loqate](https://www.loqate.com/)
+- [Experian QAS](https://www.experian.co.uk/qas/index.html)
+- [Royal Mail](https://www.royalmail.com/find-a-postcode)
+- [ONS postcode directory](https://www.ons.gov.uk/methodology/geography/geographicalproducts/postcodeproducts)
 
-You may also find the following code repositories for services that use DfE Sign-in useful, along with some example integrations that we have built:
-- [Teachers Payment Service](https://github.com/DFE-Digital/dfe-teachers-payment-service) (Ruby on Rails)
--	[Course Directory](https://github.com/SkillsFundingAgency/dfc-coursedirectory) (.NET Core)
--	[Other integration examples](https://github.com/dfe-digital/?utf8=%E2%9C%93&q=example)
+They each bring a slightly different set of features and capabilities that fit different use cases. This table provides an overview:
 
-__Support__
+![Image of the DfE Postcode Capabilities](../images/postcode-overview.png)
 
-Support for DfE Sign-in is available through our [help pages](https://help.signin.education.gov.uk/contact). These pages contain useful information for users and approvers on how to use DfE Sign-in. If a user is still having problems, they can submit a support request too.
+Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
-DfE Sign-in support requests are managed via a dedicated DfE Sign-in service desk where we can monitor and track support requests. That enables us to collect information to help improve the service, highlight any potential service issues and regularly update the help pages to further support our users.
+If you're considering your options and want more advice, get in touch with your [architecture partner](../service-offer/our-service-offer).
 
-Please direct your users through this support route. If there is anything you would like to discuss or be taken through common issues or regular queries, please contact the Product Manager.
+<a name="mapping"></a>
+### Geospatial mapping
 
-__Roadmap__
+Geospatial mapping tools provide detailed information about geographical regions and sites. These include features like satellite imagery, aerial photography, street maps, 360° interactive street views, real-time traffic conditions and directions (with route planning for traveling by foot, car, bicycle and public transportation).
 
-You can see [who’s already using DfE Sign-in](https://services.signin.education.gov.uk/). Any staff, provider and citizen services that currently use the Pirean Access: One product will migrate across to DfE Sign-in by July 2020.
+__Geospatial mapping components__
 
-A full roadmap of services to be onboarded can be seen below:
+These are the products and services in use and available across the department:
 
-![Image of the DfE Sign-in roadmap](../images/dfesignin-roadmap.png)
+- [Azure Maps](https://docs.microsoft.com/en-gb/azure/azure-maps/)
+- [Google Maps](https://developers.google.com/maps/documentation)
+- [Bing Maps](https://docs.microsoft.com/en-us/bingmaps/)
 
-__Further guidance__
--	Product Manager - [Ravi Jassal](https://eur.delve.office.com/?u=ec77c25a-0307-40cc-9e6b-4e1d05eda0fc&v=work)
--	Delivery Manager - [James Cheetham](https://eur.delve.office.com/?u=05f12707-cf64-4928-a6da-d5b4d96c5870&v=work)
--	Product Owner - [Jane Ludlow](https://eur.delve.office.com/?u=29a68eae-0685-4e19-af80-e51da80951ae&v=work)
+They each bring a slightly different set of features and capabilities that fit different use cases. This table provides an overview:
+
+![Image of the DfE Mapping Capabilities](../images/mapping-overview.png)
+
+Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
+
+If you're considering your options and want more advice, get in touch with your [architecture partner](../service-offer/our-service-offer).
+
+<a name="notifications"></a>
+### Notifications and messaging
+
+Notification components will enable your service to deliver messages to users. We have two main categories of notification applications - 'communication' and 'error tracking'.
+
+__Communication__
+
+These applications will let your service send out email, SMS (text messages), letters, or a combination of all three, using HTTPS or SMTP protocols:
+
+- [GovUKNotify](https://www.notifications.service.gov.uk/documentation)
+- SMTP
+- [Sparkpost](https://developers.sparkpost.com/api/)
+- [Intellisoft SMS](https://www.intellisoftware.co.uk/sms-gateway/interfaces/)
+- [Send Grid](https://sendgrid.com/docs/)  
+
+__Error tracking__
+
+These applications will provide error monitoring and alerts to services that are developing solutions, so that they are aware of errors as they appear:
+
+- [Rollbar](https://docs.sentry.io/)  
+- [Sentry](https://docs.rollbar.com/docs)  
+
+Each application brings a slightly different set of features and capabilities that fit different use cases. This table provides an overview:
+
+![Image of the DfE Notification Capabilities](../images/notifications-overview.png)
+
+Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
+
+If you're considering your options and want more advice, get in touch with your [architecture partner](../service-offer/our-service-offer).
 
 <a name="crm"></a>
-### 5. Enterprise CRM
+### Enterprise CRM
 An enterprise-aligned CRM platform built on Microsoft Dynamics 365 that provides a modern, secure and cost-effective solution for managing customer relationships.  
 
 The platform is **centrally supported** within the Cloud Infrastructure and Platform Services team and offers CRM services to a range of DfE customers. The platform is versatile and scalable, and can be customised to meet different user needs and requirements.
