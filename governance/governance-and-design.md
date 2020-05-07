@@ -58,6 +58,24 @@ TDA considers and approves physical designs. The membership includes architects 
 
 To attend TDA, you must submit a completed [security checklist](../documents/security-checklist.xlsx) and a [design pack](../documents/design-pack.docx) with the conceptual, logical and physical design sections completed.
 
+#### How to engage the TDA
+
+- You will need to complete a Design pack (Physical views)
+- You will need to complete the TDA Security Checklist
+
+You will need to answer the following questions:
+- Will the solution be hosted in the cloud? If so, has your submission been reviewed by the Cloud Infrastructure Platform (CIP) team?   (Provide name)
+          - Have you considered the longer term hosting costs, across all environments? Have these cost been endorsed by the CIP team?
+          
+ - What is the Total Costof Ownership (TCO) for this service? (Delivery plus on-going operational costs from discovery to live)
+         - Is this affordable?
+          
+ - Is there a support model in place to avoid creating long term reliance on specific individuals?
+ - What potential commoncomponents will this solution create for reuse across other parts of DfE and government?
+ - Send this to your Architecture partner for peer review. They will confirm when and if this should be reviewed by TDA.
+ - When the Architecture partner confirms, send your submission, security checklist and the answers to the questions above to the  Architecture Governance mailbox by 09:00am Monday, for consideration at the Wednesday session.
+
+
 #### Technical Show and Tells
 It may be more appropriate for your project to bring architects and team members together for a technical Show and Tell. These are a great way to provide support, challenge and design assurance in a less formal setting. As with other assurance activities, any resulting decisions and actions will be logged on the Architecture RAID log and added to the weekly architecture communications.
 
