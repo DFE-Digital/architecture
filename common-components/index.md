@@ -150,7 +150,7 @@ Support for DfE Sign-in is available through our [help pages](https://help.signi
 
 DfE Sign-in support requests are managed via a dedicated DfE Sign-in service desk where we can monitor and track support requests. That enables us to collect information to help improve the service, highlight any potential service issues and regularly update the help pages to further support our users.
 
-Please direct your users through this support route. If there is anything you would like to discuss or be taken through common issues or regular queries, please contact the Product Manager.
+Please direct your users through this support route. If there is anything you would like to discuss or be taken through common issues or regular queries, please contact the Product Owner.
 
 __Roadmap__
 
