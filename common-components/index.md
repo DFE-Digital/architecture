@@ -161,9 +161,8 @@ A full roadmap of services to be onboarded can be seen below:
 ![Image of the DfE Sign-in roadmap](../images/dfesignin-roadmap.png)
 
 __Further guidance__
--	Product Manager - [Ravi Jassal](https://eur.delve.office.com/?u=ec77c25a-0307-40cc-9e6b-4e1d05eda0fc&v=work)
--	Delivery Manager - [James Cheetham](https://eur.delve.office.com/?u=05f12707-cf64-4928-a6da-d5b4d96c5870&v=work)
--	Product Owner - [Jane Ludlow](https://eur.delve.office.com/?u=29a68eae-0685-4e19-af80-e51da80951ae&v=work)
+-	Service Manager - [Jane Ludlow](https://eur.delve.office.com/?u=29a68eae-0685-4e19-af80-e51da80951ae&v=work)
+-	Product Owner - [Ilona Posluszny](https://gbr.delve.office.com/?u=40757922-2ddc-4491-ab69-043106176d65&v=work)
 
 
 <a name="eapim"></a>
