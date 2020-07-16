@@ -32,6 +32,7 @@ The terms we use in the different levels of work may have different meanings or 
 - [Service](#service)
 - [Capability](#capability)
 - [Product](#product)
+- [Feature](#feature)
 - [Activities and tasks](#activities)
 - [Technology](#technology)
 - [Data](#data)
@@ -124,6 +125,14 @@ Activities can also describe the things that need to happen to make a service wo
 Activities should describe what happens, but not how it happens, by whom or with what. So, we’d use ‘notifying someone’ rather than ‘sending a letter’ and ‘making a decision’ rather than ‘casework’.
 
 Example, a claims advisor deciding how much someone’s insurance claim is worth.
+
+
+<a name="feature"></a>
+### Feature ###
+
+Features are specific activities or tasks (outcomes) that services or products can deliver. Certain features might be differentiating factors between services and products; they might help you decide which is the right product for you to use.
+
+For example, features common to popular collaboration software products might include things like video conferencing, voice calling, chat or instant messaging. Similarly, the 'Explore Careers' product within the National Careers Service has a job search feature, with which users can drill down into the details of different jobs, to help them understand if that's a good career choice for them. This differs from a job search feature on a recruitment website, for example, that displays live vacancies for a particular job.
 
 
 <a name="technology"></a>
