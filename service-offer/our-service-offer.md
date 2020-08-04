@@ -25,7 +25,7 @@ They:
   - for new projects, they will guide the idea formation and assess the architectural services required to support the project (e.g. solution / technical architects), assisting in the project’s recruitment of those people / services  
   - for existing projects / services, they will work with the service delivery team to align with architectural principles and governance, assisting in identifying commonality across the enterprise and in finding the right solutions
 
-To find out who your Architecture Partner is, contact the [Architecture team](mailto:architecture.governance@education.gov.uk)
+To find out who your Architecture Partner is, contact the [Architecture team](mailto:architecture.services@education.gov.uk)
 
 ## Enterprise Architects
 
@@ -54,4 +54,4 @@ They are generally specialists or technical subject matter experts in one or mor
 
 More information on architecture roles and responsibilities is available on the [Architecture Capability Framework](../../capability/architecture-capability-framework/) guidance.
 
-For any other information on the architecture practice, contact the [Architecture team](mailto:architecture.governance@education.gov.uk)
+For any other information on the architecture practice, contact the [Architecture team](mailto:architecture.services@education.gov.uk)
