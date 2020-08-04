@@ -427,4 +427,4 @@ Contact [David Bowley](https://eur.delve.office.com/?u=2f894eab-9154-4025-9a34-4
 
 ## Further guidance on common components ##
 
-For more information on common components or to discuss adding your component to the repository, contact the [Architecture team](mailto:architecture.governance@education.gov.uk)
+For more information on common components or to discuss adding your component to the repository, contact the [Architecture team](mailto:architecture.services@education.gov.uk)
