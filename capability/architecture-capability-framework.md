@@ -47,7 +47,7 @@ We also have an architecture practice manager and some functional support, to ke
 *[Add offer, recommended learning, shadowing / mentoring, how to access]*
 ### Community
 
-There is a thriving architecture community in DfE. We meet up monthly, to Show and Tell good things that are happening in the architecture space and hear from wider Government, private sector, relevant suppliers and vendors on new, innovative solutions. And just chew the fat and share knowledge. You don't have to be an architect to join in - we often hear from other business areas and those interested in what we're doing. If you want to get involved or have something to share, drop us a line in the [Architecture team](mailto:architecture.governance@education.gov.uk).
+There is a thriving architecture community in DfE. We meet up monthly, to Show and Tell good things that are happening in the architecture space and hear from wider Government, private sector, relevant suppliers and vendors on new, innovative solutions. And just chew the fat and share knowledge. You don't have to be an architect to join in - we often hear from other business areas and those interested in what we're doing. If you want to get involved or have something to share, drop us a line in the [Architecture team](mailto:architecture.services@education.gov.uk).
 
 The conversation continues on the following channels:
 
@@ -76,7 +76,7 @@ The Architecture team have a number of compliant commercial routes to market for
 - link them into the wider DfE architecture profession and community
 - exit them professionally, with appropriate handover and knowledge transfer when their work is complete
 
-If you'd like to know more, contact the contact the [Architecture team](mailto:architecture.governance@education.gov.uk).
+If you'd like to know more, contact the contact the [Architecture team](mailto:architecture.services@education.gov.uk).
 
 ## Pathways into architecture
 ![Image of the pathways into architecture](../images/framework-pathways.jpg)
@@ -86,4 +86,4 @@ If you'd like to know more, contact the contact the [Architecture team](mailto:a
 ## Profiles
 *[Add case studies for Enterprise / Solution / Technical Architect]*
 
-For more information, contact the [Architecture team](mailto:architecture.governance@education.gov.uk)
+For more information, contact the [Architecture team](mailto:architecture.services@education.gov.uk)
