@@ -84,4 +84,4 @@ If there is a very minor change to a design or the solution is not complex, then
 
 ## Further guidance
 
-For more information on architecture governance or design assurance, contact the [Architecture team](mailto:architecture.governance@education.gov.uk)
+For more information on architecture governance or design assurance, contact the [Architecture team](mailto:architecture.services@education.gov.uk)
