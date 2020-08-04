@@ -87,39 +87,8 @@ __Relates to__
 
 TCoP10: Make better use of data
 
-## 6. Consider buy before build
 
-__Why?__
-
-Provides for economies of scale, should reduce risk and timescales
-
-__How?__
--  Requirements may need to be prioritised or forfeited to avoid bespoke solutions
--  Using multiple integrated solutions may be necessary to satisfy complex user needs
--  Configuration is likely to be necessary to use COTS, customisation should be avoided
-
-__Relates to__
-
-SS11: Choose the right tools and technology
-
-## 7. Design for accessibility 
-
-__Why?__
-
-Provides an equal playing field for all users
-
-__How?__
--  Systems must adhere to current government accessibility regulations
--  Seek input from Accessibility Advisers on how designs might need amending to improve accessibility
--  Include accessibility testing as part of any project delivery
-
-__Relates to__
-
-- TCoP2: Make things accessible and inclusive
-- SS4: Make the service simple to use
-- SS5: Make sure everyone can use the service
-
-## 8. Deliver a secure service  
+## 7. Deliver a secure service  
 
 __Why?__
 
@@ -134,7 +103,7 @@ __Relates to__
 - TCoP6: Make things secure
 - SS9: Create a secure service which protects users' privacy
 
-## 9. Deliver cloud-only solutions
+## 8. Deliver cloud-only solutions
 
 __Why?__
 
@@ -151,7 +120,7 @@ __Relates to__
 
 TCoP5: Use cloud first
 
-## 10. Design for interoperability 
+## 9. Design for interoperability 
 
 __Why?__
 
@@ -166,7 +135,7 @@ __Relates to__
 
 TCoP9: Integrate and adapt technology
 
-## 11. Open standards must be considered
+## 10. Open standards must be considered
 
 __Why?__
 
@@ -183,7 +152,7 @@ __Relates to__
 - TCoP4: Make use of open standards
 - SS13: Use and contribute to open standards, common components and patterns
 
-## 12. Design for portability
+## 11. Design for portability
 
 __Why?__
 
@@ -195,7 +164,7 @@ __How?__
 - Minimise use platform specific features
 - Will require an exit strategy
 
-## 13. Solutions must be loosely coupled
+## 12. Solutions must be loosely coupled
 
 __Why?__
 
@@ -210,7 +179,7 @@ __Relates to__
 
 TCoP9: Integrate and adapt technology
 
-## 14. Minimise technical debt
+## 13. Minimise technical debt
 
 __Why?__
 
