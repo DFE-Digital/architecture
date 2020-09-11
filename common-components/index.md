@@ -45,7 +45,8 @@ Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | 
 | [Postcode lookup](#postcode) | tbc | Discovery
 | [Geospatial mapping](#mapping) | tbc | Discovery
 | [Notifications and messaging](#notifications) | tbc | Discovery
-Applications | [Enterprise CRM](#crm) | Saghir Akbar | Beta
+Applications | [Content Management System  (#cms)] | tbc | Discovery
+| [Enterprise CRM](#crm) | Saghir Akbar | Beta
 | 360 customer view | Saghir Akbar | Alpha
 | Marketing Automation platform | tbc | Discovery
 | Robotic Process Automation (RPA) platform | tbc | Alpha
