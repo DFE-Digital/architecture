@@ -362,6 +362,44 @@ Here's a link to an [Excel version of the table](../documents/common-component-m
 
 If you're considering your options and want more advice, get in touch with your [architecture partner](../service-offer/our-service-offer).
 
+<a name="cms"></a>
+### Content Management System
+
+A Content Management System (CMS), is an application that allows users to store in one place, create, manage, modify, and publish digital content. Headless CMS is the type that is being used increasingly within the department. This is a back-end only content management system  that makes content accessible via a RESTful API for display on any device, including iOS, Android and Windows apps and platforms.
+__Content Management System components__
+
+CMS applications support collaboration across teams, with multiple users being able to work in the back-end of the same CMS application, allowing for quick and easy updates. Users can customise the design and functionality of the content by using templates and extensions. 
+
+These are the products and services in use or being considered across the department:
+
+- [Contentful] (https://www.contentful.com/)
+- [Orchard Core] (http://www.orchardcore.net/)
+- [Contentstack] (https://www.contentstack.com/)
+- [Kontent] (https://kontent.ai/)
+- [Prismic] (https://prismic.io/)
+- [Cosmic JS] (https://www.cosmicjs.com/)
+- [Sitefinity] (https://www.progress.com/sitefinity-cms)
+
+Benefits of using a CMS include:
+ 
+1. No Coding Knowledge Required - Enables non-developers and other users to build websites without coding. (It's important to note that most CMS applications do allow users to add custom code for more granular control.)
+ 
+2. Easy Collaboration - Multiple users can access and work in the back end of a CMS at the same time.  
+ 
+3. Features, Extensions and Templates - CMS applications offer built-in features as well as add-ons to customise digital content.
+ 
+4. Easier Updates - Enables users to make changes to digital content faster and easier, to keep content dynamic and relevant.
+
+
+They each bring a slightly different set of features and capabilities that fit different use cases. This table provides an overview:
+
+![Image of the DfE Content Management System Capabilities](../images/cms-overview.png)
+
+Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
+
+If you're considering your options and want more advice, get in touch with your [architecture partner](../service-offer/our-service-offer).
+
+
 <a name="crm"></a>
 ### Enterprise CRM
 An enterprise-aligned CRM platform built on Microsoft Dynamics 365 that provides a modern, secure and cost-effective solution for managing customer relationships.  
