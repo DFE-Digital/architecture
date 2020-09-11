@@ -45,7 +45,7 @@ Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | 
 | [Postcode lookup](#postcode) | tbc | Discovery
 | [Geospatial mapping](#mapping) | tbc | Discovery
 | [Notifications and messaging](#notifications) | tbc | Discovery
-Applications | [Content Management System  (#cms)] | tbc | Discovery
+Applications | [Content Management System ](#cms) | tbc | Discovery
 | [Enterprise CRM](#crm) | Saghir Akbar | Beta
 | 360 customer view | Saghir Akbar | Alpha
 | Marketing Automation platform | tbc | Discovery
@@ -367,19 +367,20 @@ If you're considering your options and want more advice, get in touch with your 
 ### Content Management System
 
 A Content Management System (CMS), is an application that allows users to store in one place, create, manage, modify, and publish digital content. Headless CMS is the type that is being used increasingly within the department. This is a back-end only content management system  that makes content accessible via a RESTful API for display on any device, including iOS, Android and Windows apps and platforms.
+
 __Content Management System components__
 
 CMS applications support collaboration across teams, with multiple users being able to work in the back-end of the same CMS application, allowing for quick and easy updates. Users can customise the design and functionality of the content by using templates and extensions. 
 
 These are the products and services in use or being considered across the department:
 
-- [Contentful] (https://www.contentful.com/)
-- [Orchard Core] (http://www.orchardcore.net/)
-- [Contentstack] (https://www.contentstack.com/)
-- [Kontent] (https://kontent.ai/)
-- [Prismic] (https://prismic.io/)
-- [Cosmic JS] (https://www.cosmicjs.com/)
-- [Sitefinity] (https://www.progress.com/sitefinity-cms)
+- [Contentful](https://www.contentful.com/)
+- [Orchard Core](http://www.orchardcore.net/)
+- [Contentstack](https://www.contentstack.com/)
+- [Kontent](https://kontent.ai/)
+- [Prismic](https://prismic.io/)
+- [Cosmic JS](https://www.cosmicjs.com/)
+- [Sitefinity](https://www.progress.com/sitefinity-cms)
 
 Benefits of using a CMS include:
  
