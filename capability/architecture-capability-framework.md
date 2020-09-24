@@ -61,6 +61,7 @@ We also have an architecture practice manager and some functional support, to ke
 ### Responsibilities
 Here are some examples of the expected responsibilities at different levels:
 
+
 |  | G6 Enterprise Architect | G7 Solution Architect | SEO Technical Architect
 - | - | - | -
 __Delivery__ | One or more portfolio(s) or business domain(s) | A group of projects aligned to one or more portfolio(s) or business domain(s) | A group of projects aligned to one or more portfolio(s) or business domain(s)
@@ -70,7 +71,8 @@ __Thought leadership__ | Write thematic papers to influence, lead community disc
 __Line management__ | Team plans and management, workforce management | + Management of colleagues |
 __Corporate__ | Budget delegation, corporate work (embedded), mentoring, recruitment, xGovernment collaboration | + Corporate work (actively involved), mentoring, recruitment, xGovernment collaboration | + Recruitment, xGovernment collaboration
 
-(+ - indicates a stretch goal)
+(+ indicates a stretch goal)
+
 
 Architects (or those aspiring to be architects) should consider:
 
