@@ -27,7 +27,7 @@ We broadly align our roles with the Technical Architect levels in the GOV.UK DDa
 
 We use the skills, levels and mastery from the Technical Architect roles and adapt them for our roles.
 
-## Enterprise Architects
+### Enterprise Architects
 
 Enterprise Architects work across the DfE at a strategic level to translate business strategy into change and technical delivery.
 
@@ -38,19 +38,19 @@ Their responsibilities include:
 - ownership of architecture strategy and roadmaps, including ‘as-is’ and ‘to-be’ transitional states
 - understanding DfE's ecosystem and its inter-dependencies
 
-## Solution Architects
+### Solution Architects
 
 Solution Architects work with multi-disciplinary teams to find the best use of data, applications and technology to design and deliver services and products, whilst also delivering business change and achieving organisational objectives.
 
 Solution Architects own the overall technical vision for a solution or set of solutions. They work with service delivery teams to assure the implementation and delivery of those solutions.
 
-## Technical Architects
+### Technical Architects
 
 Technical Architects tend to be embedded within a multi-disciplinary team, working end-to-end to help to design and implement technical solutions. They are often specialists or technical subject matter experts in one or more disciplines (e.g. software development, data, security, DevOps).
 
 *[Add read across with DDaT Tech Arch skill levels]*
 
-## Specialist Architects
+### Specialist Architects
 
 In the team, we also have [Data Architects](https://www.gov.uk/government/publications/data-architect-role-description/data-architect-role-description)
 and [Specialist Technical Architects](https://www.gov.uk/government/publications/technical-specialist-architect-role-description/technical-specialist-architect-role-description) (focused on things like security or networks, for example)
