@@ -3,7 +3,7 @@ category: Patterns
 expires: 2020-01-01
 ---
 
-# Technical requirement patterns
+# Technical requirements
 
 ## Non-functional requirements (NFRs)
 

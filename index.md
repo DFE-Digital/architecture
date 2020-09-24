@@ -53,7 +53,6 @@ when building digital services.
 ## Repositories
 
 - [DfE SharePoint repo](https://educationgovuk.sharepoint.com/sites/gp/WorkplaceDocuments)
-- [ESFA SharePoint repo](https://educationgovuk.sharepoint.com/sites/ops-cto/strategyandarchitecture)
 - [DfE Digital Confluence](https://dfedigital.atlassian.net)
 - [ESFA Confluence](https://skillsfundingagency.atlassian.net)
 
