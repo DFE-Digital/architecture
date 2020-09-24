@@ -37,7 +37,7 @@ to enable the building of services.
 Domain | Component | Owner | Status
 - | - | - | -
 Hosting | [Cloud Infrastructure Platform (CIP)](#cip) | Saghir Akbar | Beta
- | Gov.UK PaaS | tbc | Discovery
+ | Gov.UK PaaS | Saghir Akbar | Discovery
 Security and networks | [DfE Sign-in](#dfe-signin) | Leanna Green | Live
 | Core network | Jon Gilbert | Live
 Integration | [Enterprise API Management (EAPIM)](#eapim) | Saghir Akbar | Beta
@@ -45,9 +45,8 @@ Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | 
 | [Postcode lookup](#postcode) | tbc | Discovery
 | [Geospatial mapping](#mapping) | tbc | Discovery
 | [Notifications and messaging](#notifications) | tbc | Discovery
-Applications | [Content Management System ](#cms) | tbc | Discovery
+Applications | [Content Management Systems ](#cms) | tbc | Discovery
 | [Enterprise CRM](#crm) | Saghir Akbar | Beta
-| 360 customer view | Saghir Akbar | Alpha
 | Marketing Automation platform | tbc | Discovery
 | Robotic Process Automation (RPA) platform | tbc | Alpha
 
@@ -55,10 +54,10 @@ Applications | [Content Management System ](#cms) | tbc | Discovery
 
 Domain | Component | Owner | Status
 - | - | - | -
-End User Computing | Outlook and Teams | Leanna Green | Live
+End User Computing | Office 365 | Leanna Green | Live
 | Phones and Skype | Leanna Green | Live
 | Mobile phones | Leanna Green | Live
-Service management | Service desk tools | Leanna Green | Live
+Service management | Service desk tools (Service Now) | Leanna Green | Live
 Digital | Productivity tools (Slack, Trello, Confluence) | Ashley Stephens | Beta
 Development | Development tools (Azure DevOps, Github) | Saghir Akbar | Live
 Information and data | SharePoint | Harj Bilan | Live
@@ -364,13 +363,13 @@ Here's a link to an [Excel version of the table](../documents/common-component-m
 If you're considering your options and want more advice, get in touch with your [architecture partner](../service-offer/our-service-offer).
 
 <a name="cms"></a>
-### Content Management System
+### Content Management Systems
 
-A Content Management System (CMS), is an application that allows users to store in one place, create, manage, modify, and publish digital content. Headless CMS is the type that is being used increasingly within the department. This is a back-end only content management system  that makes content accessible via a RESTful API for display on any device, including iOS, Android and Windows apps and platforms.
+A Content Management System (CMS) allows users to create, manage, modify, publish and store digital content in one place. 'Headless' content management is being used increasingly within the department. This is a back-end only CMS that makes content accessible via a RESTful API, for display on any device through one or more front-end channels.
 
 __Content Management System components__
 
-CMS applications support collaboration across teams, with multiple users being able to work in the back-end of the same CMS application, allowing for quick and easy updates. Users can customise the design and functionality of the content by using templates and extensions. 
+CMS applications support collaboration across teams, with multiple users being able to work in the back-end of the same CMS application, allowing for quick and easy updates. Users can customise the design and functionality of the content by using templates and extensions.
 
 These are the products and services in use or being considered across the department:
 
@@ -383,17 +382,16 @@ These are the products and services in use or being considered across the depart
 - [Sitefinity](https://www.progress.com/sitefinity-cms)
 
 Benefits of using a CMS include:
- 
-1. No Coding Knowledge Required - Enables non-developers and other users to build websites without coding. (It's important to note that most CMS applications do allow users to add custom code for more granular control.)
- 
-2. Easy Collaboration - Multiple users can access and work in the back end of a CMS at the same time.  
- 
-3. Features, Extensions and Templates - CMS applications offer built-in features as well as add-ons to customise digital content.
- 
-4. Easier Updates - Enables users to make changes to digital content faster and easier, to keep content dynamic and relevant.
 
+1. No coding knowledge required - Enables non-developers and other users to build websites without coding. (It's important to note that most CMS applications do allow users to add custom code for more granular control.)
 
-They each bring a slightly different set of features and capabilities that fit different use cases. This table provides an overview:
+2. Easy collaboration - Multiple users can access and work in the back end of a CMS at the same time.  
+
+3. Features, extensions and templates - CMS applications offer built-in features as well as add-ons to customise digital content.
+
+4. Easier updates - Enables users to make changes to digital content faster and easier, to keep content dynamic and relevant.
+
+Each CMS brings a slightly different set of features and capabilities that fit different use cases. This table provides an overview:
 
 ![Image of the DfE Content Management System Capabilities](../images/cms-overview.png)
 
