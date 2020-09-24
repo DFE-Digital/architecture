@@ -61,7 +61,7 @@ We also have an architecture practice manager and some functional support, to ke
 ### Responsibilities
 Here are some examples of the expected responsibilities at different levels:
 
- | G6 Enterprise Architect | G7 Solution Architect | SEO Technical Architect
+- | G6 Enterprise Architect | G7 Solution Architect | SEO Technical Architect
 - | - | - | -
 __Delivery__ | One or more portfolio(s) or business domain(s) | A group of projects aligned to one or more portfolio(s) or business domain(s) | A group of projects aligned to one or more portfolio(s) or business domain(s)
 __Assurance__ | Review of business cases, establish controls, ARB submissions, technical service assessments, design assurance of major/critical programmes | Establish controls, ARB / TDA submissions, technical assessment, design assurance of projects and programmes | Establish controls, ARB / TDA submissions, technical assessment, design assurance of projects and programmes
@@ -72,14 +72,14 @@ __Corporate__ | Budget delegation, corporate work (embedded), mentoring, recruit
 
 (+ - indicates a stretch goal)
 
-*[Add examples for other architect roles]*
-
 Architects (or those aspiring to be architects) should consider:
 
 - Which level am I operating at?
 - What else could / should I do?
 - How can I create space to cover?
 - What support do I need?
+
+*[Add examples for other architect roles]*
 
 ### Objectives
 *[Add standard deliverables, expectations]*
