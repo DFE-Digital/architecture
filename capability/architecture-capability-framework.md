@@ -5,14 +5,14 @@ expires: 2020-12-01
 
 # Architecture Capability Framework
 
-(Note - this page is being drafted)
+(Note - this page is being drafted, but we wanted to share the information we'd gathered as soon as it was available. If you have any comments, please contact the [Architecture team](mailto:architecture.services@education.gov.uk))
 
 ## Purpose
 This framework provides an outline of the roles, skills and experience that architects working within DfE have or would like to build.
 
 It describes the pathways into architecture and how to develop an architecture career. It should help also people interacting with architects understand what we do and how we do it.
 
-It builds on the [GOV.UK DDaT Capability Framework](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework), extending the various skills, levels and mastery for the DfE context.
+It builds on the [GOV.UK DDaT Capability Framework](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework), extending the various skills, levels and mastery for the context of DfE.
 
 ## The skills and experience you'll need
 In the DfE architecture team, we have a mix of Enterprise, Solution and Technical Architects, plus some more specialist architects.
@@ -25,7 +25,7 @@ We broadly align our roles with the Technical Architect levels in the GOV.UK DDa
   * SEO Solution / Technical Architect = [Technical Architect](https://www.gov.uk/government/publications/technical-architect-skills-they-need/technical-architect-skills-they-need)
   * HEO Associate Architect = [Associate Architect](https://www.gov.uk/government/publications/associate-technical-architect-skills-they-need/associate-technical-architect-skills-they-need)
 
-We use the skills, levels and mastery from the Technical Architect roles and adapt them for our roles.
+We use the skills, levels and mastery from these Technical Architect roles and adapt them for our roles in DfE.
 
 ### Enterprise Architects
 
@@ -48,19 +48,42 @@ Solution Architects own the overall technical vision for a solution or set of so
 
 Technical Architects tend to be embedded within a multi-disciplinary team, working end-to-end to help to design and implement technical solutions. They are often specialists or technical subject matter experts in one or more disciplines (e.g. software development, data, security, DevOps).
 
-*[Add read across with DDaT Tech Arch skill levels]*
+*[Add read across with DDaT Tech Arch skill levels, standard job descriptions]*
 
 ### Specialist Architects
 
 In the team, we also have [Data Architects](https://www.gov.uk/government/publications/data-architect-role-description/data-architect-role-description)
-and [Specialist Technical Architects](https://www.gov.uk/government/publications/technical-specialist-architect-role-description/technical-specialist-architect-role-description) (focused on things like security or networks, for example)
-who work closely with service delivery teams and the other parts of the department to help achieve our goals.
+and other [Specialist Technical Architects](https://www.gov.uk/government/publications/technical-specialist-architect-role-description/technical-specialist-architect-role-description) (focused on things like security or networks, for example), who work closely with service delivery teams and the other parts of the department to help achieve our goals.
 
 We also have an architecture practice manager and some functional support, to keep everything running smoothly.
 
 ## Things to help you
+### Responsibilities
+Here are some examples of the expected responsibilities at different levels:
+
+ | G6 Enterprise Architect | G7 Solution Architect | SEO Technical Architect
+- | - | - | -
+__Delivery__ | One or more portfolio(s) or business domain(s) | A group of projects aligned to one or more portfolio(s) or business domain(s) | A group of projects aligned to one or more portfolio(s) or business domain(s)
+__Assurance__ | Review of business cases, establish controls, ARB submissions, technical service assessments, design assurance of major/critical programmes | Establish controls, ARB / TDA submissions, technical assessment, design assurance of projects and programmes | Establish controls, ARB / TDA submissions, technical assessment, design assurance of projects and programmes
+__Strategies__ | Own one or more technology strategies and roadmaps | + One or more technology strategies and roadmaps |
+__Thought leadership__ | Write thematic papers to influence, lead community discussions | + Write thematic papers to influence, lead community discussions |
+__Line management__ | Team plans and management, workforce management | + Management of colleagues |
+__Corporate__ | Budget delegation, corporate work (embedded), mentoring, recruitment, xGovernment collaboration | + Corporate work (actively involved), mentoring, recruitment, xGovernment collaboration | + Recruitment, xGovernment collaboration
+
+(+ - indicates a stretch goal)
+
+*[Add examples for other architect roles]*
+
+Architects (or those aspiring to be architects) should consider:
+
+- Which level am I operating at?
+- What else could / should I do?
+- How can I create space to cover?
+- What support do I need?
+
 ### Objectives
 *[Add standard deliverables, expectations]*
+
 ### Learning and development
 *[Add offer, recommended learning, shadowing / mentoring, how to access]*
 ### Community
