@@ -15,9 +15,9 @@ It describes the pathways into architecture and how to develop an architecture c
 It builds on the [GOV.UK DDaT Capability Framework](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework), extending the various skills, levels and mastery for the context of DfE.
 
 ## The skills and experience you'll need
-At DfE we have a mix of Enterprise, Solution, Technical and Data Architects, we have Tech Leads, Heads of profession etc. Lots of different roles and teams that do architecture in one way or another across a number of Directorates. There is a central architecture team as well as discreet architecture teams working across DfE.
+In DfE, we have a mix of enterprise, solution, technical and data architects. We also have tech leads and Heads of Profession - there are lots of different roles and teams that do architecture in one way or another, across a number of business areas. There is a central architecture team, as well as discreet architecture teams working across DfE.
 
-Here is a flavour of some of the more common roles:
+Here are some of the more common roles:
 
 ### Enterprise Architects
 
@@ -38,18 +38,18 @@ Solution Architects own the overall technical vision for a solution or set of so
 
 ### Technical Architects
 
-Technical Architects tend to be embedded within a multi-disciplinary team, working end-to-end to help to design and implement technical solutions. They are often specialists or technical subject matter experts in one or more disciplines (e.g. software development, data, security, DevOps). They tend to work in continuous delivery environments and are comfortable with turning business problems into technical design. They tend to be from a software development or engineering background and are still comfortable in using technical toolsets and / or code. Technical Architects currently work in digital service lines such as those found in Teacher Services etc. This role is aligned to the following GDS guidance on the technical architect job family.
+Technical Architects tend to be embedded within a multi-disciplinary team, working end-to-end to help to design and implement technical solutions. They are often specialists or technical subject matter experts in one or more disciplines (e.g. software development, data, security, DevOps). They tend to work in continuous delivery environments and are comfortable with turning business problems into technical design. They tend to be from a software development or engineering background and are comfortable using technical toolsets and / or code. 
 
-[Technical Architects](https://www.gov.uk/guidance/technical-architect)
+Technical Architects currently work in digital service lines within DfE, such as those found in Teacher Services, for example. This role is aligned to the [Technical Architect](https://www.gov.uk/guidance/technical-architect) job family of the GOV.UK DDaT Capability Framework.
 
 *[Add read across with DDaT Tech Arch skill levels, standard job descriptions]*
 
 ### Specialist Architects
 
-In the team, we also have [Data Architects](https://www.gov.uk/government/publications/data-architect-role-description/data-architect-role-description)
+We also have [Data Architects](https://www.gov.uk/government/publications/data-architect-role-description/data-architect-role-description)
 and other [Specialist Technical Architects](https://www.gov.uk/government/publications/technical-specialist-architect-role-description/technical-specialist-architect-role-description) (focused on things like security or networks, for example), who work closely with service delivery teams and the other parts of the department to help achieve our goals.
 
-We also have an architecture practice manager and some functional support, to keep everything running smoothly.
+And we have an architecture practice manager and some functional support, to keep everything running smoothly.
 
 ## Things to help you
 ### Responsibilities
