@@ -2,6 +2,9 @@ title: DfE Architecture
 
 permalink: pretty
 
+header_links:
+  GitHub: https://github.com/DFE-Digital/architecture
+
 footer_links:
   Accessibility: https://dfe-digital.github.io/architecture/accessibility
 
