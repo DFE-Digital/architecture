@@ -1,6 +1,6 @@
 ---
 category: Architecture Principles
-expires: 2020-01-01
+expires: 2021-01-01
 ---
 
 # Enterprise Architecture Principles
@@ -40,7 +40,7 @@ __Relates to__
 
 SS3: Provide a joined up experience across all channels
 
-## 3. Technology decisions and project choices must be linked to DfE goals and drivers 
+## 3. Technology decisions and project choices must be linked to DfE goals and drivers
 
 __Why?__
 
@@ -54,7 +54,7 @@ __Relates to__
 
 SS10: Define what success looks like and publish performance data
 
-## 4. Total Cost of Ownership must be evaluated 
+## 4. Total Cost of Ownership must be evaluated
 
 __Why?__
 
@@ -72,7 +72,7 @@ __Relates to__
 
 SS10: Define what success looks like and publish performance data
 
-## 5. Data is a shared asset 
+## 5. Data is a shared asset
 
 __Why?__
 
@@ -92,7 +92,7 @@ TCoP10: Make better use of data
 
 __Why?__
 
-The department’s information assets must be protected to ensure that they are not inadvertently exposed to an unintended audience. 
+The department’s information assets must be protected to ensure that they are not inadvertently exposed to an unintended audience.
 
 __How?__
 -   Early engagement with the Chief Information Security Officer (CISO) division will ensure that risk assessments are completed and appropriate security controls are designed into solutions before development has begun.
@@ -108,7 +108,7 @@ __Relates to__
 __Why?__
 
 - The scale of public cloud services enables the delivery of highly scalable, cost effective, secure services. Consumption based billing and rapid provisioning supports the Government ICT strategy.
-- A service can be configured and built using a SaaS product, without bespoke customisation and  vendor lock in 
+- A service can be configured and built using a SaaS product, without bespoke customisation and  vendor lock in
 
 __How?__
 -  Software as a Service (SaaS) before Platform as a Service (PaaS) before Infrastructure as a Service (IaaS)
@@ -120,7 +120,7 @@ __Relates to__
 
 TCoP5: Use cloud first
 
-## 9. Design for interoperability 
+## 9. Design for interoperability
 
 __Why?__
 
@@ -145,7 +145,7 @@ __Why?__
 
 __How?__
 
-Where open standards  do not exist, create one or find the best fit with least lock in 
+Where open standards  do not exist, create one or find the best fit with least lock in
 
 __Relates to__
 
@@ -168,7 +168,7 @@ __How?__
 
 __Why?__
 
-- Loosely coupled components can be replaced with alternative implementations that provide the same services. 
+- Loosely coupled components can be replaced with alternative implementations that provide the same services.
 - Components in a loosely coupled system are less constrained to the same platform, language, operating system, or build environment.
 
 __How?__
@@ -192,4 +192,3 @@ __How?__
 __Relates to__
 
 SS2. Solve the whole problem for a users
-
