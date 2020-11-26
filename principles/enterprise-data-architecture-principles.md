@@ -43,7 +43,7 @@ __How?__
 - Data may be held in un-anonymised form but must be suitably anonymised before being presented to end users or removed from production security-level environments.
 - This principle also relates to ‘Data is obtainable’ – we must ensure the right balance between accessibility and security
 
-# 3. Data is Shared
+## 3. Data is Shared
 _All services have data that is useful to users outside the service boundary_
 
 __Why?__
@@ -66,7 +66,7 @@ __How?__
 - For data to be discoverable, we must maintain a searchable central metadata repository, including data elements, data models and other metadata as part of our Data Estate Map.
 - Where legally permitted, data will be available externally to further the business of government and to support wider citizen and business use of Departmental data.
 
-# 4. Data is Obtainable
+## 4. Data is Obtainable
 _Data is obtainable for users to carry out their activities_
 
 __Why?__
@@ -83,7 +83,7 @@ __How?__
 - Good governance must be in place to ensure those with access to data understand their responsibilities under the Data Protection Act, and the limits of what they can do in the way of publishing, sharing or modifying the data. The Data Estate Map should be used to store and present this information to users.
 - It must be quick and easy to determine who has access to each data asset, and to audit any human or computer access for any time period going back for a reasonable amount of time.
 
-# 5. Data is Analysable
+## 5. Data is Analysable
 _Our data fundamentally underpins our ability to assess policy and delivery effectiveness_
 
 __Why?__
@@ -98,7 +98,7 @@ __How?__
 - This data and its subsequent use will be covered by DfE Data Governance policies and processes, and the Government Statistical Service Code of Practice
 - Data owners must define policies and processes to ensure data quality problems identified once data reaches EDAP can be reported to relevant services and data stewards to be fixed at source _[TBC: Link to Data Gov]_
 
-# 6. Data use is Ethical
+## 6. Data use is Ethical
 _We must process and store data in line with the ethical consensus around data use_
 
 __Why?__
