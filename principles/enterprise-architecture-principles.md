@@ -7,7 +7,7 @@ expires: 2021-01-01
 
 Principles are general rules and guidelines, intended to be enduring and seldom amended, that inform and support the way in which the DfE fulfils its vision and principles. They reflect a level of consensus across the enterprise and embody the spirit and thinking of the enterprise architecture.
 
-Requirements gathering provide user needs and wants, principles provide the guidance to meet those requirements.
+Requirements gathering provide user needs and wants, principles provide the guidance to meet those needs.
 
 Throughout these principles, we refer to specific points of the UK Government [Service Standard](https://www.gov.uk/service-manual/service-standard) and [Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice), that underpin use of these principles.
 
