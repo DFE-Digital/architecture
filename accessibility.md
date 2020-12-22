@@ -46,7 +46,6 @@ This website is partially compliant with the [Web Content Accessibility Guidelin
 
 The following pages contain PNG images which are not fully explained in the text:
 
-- [https://dfe-digital.github.io/architecture/standards/common-definitions/#common-definitions](https://dfe-digital.github.io/architecture/standards/common-definitions/#common-definitions)
 - [https://dfe-digital.github.io/architecture/common-components/#common-components](https://dfe-digital.github.io/architecture/common-components/#common-components)
 - [https://dfe-digital.github.io/architecture/governance/governance-and-design/#governance-and-design](https://dfe-digital.github.io/architecture/governance/governance-and-design/#governance-and-design)
 - [https://dfe-digital.github.io/architecture/capability/architecture-capability-framework/#architecture-capability-framework](https://dfe-digital.github.io/architecture/capability/architecture-capability-framework/#architecture-capability-framework)
@@ -76,6 +75,6 @@ We used manual and automated tests to look for issues such as:
 
 When we publish new content, we’ll make sure our use of images meets accessibility standards.
 
-We plan to fix the issues with the images by the end of 2020.
+We plan to fix the issues with the images by the end of March 2020.
 
 This statement was prepared on 24 September 2020. It was last updated on 24 September 2020.
