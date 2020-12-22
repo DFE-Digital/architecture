@@ -56,7 +56,7 @@ _“everything the user needs to do to achieve a goal. It is the end-to-end jour
 
 The whole service is defined from the user’s perspective, rather than from ours.  That's why, in government, it's standard practice to name services by how a user would think of them or search for them online - for example, ‘get a passport’, ‘become a teacher’, ‘learn to drive’ or ‘become an apprentice’.
 
-In DfE, a user could be a student, a parent or guardian, a child, an external training provider, a civil servant - anyone that needs to do something, where they or government has a particular outcome to achieve.
+In DfE, a user could be a student, a teacher, a parent or guardian, a child, an external training provider, a civil servant - anyone that needs to do something, where they or government has a particular outcome to achieve.
 
 A service is a collection of 'things' that users interact with that help them achieve their goals. As a result, a service entails an ongoing and consistent relationship between an organisation and its users. ‘Things’ could be, for example, digital products, call centres that offer support, business processes, communications, interaction with users - any constituent part of a whole service.
 
