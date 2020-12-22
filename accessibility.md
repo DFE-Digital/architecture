@@ -75,6 +75,6 @@ We used manual and automated tests to look for issues such as:
 
 When we publish new content, we’ll make sure our use of images meets accessibility standards.
 
-We plan to fix the issues with the images by the end of March 2020.
+We plan to fix the issues with the images by the end of March 2021.
 
 This statement was prepared on 24 September 2020. It was last updated on 24 September 2020.
