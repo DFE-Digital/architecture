@@ -81,7 +81,7 @@ Key benefits include:
 
 __Documentation__
 
-Read the [platform documentation](https://docs.platform.education.gov.uk/help/intro.html) that covers security, access, operations and monitoring.
+Read the [platform documentation](https://wa-opscatalogue.azurewebsites.net/) in the service catalogue, that covers security, access, operations and monitoring.
 
 Request CIP access via the [Service Portal](https://dfe.service-now.com/serviceportal?id=sc_cat_item&sys_id=51b0b9c5db1ff7809402e1aa4b96197d&sysparm_category=19d07bc3dbff17003b929334ca9619bd), if you don't already have it.
 
