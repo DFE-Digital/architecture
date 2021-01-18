@@ -399,66 +399,39 @@ If you're considering your options and want more advice, get in touch with your 
 
 
 <a name="crm"></a>
-### Enterprise CRM
-An enterprise-aligned CRM platform built on Microsoft Dynamics 365 that provides a modern, secure and cost-effective solution for managing customer relationships.  
+### Dynamics CRM
+Microsoft Dynamics 365 is the Departments Strategic CRM tool of choice. Where an external facing application is needed to support the CRM, we can utilise Dynamics 365 Portals or develop a standalone web application in .net / c# or Ruby that has integrations with the CRM. Integrations can also be used to link CRM to other external systems such as external support desks.  
 
-The platform is **centrally supported** within the Cloud Infrastructure and Platform Services team and offers CRM services to a range of DfE customers. The platform is versatile and scalable, and can be customised to meet different user needs and requirements.
+For internal users, D365 provides CRM functions such as:
+- Case Management
+- 	Account Management
+- Enquiry Handling
+- It can also be easily customised to support operational delivery such as programme and financial assurance 
+- Modules are also available for specific purposes such as Marketing and Finance.
 
-__Opportunities for teams across DFE__
+D365 Portal provides an out the box front end application that has automatic integrations with dynamics. It can also be customised using CSS and Javascript so it has a look and feel that aligns to GDS standards.   For more complex implementations or where a front end solution already exists it could be hooked into a c# /.net or Ruby application to give more flexibility.
 
-The Enterprise CRM service is constantly evolving, with new capabilities and functionality being incorporated regularly. Teams across DfE are adopting the Enterprise CRM services to:
-- enhance their current CRM solutions
-- benefit from more integration and data sharing
-- make significant savings on development and support
+The Solution Delivery Team within Digital and Technology can help anyone looking to create a CRM. As a team we work through all stages of the development lifecycle; designing, building, supporting and maintaining systems. As a multidisciplinary team we have both technical and project capabilities, and already support a number of CRMs and web applications.
 
-Here are some of the key benefits:
+We have 3 routes to support:
+- SDT can build the end to end system for you
+- We can offer a blended model where the SDT offers part of a scrum team and the rest is made up of colleagues from within the business or funded contractors
+- We are also looking to put in place contracts with suppliers which the SDT will manage to ensure that they build using Departmental best practise and these can be utilised to spin up a full scrum team.
 
-- **Strategic**
-  - Aligns with DfE and wider government strategy
-  - The Enterprise CRM strategic roadmap has a host of capability enhancements to increase functional maturity
-  - System and development knowledge is retained in-house, enabling quicker and more flexible delivery of future capabilities
-- **Technical**
-  - Ready to use solution, with no procurement required
-  - Over time, there will be increased opportunities to integrate with other DfE systems and improve data sharing
-  - There’s no obligation to move from your current platform, the Enterprise CRM services can help enhance and evolve your current solution
-- **Support**
-  - Specialist in-house engineers delivering 2nd and 3rd line support
-  - Operating model integrated with the ServiceNow toolset
-  - Flexible and fast-turnaround change management
-  - Testing and training for technical and user readiness
-- **Cost**
-  - Save money by consolidating support models, exiting from expensive external supplier contracts, and sharing central resources
-  - Lowered cost of total ownership and economies of scale as multiple business areas contribute to maintenance costs
+With all of these delivery routes the SDT will be ensuring systems are built to a standard that has been agreed internally. We are able to reuse solutions and ensure systems are built in a similar way which makes ongoing maintenance and support easier to handle.
 
-__Documentation__
+We have a standard support model for systems built using these standards.
 
-Read the [Operating Model](https://educationgovuk.sharepoint.com/:w:/r/sites/lveesfa00073/_layouts/15/Doc.aspx?sourcedoc=%7b5E35BFD1-44C0-478B-81AA-368CAEED4CC3%7d&file=SharedCRM_Service_Operating_Model%20v0.1.docx&action=default&mobileredirect=true&CID=D33D9D75-C993-40C8-AAF5-449A95931FD9&wdLOR=c43C81DA6-1EF4-4B25-B4E7-F798DB011FE5) for more information about the solution design, security, availability, support and governance. If you need access to this document, please contact [Matt Morgan](https://eur.delve.office.com/?u=2bea9bd4-72ee-4174-850b-f6531174a2c7&v=work).  
+At a high level this is:
 
-__Support__
+- SLAs for incidents and requests aligned to wider Technology directorate operational levels.
+- Incidents and requests handled through DfE’s ITSM Tool ServiceNow.
+- For ongoing work – A set amount of development days a year based off the criticality and complexity of your system to support work requests, along with support in scoping and sizing the change requests to maximise the development time you have available. 
+- Our team working closely with service delivery management to ensure service standards are maintained and ongoing service governance is met such as AtO and ITHCs.
 
-The Enterprise CRM is supported internally by a central team within CIPS.  The team uses the ServiceNow toolset to manage the support of this service and follow DfE’s central service management processes.
+The SDT have also set up a Dynamics Community of Practise with other teams in the Department who are utilising D365 in their projects. This is to ensure ongoing conversations are taking place to standardise across the Department and ensure best practise is shared.
 
-To report an issue with the service, log a ticket via the [Service Portal](https://dfe.service-now.com/serviceportal). The team are available from 08:00 – 22:00 hrs Monday to Friday, excluding UK public holidays. If the service desk is unable to resolve your query, the issue will be passed to a specialist technical team.  
-
-__Roadmap__
-
-DfE customers already using the Enterprise CRM or undergoing a transition to adopt the service include: 
-- National Apprenticeship Service (267 users) 
-- ESFA Customer Service Team (1076 users)
-
-The Enterprise CRM is tailored to meet unique customer requirements in every new deployment. A range of enhanced solution features are also planned, these include:
-- Outlook integration
-- Document storage
-- Data analysis
-- Notifications
-- Integrated reporting
-- AI builder
-- Customer relationship insights
-
-__Further guidance__
-
-Contact [David Bowley](https://eur.delve.office.com/?u=2f894eab-9154-4025-9a34-4d6236a07b08&v=profiledetails) to find out more about this solution.
-
+If anyone is interested in chatting about options please contact: [Iain McIntosh](https://gbr.delve.office.com/?u=b7680d65-eb71-4c1c-a68e-b95fa6248026&v=work).
 
 ## Further guidance on common components ##
 
