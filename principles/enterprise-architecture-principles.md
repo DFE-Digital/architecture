@@ -93,6 +93,24 @@ __Relates to__
 - [TCoP10](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice#make-better-use-of-data): Make better use of data
 
 
+## 6. Design for acessibility
+
+__Why?__
+
+There should be an equal playing field for all users
+Systems must adhere to current government accessibility regulations
+
+__How?__
+-  Seek input from Accessibility Advisers on how designs might need amending to improve accessibility
+-  Include accessibility testing as part of any project delivery
+
+__Relates to__
+
+- [TCoP2](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice#make-things-accessible-and-inclusive): Make things accessible and inclusive
+- [SS4](https://www.gov.uk/service-manual/service-standard/point-4-make-the-service-simple-to-use): Make things easy to use
+- [SS5](https://www.gov.uk/service-manual/service-standard/point-5-make-sure-everyone-can-use-the-service): Make sure everyone can use the service
+
+
 ## 7. Deliver a secure service  
 
 __Why?__
