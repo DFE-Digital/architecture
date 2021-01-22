@@ -97,8 +97,8 @@ __Relates to__
 
 __Why?__
 
-There should be an equal playing field for all users
-Systems must adhere to current government accessibility regulations
+We must ensure there is an equal playing field for all users.
+Systems must adhere to current government accessibility regulations.
 
 __How?__
 -  Seek input from Accessibility Advisers on how designs might need amending to improve accessibility
