@@ -295,6 +295,7 @@ __Postcode lookup components__
 
 These are the products and services in use and available across the department:
 
+- [Ordnance Survey Data Hub](https://osdatahub.os.uk/)
 - [Postcodes.io](http://postcodes.io/)
 - [GetAddress.io](https://getaddress.io/)
 - [Experian QAS](https://www.experian.co.uk/qas/index.html)
@@ -318,6 +319,7 @@ __Geospatial mapping components__
 
 These are the products and services in use and available across the department:
 
+- [Ordnance Survey Data Hub](https://osdatahub.os.uk/)
 - [Azure Maps](https://docs.microsoft.com/en-gb/azure/azure-maps/)
 - [Google Maps](https://developers.google.com/maps/documentation)
 - [Bing Maps](https://docs.microsoft.com/en-us/bingmaps/)
