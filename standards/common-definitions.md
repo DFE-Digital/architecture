@@ -104,12 +104,13 @@ The DfE might define an organisational need to deliver Curriculum Design (a busi
 <a name="product"></a>
 ### Product ###
 
-A product is a coherent set of digital, technology, application, data, infrastructure and security components, used in the context of a service, to deliver value by addressing a specific problem experienced by users.
+A product is a thing that helps to meet one or more user needs. A digital product is usually a piece of software.
 
-A product enables the delivery of the service. Generally, products are tangible items that can be acquired, sold or consumed in some way.
+Products can vary in size and can be grouped together and integrated to create a service. Typically, a service is a larger collection of products which are grouped together to help a user to achieve an outcome.
 
-For example, a Customer Relationship Management product, like Microsoft Dynamics or Salesforce, or the 'Discover your skills and careers' product within the National Careers Service.
+An example is the 'Discover your skills and careers' product within the National Careers Service. It's a standalone product but is best consumed as part of the user journey across the wider service. This helps a user achieve the outcome of defining a career path and developing their skills to be successful in that career.
 
+Some examples of technology products, used to enable a service, are Microsoft Dynamics or Salesforce. These are Commercial-Off-The-Shelf (COTS) products that, amongst other things, provide customer relationship management capability.
 
 <a name="activities"></a>
 
