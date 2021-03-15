@@ -93,7 +93,7 @@ __Relates to__
 - [TCoP10](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice#make-better-use-of-data): Make better use of data
 
 
-## 6. Design for acessibility
+## 6. Design for accessibility
 
 __Why?__
 
