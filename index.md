@@ -11,9 +11,9 @@ It should be used in conjunction with the
 [DfE Digital Technical Guidance](https://dfe-digital.github.io/technical-guidance),
 when building digital services.
 
-## Service offer
+## Profession
 
-- [Our architecture service offer](service-offer/our-service-offer)
+- [Our architecture profession offer](profession/our-profession-offer)
 
 ## Principles
 
@@ -46,9 +46,9 @@ when building digital services.
 
 - [Common Components](common-components/)
 
-## Governance and design
+## Design assurance
 
-- [Architecture governance and design assurance](governance/governance-and-design)
+- [Architecture governance and design assurance](assurance/assurance-and-design)
 
 ## Repositories
 

@@ -114,7 +114,7 @@ To deliver an enterprise aligned solution to our customer, we will:
 3. Define, create, and manage, a selection of services that enable, empower, and protect, delivery teams and the services created by them.
 4. Ensure that services offered to the engineering and delivery teams are fit for purpose, fit for use, isolated from one another, and can be easily discovered and consumed by engineering and delivery teams.
 
-To help us deliver the above, we’ve joined forces with the architecture team to review our cloud strategy. This includes considering how to evolve as a central provider of cloud services and where hot topics like 'multi-vendor' and containerisation fit with our future thinking.
+To help us deliver the above, we’ve joined forces with the architecture profession to review our cloud strategy. This includes considering how to evolve as a central provider of cloud services and where hot topics like 'multi-vendor' and containerisation fit with our future thinking.
 
 __Further guidance__
 
@@ -308,7 +308,7 @@ They each bring a slightly different set of features and capabilities that fit d
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
-If you're considering your options and want more advice, get in touch with your [architecture partner](../service-offer/our-service-offer).
+If you're considering your options and want more advice, get in touch with your [Architecture Lead](../profession/our-profession-offer/#architecture-leads).
 
 <a name="mapping"></a>
 ### Geospatial mapping
@@ -330,7 +330,7 @@ They each bring a slightly different set of features and capabilities that fit d
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
-If you're considering your options and want more advice, get in touch with your [architecture partner](../service-offer/our-service-offer).
+If you're considering your options and want more advice, get in touch with your [Architecture Lead](../profession/our-profession-offer/#architecture-leads).
 
 <a name="notifications"></a>
 ### Notifications and messaging
@@ -360,7 +360,7 @@ Each application brings a slightly different set of features and capabilities th
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
-If you're considering your options and want more advice, get in touch with your [architecture partner](../service-offer/our-service-offer).
+If you're considering your options and want more advice, get in touch with your [Architecture Lead](../profession/our-profession-offer/#architecture-leads).
 
 <a name="cms"></a>
 ### Content Management Systems
@@ -397,7 +397,7 @@ Each CMS brings a slightly different set of features and capabilities that fit d
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
-If you're considering your options and want more advice, get in touch with your [architecture partner](../service-offer/our-service-offer).
+If you're considering your options and want more advice, get in touch with your [Architecture Lead](../profession/our-profession-offer/#architecture-leads).
 
 
 <a name="crm"></a>
@@ -464,4 +464,4 @@ Contact [David Bowley](https://eur.delve.office.com/?u=2f894eab-9154-4025-9a34-4
 
 ## Further guidance on common components ##
 
-For more information on common components or to discuss adding your component to the repository, contact the [Architecture team](mailto:architecture.services@education.gov.uk)
+For more information on common components or to discuss adding your component to the repository, contact the [architecture profession](mailto:architecture.profession@education.gov.uk)

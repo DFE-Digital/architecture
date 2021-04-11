@@ -22,13 +22,13 @@ Currently the website should be fully accessible and there are no linked images 
 
 ### What to do if you cannot access parts of this website
 
-If you need information on this website in a different format like accessible PDF, large print, easy read, audio recording or braille, contact [architecture.services@education.gov.uk](mailto:architecture.services@education.gov.uk) with details of your request.
+If you need information on this website in a different format like accessible PDF, large print, easy read, audio recording or braille, contact [architecture.profession@education.gov.uk](mailto:architecture.profession@education.gov.uk) with details of your request.
 
 We’ll aim to reply within 3 working days.
 
 ### Reporting accessibility problems with this website
 
-We’re always looking to improve the accessibility of this website. If you find any problems not listed on this page or think we’re not meeting accessibility requirements, email [architecture.services@education.gov.uk](mailto:architecture.services@education.gov.uk).
+We’re always looking to improve the accessibility of this website. If you find any problems not listed on this page or think we’re not meeting accessibility requirements, email [architecture.profession@education.gov.uk](mailto:architecture.profession@education.gov.uk).
 
 ### Enforcement procedure
 
@@ -46,9 +46,9 @@ This website is partially compliant with the [Web Content Accessibility Guidelin
 
 The following pages contain PNG images which are not fully explained in the text:
 
-- [https://dfe-digital.github.io/architecture/common-components/#common-components](https://dfe-digital.github.io/architecture/common-components/#common-components)
-- [https://dfe-digital.github.io/architecture/governance/governance-and-design/#governance-and-design](https://dfe-digital.github.io/architecture/governance/governance-and-design/#governance-and-design)
-- [https://dfe-digital.github.io/architecture/capability/architecture-capability-framework/#architecture-capability-framework](https://dfe-digital.github.io/architecture/capability/architecture-capability-framework/#architecture-capability-framework)
+- [https://dfe-digital.github.io/architecture/common-components](https://dfe-digital.github.io/architecture/common-components)
+- [https://dfe-digital.github.io/architecture/assurance/assurance-and-design](https://dfe-digital.github.io/architecture/assurance/assurance-and-design)
+- [https://dfe-digital.github.io/architecture/capability/architecture-capability-framework](https://dfe-digital.github.io/architecture/capability/architecture-capability-framework)
 
 These issues partially fail or fail [WCAG 2.1 success criterion 1.4.5 Images of Text.](https://www.w3.org/TR/2008/WD-UNDERSTANDING-WCAG20-20081103/visual-audio-contrast-text-presentation.html)
 

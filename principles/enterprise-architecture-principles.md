@@ -65,7 +65,7 @@ __Why?__
 
 __How?__
 -  All projects above the agreed set threshold, must be supported by an evidenced business case, ensuring that overall solution costs have been considered for value for money.
--  For all projects the Architecture partner must asses the total cost of ownership and challenge where appropriate
+-  For all projects an Architecture Lead must asses the total cost of ownership and challenge where appropriate
 -  Where duplicate service or component is proposed TCO should include costs of running both/all duplicated services
 -  Investment must justified by supporting evidence.
 -  Design must consider long term costs and support of any solution delivered
