@@ -3,9 +3,9 @@ category: Offer
 expires: 2020-12-01
 ---
 
-> Architecture is moving to a more profession-led model. This content is under review. Contact the [architecture profession](mailto:architecture.profession@education.gov.uk) for more information.
-
 # Our Profession Offer
+
+> DfE Architecture is moving to a more profession-led model. This content is under review. Contact the [architecture profession](mailto:architecture.profession@education.gov.uk) for more information.
 
 The architecture profession can help you find or access the right type of architecture support for your project.
 We have access to a large community of permanent and contract architects across the Department, plus commercial frameworks to help fulfill your needs.

@@ -5,7 +5,7 @@ expires: 2020-12-01
 
 # Architecture Capability Framework
 
-(Note - this page is being drafted, but we wanted to share the information we'd gathered as soon as it was available. If you have any comments, please contact the [architecture profession](mailto:architecture.profession@education.gov.uk))
+> This page is being drafted, but we wanted to share the information we'd gathered as soon as it was available. If you have any comments, please contact the [architecture profession](mailto:architecture.profession@education.gov.uk))
 
 ## Purpose
 This framework provides an outline of the roles, skills and experience that architects working within DfE have or would like to build.
