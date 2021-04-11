@@ -48,7 +48,7 @@ when building digital services.
 
 ## Design assurance
 
-- [Architecture governance and design assurance](assurance/assurance-and-design)
+- [Design assurance](assurance/assurance-and-design)
 
 ## Repositories
 
