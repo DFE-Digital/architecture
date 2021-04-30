@@ -45,7 +45,7 @@ Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | 
 | [Postcode lookup](#postcode) | tbc | Discovery
 | [Geospatial mapping](#mapping) | tbc | Discovery
 | [Notifications and messaging](#notifications) | tbc | Discovery
-Applications | [Content Management Systems ](#cms) | tbc | Discovery
+Applications | [Content Management Systems ](#cms) | Luke Slowen | Beta
 | [Customer Relationship Management](#crm) | Saghir Akbar | Beta
 | Marketing Automation platform | tbc | Discovery
 | Robotic Process Automation (RPA) platform | tbc | Alpha
