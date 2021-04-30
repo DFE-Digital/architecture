@@ -65,7 +65,7 @@ __Why?__
 
 __How?__
 -  All projects above the agreed set threshold, must be supported by an evidenced business case, ensuring that overall solution costs have been considered for value for money.
--  For all projects the Architecture partner must asses the total cost of ownership and challenge where appropriate
+-  For all projects an Architecture Lead must asses the total cost of ownership and challenge where appropriate
 -  Where duplicate service or component is proposed TCO should include costs of running both/all duplicated services
 -  Investment must justified by supporting evidence.
 -  Design must consider long term costs and support of any solution delivered
@@ -91,6 +91,24 @@ __How?__
 __Relates to__
 
 - [TCoP10](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice#make-better-use-of-data): Make better use of data
+
+
+## 6. Design for accessibility
+
+__Why?__
+
+We must ensure there is an equal playing field for all users.
+Systems must adhere to current government accessibility regulations.
+
+__How?__
+-  Seek input from Accessibility Advisers on how designs might need amending to improve accessibility
+-  Include accessibility testing as part of any project delivery
+
+__Relates to__
+
+- [TCoP2](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice#make-things-accessible-and-inclusive): Make things accessible and inclusive
+- [SS4](https://www.gov.uk/service-manual/service-standard/point-4-make-the-service-simple-to-use): Make things easy to use
+- [SS5](https://www.gov.uk/service-manual/service-standard/point-5-make-sure-everyone-can-use-the-service): Make sure everyone can use the service
 
 
 ## 7. Deliver a secure service  

@@ -36,17 +36,18 @@ to enable the building of services.
 
 Domain | Component | Owner | Status
 - | - | - | -
-Hosting | [Cloud Infrastructure Platform (CIP)](#cip) | Saghir Akbar | Beta
- | Gov.UK PaaS | Saghir Akbar | Discovery
-Security and networks | [DfE Sign-in](#dfe-signin) | Leanna Green | Live
-| Core network | Jon Gilbert | Live
+Hosting & platforms | [Cloud Infrastructure Platform (CIP)](#cip) | Saghir Akbar | Beta
+ | Gov.UK PaaS (in DfE) | Saghir Akbar | Alpha
+Security and networks | [DfE Sign-in](#dfe-signin) | Jenny O'Connor | Live
+| Core network | Saghir Akbar | Live
 Integration | [Enterprise API Management (EAPIM)](#eapim) | Saghir Akbar | Beta
 Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | Harj Bilan | Beta
-| [Postcode lookup](#postcode) | tbc | Discovery
-| [Geospatial mapping](#mapping) | tbc | Discovery
+| [Postcode lookup](#postcode) | Mario Gledhill | Alpha
+| [Geospatial mapping](#mapping) | Mario Gledhill | Alpha
 | [Notifications and messaging](#notifications) | tbc | Discovery
 Applications | [Content Management Systems ](#cms) | Luke Slowen | Beta
 | [Customer Relationship Management](#crm) | Saghir Akbar | Beta
+| [Enterprise CRM](#crm) | Saghir Akbar | Beta
 | Marketing Automation platform | tbc | Discovery
 | Robotic Process Automation (RPA) platform | tbc | Alpha
 
@@ -54,11 +55,11 @@ Applications | [Content Management Systems ](#cms) | Luke Slowen | Beta
 
 Domain | Component | Owner | Status
 - | - | - | -
-End User Computing | Office 365 | Leanna Green | Live
-| Phones and Skype | Leanna Green | Live
-| Mobile phones | Leanna Green | Live
-Service management | Service desk tools (Service Now) | Leanna Green | Live
-Digital | Productivity tools (Slack, Trello, Confluence) | Ashley Stephens | Beta
+End User Devices | Office 365 | Jenny O'Connor | Live
+| Phones and Skype | Jenny O'Connor | Live
+| Mobile phones | Jenny O'Connor | Live
+Service Operations | Service desk tools (Service Now) | Leanna Green | Live
+Digital | Productivity tools (Slack, Trello, Confluence) | Jenny O'Connor | Beta
 Development | Development tools (Azure DevOps, Github) | Saghir Akbar | Live
 Information and data | SharePoint | Harj Bilan | Live
 
@@ -114,7 +115,7 @@ To deliver an enterprise aligned solution to our customer, we will:
 3. Define, create, and manage, a selection of services that enable, empower, and protect, delivery teams and the services created by them.
 4. Ensure that services offered to the engineering and delivery teams are fit for purpose, fit for use, isolated from one another, and can be easily discovered and consumed by engineering and delivery teams.
 
-To help us deliver the above, we’ve joined forces with the architecture team to review our cloud strategy. This includes considering how to evolve as a central provider of cloud services and where hot topics like 'multi-vendor' and containerisation fit with our future thinking.
+To help us deliver the above, we’ve joined forces with the architecture profession to review our cloud strategy. This includes considering how to evolve as a central provider of cloud services and where hot topics like 'multi-vendor' and containerisation fit with our future thinking.
 
 __Further guidance__
 
@@ -295,6 +296,7 @@ __Postcode lookup components__
 
 These are the products and services in use and available across the department:
 
+- [Ordnance Survey Data Hub](https://osdatahub.os.uk/)
 - [Postcodes.io](http://postcodes.io/)
 - [GetAddress.io](https://getaddress.io/)
 - [Experian QAS](https://www.experian.co.uk/qas/index.html)
@@ -307,7 +309,7 @@ They each bring a slightly different set of features and capabilities that fit d
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
-If you're considering your options and want more advice, get in touch with your [architecture partner](../service-offer/our-service-offer).
+If you're considering your options and want more advice, get in touch with your [Architecture Lead](../profession/our-profession-offer/#architecture-leads).
 
 <a name="mapping"></a>
 ### Geospatial mapping
@@ -318,6 +320,7 @@ __Geospatial mapping components__
 
 These are the products and services in use and available across the department:
 
+- [Ordnance Survey Data Hub](https://osdatahub.os.uk/)
 - [Azure Maps](https://docs.microsoft.com/en-gb/azure/azure-maps/)
 - [Google Maps](https://developers.google.com/maps/documentation)
 - [Bing Maps](https://docs.microsoft.com/en-us/bingmaps/)
@@ -328,7 +331,7 @@ They each bring a slightly different set of features and capabilities that fit d
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
-If you're considering your options and want more advice, get in touch with your [architecture partner](../service-offer/our-service-offer).
+If you're considering your options and want more advice, get in touch with your [Architecture Lead](../profession/our-profession-offer/#architecture-leads).
 
 <a name="notifications"></a>
 ### Notifications and messaging
@@ -358,7 +361,7 @@ Each application brings a slightly different set of features and capabilities th
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
-If you're considering your options and want more advice, get in touch with your [architecture partner](../service-offer/our-service-offer).
+If you're considering your options and want more advice, get in touch with your [Architecture Lead](../profession/our-profession-offer/#architecture-leads).
 
 <a name="cms"></a>
 ### Content Management Systems
@@ -395,7 +398,7 @@ Each CMS brings a slightly different set of features and capabilities that fit d
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
-If you're considering your options and want more advice, get in touch with your [architecture partner](../service-offer/our-service-offer).
+If you're considering your options and want more advice, get in touch with your [Architecture Lead](../profession/our-profession-offer/#architecture-leads).
 
 
 <a name="crm"></a>
@@ -438,4 +441,4 @@ For more information, or if you'd like to talk through about options for CRM, pl
 
 ## Further guidance on common components ##
 
-For more information on common components or to discuss adding your component to the repository, contact the [Architecture team](mailto:architecture.services@education.gov.uk)
+For more information on common components or to discuss adding your component to the repository, contact the [architecture profession](mailto:architecture.profession@education.gov.uk)
