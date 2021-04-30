@@ -399,39 +399,42 @@ If you're considering your options and want more advice, get in touch with your 
 
 
 <a name="crm"></a>
-### Dynamics CRM
-Microsoft Dynamics 365 is the Departments Strategic CRM tool of choice. Where an external facing application is needed to support the CRM, we can utilise Dynamics 365 Portals or develop a standalone web application in .net / c# or Ruby that has integrations with the CRM. Integrations can also be used to link CRM to other external systems such as external support desks.  
+### Customer Relationship Management
+Microsoft Dynamics 365 is in use across DfE to deliver Customer Relationship Management (CRM) for DfE services.
 
-For internal users, D365 provides CRM functions such as:
+Dynamics 365 provides various CRM features, such as:
 - Case Management
-- 	Account Management
+- Account Management
 - Enquiry Handling
-- It can also be easily customised to support operational delivery such as programme and financial assurance 
-- Modules are also available for specific purposes such as Marketing and Finance.
 
-D365 Portal provides an out the box front end application that has automatic integrations with dynamics. It can also be customised using CSS and Javascript so it has a look and feel that aligns to GDS standards.   For more complex implementations or where a front end solution already exists it could be hooked into a c# /.net or Ruby application to give more flexibility.
+It can also be customised to support operational delivery, such as programme and financial assurance. Specific modules are also available for specific purposes, such as marketing and financial management.
 
-The Solution Delivery Team within Digital and Technology can help anyone looking to create a CRM. As a team we work through all stages of the development lifecycle; designing, building, supporting and maintaining systems. As a multidisciplinary team we have both technical and project capabilities, and already support a number of CRMs and web applications.
+Dynamics 365 Portals provides an out-of-the-box front-end application that integrates directly with Dynamics 365. It can also be customised using CSS and Javascript, so can have a look and feel that is compliant with GOV.UK standards. For more complex implementations, it can also be integrated with a C#/.Net or Ruby application, to give more flexibility.
 
-We have 3 routes to support:
-- SDT can build the end to end system for you
-- We can offer a blended model where the SDT offers part of a scrum team and the rest is made up of colleagues from within the business or funded contractors
-- We are also looking to put in place contracts with suppliers which the SDT will manage to ensure that they build using Departmental best practise and these can be utilised to spin up a full scrum team.
+Where an external-facing application is needed to support the CRM, Dynamics 365 Portals or development of a standalone web application can be used. Dynamics CRM can also be integrated with other external systems, such as support desks.
 
-With all of these delivery routes the SDT will be ensuring systems are built to a standard that has been agreed internally. We are able to reuse solutions and ensure systems are built in a similar way which makes ongoing maintenance and support easier to handle.
+__Support__
 
-We have a standard support model for systems built using these standards.
+The Solution Delivery Team (SDT) within Digital and Technology can help anyone looking to create a service that needs CRM capabilities. SDT work through all stages of the development lifecycle - designing, building, supporting and maintaining systems. As a multidisciplinary team, they have both technical and delivery capabilities, and already support a number of CRMs and web applications.
 
-At a high level this is:
+There are 3 routes to providing delivery support:
 
-- SLAs for incidents and requests aligned to wider Technology directorate operational levels.
-- Incidents and requests handled through DfE’s ITSM Tool ServiceNow.
-- For ongoing work – A set amount of development days a year based off the criticality and complexity of your system to support work requests, along with support in scoping and sizing the change requests to maximise the development time you have available. 
-- Our team working closely with service delivery management to ensure service standards are maintained and ongoing service governance is met such as AtO and ITHCs.
+- SDT can build the end-to-end system for you
+- SDT can offer a blended model, where SDT offers part of a multidisciplinary team, with the remainder made up from  business areas and/or contractors
+- SDT can offer use of contracts with suppliers which SDT will provide oversight for, to ensure services are built using Departmental best practise. These contracts can also be utilised to spin-up a full delivery team.
 
-The SDT have also set up a Dynamics Community of Practise with other teams in the Department who are utilising D365 in their projects. This is to ensure ongoing conversations are taking place to standardise across the Department and ensure best practise is shared.
+With all of these delivery routes, SDT will ensure services are built to appropriate standards. This includes reuse of existing solutions where appropriate and ensures services are built in a standardised way, making ongoing maintenance and support easier.
 
-If anyone is interested in chatting about options please contact: [Iain McIntosh](https://gbr.delve.office.com/?u=b7680d65-eb71-4c1c-a68e-b95fa6248026&v=work).
+SDT offer a standard support model for services they deliver. This includes:
+
+- Service Level Agreements (SLAs) for incidents and requests, aligned to wider Digital and Technology directorate SLAs
+- Incidents and requests handled through standard tooling
+- A set amount of development days per year to support work requests (based on the criticality and complexity of your service), along with support in scoping and sizing requests to maximise the development time you have available
+- Close working with Service Operations teams, to ensure service standards are maintained and ongoing service assurance is met, including Authority to Operate (AtO) and IT Healthchecks (ITHCs)
+
+SDT have also set up a Dynamics Community of Practice, bringing together teams in the Department that are using Dynamics 365 in their services and projects. The community ensures ongoing conversations are taking place to standardise use of CRM products across the Department and ensure best practise is shared.
+
+For more information, or if you'd like to talk through about options for CRM, please contact [Iain McIntosh](https://gbr.delve.office.com/?u=b7680d65-eb71-4c1c-a68e-b95fa6248026&v=work).
 
 ## Further guidance on common components ##
 
