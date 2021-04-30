@@ -1,6 +1,6 @@
 ---
 category: Components
-expires: 2020-01-01
+expires: 2021-12-31
 ---
 
 # Common components
@@ -46,7 +46,7 @@ Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | 
 | [Geospatial mapping](#mapping) | tbc | Discovery
 | [Notifications and messaging](#notifications) | tbc | Discovery
 Applications | [Content Management Systems ](#cms) | tbc | Discovery
-| [Enterprise CRM](#crm) | Saghir Akbar | Beta
+| [Customer Relationship Management](#crm) | Saghir Akbar | Beta
 | Marketing Automation platform | tbc | Discovery
 | Robotic Process Automation (RPA) platform | tbc | Alpha
 
