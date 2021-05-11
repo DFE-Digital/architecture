@@ -210,7 +210,7 @@ Digital and Technology maintain a register of all Services, Products, Technology
 
 Digital, Data and Technology (DDaT) is a profession in the UK Civil Service, spearheaded by GDS and characterised by the [DDaT Profession Capability Framework](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework).
 
-DDaT is also used within DfE to describe the collective community of people working within the Data and Digital and Technology directorates.
+DDaT is also used within DfE to describe the collective community of people working in data, digital and technology roles across the department.
 
 ## Roles ##
 
