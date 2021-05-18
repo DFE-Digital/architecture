@@ -37,7 +37,7 @@ to enable the building of services.
 Domain | Component | Owner | Status
 - | - | - | -
 Hosting & platforms | [Cloud Infrastructure Platform (CIP)](#cip) | Saghir Akbar | Beta
- | Gov.UK PaaS (in DfE) | Saghir Akbar | Alpha
+ | [Gov.UK PaaS (in DfE)](#govuk-paas) | Saghir Akbar | Beta
 Security and networks | [DfE Sign-in](#dfe-signin) | Jenny O'Connor | Live
 | Core network | Saghir Akbar | Live
 Integration | [Enterprise API Management (EAPIM)](#eapim) | Saghir Akbar | Beta
@@ -71,7 +71,7 @@ The Cloud Infrastructure Platform (CIP) is the department's Microsoft Azure clou
 
 CIP is a set of principles, processes and technologies that support the development and delivery of cloud computing, applications and services.
 
-The CIP platform is designed using a ‘loosely-coupled’ approach, which enables services to be hosted independently from each other. This means changes can be made without affecting other components.  
+The CIP platform is designed using a ‘loosely-coupled’ approach, which enables services to be hosted independently from each other. This means changes can be made without affecting other components.
 
 Key benefits include:
 
@@ -125,6 +125,17 @@ Read the [Cloud Infrastructure and Platform Services wiki](https://educationgovu
 - Head of DevOps - [Jeffery Odiase](https://eur.delve.office.com/?u=a206fb4f-4f84-4717-b250-16d2577faeaf&v=work)
 - Platform support lead - [Paul Cripwell](https://eur.delve.office.com/?u=11bcb046-7de9-4dd9-858d-7997129df02d&v=work)
 
+
+<a name="govuk-paas"></a>
+### GOV.UK PaaS
+GOV.UK Platform as a Service (PaaS) is a platform developed by Government Digital Service (GDS) and available for government departments to deploy
+applications and backend services. It is based on the widely used open source platform Cloud Foundry and built on Amazon Web Services.
+
+It is a simpler alternative to CIP and doesn't require infrastructure specialists to get started.
+
+__Documentation__
+
+Visit the [GOV.UK PaaS technical guidance](https://technical-guidance.education.gov.uk/guides/govuk-paas/) for more information.
 
 <a name="dfe-signin"></a>
 ### DfE Sign-in
@@ -198,18 +209,18 @@ The middleware technology improves access to siloed data and can deliver it betw
 
 __Documentation__
 
-Read the [Operating Model](https://educationgovuk.sharepoint.com/sites/lveesfa00073/API%20Management/Forms/AllItems.aspx?id=%2Fsites%2Flveesfa00073%2FAPI%20Management%2FPlatform%20Documentation%2FService%20Operating%20Model%20%28SOM%29%2FCurrent%20Version&viewid=00000000%2D0000%2D0000%2D0000%2D000000000000) for more information about the solution design, security, availability, support and governance. If you need access to this document, please contact [Matt Morgan](https://eur.delve.office.com/?u=2bea9bd4-72ee-4174-850b-f6531174a2c7&v=work).  
+Read the [Operating Model](https://educationgovuk.sharepoint.com/sites/lveesfa00073/API%20Management/Forms/AllItems.aspx?id=%2Fsites%2Flveesfa00073%2FAPI%20Management%2FPlatform%20Documentation%2FService%20Operating%20Model%20%28SOM%29%2FCurrent%20Version&viewid=00000000%2D0000%2D0000%2D0000%2D000000000000) for more information about the solution design, security, availability, support and governance. If you need access to this document, please contact [Matt Morgan](https://eur.delve.office.com/?u=2bea9bd4-72ee-4174-850b-f6531174a2c7&v=work).
 
 __Support__
 
-The service is supported internally by a central team of specialists within the Cloud Infrastructure and Platform Services team. To report an issue with the service, log a ticket via the [Service Portal](https://dfe.service-now.com/serviceportal). The team are available from 08:00 – 22:00 hrs Monday to Friday, excluding UK public holidays.  
+The service is supported internally by a central team of specialists within the Cloud Infrastructure and Platform Services team. To report an issue with the service, log a ticket via the [Service Portal](https://dfe.service-now.com/serviceportal). The team are available from 08:00 – 22:00 hrs Monday to Friday, excluding UK public holidays.
 
 __Roadmap__
 
 DfE customers already using EAPIM or undergoing a transition to adopt the service include:
 -	Finance
 -	Better Financial Reporting Programme
--	We’ve also recently integrated ServiceNow and Zendesk with the Enterprise CRM to improve data sharing for the Apprenticeships Service Consolidated Support Team (40 users).  
+-	We’ve also recently integrated ServiceNow and Zendesk with the Enterprise CRM to improve data sharing for the Apprenticeships Service Consolidated Support Team (40 users).
 
 Over the next 18 months, these services are evolving in following key areas:
 - Driving adoption
@@ -346,14 +357,14 @@ These applications will let your service send out email, SMS (text messages), le
 - SMTP
 - [Sparkpost](https://developers.sparkpost.com/api/)
 - [Intellisoft SMS](https://www.intellisoftware.co.uk/sms-gateway/interfaces/)
-- [Send Grid](https://sendgrid.com/docs/)  
+- [Send Grid](https://sendgrid.com/docs/)
 
 __Error tracking__
 
 These applications will provide error monitoring and alerts to services that are developing solutions, so that they are aware of errors as they appear:
 
-- [Rollbar](https://docs.sentry.io/)  
-- [Sentry](https://docs.rollbar.com/docs)  
+- [Rollbar](https://docs.sentry.io/)
+- [Sentry](https://docs.rollbar.com/docs)
 
 Each application brings a slightly different set of features and capabilities that fit different use cases. This table provides an overview:
 
@@ -386,7 +397,7 @@ Benefits of using a CMS include:
 
 1. No coding knowledge required - Enables non-developers and other users to build websites without coding. (It's important to note that most CMS applications do allow users to add custom code for more granular control.)
 
-2. Easy collaboration - Multiple users can access and work in the back end of a CMS at the same time.  
+2. Easy collaboration - Multiple users can access and work in the back end of a CMS at the same time.
 
 3. Features, extensions and templates - CMS applications offer built-in features as well as add-ons to customise digital content.
 
