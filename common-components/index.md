@@ -409,7 +409,7 @@ Each CMS brings a slightly different set of features and capabilities that fit d
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
-If you're considering your options and want more advice, get in touch with your [Architecture Lead](../profession/our-profession-offer/#architecture-leads).
+If you're considering CMS options please discuss your needs with the head of content design [Content Design Community Link](https://service-manual-prod.herokuapp.com/manual/communities-of-practice/professions-communities%20/connect-with-the-content-design-community) as work on the strategy for information services within the DfE is ongoing.
 
 
 <a name="crm"></a>
