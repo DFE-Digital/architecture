@@ -8,7 +8,7 @@ It complements the [GDS Service Manual](https://www.gov.uk/service-manual) and i
 which covers service design more broadly.
 
 It should be used in conjunction with the
-[DfE Digital Technical Guidance](https://dfe-digital.github.io/technical-guidance),
+[DfE Digital Technical Guidance](https://technical-guidance.education.gov.uk),
 when building digital services.
 
 ## Profession

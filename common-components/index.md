@@ -32,11 +32,11 @@ The adoption of common components can bring significant benefits to the departme
 There is a distinction between components used to build a service and tools
 to enable the building of services.
 
-### Service components and products
+### Service components, products and platforms
 
 Domain | Component | Owner | Status
 - | - | - | -
-Hosting & platforms | [Cloud Infrastructure Platform (CIP)](#cip) | Saghir Akbar | Beta
+Hosting platforms | [Cloud Infrastructure Platform (CIP)](#cip) | Saghir Akbar | Beta
  | [Gov.UK PaaS (in DfE)](#govuk-paas) | Saghir Akbar | Beta
 Security and networks | [DfE Sign-in](#dfe-signin) | Jenny O'Connor | Live
 | Core network | Saghir Akbar | Live
