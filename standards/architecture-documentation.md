@@ -5,7 +5,7 @@ expires: 2022-06-12
 
 # Architecture documentation
 
-In DfE, we trust architects to choose the most appropriate way of documenting their design thinking, decisions and rationale, in a way that best fits with their delivery. It's important that design is done in the open and architects share their The architecture profession provides various tools, techniques and guides to help architects do that.
+In DfE, we trust architects to choose the most appropriate way of documenting their design thinking, decisions and rationale, in a way that best fits with their delivery. It's important that design is done in the open and architects share their thinking across the community. The architecture profession provides various tools, techniques and guides to help architects do that.
 
 ## Architecture Decision Records
 
