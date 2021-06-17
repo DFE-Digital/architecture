@@ -16,7 +16,7 @@ Various technical standards exist (or are in development) and are relevant to ar
 - Data standards (tbc)
 - Infrastructure and network standards (tbc)
 - Security standards (in development)
-- [Accessibility standards](https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps#meeting-accessibility-requirements)
+- Guidance on [meeting accessibility standards](https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps#meeting-accessibility-requirements) and the [technical standard for digital accessibility](https://www.gov.uk/guidance/public-sector-website-and-mobile-application-accessibility-monitoring#technical-standard-for-digital-accessibility)
 
 The application of standards is generally assured through co-design / pair-programming in teams, and peer review in architecture and technical communities. There are likely to be additional checks that standards have been met during service assessment. Occasionally, there may be spot checks to ensure consistent and appropriate application of standards.
 
