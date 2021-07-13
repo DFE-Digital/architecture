@@ -36,7 +36,7 @@ __How?__
 
 - We adhere to our [Data Classification Policy](https://educationgovuk.sharepoint.com/sites/lvewp00085/WorkDocs/Policies/Data%20Classification%20Policy%20v1.0.pdf?web=1), to ensure we correctly classify data stores in terms of the sensitivity of data they contain. This will include reference to cross-Government standards around data classification, but DfE specific sensitivity labelling should be used if needed.
 - The Department’s [Data Estate Map](https://s101p01-ifax01.ad.hq.dept:8443/search/#!lineage-container) must be used as a central, authoritative repository for these policies. It must also record the legal basis on which we are allowed to process the data we hold and the restrictions that apply to any onward sharing or other use of the data.
-- Our [Data Classification Policy](https://educationgovuk.sharepoint.com/sites/lvewp00085/WorkDocs/Policies/Data%20Classification%20Policy%20v1.0.pdf?web=1) articulates clear standards in terms of the ways data at different classification levels should be protected. We must ensure those standards are adhered to by all our services, both at design time and during service operation. Our Data Access Policy determines who can access different classification levels. _[Link: TBC]_
+- Our [Data Classification Policy](https://educationgovuk.sharepoint.com/sites/lvewp00085/WorkDocs/Policies/Data%20Classification%20Policy%20v1.0.pdf?web=1) articulates clear standards in terms of the ways data at different classification levels should be protected. We must ensure those standards are adhered to by all our services, both at design time and during service operation. Our [Handling Information Policy](https://educationgovuk.sharepoint.com/sites/how-do-i/SitePages/security-handling-information.aspx) determines who can access different classification levels.
 - Security must be applied at the data level, not just the application level, and must apply equally to copies, database logs and backups.
 - Security must be designed into data elements from the start of service development. Systems, data and technologies must be protected from unauthorised access and manipulation, and this protection should be tested before any release involving data assets
 - A strong system of monitoring must be in place to ensure we are alerted to unauthorised access or use of the Department’s data, whether that resides in individual applications or common data stores.
@@ -75,7 +75,7 @@ Wide access to data means that efficient and effective decisions can be made acr
 
 __How?__
 
-- This principle is related to ”Data is an asset,” and “Data is shared ,” so all teams should understand the relationship between the value of data, sharing of data and obtainability of data
+- This principle is related to ”Data is an asset,” and “Data is shared,” so all teams should understand the relationship between the value of data, sharing of data and obtainability of data
 - This principle also relates to ‘Data is secure’ – we must ensure the right balance between obtainability and security
 - All users should be able to obtain data easily
 - The way information is stored, accessed and presented must be adaptable for a wide range of users and their corresponding methods of access
