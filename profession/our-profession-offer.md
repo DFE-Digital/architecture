@@ -3,7 +3,7 @@ category: Offer
 expires: 2020-12-01
 ---
 
-# Our Profession Offer
+# What can the architecutre profession offer?
 
 > DfE Architecture is moving to a more profession-led model. This content is under review. Contact the [architecture profession](mailto:architecture.profession@education.gov.uk) for more information.
 
