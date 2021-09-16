@@ -3,14 +3,23 @@ category: Offer
 expires: 2020-12-01
 ---
 
-# Our Profession Offer
+# Architecture profession 
 
-> DfE Architecture is moving to a more profession-led model. This content is under review. Contact the [architecture profession](mailto:architecture.profession@education.gov.uk) for more information.
+## What we do and how we help
 
-The architecture profession can help you find or access the right type of architecture support for your project.
-We have access to a large community of permanent and contract architects across the Department, plus commercial frameworks to help fulfill your needs.
+Architects in DfE, design and deliver services that provide outcomes for end users and the Department. They are responsible for the technical quality of the products and services we deliver, thinking innovatively and bringing a broader perspective to service delivery.
 
-In the first instance, you should discuss your needs with your Architecture Lead.
+Architecture in DfE follows a profession-led model. Architects are embedded in service delivery teams, portfolios or domains and are supported by the architecture profession.
+
+The architecture profession:
+
+- builds architecture capability across DfE, providing a capability framework, supporting recruitment, career pathways and professional development opportunities
+- sets architecture and technical design standards, providing guidance and a proportionate assurance framework
+- builds architecture and technical design communities, facilitating regular meet-ups with opportunities for all to share and learn
+
+There is a large community of permanent and contingent architects across the Department, plus commercial frameworks to help fulfil your needs.
+
+If you're looking for architecture support for your project, you should discuss your needs with your Architecture Lead.
 
 ## Architecture Leads
 
