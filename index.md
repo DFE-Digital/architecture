@@ -13,7 +13,7 @@ when building digital services.
 
 ## Profession
 
-- [Architecture profession](profession/our-profession-offer)
+- [Architecture profession](profession/architecture-profession)
 
 ## Principles
 
