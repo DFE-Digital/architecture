@@ -1,9 +1,9 @@
 ---
-category: Offer
-expires: 2020-12-01
+category: profession
+expires: 2022-03-31
 ---
 
-# Architecture profession 
+# Architecture profession
 
 ## What we do and how we help
 
