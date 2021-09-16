@@ -11,9 +11,9 @@ It should be used in conjunction with the
 [DfE Digital Technical Guidance](https://technical-guidance.education.gov.uk),
 when building digital services.
 
-## Professions
+## Profession
 
-- [Our architecture profession offer](profession/our-profession-offer)
+- [Architecture profession](profession/our-profession-offer)
 
 ## Principles
 
