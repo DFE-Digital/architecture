@@ -19,39 +19,71 @@ The architecture profession:
 
 There is a large community of permanent and contingent architects across the Department, plus commercial frameworks to help fulfil your needs.
 
-If you're looking for architecture support for your project, you should discuss your needs with your Architecture Lead.
+If you're looking for architecture support for your project, you should discuss your needs with your lead architect.
 
-## Architecture Leads
+## Lead architects
 
-Architecture Leads work within a DfE group or portfolio of work (e.g. ESFA, EYSG or SCMD). They work closely with DDaT business partners and other DDaT specialists to support, signpost and help join-up delivery.
+You can find out who your lead architect is using the table below:
+
+| **Business area** | **Portfolio/domain** | **Lead architect/s** |
+| - | - | - |
+**Digital and Technology** | Teaching Workforce | Andy Emley |
+| | Setting Leadership | (proposed Lead TA + support from Digital Strategy) |
+| | Vulnerable Families and Children | Craig Jackson |
+| | School Business Professionals | Stewart Bailey-Smith, Atif Mir
+| | Internal Services/Digital Efficiencies | Technical Architect (tbc) |
+| | Platforms and Infrastructure | John Carter |
+| | Cyber Security | Pete Dingwall
+| | End User Services | John Phillips, Ade Finch |
+| | Operational Services | Mario Gledhill |
+| | Digital Strategy | Ant McCrea |
+**Outside Digital and Technology** | CEDD (+ ESFA) | Jemma Sheargold, Suli Sadiq |
+| | Funding Services (+ Corporate Services) | John Harris |
+| | Data | Mick Rothwell |
+| | Schools Capital | Chris Langman (tbc) |
+| | HEFE | (escalated gap to SLT) |
+
+Lead architects work within a portfolio or domain. They work closely with DDaT business partners and other DDaT specialists to support, steer and help join-up delivery.
 
 They:
 
 - assist, advise and guide programmes and projects, ensuring alignment with:
-  - technical strategies, including reuse of common components, patterns and standards
-  - architectural principles
-  - architecture governance and design assurance
+  - technical strategies
+  - common patterns and components
+  - architecture principles
+  - architecture standards and assurance
 - should be engaged from idea conception and throughout delivery
-- can help identify architects and resources needed to support delivery:
-  - guiding idea formation and supporting recruitment of the right architects to meet those needs  
-  - working with a service delivery team to align with architecture principles and governance,
-  - helping identify commonality across the enterprise and finding the right solutions
+- can help identify architects and other specialists needed  to support delivery, specifically:
+  - guiding idea formation and supporting recruitment of the right people to meet those needs  
+  - working with service delivery teams to align with architecture principles and standards
+  - helping identify commonality across the organisation and finding the right solutions to business problems
 
-To find out who your Architecture Lead is, contact the [architecture profession](mailto:architecture.profession@education.gov.uk)
 
 ## Help to find an architect
 
-The architecture profession will work with you and your Architecture Lead to fulfill your needs. That could be assigning an architect from our team to your project or helping you bring in the right people or services, through one of our compliant commercial routes to market. This will enable you to:
+The architecture profession will work with you and your lead  architect to fulfil your needs. That could be supporting you to recruit permanent staff or helping you bring in the right people or services, through one of our compliant commercial routes to market. This will enable you to:
 - get the right architecture skills, at the right time, at the right price
-- on-board architects into DfE properly, so they understand our ways of working and our governance framework
+- on-board architects into DfE consistently, so they understand our ways of working and assurance framework
 - provide oversight and assurance of their outputs and deliverables
-- link them into the wider DfE architecture profession and community
+- link them into the wider DfE architecture profession and communities
 - exit them professionally when their work is complete, with appropriate handover and knowledge transfer
 
-If you'd like to know more, contact the [architecture profession](mailto:architecture.profession@education.gov.uk).
+The profession can provide example job descriptions, structured recruitment materials and template statements of work (for managed services and contingent workers)
 
-## Further guidance
+If you'd like to know more, or discuss your needs in more detail, contact the [architecture profession](mailto:architecture.profession@education.gov.uk).
 
-More information on architecture roles and responsibilities is available on our [Architecture Capability Framework](../../capability/architecture-capability-framework/) guidance.
+## Help with assurance
+
+For most services, it is expected that **architecture will emerge and evolve** over time as services themselves change based on emerging user needs and other drivers.
+
+The benefit of iterative delivery is to release value to users as early as possible, then iterate and continuously improve to derive better outcomes based on user feedback. This requires ongoing, continuous architecture and technical design review, to ensure services are created sustainably and consistently across the portfolio or domain and the wider organisation. Embedded architects work alongside product managers, developers, service designers and many other people to achieve this.
+
+In DfE, we encourage an 'in-line' assurance approach, where decisions about architecture and technology are made within a portfolio or service team based on user need, with assurance from wider technical communities where needed. By aligning with architecture principles and standards in DfE, we believe minimum-viable governance speeds up delivery. Architects can share and assure their work in communities, ensuring fit with broader organisational strategies.
+
+To see how your needs for architecture and technical design assurance might be best met, see our [design assurance guidance](https://dfe-digital.github.io/architecture/assurance/assurance-and-design/#design-assurance)
+
+## Further information
+
+More information on architecture roles and responsibilities is available on our [architecture capability framework](../../capability/architecture-capability-framework/) guidance.
 
 For any other information on the architecture practice, contact the [architecture profession](mailto:architecture.profession@education.gov.uk)
