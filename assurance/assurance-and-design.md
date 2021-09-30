@@ -26,7 +26,7 @@ We encourage an 'in-line' assurance model for architecture and technical design.
 
  Embedded architects work closely with their delivery teams to facilitate this, alongside product managers, developers and other people. They also work alongside their lead/principal architect, who may cut across multiple services, to ensure breadth and consistency in their designs.
 
- Architects have access to a plethora of design skills and experience from across professional communities in DfE. They can use architecture community meet-ups ( link) to ask for help with design problems, or ask the architecture profession to help facilitate a peer review (link) of their design. Many permanent architects have professional objectives that include supporting others in the community with peer review and preparation for service assessment.
+ Architects have access to a plethora of design skills and experience from across professional communities in DfE. They can use architecture community meet-ups (link) to ask for help with design problems, or ask the architecture profession to help facilitate a peer review (link) of their design. Many permanent architects have professional objectives that include supporting others in the community with peer review and preparation for service assessment.
 
  ## Things to help you
 
@@ -39,6 +39,14 @@ We encourage an 'in-line' assurance model for architecture and technical design.
  During the session, you'll walk through key points of your design, seek and discuss feedback. It should be an open, honest and constructive conversation, amongst trusted peers. You'll be expected to make notes yourself and summarise these (and any actions) back to the group. For particularly large or complex designs, the profession may be able to provide facilitation/secretariat support.
 
  After the session, the profession will record any significant or cross-cutting architecture decisions and actions, and follow these up.
+
+ ### The role of an architect through the product lifecycle
+
+ | **Lifecycle phase:** | **Planning/Inception** | **Discovery** | **Alpha** | **Beta** (private/public) | **Live** |
+ | ----| ---- | ---- | ---- | ---- | ---- |
+ | **Purpose of each phase:**| What is the problem space? Is there a problem to solve? | What is the problem? How big is it? Can we solve it? | What are our risky assumptions? How can we release value early? | What should we build first and is it adding value? |How can we continually add value to the service? |
+| **Role of the architect:** | Problem framing; Stakeholder mapping; Input to business case | Problem statement; Goals and drivers; Conceptual views; Business/technical capability mapping; Early option thinking | Solution prototyping; Capability/service/application views; Data architecture; Design assumptions and constraints; Options considered/tested | High > low level design: application, data, integration, hosting, security; Infrastructure/network topology, Disaster recovery, logging, auditing, error handling; Managing the service and support; Architecture/design decisions | Continual improvement; Relationships with suppliers; Learning/future recommendations |
+
 
 
 - [Design pack, with example diagrams](../documents/design-pack.docx)
