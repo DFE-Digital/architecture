@@ -49,7 +49,7 @@ when building digital services.
 
 ## Design assurance
 
-- [Design assurance](assurance/assurance-and-design)
+- [Design assurance](assurance/design-assurance)
 
 ## Repositories
 

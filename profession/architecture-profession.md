@@ -61,7 +61,7 @@ The benefit of iterative delivery is to release value to users as early as possi
 
 In DfE, we encourage an 'in-line' assurance approach, where decisions about architecture and technology are made within a portfolio or service team based on user need, with assurance from wider technical communities where needed. By aligning with architecture principles and standards in DfE, we believe minimum-viable governance speeds up delivery. Architects can share and assure their work in communities, ensuring fit with broader organisational strategies.
 
-To see how your needs for architecture and technical design assurance might be best met, see our [design assurance guidance](../../assurance/assurance-and-design/#design-assurance)
+To see how your needs for architecture and technical design assurance might be best met, see our [design assurance guidance](../../assurance/design-assurance/)
 
 ## Further information
 
