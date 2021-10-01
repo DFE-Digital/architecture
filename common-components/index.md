@@ -36,18 +36,17 @@ to enable the building of services.
 
 Domain | Component | Owner | Status
 - | - | - | -
-Hosting platforms | [Cloud Infrastructure Platform (CIP)](#cip) | Saghir Akbar | Beta
- | [Gov.UK PaaS (in DfE)](#govuk-paas) | Saghir Akbar | Beta
+Hosting platforms | [Cloud Infrastructure Platform (CIP)](#cip) | Dean Wilson | Live
+ | [GOV.UK PaaS (in DfE)](#govuk-paas) | Dean Wilson | Beta
 Security and networks | [DfE Sign-in](#dfe-signin) | Jenny O'Connor | Live
-| Core network | Saghir Akbar | Live
-Integration | [Enterprise API Management (EAPIM)](#eapim) | Saghir Akbar | Beta
+| Core network | Dean Wilson | Live
+Integration | [API Management (EAPIM)](#eapim) | Dean Wilson | Beta
 Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | Harj Bilan | Beta
 | [Postcode lookup](#postcode) | Mario Gledhill | Alpha
 | [Geospatial mapping](#mapping) | Mario Gledhill | Alpha
 | [Notifications and messaging](#notifications) | tbc | Discovery
 Applications | [Content Management Systems ](#cms) | Luke Slowen | Beta
-| [Customer Relationship Management](#crm) | Saghir Akbar | Beta
-| [Enterprise CRM](#crm) | Saghir Akbar | Beta
+| [Customer Relationship Management](#crm) | Dean Wilson | Beta
 | Marketing Automation platform | tbc | Discovery
 | Robotic Process Automation (RPA) platform | tbc | Alpha
 
@@ -58,10 +57,10 @@ Domain | Component | Owner | Status
 End User Devices | Office 365 | Jenny O'Connor | Live
 | Phones and Skype | Jenny O'Connor | Live
 | Mobile phones | Jenny O'Connor | Live
-Service Operations | Service desk tools (Service Now) | Leanna Green | Live
+| Service desk tools (Service Now) | Jenny O'Connor | Live
 Digital | Productivity tools (Slack, Trello, Confluence) | Jenny O'Connor | Beta
-Development | Development tools (Azure DevOps, Github) | Saghir Akbar | Live
-Information and data | SharePoint | Harj Bilan | Live
+Development | Development tools (Azure DevOps, Github) | Dean Wilson | Live
+Information and data | SharePoint | Philip Humphries | Live
 
 ## How do we use components?
 
@@ -178,7 +177,7 @@ __Further guidance__
 
 
 <a name="eapim"></a>
-### Enterprise API Management
+### API Management
 Enterprise integration and API management services make it easier to share data quickly and securely – whether you’re an integration partner, developer, publisher or data consumer.
 
 **Enterprise API Management (EAPIM) Platform**
