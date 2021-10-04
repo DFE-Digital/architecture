@@ -40,21 +40,21 @@ They:
 
 Use the table below to find out who your lead architect is. Or contact the [architecture profession](mailto:architecture.profession@education.gov.uk) if you're not sure.
 
-| **Business area** | **Portfolio/domain** | **Lead architect/s** |
+| Business area | Portfolio/domain | Lead architect/s |
 | - | - | - |
-**Digital and Technology** | Teaching Workforce | Andy Emley |
-| | Setting Leadership | tbc |
-| | Vulnerable Families and Children | Craig Jackson |
-| | School Business Professionals | Stewart Bailey-Smith, Atif Mir
-| | Internal Services/Digital Efficiencies | tbc |
-| | Platforms and Infrastructure | John Carter |
-| | Cyber Security | Pete Dingwall
-| | End User Services | John Phillips |
-| | Operational Services | Mario Gledhill |
-| | Digital Strategy | Ant McCrea |
-**Outside Digital and Technology** | CEDD (+ ESFA) | Jemma Sheargold |
-| | Funding Services | John Harris |
-| | Data | Mick Rothwell |
+**Digital and Technology** | Teacher services | Andy Emley |
+| | Setting leadership | tbc |
+| | Vulnerable families and children | Craig Jackson, tbc |
+| | School business professionals | Stewart Bailey-Smith, Atif Mir
+| | Internal services / digital efficiencies | tbc |
+| | Platforms and infrastructure | John Carter |
+| | Cyber security | Pete Dingwall
+| | End user services | John Phillips |
+| | Operational services | Mario Gledhill |
+| | Digital strategy | Ant McCrea |
+**Outside Digital and Technology** | Customer Experience Digital and Data | Jemma Sheargold |
+| | Funding services | John Harris |
+| | Data services | Mick Rothwell |
 
 ## Help to find an architect
 
