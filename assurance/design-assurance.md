@@ -9,7 +9,7 @@ expires: 2022-07-01
 
 ## In-line assurance
 
-We have different ways of delivering services in DfE. How we assure that technical design meets the necessary [standards](../standards/architecture-standards) needs to be flexible.
+We have different ways of delivering services in DfE. How we assure that technical design meets the necessary [standards](../../standards/architecture-standards) needs to be flexible.
 We need to ensure we're doing the right things (through governance) and doing things right (through assurance). And not slowing down delivery in the process.
 
 The Senior Responsible Owner (SRO) or Service Owner (usually a Deputy Director) is accountable for all delivery within their service, programme or division. They rely on the advice of technical experts within their multi-disciplinary teams and portfolios when taking ownership of key technical decisions and risks for their domain. These responsibilities are at the heart of an 'in-line' assurance model.
