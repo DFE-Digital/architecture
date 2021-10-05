@@ -44,11 +44,11 @@ Use the table below to find out who your lead architect is. Or contact the [arch
 | - | - | - |
 **Digital and Technology** | Teacher services | Andy Emley |
 | | Setting leadership | tbc |
-| | Vulnerable families and children | Craig Jackson, tbc |
-| | School business professionals | Stewart Bailey-Smith, Atif Mir
+| | Vulnerable children and families | Craig Jackson, tbc |
+| | School business professionals | Stewart Bailey-Smith, Atif Mir |
 | | Internal services / digital efficiencies | tbc |
 | | Platforms and infrastructure | John Carter |
-| | Cyber security | Pete Dingwall
+| | Cyber security | Pete Dingwall |
 | | End user services | John Phillips |
 | | Operational services | Mario Gledhill |
 | | Digital strategy | Ant McCrea |
