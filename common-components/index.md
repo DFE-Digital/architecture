@@ -382,15 +382,19 @@ __Content Management System components__
 
 CMS applications support collaboration across teams, with multiple users being able to work in the back-end of the same CMS application, allowing for quick and easy updates. Users can customise the design and functionality of the content by using templates and extensions.
 
-These are the products and services in use or being considered across the department:
+[Contentful](https://www.contentful.com) is the department's preferred strategic CMS platform which is currently being used by a number of service lines. There is an enterprise agreement in place, along with a Service Operating Model (SOM) and Authority to Operate (AtO) to support services.
 
-- [Contentful](https://www.contentful.com/)
+For more information on Contentful, please email the [Digital Tools Support team](mailto:digital-tools-support@digital.education.gov.uk) or alternatively you can contact them via Slack [#digital-tools-support](https://ukgovernmentdfe.slack.com/archives/CMS9V0JQL).
+
+Other products in use or have been considered across the department are:
+
 - [Orchard Core](http://www.orchardcore.net/)
+- [Sitefinity](https://www.progress.com/sitefinity-cms)
 - [Contentstack](https://www.contentstack.com/)
 - [Kontent](https://kontent.ai/)
 - [Prismic](https://prismic.io/)
 - [Cosmic JS](https://www.cosmicjs.com/)
-- [Sitefinity](https://www.progress.com/sitefinity-cms)
+
 
 Benefits of using a CMS include:
 
