@@ -27,26 +27,26 @@ Here are some of the more common roles:
 
 ### Enterprise Architects
 
-Enterprise Architects work across the DfE at a strategic level to translate business strategy into change and technical delivery.
+Enterprise Architects generally work across the DfE at a strategic level, to translate business strategy into change and technical delivery.
 
 Their responsibilities include:
 
-- establishing the architectural principles, patterns and standards
+- establishing broad architectural principles, policies and standards
 - assuring technology decisions are aligned to architecture and technical strategies
-- ownership of architecture strategy and roadmaps, including ‘as-is’ and ‘to-be’ transitional states
+- ownership of architecture strategy and roadmaps for the organisation, including ‘as-is’ and ‘to-be’ transitional states
 - understanding DfE's ecosystem and its inter-dependencies
 
 ### Solution Architects
 
-Solution Architects work with multi-disciplinary teams to find the best use of data, applications and technology to design and deliver services and products, whilst also delivering business change and achieving organisational objectives.
+Solution Architects typically work within delivery teams to find the best use of data, applications and technology for the design and delivery of services and products. Whilst also helping to deliver business change and achieving organisational objectives.
 
-Solution Architects own the overall technical vision for a solution or set of solutions. They work within service delivery teams to assure the implementation and delivery of those solutions. There are also Solution Architects who work in service teams and / or directorates (e.g. ESFA) that tend to be long term assignments.
+Solution Architects generally own the overall technical vision for a solution or set of solutions. They work within delivery teams to assure the implementation and delivery of those solutions.
 
 ### Technical Architects
 
-Technical Architects are embedded within a multi-disciplinary team, working end-to-end to help to design and implement technical solutions. They are often specialists or technical subject matter experts in one or more disciplines (e.g. software development, data, security, DevOps). They tend to work in continuous delivery environments and are comfortable with turning business problems into technical design. They tend to be from a software development or engineering background and are comfortable using technical toolsets and / or code.
+Technical Architects are embedded within a multi-disciplinary team, working end-to-end to help to design and implement technical solutions. They are often specialists or technical subject matter experts in one or more disciplines (e.g. software development, data, security, DevOps). They mostly work in continuous delivery environments and are comfortable with turning business problems into technical design. They are often from a software development or engineering background, and are comfortable using a variety of technical tools and working with code.
 
-Technical Architects currently work in digital service lines within DfE, such as those found in Teacher Services, for example. This role is aligned to the [Technical Architect](https://www.gov.uk/guidance/technical-architect) job family of the GOV.UK DDaT Capability Framework.
+The role is aligned with the [Technical Architect](https://www.gov.uk/guidance/technical-architect) job role on the GOV.UK DDaT Capability Framework.
 
 *[Add read across with DDaT Tech Arch skill levels, standard job descriptions]*
 
