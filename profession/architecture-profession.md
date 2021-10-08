@@ -38,7 +38,23 @@ They:
   - working with service delivery teams to align with architecture principles and standards
   - helping identify commonality across the organisation and finding the right solutions to business problems
 
-Contact the [architecture profession](mailto:architecture.profession@education.gov.uk) if you're not sure who your lead architect is.
+Use the table below to find out who your lead architect is. Or contact the [architecture profession](mailto:architecture.profession@education.gov.uk) if you're not sure.
+
+| Business area | Portfolio/domain | Lead architect/s |
+| - | - | - |
+**Digital and Technology** | Teacher services | Andy Emley |
+| | Setting leadership | tbc |
+| | Vulnerable children and families | Craig Jackson |
+| | School business professionals | Stewart Bailey-Smith, Atif Mir |
+| | Internal services / digital efficiencies | tbc |
+| | Platforms and infrastructure | John Carter |
+| | Cyber security | Pete Dingwall |
+| | End user services | John Phillips |
+| | Operational services | Mario Gledhill |
+| | Digital strategy | Ant McCrea |
+**Outside Digital and Technology** | Customer Experience Digital and Data, ESFA | Jemma Sheargold |
+| | Funding services, ESFA | John Harris |
+| | Data services, Data Directorate | Mick Rothwell |
 
 ## Help to find an architect
 
