@@ -15,9 +15,9 @@ It describes the pathways into architecture and how to develop an architecture c
 It builds on the [GOV.UK DDaT Capability Framework](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework), extending the various skills, levels and mastery for the context of DfE.
 
 ## The role of an architect through the delivery lifecycle
-| | Planning | Discovery | Alpha | Beta (private/public) | Live |
-| ----| ---- | ---- | ---- | ---- | ---- |
-| **Questions to answer**| What is the problem space? Is there a problem to solve? | What is the problem? How big is it? Can we solve it? | What are our risky assumptions? How can we release value early? | What should we build first and is it adding value? |How can we continually add value to the service? |
+|  | Planning | Discovery | Alpha | Beta (private/public) | Live |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| **Questions to answer** | What is the problem space? Is there a problem to solve? | What is the problem? How big is it? Can we solve it? | What are our risky assumptions? How can we release value early? | What should we build first and is it adding value? | How can we continually add value to the service? |
 | **Things an architect might focus on** | Problem framing, stakeholder mapping, input to business case | Problem statement, goals and drivers, conceptual views, business/technical capability mapping, early option thinking | Solution prototyping, capability / service / application views, data architecture, design assumptions and constraints, options considered / tested | High > low level design (applications, data, integration, hosting, security), infrastructure / network topology, disaster recovery, logging, auditing, error handling, managing the service and support, architecture / design decisions | Continual improvement, relationships with suppliers, learning/future recommendations |
 
 ## The skills and experience you'll need
