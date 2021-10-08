@@ -39,16 +39,16 @@ Domain | Component | Owner | Status
 Hosting platforms | [Cloud Infrastructure Platform (CIP)](#cip) | Dean Wilson | Live
  | [GOV.UK PaaS (in DfE)](#govuk-paas) | Dean Wilson | Beta
 Security and networks | [DfE Sign-in](#dfe-signin) | Jenny O'Connor | Live
-| Core network | Dean Wilson | Live
+ | Core network | Dean Wilson | Live
 Integration | [API Management (EAPIM)](#eapim) | Dean Wilson | Beta
 Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | Harj Bilan | Beta
-| [Postcode lookup](#postcode) | Mario Gledhill | Alpha
-| [Geospatial mapping](#mapping) | Mario Gledhill | Alpha
-| [Notifications and messaging](#notifications) | tbc | Discovery
+ | [Postcode lookup](#postcode) | Mario Gledhill | Alpha
+ | [Geospatial mapping](#mapping) | Mario Gledhill | Alpha
+ | [Notifications and messaging](#notifications) | tbc | Discovery
 Applications | [Content Management Systems ](#cms) | Luke Slowen | Beta
-| [Customer Relationship Management](#crm) | Dean Wilson | Beta
-| Marketing Automation platform | tbc | Discovery
-| Robotic Process Automation (RPA) platform | tbc | Alpha
+ | [Customer Relationship Management](#crm) | Dean Wilson | Beta
+ | Marketing Automation platform | tbc | Discovery
+ | Robotic Process Automation (RPA) platform | tbc | Alpha
 
 ### Common tooling
 
