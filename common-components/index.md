@@ -376,21 +376,22 @@ If you're considering your options and want more advice, get in touch with your 
 <a name="cms"></a>
 ### Content Management Systems
 
-A Content Management System (CMS) allows users to create, manage, modify, publish and store digital content in one place. 'Headless' content management is being used increasingly within the department. This is a back-end only CMS that makes content accessible via a RESTful API, for display on any device through one or more front-end channels.
+A Content Management System (CMS) allows users to create, manage, modify, publish and store digital content in one place.
 
-__Content Management System components__
+'Headless' content management is being used increasingly within services in the department. This is a back-end only CMS that makes content accessible via a RESTful API, for display through one or more front-end channels.
 
-CMS applications support collaboration across teams, with multiple users being able to work in the back-end of the same CMS application, allowing for quick and easy updates. Users can customise the design and functionality of the content by using templates and extensions.
+CMS products support collaboration across teams, with multiple users being able to work on content in the back-end of the CMS, allowing for quick and easy updates. CMS users can customise the design and functionality of the front-end by using templates and extensions.
 
-These are the products and services in use or being considered across the department:
+[Contentful](https://www.contentful.com) is the department's preferred headless CMS product, which is currently in use by a number of services. Contentful has an enterprise license plan and support, and has been assured for use in DfE, meaning teams can purchase the space size they need and incorporate into their service easily. For more information, email the [Digital Tools Support team](mailto:digital-tools-support@digital.education.gov.uk) or contact them via [#digital-tools-support](https://ukgovernmentdfe.slack.com/archives/CMS9V0JQL) on DfE Slack.
 
-- [Contentful](https://www.contentful.com/)
+Other CMS products either in use or have been considered across the department are:
+
 - [Orchard Core](http://www.orchardcore.net/)
+- [Sitefinity](https://www.progress.com/sitefinity-cms)
 - [Contentstack](https://www.contentstack.com/)
 - [Kontent](https://kontent.ai/)
 - [Prismic](https://prismic.io/)
 - [Cosmic JS](https://www.cosmicjs.com/)
-- [Sitefinity](https://www.progress.com/sitefinity-cms)
 
 Benefits of using a CMS include:
 
@@ -408,7 +409,7 @@ Each CMS brings a slightly different set of features and capabilities that fit d
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
-If you're considering CMS options please discuss your needs with the head of content design [Content Design Community Link](https://service-manual-prod.herokuapp.com/manual/communities-of-practice/professions-communities%20/connect-with-the-content-design-community) as work on the strategy for information services within the DfE is ongoing.
+If you're considering CMS options, please discuss your needs with the [Head of Content Design](https://service-manual.education.gov.uk/manual/communities-of-practice/connect-with-the-content-design-community/connect-with-the-content-design-community). Work on the strategy for information services within the DfE is ongoing.
 
 
 <a name="crm"></a>
