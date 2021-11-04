@@ -41,6 +41,8 @@ During the session, you'll walk through key points of your design, seek and disc
 
 After the session, the profession will record any significant or cross-cutting architecture decisions and actions, and follow these up.
 
+Contact the [architecture profession](mailto:architecture.profession@education.gov.uk) to discuss your peer review needs.
+
 ### Technical Show and Tells
 
 It may be more appropriate for you to bring architects and team members together for a technical Show and Tell. These are a great way to provide support, challenge and design assurance in a less formal setting.
