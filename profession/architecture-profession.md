@@ -23,7 +23,7 @@ If you're looking for architecture support for your project, you should discuss 
 
 ## Lead architects
 
-Lead architects work within a portfolio or domain. They work closely with DDaT business partners and other DDaT specialists to support, steer and help join-up delivery.
+Lead architects work within a DfE portfolio or domain. They work closely with DDaT business partners and other DDaT specialists to support, steer and help join-up delivery.
 
 They:
 
@@ -32,8 +32,7 @@ They:
   - common patterns and components
   - architecture principles
   - architecture standards and assurance
-- should be engaged from idea conception and throughout delivery
-- can help identify architects and other specialists needed  to support delivery, specifically:
+- can help identify architects and other technical specialists needed to support delivery, specifically:
   - guiding idea formation and supporting recruitment of the right people to meet those needs  
   - working with service delivery teams to align with architecture principles and standards
   - helping identify commonality across the organisation and finding the right solutions to business problems
@@ -54,7 +53,7 @@ Use the table below to find out who your lead architect is. Or contact the [arch
 | | Digital strategy | Ant McCrea |
 **Outside Digital and Technology** | Customer Experience Digital and Data, ESFA | Jemma Sheargold |
 | | Funding services, ESFA | John Harris |
-| | Data services, Data Directorate | Mick Rothwell |
+| | Data services, Data Directorate | Tim Robinson (interim) |
 
 ## Help to find an architect
 
