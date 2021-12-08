@@ -45,7 +45,7 @@ Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | 
  | [Postcode lookup](#postcode) | Mario Gledhill | Alpha
  | [Geospatial mapping](#mapping) | Mario Gledhill | Alpha
  | [Notifications and messaging](#notifications) | tbc | Discovery
-Applications | [Content Management Systems ](#cms) | Luke Slowen | Beta
+Applications | [Content Management Systems ](#cms) | Erhan Tahir | Beta
  | [Customer Relationship Management](#crm) | Dean Wilson | Beta
  | Marketing Automation platform | tbc | Discovery
  | Robotic Process Automation (RPA) platform | tbc | Alpha
