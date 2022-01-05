@@ -51,8 +51,8 @@ Use the table below to find out who your lead architect is. Or contact the [arch
 | | End user services | John Phillips |
 | | Operational services | Mario Gledhill |
 | | Digital strategy | Ant McCrea |
-**Outside Digital and Technology** | Customer Experience Digital and Data, ESFA | Jemma Sheargold |
-| | Funding services, ESFA | John Harris |
+**Outside Digital and Technology** | Customer Experience Digital and Data, ESFA | tbc |
+| | Funding services, ESFA | tbc |
 | | Data services, Data Directorate | Tim Robinson (interim) |
 
 ## Help to find an architect
