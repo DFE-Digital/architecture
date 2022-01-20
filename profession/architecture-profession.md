@@ -43,7 +43,7 @@ Use the table below to find out who your lead architect is. Or contact the [arch
 | - | - | - |
 **Digital and Technology** | Teacher services | Andy Emley |
 | | Setting leadership | tbc |
-| | Vulnerable children and families | Craig Jackson |
+| | Vulnerable children and families | Karishma Deshpande |
 | | School business professionals | Stewart Bailey-Smith, Atif Mir |
 | | Internal services / digital efficiencies | tbc |
 | | Platforms and infrastructure | John Carter |
@@ -53,7 +53,9 @@ Use the table below to find out who your lead architect is. Or contact the [arch
 | | Digital strategy | Ant McCrea |
 **Outside Digital and Technology** | Customer Experience Digital and Data, ESFA | tbc |
 | | Funding services, ESFA | tbc |
-| | Data services, Data Directorate | Tim Robinson (interim) |
+| | Data science, ESFA | Pete Holding |
+| | Data services, Data Directorate | Rob Morigi-Eades |
+| | Data analytics platform, Data Directorate | Thomas Sykes |
 
 ## Help to find an architect
 
