@@ -391,7 +391,6 @@ These are the products and services in use or being considered across the depart
 - [Kontent](https://kontent.ai/)
 - [Prismic](https://prismic.io/)
 - [Cosmic JS](https://www.cosmicjs.com/)
-- [Sitefinity](https://www.progress.com/sitefinity-cms)
 
 Benefits of using a CMS include:
 
@@ -426,6 +425,17 @@ It can also be customised to support operational delivery, such as programme and
 Dynamics 365 Portals provides an out-of-the-box front-end application that integrates directly with Dynamics 365. It can also be customised using CSS and Javascript, so can have a look and feel that is compliant with GOV.UK standards. For more complex implementations, it can also be integrated with a C#/.Net or Ruby application, to give more flexibility.
 
 Where an external-facing application is needed to support the CRM, Dynamics 365 Portals or development of a standalone web application can be used. Dynamics CRM can also be integrated with other external systems, such as support desks.
+
+__Thinking of implementing Anti-Virus and file scanning within Dynamics 365?__
+
+As the Dynamics 365 virus detection engine runs asynchronously (independent from file uploads), you may need or have the requirement to run realtime anti-virus and file scanning when your users are uploading files.
+
+We have worked closely with another delivery team that has successfully implemented a product called [Cloudmersive](https://cloudmersive.com/). It offers virus scanning and threat detection APIs that can be integrated with Dynamics 365.
+
+__Further information__
+-	Implentation approach - Education ICT Advisor - [James Hatch](https://eur.delve.office.com/?u=b67c2ba4-4366-463a-a70c-55fa78872d5b&v=work)
+-	Product information - Architecture Profession [Architecture Profession](mailto:architecture.profession@education.gov.uk)
+-	Contracts information - Contracts team who can advise on licensing options already established - [Contracts team](mailto:dandt.contracts@education.gov.uk)
 
 __Support__
 
