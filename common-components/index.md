@@ -433,9 +433,8 @@ As the Dynamics 365 virus detection engine runs asynchronously (independent from
 We have worked closely with another delivery team that has successfully implemented a product called [Cloudmersive](https://cloudmersive.com/). It offers virus scanning and threat detection APIs that can be integrated with Dynamics 365.
 
 __Further information__
--	Implentation approach - Education ICT Advisor - [James Hatch](https://eur.delve.office.com/?u=b67c2ba4-4366-463a-a70c-55fa78872d5b&v=work)
--	Product information - Architecture Profession [Architecture Profession](mailto:architecture.profession@education.gov.uk)
--	Contracts information - Contracts team who can advise on licensing options already established - [Contracts team](mailto:dandt.contracts@education.gov.uk)
+-	Product and implentation information - Architecture Profession [Architecture Profession](mailto:architecture.profession@education.gov.uk)
+-	Contract information - Contracts team - [Contracts team](mailto:dandt.contracts@education.gov.uk)
 
 __Support__
 
