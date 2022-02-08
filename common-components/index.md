@@ -430,10 +430,10 @@ __Thinking of implementing Anti-Virus and file scanning within Dynamics 365?__
 
 As the Dynamics 365 virus detection engine runs asynchronously (independent from file uploads), you may need or have the requirement to run realtime anti-virus and file scanning when your users are uploading files.
 
-We have worked closely with another delivery team that has successfully implemented a product called [Cloudmersive](https://cloudmersive.com/). It offers virus scanning and threat detection APIs that can be integrated with Dynamics 365.
+A DfE team has successfully implemented a product called [Cloudmersive](https://cloudmersive.com/). It offers virus scanning and threat detection APIs that can be integrated with Dynamics 365.
 
 __Further information__
--	Product and implentation information - Architecture Profession [Architecture Profession](mailto:architecture.profession@education.gov.uk)
+-	Product and implentation information - via the Architecture Profession [Architecture Profession](mailto:architecture.profession@education.gov.uk)
 -	Contract information - Contracts team - [Contracts team](mailto:dandt.contracts@education.gov.uk)
 
 __Support__
