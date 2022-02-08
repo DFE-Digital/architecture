@@ -47,7 +47,6 @@ This website is partially compliant with the [Web Content Accessibility Guidelin
 The following pages contain PNG images which are not fully explained in the text:
 
 - [https://dfe-digital.github.io/architecture/common-components](https://dfe-digital.github.io/architecture/common-components)
-- [https://dfe-digital.github.io/architecture/assurance/assurance-and-design](https://dfe-digital.github.io/architecture/assurance/assurance-and-design)
 - [https://dfe-digital.github.io/architecture/capability/architecture-capability-framework](https://dfe-digital.github.io/architecture/capability/architecture-capability-framework)
 
 These issues partially fail or fail [WCAG 2.1 success criterion 1.4.5 Images of Text.](https://www.w3.org/TR/2008/WD-UNDERSTANDING-WCAG20-20081103/visual-audio-contrast-text-presentation.html)
@@ -75,6 +74,6 @@ We used manual and automated tests to look for issues such as:
 
 When we publish new content, we’ll make sure our use of images meets accessibility standards.
 
-We plan to fix the issues with the images by the end of March 2021.
+We plan to fix the issues with the images by the end of December 2021.
 
-This statement was prepared on 24 September 2020. It was last updated on 24 September 2020.
+This statement was prepared on 24 September 2020. It was last updated on 1 October 2021.

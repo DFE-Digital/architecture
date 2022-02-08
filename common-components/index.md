@@ -32,24 +32,23 @@ The adoption of common components can bring significant benefits to the departme
 There is a distinction between components used to build a service and tools
 to enable the building of services.
 
-### Service components and products
+### Service components, products and platforms
 
 Domain | Component | Owner | Status
 - | - | - | -
-Hosting & platforms | [Cloud Infrastructure Platform (CIP)](#cip) | Saghir Akbar | Beta
- | [Gov.UK PaaS (in DfE)](#govuk-paas) | Saghir Akbar | Beta
+Hosting platforms | [Cloud Infrastructure Platform (CIP)](#cip) | Dean Wilson | Live
+ | [GOV.UK PaaS (in DfE)](#govuk-paas) | Dean Wilson | Beta
 Security and networks | [DfE Sign-in](#dfe-signin) | Jenny O'Connor | Live
-| Core network | Saghir Akbar | Live
-Integration | [Enterprise API Management (EAPIM)](#eapim) | Saghir Akbar | Beta
+ | Core network | Dean Wilson | Live
+Integration | [API Management (EAPIM)](#eapim) | Dean Wilson | Beta
 Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | Harj Bilan | Beta
-| [Postcode lookup](#postcode) | Mario Gledhill | Alpha
-| [Geospatial mapping](#mapping) | Mario Gledhill | Alpha
-| [Notifications and messaging](#notifications) | tbc | Discovery
-Applications | [Content Management Systems ](#cms) | Luke Slowen | Beta
-| [Customer Relationship Management](#crm) | Saghir Akbar | Beta
-| [Enterprise CRM](#crm) | Saghir Akbar | Beta
-| Marketing Automation platform | tbc | Discovery
-| Robotic Process Automation (RPA) platform | tbc | Alpha
+ | [Postcode lookup](#postcode) | Mario Gledhill | Alpha
+ | [Geospatial mapping](#mapping) | Mario Gledhill | Alpha
+ | [Notifications and messaging](#notifications) | tbc | Discovery
+Applications | [Content Management Systems ](#cms) | Erhan Tahir | Beta
+ | [Customer Relationship Management](#crm) | Dean Wilson | Beta
+ | Marketing Automation platform | tbc | Discovery
+ | Robotic Process Automation (RPA) platform | tbc | Alpha
 
 ### Common tooling
 
@@ -58,10 +57,10 @@ Domain | Component | Owner | Status
 End User Devices | Office 365 | Jenny O'Connor | Live
 | Phones and Skype | Jenny O'Connor | Live
 | Mobile phones | Jenny O'Connor | Live
-Service Operations | Service desk tools (Service Now) | Leanna Green | Live
+| Service desk tools (Service Now) | Jenny O'Connor | Live
 Digital | Productivity tools (Slack, Trello, Confluence) | Jenny O'Connor | Beta
-Development | Development tools (Azure DevOps, Github) | Saghir Akbar | Live
-Information and data | SharePoint | Harj Bilan | Live
+Development | Development tools (Azure DevOps, Github) | Dean Wilson | Live
+Information and data | SharePoint | Philip Humphries | Live
 
 ## How do we use components?
 
@@ -178,7 +177,7 @@ __Further guidance__
 
 
 <a name="eapim"></a>
-### Enterprise API Management
+### API Management
 Enterprise integration and API management services make it easier to share data quickly and securely – whether you’re an integration partner, developer, publisher or data consumer.
 
 **Enterprise API Management (EAPIM) Platform**
@@ -377,16 +376,18 @@ If you're considering your options and want more advice, get in touch with your 
 <a name="cms"></a>
 ### Content Management Systems
 
-A Content Management System (CMS) allows users to create, manage, modify, publish and store digital content in one place. 'Headless' content management is being used increasingly within the department. This is a back-end only CMS that makes content accessible via a RESTful API, for display on any device through one or more front-end channels.
+A Content Management System (CMS) allows users to create, manage, modify, publish and store digital content in one place.
 
-__Content Management System components__
+'Headless' content management is being used increasingly within services in the department. This is a back-end only CMS that makes content accessible via a RESTful API, for display through one or more front-end channels.
 
-CMS applications support collaboration across teams, with multiple users being able to work in the back-end of the same CMS application, allowing for quick and easy updates. Users can customise the design and functionality of the content by using templates and extensions.
+CMS products support collaboration across teams, with multiple users being able to work on content in the back-end of the CMS, allowing for quick and easy updates. CMS users can customise the design and functionality of the front-end by using templates and extensions.
 
-These are the products and services in use or being considered across the department:
+[Contentful](https://www.contentful.com) is the department's preferred headless CMS product, which is currently in use by a number of services. Contentful has an enterprise license plan and support, and has been assured for use in DfE, meaning teams can purchase the space size they need and incorporate into their service easily. For more information, email the [Digital Tools Support team](mailto:digital-tools-support@digital.education.gov.uk) or contact them via [#digital-tools-support](https://ukgovernmentdfe.slack.com/archives/CMS9V0JQL) on DfE Slack.
 
-- [Contentful](https://www.contentful.com/)
+Other CMS products either in use or have been considered across the department are:
+
 - [Orchard Core](http://www.orchardcore.net/)
+- [Sitefinity](https://www.progress.com/sitefinity-cms)
 - [Contentstack](https://www.contentstack.com/)
 - [Kontent](https://kontent.ai/)
 - [Prismic](https://prismic.io/)
@@ -408,7 +409,7 @@ Each CMS brings a slightly different set of features and capabilities that fit d
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
-If you're considering CMS options please discuss your needs with the head of content design [Content Design Community Link](https://service-manual-prod.herokuapp.com/manual/communities-of-practice/professions-communities%20/connect-with-the-content-design-community) as work on the strategy for information services within the DfE is ongoing.
+If you're considering CMS options, please discuss your needs with the [Head of Content Design](https://service-manual.education.gov.uk/manual/communities-of-practice/connect-with-the-content-design-community/connect-with-the-content-design-community). Work on the strategy for information services within the DfE is ongoing.
 
 
 <a name="crm"></a>

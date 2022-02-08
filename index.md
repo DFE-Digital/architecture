@@ -3,17 +3,17 @@ This site documents the architecture principles, standards and guidance that we 
 within the [Department for Education (DfE)](https://www.gov.uk/government/organisations/department-for-education)
 to follow when designing services.
 
-It complements the [GDS Service Manual](https://www.gov.uk/service-manual) and its
+It complements the [UK Government Service Manual](https://www.gov.uk/service-manual) and its
 [technology section](https://www.gov.uk/service-manual/technology),
 which covers service design more broadly.
 
 It should be used in conjunction with the
-[DfE Digital Technical Guidance](https://dfe-digital.github.io/technical-guidance),
+[DfE Digital Technical Guidance](https://technical-guidance.education.gov.uk),
 when building digital services.
 
 ## Profession
 
-- [Our architecture profession offer](profession/our-profession-offer)
+- [Architecture profession](profession/architecture-profession)
 
 ## Principles
 
@@ -23,6 +23,7 @@ when building digital services.
 {% for principle in principle_groups %}
 - [{{ principle.title }}]({{ principle.url | relative_url }})
 {% endfor %}
+- [Technical Architecture Principles](https://technical-guidance.education.gov.uk/principles/architecture/#technical-architecture-principles)
 
 ## Standards
 
@@ -48,7 +49,7 @@ when building digital services.
 
 ## Design assurance
 
-- [Design assurance](assurance/assurance-and-design)
+- [Design assurance](assurance/design-assurance)
 
 ## Repositories
 

@@ -15,8 +15,8 @@ Data is a Departmental shared resource with a measurable value. Data is the gold
 __How?__
 
 - This principle is related to ”Data is shared,” and “Data is obtainable,” so all teams should understand the relationship between the value of data, sharing of data and accessibility to data. 
-- All data should be registered in the Department’s Data Estate Map that records the legal basis on which we capture the data, how we process and use it, who owns it and the policies and privacy notices that apply to it. This will ensure we remain visibly compliant with Data Protection legislation such as GDPR. _[Link TBC]_
-- Data must only be used for legally permitted purposes, as defined by GDPR and captured in the Data Estate Map.
+- All data should be registered in the Department’s [Data Estate Map](https://s101p01-ifax01.ad.hq.dept:8443/search/#!lineage-container) that records the legal basis on which we capture the data, how we process and use it, who owns it and the policies and privacy notices that apply to it. This will ensure we remain visibly compliant with Data Protection legislation such as GDPR.
+- Data must only be used for legally permitted purposes, as defined by GDPR and captured in the [Data Estate Map](https://s101p01-ifax01.ad.hq.dept:8443/search/#!lineage-container).
 - Services must work to improve the value of our shared data assets by ensuring processes are in place to maintain and improve data quality. This includes making sure data is validated by users at point of capture wherever possible, and tracking the changes to data across user journeys.
 - Services must refrain from diluting the value of our data assets by creating their own versions of assets – we must agree master data sources and ensure those are always used
 - We must have clear accountability for our data assets, in the form of data owners
@@ -34,9 +34,9 @@ The Department has a legal and moral obligation to keep personal, confidential o
 
 __How?__
 
-- We adhere to our Data Classification Policy, to ensure we correctly classify data stores in terms of the sensitivity of data they contain. This will include reference to cross-Government standards around data classification, but DfE specific sensitivity labelling should be used if needed. _[Link: TBC]_
-- The Department’s Data Estate Map must be used as a central, authoritative repository for these policies. It must also record the legal basis on which we are allowed to process the data we hold and the restrictions that apply to any onward sharing or other use of the data. _[Link: TBC]_
-- Our Data Classification Policy articulates clear standards in terms of the ways data at different classification levels should be protected. We must ensure those standards are adhered to by all our services, both at design time and during service operation. _[Link: TBC]_ Our Data Access Policy determines who can access different classification levels. _[Link: TBC]_
+- We adhere to our [Data Classification Policy](https://educationgovuk.sharepoint.com/sites/lvewp00085/WorkDocs/Policies/Data%20Classification%20Policy%20v1.0.pdf?web=1), to ensure we correctly classify data stores in terms of the sensitivity of data they contain. This will include reference to cross-Government standards around data classification, but DfE specific sensitivity labelling should be used if needed.
+- The Department’s [Data Estate Map](https://s101p01-ifax01.ad.hq.dept:8443/search/#!lineage-container) must be used as a central, authoritative repository for these policies. It must also record the legal basis on which we are allowed to process the data we hold and the restrictions that apply to any onward sharing or other use of the data.
+- Our [Data Classification Policy](https://educationgovuk.sharepoint.com/sites/lvewp00085/WorkDocs/Policies/Data%20Classification%20Policy%20v1.0.pdf?web=1) articulates clear standards in terms of the ways data at different classification levels should be protected. We must ensure those standards are adhered to by all our services, both at design time and during service operation. Our [Handling Information Policy](https://educationgovuk.sharepoint.com/sites/how-do-i/SitePages/security-handling-information.aspx) determines who can access different classification levels.
 - Security must be applied at the data level, not just the application level, and must apply equally to copies, database logs and backups.
 - Security must be designed into data elements from the start of service development. Systems, data and technologies must be protected from unauthorised access and manipulation, and this protection should be tested before any release involving data assets
 - A strong system of monitoring must be in place to ensure we are alerted to unauthorised access or use of the Department’s data, whether that resides in individual applications or common data stores.
@@ -75,11 +75,11 @@ Wide access to data means that efficient and effective decisions can be made acr
 
 __How?__
 
-- This principle is related to ”Data is an asset,” and “Data is shared ,” so all teams should understand the relationship between the value of data, sharing of data and obtainability of data
+- This principle is related to ”Data is an asset,” and “Data is shared,” so all teams should understand the relationship between the value of data, sharing of data and obtainability of data
 - This principle also relates to ‘Data is secure’ – we must ensure the right balance between obtainability and security
 - All users should be able to obtain data easily
 - The way information is stored, accessed and presented must be adaptable for a wide range of users and their corresponding methods of access
-- Obtainable data must also include good quality metadata to minimise the risk of erroneous decision-making based on a misunderstanding of the data context. Much of this will be captured in the Data Estate Map, but should also include process/user journey metadata to understand how data were captured in the first place
+- Obtainable data must also include good quality metadata to minimise the risk of erroneous decision-making based on a misunderstanding of the data context. Much of this will be captured in the [Data Estate Map](https://s101p01-ifax01.ad.hq.dept:8443/search/#!lineage-container), but should also include process/user journey metadata to understand how data were captured in the first place
 - Good governance must be in place to ensure those with access to data understand their responsibilities under the Data Protection Act, and the limits of what they can do in the way of publishing, sharing or modifying the data. The Data Estate Map should be used to store and present this information to users.
 - It must be quick and easy to determine who has access to each data asset, and to audit any human or computer access for any time period going back for a reasonable amount of time.
 
@@ -96,7 +96,7 @@ __How?__
 - All new systems and services will be procured or developed on the basis that they can store data within EDAP.
 - Visualisation and analytics software will be provided to allow consumption of data in ways appropriate to user needs, including reports, dashboards, statistical analysis etc
 - This data and its subsequent use will be covered by DfE Data Governance policies and processes, and the Government Statistical Service Code of Practice
-- Data owners must define policies and processes to ensure data quality problems identified once data reaches EDAP can be reported to relevant services and data stewards to be fixed at source _[TBC: Link to Data Gov]_
+- Data owners must define policies and processes to ensure data quality problems identified once data reaches EDAP can be reported to relevant services and data stewards to be fixed at source. See our [Data Governance Hub](https://educationgovuk.sharepoint.com/sites/lvewp00085)
 
 ## 6. Data use is Ethical
 _We must process and store data in line with the ethical consensus around data use_

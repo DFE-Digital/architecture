@@ -191,7 +191,7 @@ Read more on the [common components guidance](../../common-components).
 
 A platform is something you can build a product or service upon. Platforms are typically groups of technologies that, collectively, provide the basis on which applications, products, services, processes can be built.
 
-Examples of platforms in DfE include the [Cloud Infrastructure Platform (CIP)](../../common-components/#cloud-infrastructure-platform) and the [Enterprise API Management platform (EAPIM)](../../common-components/#enterprise-api-management).
+Examples of technology platforms in use within DfE include the [Cloud Infrastructure Platform (CIP)](../../common-components/#cloud-infrastructure-platform), [GOV.UK Plaform-as-a-Service (PaaS)](../../common-components/#govuk-paas) and the [Enterprise API Management platform (EAPIM)](../../common-components/#enterprise-api-management).
 
 The Government Digital Service (GDS) offer [Government as a Platform](https://gds.blog.gov.uk/category/government-as-a-platform/) services, described as 'common core infrastructure of shared digital systems, technology and processes on which it’s easy to build brilliant, user-centric government services. Examples include GOV.UK Pay and GOV.UK Notify.'
 
