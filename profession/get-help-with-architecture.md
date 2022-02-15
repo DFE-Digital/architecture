@@ -12,8 +12,6 @@ expires: 2023-02-15
 
 sequenceDiagram
 
-title Get help with architecture in DfE
-
 participant Requestor
 participant DDaT Business Partner
 participant Portfolio
