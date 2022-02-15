@@ -42,11 +42,10 @@ Use the table below to find out who your lead architect is. Or contact the [arch
 | Business area | Portfolio/domain | Lead architect/s |
 | - | - | - |
 **Digital and Technology** | Teacher services | Andy Emley |
-| | Setting leadership | tbc |
-| | Vulnerable children and families | Karishma Deshpande |
-| | School business professionals | Stewart Bailey-Smith, Atif Mir |
+| | Children and families | Karishma Deshpande |
+| | Schools and curriculum | Stewart Bailey-Smith, Atif Mir |
 | | Internal services / digital efficiencies | tbc |
-| | Platforms and infrastructure | John Carter |
+| | Platforms and infrastructure | tbc |
 | | Cyber security | Pete Dingwall |
 | | End user services | John Phillips |
 | | Operational services | Mario Gledhill |
