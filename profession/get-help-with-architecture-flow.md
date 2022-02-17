@@ -14,7 +14,7 @@ graph TD
     B --> C{Architecture need?}
     C -.-> |Seek advice| D(fa:fa-users Profession)
     D -.-> C
-    C -.-> |No: help define the need| B
+    C --> |No: help define the need| B
     C --> |Yes|E{Portfolio fit?}
     E --> |Yes: small request| F(fa:fa-briefcase Portfolio)
     E --> |Yes: large request, raise canvas| G(fa:fa-road Roadmap)
