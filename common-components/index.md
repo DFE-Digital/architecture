@@ -178,37 +178,15 @@ __Further guidance__
 
 <a name="eapim"></a>
 ### API Management
-Enterprise integration and API management services make it easier to share data quickly and securely – whether you’re an integration partner, developer, publisher or data consumer.
+API management might be something that API developers and product owners in some DfE services would want to delegate to a central DfE team. Other services might want to run and manage their API in the same way they do their main service. Both are valid and supported. For more information on building API's at DfE see the [Technical Guidance](https://technical-guidance.education.gov.uk/guides/api-guidance/#content).
 
 **Enterprise API Management (EAPIM) Platform**
 
-The EAPIM platform provides a central place to host and discover APIs. It is a secure and fully accredited service that makes it easy to both publish and consume APIs.
-
-EAPIM has been developed using Microsoft Azure’s API gateway, and the solution is deployed within the [CIP hosting platform](#cip) with an expert team supporting the infrastructure.
-
-Here are some of the key benefits:
-
-- **Making it easier to share data**
-  - Developers can securely publish their APIs quickly in one place using the developer portal
-  - Data consumers can view all the APIs available and request access to data
-  - The service scales quickly in response to changing demand
-- **Reducing the admin for developer teams**
-  - Developers can host their APIs quickly by using automated features to build, test and publish. Features include automated on-boarding, templates, tested global policy controls, and identity and access management
-  - Once an APIs is hosted, there’s no need for developers to perform any platform maintenance
-  - Security accreditation is already in place
-- **Cost savings**
-  - EAPIM has a flexible subscription model, which means you won’t pay for more hosting space than you use
-  - By moving APIs to EAPIM, we are reducing the number of duplicate API platforms across the estate
-
-__Integration middleware__
-
-In addition to the API platform, integration middleware services are also available. These services use APIs to improve data sharing between multiple systems.
-
-The middleware technology improves access to siloed data and can deliver it between multiple systems in near real-time. By integrating systems in this way, we get better visibility of data, reduce the need to manually input data into multiple systems, increase efficiency and reduce the risk of data error.
+If you think your service would benefit from central API management, there is a DfE enterprise wide implementation for you to use (as opposed to running a seperate enterprise service). EAPIM has been developed using Microsoft Azure’s API gateway, and the solution is deployed within the [CIP hosting platform](#cip) .
 
 __Documentation__
 
-Read the [Operating Model](https://educationgovuk.sharepoint.com/sites/lveesfa00073/API%20Management/Forms/AllItems.aspx?id=%2Fsites%2Flveesfa00073%2FAPI%20Management%2FPlatform%20Documentation%2FService%20Operating%20Model%20%28SOM%29%2FCurrent%20Version&viewid=00000000%2D0000%2D0000%2D0000%2D000000000000) for more information about the solution design, security, availability, support and governance. If you need access to this document, please contact [Matt Morgan](https://eur.delve.office.com/?u=2bea9bd4-72ee-4174-850b-f6531174a2c7&v=work).
+Read the [Operating Model](https://educationgovuk.sharepoint.com/sites/lveesfa00073/API%20Management/Forms/AllItems.aspx?id=%2Fsites%2Flveesfa00073%2FAPI%20Management%2FPlatform%20Documentation%2FService%20Operating%20Model%20%28SOM%29%2FCurrent%20Version&viewid=00000000%2D0000%2D0000%2D0000%2D000000000000) for more information about the solution design, security, availability, support and governance.
 
 __Support__
 
@@ -226,9 +204,6 @@ Over the next 18 months, these services are evolving in following key areas:
 - Onboarding more APIs onto the platform
 - Promoting reuse of integration middleware
 
-__Further guidance__
-
-Contact [Sarfraz Malik](https://eur.delve.office.com/?u=8d0b2191-9a02-4a7f-8ad3-9b41ea129354&v=work) to find out more about this solution.
 
 <a name="edap"></a>
 ### Enterprise Data and Analytics Platform
@@ -289,7 +264,6 @@ Resources for the user community:
 
 Team Mailbox: [edap.support@education.gov.uk](mailto:edap.support@education.gov.uk)
 
-Platform Support Manager: [Chris Collins](https://eur.delve.office.com/?u=2fd29a66-b45f-4d1d-ac69-cd73a9e9e276&v=work)
 
 <a name="postcode"></a>
 ### Postcode lookup
@@ -421,44 +395,7 @@ Dynamics 365 provides various CRM features, such as:
 - Account Management
 - Enquiry Handling
 
-It can also be customised to support operational delivery, such as programme and financial assurance. Specific modules are also available for specific purposes, such as marketing and financial management.
-
-Dynamics 365 Portals provides an out-of-the-box front-end application that integrates directly with Dynamics 365. It can also be customised using CSS and Javascript, so can have a look and feel that is compliant with GOV.UK standards. For more complex implementations, it can also be integrated with a C#/.Net or Ruby application, to give more flexibility.
-
-Where an external-facing application is needed to support the CRM, Dynamics 365 Portals or development of a standalone web application can be used. Dynamics CRM can also be integrated with other external systems, such as support desks.
-
-__Thinking of implementing Anti-Virus and file scanning within Dynamics 365?__
-
-As the Dynamics 365 virus detection engine runs asynchronously (independent from file uploads), you may need or have the requirement to run realtime anti-virus and file scanning when your users are uploading files.
-
-A DfE team has successfully implemented a product called [Cloudmersive](https://cloudmersive.com/). It offers virus scanning and threat detection APIs that can be integrated with Dynamics 365.
-
-__Further information__
--	Product and implentation information - via the Architecture Profession [Architecture Profession](mailto:architecture.profession@education.gov.uk)
--	Contract information - Contracts team - [Contracts team](mailto:dandt.contracts@education.gov.uk)
-
-__Support__
-
-The Solution Delivery Team (SDT) within Digital and Technology can help anyone looking to create a service that needs CRM capabilities. SDT work through all stages of the development lifecycle - designing, building, supporting and maintaining systems. As a multidisciplinary team, they have both technical and delivery capabilities, and already support a number of CRMs and web applications.
-
-There are 3 routes to providing delivery support:
-
-- SDT can build the end-to-end system for you
-- SDT can offer a blended model, where SDT offers part of a multidisciplinary team, with the remainder made up from  business areas and/or contractors
-- SDT can offer use of contracts with suppliers which SDT will provide oversight for, to ensure services are built using Departmental best practise. These contracts can also be utilised to spin-up a full delivery team.
-
-With all of these delivery routes, SDT will ensure services are built to appropriate standards. This includes reuse of existing solutions where appropriate and ensures services are built in a standardised way, making ongoing maintenance and support easier.
-
-SDT offer a standard support model for services they deliver. This includes:
-
-- Service Level Agreements (SLAs) for incidents and requests, aligned to wider Digital and Technology directorate SLAs
-- Incidents and requests handled through standard tooling
-- A set amount of development days per year to support work requests (based on the criticality and complexity of your service), along with support in scoping and sizing requests to maximise the development time you have available
-- Close working with Service Operations teams, to ensure service standards are maintained and ongoing service assurance is met, including Authority to Operate (AtO) and IT Healthchecks (ITHCs)
-
-SDT have also set up a Dynamics Community of Practice, bringing together teams in the Department that are using Dynamics 365 in their services and projects. The community ensures ongoing conversations are taking place to standardise use of CRM products across the Department and ensure best practise is shared.
-
-For more information, or if you'd like to talk through about options for CRM, please contact [Iain McIntosh](https://gbr.delve.office.com/?u=b7680d65-eb71-4c1c-a68e-b95fa6248026&v=work).
+For more information: [Microsoft Web Site](https://dynamics.microsoft.com/)
 
 ## Further guidance on common components ##
 
