@@ -21,9 +21,9 @@ There is a large community of permanent and contingent architects across the Dep
 
 If you're looking for architecture support for your project, you should discuss your needs with your lead architect.
 
-## Lead architects
+## Architecture leads
 
-Lead architects work within a DfE portfolio or domain. They work closely with DDaT business partners and other DDaT specialists to support, steer and help join-up delivery.
+Architecture leads work within a DfE portfolio or domain. They work closely with DDaT business partners and other DDaT specialists to support, steer and help join-up delivery.
 
 They:
 
@@ -33,28 +33,27 @@ They:
   - architecture principles
   - architecture standards and assurance
 - can help identify architects and other technical specialists needed to support delivery, specifically:
-  - guiding idea formation and supporting recruitment of the right people to meet those needs  
-  - working with service delivery teams to align with architecture principles and standards
-  - helping identify commonality across the organisation and finding the right solutions to business problems
+  - supporting recruitment of the right people to meet the needs of the portfolio / domain
+  - working with delivery teams to align with architecture principles, standards and patterns
+  - helping identify common goals / problems being solved across DfE and linking up
 
-Use the table below to find out who your lead architect is. Or contact the [architecture profession](mailto:architecture.profession@education.gov.uk) if you're not sure.
+Use the table below to find out who your architecture lead is. Or contact the [architecture profession](mailto:architecture.profession@education.gov.uk) if you're not sure.
 
-| Business area | Portfolio/domain | Lead architect/s |
-| - | - | - |
-**Digital and Technology** | Teacher services | Andy Emley |
-| | Children and families | Karishma Deshpande |
-| | Schools and curriculum | Stewart Bailey-Smith, Atif Mir |
-| | Internal services / digital efficiencies | tbc |
-| | Platforms and infrastructure | tbc |
-| | Cyber security | Pete Dingwall |
-| | End user services | John Phillips |
-| | Operational services | Mario Gledhill |
-| | Digital strategy | Ant McCrea |
-**Outside Digital and Technology** | Customer Experience Digital and Data, ESFA | tbc |
-| | Funding services, ESFA | tbc |
-| | Data science, ESFA | Pete Holding |
-| | Data services, Data Directorate | Rob Morigi-Eades |
-| | Data analytics platform, Data Directorate | Thomas Sykes |
+| Portfolio/domain | Architecture lead(s) |
+| - | - |
+| Teacher services | Andy Emley |
+| Children and families | Karishma Deshpande |
+| Schools and curriculum | Stewart Bailey-Smith, Atif Mir |
+| Cyber security | Pete Dingwall |
+| End user services | John Phillips |
+| Operational services | Mario Gledhill |
+| Digital strategy | Ant McCrea |
+| Data architecture | Tafseer Nisa |
+| Data science | Pete Holding |
+| Data services | Rob Morigi-Eades |
+| Data analytics platform | Thomas Sykes |
+| Apprenticeships | Siva Poopalan |
+| National Careers Service | Terry Rich-Whitehead |
 
 ## Help to find an architect
 
