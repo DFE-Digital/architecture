@@ -29,3 +29,8 @@ graph TD
     H --> J(Establish portfolio and prioritisation)
     J --> |Confirm position|F
 ```
+
+## Useful links
+
+- [DDaT Business Partners](https://educationgovuk.sharepoint.com/sites/lvewp00038/SitePages/DDaT-Business-Partners.aspx)
+- [Architecture guidance](https://dfe-digital.github.io/architecture)
