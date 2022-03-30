@@ -47,6 +47,7 @@ Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | 
  | [Notifications and messaging](#notifications) | tbc | Discovery
 Applications | [Content Management Systems ](#cms) | Erhan Tahir | Beta
  | [Customer Relationship Management](#crm) | Dean Wilson | Beta
+ | Contact Centre Technology Service | Jenny O'Connor | Live
  | Marketing Automation platform | tbc | Discovery
  | Robotic Process Automation (RPA) platform | tbc | Alpha
 
