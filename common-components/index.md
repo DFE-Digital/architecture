@@ -475,7 +475,7 @@ CCTS provides a shared contact centre telephony capability with associated servi
 
 Initial (Phase 1) deployment of CCTS focused on providing core contact centre telephony capabilities. Future phases will focus on integration with other common components and delivery of additional communication channels as shown below. 
 
-[ccts-phases](../images/ccts-phases.png "Image showing capabilities and delivery phases for CCTS")
+![ccts-phases](../images/ccts-phases.png "Image showing capabilities and delivery phases for CCTS")
 
 __Further guidance__
 
