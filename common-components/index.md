@@ -170,7 +170,7 @@ You can see [who’s already using DfE Sign-in](https://services.signin.educatio
 
 A full roadmap of services to be onboarded can be seen below:
 
-![Image of the DfE Sign-in roadmap](../images/dfesignin-roadmap.png)
+![Image of the DfE Sign-in roadmap](../images/dfesignin-roadmap.png "Image of the roadmap for DfE Sign-in")
 
 __Further guidance__
 -	Service Manager - [Jane Ludlow](https://eur.delve.office.com/?u=29a68eae-0685-4e19-af80-e51da80951ae&v=work)
@@ -316,7 +316,7 @@ These are the products and services in use and available across the department:
 
 They each bring a slightly different set of features and capabilities that fit different use cases. This table provides an overview:
 
-![Image of the DfE Postcode Capabilities](../images/postcode-overview.png)
+![Image of the DfE Postcode Capabilities](../images/postcode-overview.png "Image of Excel sheet of postcode lookup capabilities in DfE")
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
@@ -338,7 +338,7 @@ These are the products and services in use and available across the department:
 
 They each bring a slightly different set of features and capabilities that fit different use cases. This table provides an overview:
 
-![Image of the DfE Mapping Capabilities](../images/mapping-overview.png)
+![Image of the DfE Mapping Capabilities](../images/mapping-overview.png "Image of Excel sheet of mapping capabilities in DfE")
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
@@ -368,7 +368,7 @@ These applications will provide error monitoring and alerts to services that are
 
 Each application brings a slightly different set of features and capabilities that fit different use cases. This table provides an overview:
 
-![Image of the DfE Notification Capabilities](../images/notifications-overview.png)
+![Image of the DfE Notification Capabilities](../images/notifications-overview.png "Image of Excel sheet of notification capabilities in DfE")
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
@@ -406,7 +406,7 @@ Benefits of using a CMS include:
 
 Each CMS brings a slightly different set of features and capabilities that fit different use cases. This table provides an overview:
 
-![Image of the DfE Content Management System Capabilities](../images/cms-overview.png)
+![Image of the DfE Content Management System Capabilities](../images/cms-overview.png  "Image of Excel sheet of content management capabilities in DfE")
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
