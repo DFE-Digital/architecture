@@ -47,7 +47,7 @@ Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | 
  | [Notifications and messaging](#notifications) | tbc | Discovery
 Applications | [Content Management Systems ](#cms) | Erhan Tahir | Beta
  | [Customer Relationship Management](#crm) | Dean Wilson | Beta
- | Contact Centre Technology Service | Jenny O'Connor | Live
+ | [Contact Centre Technology Service](#ccts) | Jenny O'Connor | Live
  | Marketing Automation platform | tbc | Discovery
  | Robotic Process Automation (RPA) platform | tbc | Alpha
 
@@ -460,6 +460,27 @@ SDT offer a standard support model for services they deliver. This includes:
 SDT have also set up a Dynamics Community of Practice, bringing together teams in the Department that are using Dynamics 365 in their services and projects. The community ensures ongoing conversations are taking place to standardise use of CRM products across the Department and ensure best practise is shared.
 
 For more information, or if you'd like to talk through about options for CRM, please contact [Iain McIntosh](https://gbr.delve.office.com/?u=b7680d65-eb71-4c1c-a68e-b95fa6248026&v=work).
+
+
+<a name="ccts"></a>
+### Contact Centre Technology Service (CCTS)
+CCTS provides a shared contact centre telephony capability with associated services such as non-geographic numbers, Interactive Voice Response (IVR), call management, recording and reporting. It is currently used by the following DfE service lines. 
+- Ministerial and Parliamentary Communication Division (MPCD) 
+- Teachers Qualification Unit (TQU) 
+- DfE Service Desk 
+- ESFA Customer Services 
+- Human Resources 
+- Press Office 
+- Standards and Testing Agency (STA) 
+
+Initial (Phase 1) deployment of CCTS focused on providing core contact centre telephony capabilities. Future phases will focus on integration with other common components and delivery of additional communication channels as shown below. 
+
+[ccts-phases](../images/ccts-phases.png "Image showing capabilities and delivery phases for CCTS")
+
+__Further guidance__
+
+Contact [Mark Hubbard](https://sfeur.delve.office.com/?u=968d2dff-5175-49ad-964d-a1c3cedf28ab&v=work) to find out more about CCTS.
+
 
 ## Further guidance on common components ##
 
