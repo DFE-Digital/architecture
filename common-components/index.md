@@ -39,16 +39,17 @@ Domain | Component | Owner | Status
 Hosting platforms | [Cloud Infrastructure Platform (CIP)](#cip) | Dean Wilson | Live
  | [GOV.UK PaaS (in DfE)](#govuk-paas) | Dean Wilson | Beta
 Security and networks | [DfE Sign-in](#dfe-signin) | Jenny O'Connor | Live
-| Core network | Dean Wilson | Live
+ | Core network | Dean Wilson | Live
 Integration | [API Management (EAPIM)](#eapim) | Dean Wilson | Beta
 Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | Harj Bilan | Beta
-| [Postcode lookup](#postcode) | Mario Gledhill | Alpha
-| [Geospatial mapping](#mapping) | Mario Gledhill | Alpha
-| [Notifications and messaging](#notifications) | tbc | Discovery
-Applications | [Content Management Systems ](#cms) | Luke Slowen | Beta
-| [Customer Relationship Management](#crm) | Dean Wilson | Beta
-| Marketing Automation platform | tbc | Discovery
-| Robotic Process Automation (RPA) platform | tbc | Alpha
+ | [Postcode lookup](#postcode) | Mario Gledhill | Alpha
+ | [Geospatial mapping](#mapping) | Mario Gledhill | Alpha
+ | [Notifications and messaging](#notifications) | tbc | Discovery
+Applications | [Content Management Systems ](#cms) | Erhan Tahir | Beta
+ | [Customer Relationship Management](#crm) | Dean Wilson | Beta
+ | [Contact Centre Technology Service](#ccts) | Jenny O'Connor | Live
+ | Marketing Automation platform | tbc | Discovery
+ | Robotic Process Automation (RPA) platform | tbc | Alpha
 
 ### Common tooling
 
@@ -169,7 +170,7 @@ You can see [who’s already using DfE Sign-in](https://services.signin.educatio
 
 A full roadmap of services to be onboarded can be seen below:
 
-![Image of the DfE Sign-in roadmap](../images/dfesignin-roadmap.png)
+![Image of the DfE Sign-in roadmap](../images/dfesignin-roadmap.png "Image of the roadmap for DfE Sign-in")
 
 __Further guidance__
 -	Service Manager - [Jane Ludlow](https://eur.delve.office.com/?u=29a68eae-0685-4e19-af80-e51da80951ae&v=work)
@@ -315,7 +316,7 @@ These are the products and services in use and available across the department:
 
 They each bring a slightly different set of features and capabilities that fit different use cases. This table provides an overview:
 
-![Image of the DfE Postcode Capabilities](../images/postcode-overview.png)
+![Image of the DfE Postcode Capabilities](../images/postcode-overview.png "Image of Excel sheet of postcode lookup capabilities in DfE")
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
@@ -337,7 +338,7 @@ These are the products and services in use and available across the department:
 
 They each bring a slightly different set of features and capabilities that fit different use cases. This table provides an overview:
 
-![Image of the DfE Mapping Capabilities](../images/mapping-overview.png)
+![Image of the DfE Mapping Capabilities](../images/mapping-overview.png "Image of Excel sheet of mapping capabilities in DfE")
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
@@ -367,7 +368,7 @@ These applications will provide error monitoring and alerts to services that are
 
 Each application brings a slightly different set of features and capabilities that fit different use cases. This table provides an overview:
 
-![Image of the DfE Notification Capabilities](../images/notifications-overview.png)
+![Image of the DfE Notification Capabilities](../images/notifications-overview.png "Image of Excel sheet of notification capabilities in DfE")
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
@@ -405,7 +406,7 @@ Benefits of using a CMS include:
 
 Each CMS brings a slightly different set of features and capabilities that fit different use cases. This table provides an overview:
 
-![Image of the DfE Content Management System Capabilities](../images/cms-overview.png)
+![Image of the DfE Content Management System Capabilities](../images/cms-overview.png  "Image of Excel sheet of content management capabilities in DfE")
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
@@ -426,6 +427,16 @@ It can also be customised to support operational delivery, such as programme and
 Dynamics 365 Portals provides an out-of-the-box front-end application that integrates directly with Dynamics 365. It can also be customised using CSS and Javascript, so can have a look and feel that is compliant with GOV.UK standards. For more complex implementations, it can also be integrated with a C#/.Net or Ruby application, to give more flexibility.
 
 Where an external-facing application is needed to support the CRM, Dynamics 365 Portals or development of a standalone web application can be used. Dynamics CRM can also be integrated with other external systems, such as support desks.
+
+__Thinking of implementing Anti-Virus and file scanning within Dynamics 365?__
+
+As the Dynamics 365 virus detection engine runs asynchronously (independent from file uploads), you may need or have the requirement to run realtime anti-virus and file scanning when your users are uploading files.
+
+A DfE team has successfully implemented a product called [Cloudmersive](https://cloudmersive.com/). It offers virus scanning and threat detection APIs that can be integrated with Dynamics 365.
+
+__Further information__
+-	Product and implentation information - via the Architecture Profession [Architecture Profession](mailto:architecture.profession@education.gov.uk)
+-	Contract information - Contracts team - [Contracts team](mailto:dandt.contracts@education.gov.uk)
 
 __Support__
 
@@ -449,6 +460,27 @@ SDT offer a standard support model for services they deliver. This includes:
 SDT have also set up a Dynamics Community of Practice, bringing together teams in the Department that are using Dynamics 365 in their services and projects. The community ensures ongoing conversations are taking place to standardise use of CRM products across the Department and ensure best practise is shared.
 
 For more information, or if you'd like to talk through about options for CRM, please contact [Iain McIntosh](https://gbr.delve.office.com/?u=b7680d65-eb71-4c1c-a68e-b95fa6248026&v=work).
+
+
+<a name="ccts"></a>
+### Contact Centre Technology Service (CCTS)
+CCTS provides a shared contact centre telephony capability with associated services such as non-geographic numbers, Interactive Voice Response (IVR), call management, recording and reporting. It is currently used by the following DfE service lines. 
+- Ministerial and Parliamentary Communication Division (MPCD) 
+- Teachers Qualification Unit (TQU) 
+- DfE Service Desk 
+- ESFA Customer Services 
+- Human Resources 
+- Press Office 
+- Standards and Testing Agency (STA) 
+
+Initial (Phase 1) deployment of CCTS focused on providing core contact centre telephony capabilities. Future phases will focus on integration with other common components and delivery of additional communication channels as shown below. 
+
+![ccts-phases](../images/ccts-phases.png "Image showing capabilities and delivery phases for CCTS")
+
+__Further guidance__
+
+Contact [Mark Hubbard](https://sfeur.delve.office.com/?u=968d2dff-5175-49ad-964d-a1c3cedf28ab&v=work) to find out more about CCTS.
+
 
 ## Further guidance on common components ##
 
