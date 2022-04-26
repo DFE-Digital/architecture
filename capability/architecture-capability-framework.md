@@ -85,15 +85,6 @@ Architects (or those aspiring to be architects) should consider:
 ### Learning and development
 *[Add offer, recommended learning, shadowing / mentoring, how to access]*
 
-### Community
-
-There is a thriving architecture community in DfE. We meet up monthly, to 'show and tell' good things that are happening in architecture and hear from wider Government, private sector, relevant suppliers and vendors on new, innovative solutions. And to just chat and share knowledge. You don't have to be an architect to join in - we often hear updates from business areas and those interested in what we're doing. If you want to get involved or have something to share, drop us a line in the [architecture profession](mailto:architecture.profession@education.gov.uk).
-
-And join us on the following channels:
-
-- [#architecture](https://ukgovernmentdfe.slack.com/archives/CFGA9DZSL) channel on [DfE Slack](https://ukgovernmentdfe.slack.com)
-- [#architecture](https://ukgovernmentdigital.slack.com/archives/C04V6F4SX) channel on [UK Government Slack](https://ukgovernmentdigital.slack.com)
-- [Architecture Community on Teams](https://teams.microsoft.com/l/team/19%3a431430007aba4eceaddb4a0ab32dc412%40thread.skype/conversations?groupId=a7bd5aaa-9b44-4594-b058-4ac717af83d9&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9)
 
 ## Pathways into architecture
 Here are some examples of how architects come into the profession and what the career pathways might look like:
@@ -102,7 +93,7 @@ Here are some examples of how architects come into the profession and what the c
 
 You can also download a [PDF version](../documents/dfe-architecture-framework-pathways.pdf) of this architecture pathway map.
 
-*[Add detail on DDaT pathways + DfE - from business analysis, development / DevOps, technnical roles]*
+*[Add detail on DDaT pathways + DfE - from business analysis, development / DevOps, technical roles]*
 
 ## Profiles
 *[Add case studies for Enterprise / Solution / Technical Architect]*
