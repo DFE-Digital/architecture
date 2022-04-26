@@ -1,6 +1,6 @@
 ---
 category: Architecture Capability
-expires: 2020-12-01
+expires: 2022-12-01
 ---
 
 # Architecture Capability Framework
@@ -8,9 +8,13 @@ expires: 2020-12-01
 > This page is being drafted, but we wanted to share the information we'd gathered as soon as it was available. If you have any comments, please contact the [architecture profession](mailto:architecture.profession@education.gov.uk))
 
 ## Purpose
-This framework provides an outline of the roles, skills and experience that architects working within DfE have or would like to build.
+This framework provides an outline of the roles, skills and experience that architects working within DfE have or would like to build. 
 
-It describes the pathways into architecture and how to develop an architecture career. It should help also people interacting with architects understand what we do and how we do it.
+We've published the first iteration of our [DfE architecture capability framework](https://educationgovuk.sharepoint.com/:w:/r/sites/Businessoperationsplanningandperformance-CapabilityTeam/Shared%20Documents/Capability%20Team/Capability%20Frameworks,%20Assessment%20%26%20Career%20Pathways/Architecture/Architecture%20Capability%20Framework%20V1%20FINAL.docx?d=w070c3687bfd74cdb8e8269bd1962b681&csf=1&web=1&e=vckSwA), focused initially on our enterprise, solution and technical architect roles. This will be expanded to include other architecture roles soon.
+
+On these guidance pages, we summarise information in the framework, and describe some of the pathways into architecture and how to develop an architecture career. 
+
+The framework should help also people working and interacting with architects understand what we do and how we do it.
 
 It builds on the [GOV.UK DDaT Capability Framework](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework), extending the various skills, levels and mastery for the context of DfE.
 
@@ -34,29 +38,29 @@ Their responsibilities include:
 
 Solution Architects work with multi-disciplinary teams to find the best use of data, applications and technology to design and deliver services and products, whilst also delivering business change and achieving organisational objectives.
 
-Solution Architects own the overall technical vision for a solution or set of solutions. They work within service delivery teams to assure the implementation and delivery of those solutions. There are also Solution Architects who work in service teams and / or directorates (e.g. ESFA) that tend to be long term assignments.
+Solution Architects own the overall technical vision for a solution or set of solutions, or within a particular domain. They work within service delivery teams to assure the implementation and delivery of those solutions.
 
 ### Technical Architects
 
-Technical Architects are embedded within a multi-disciplinary team, working end-to-end to help to design and implement technical solutions. They are often specialists or technical subject matter experts in one or more disciplines (e.g. software development, data, security, DevOps). They tend to work in continuous delivery environments and are comfortable with turning business problems into technical design. They tend to be from a software development or engineering background and are comfortable using technical toolsets and / or code.
+Technical Architects are generally embedded within a multi-disciplinary team (or across multiple teams), working end-to-end to help to design and implement technical solutions. They are often specialists or technical subject matter experts in one or more disciplines (e.g. software development, data, security, DevOps). They tend to work in continuous delivery environments and are comfortable with turning business problems into technical design. They tend to be from a software development or engineering background and are comfortable using technical toolsets and / or code.
 
-Technical Architects currently work in digital service lines within DfE, such as those found in Teacher Services, for example. This role is aligned to the [Technical Architect](https://www.gov.uk/guidance/technical-architect) job family of the GOV.UK DDaT Capability Framework.
+Technical Architects currently work in portfolios and service lines within DfE, such as those found in Teacher Services or Children and Families, for example. This role is aligned to the [Technical Architect](https://www.gov.uk/guidance/technical-architect) job family of the GOV.UK DDaT Capability Framework.
 
-*[Add read across with DDaT Tech Arch skill levels, standard job descriptions]*
+*[Add read across with DDaT Tech Architect skill levels, standard job descriptions]*
 
 ### Specialist Architects
 
 We also have [Data Architects](https://www.gov.uk/government/publications/data-architect-role-description/data-architect-role-description)
-and other [Specialist Technical Architects](https://www.gov.uk/government/publications/technical-specialist-architect-role-description/technical-specialist-architect-role-description) (focused on things like security or networks, for example), who work closely with service delivery teams and the other parts of the department to help achieve our goals.
+and other [Specialist Technical Architects](https://www.gov.uk/government/publications/technical-specialist-architect-role-description/technical-specialist-architect-role-description) (focused on things like security, infrastructure or networks, for example), who work closely with service delivery teams and the other parts of the department to help achieve our goals.
 
 ### Profession support
 
-We also have an architecture practice and community manager and some professional support, to keep everything running smoothly.
+To keep everything running smoothly, we have a small profession team, comprising the Head of Profession (Luke Slowen), an architecture practice and community manager (Theresa Mercer) and some professional support (Indy Bains). Have a look at our 
 
 ## Things to help you
+
 ### Responsibilities
 Here are some examples of the expected responsibilities at different levels:
-
 
 | | G6 Enterprise Architect | G7 Solution Architect | SEO Technical Architect
 - | - | - | -
@@ -69,7 +73,6 @@ __Corporate__ | Budget delegation, corporate work (embedded), mentoring, recruit
 
 (+ indicates a stretch goal)
 
-
 Architects (or those aspiring to be architects) should consider:
 
 - Which level am I operating at?
@@ -80,11 +83,13 @@ Architects (or those aspiring to be architects) should consider:
 *[Add examples for other architect roles]*
 
 ### Objectives
-*[Add standard deliverables, expectations]*
+*[Add standard deliverables, expectaions at different levels, links to professional objective template]*
 
 ### Learning and development
-*[Add offer, recommended learning, shadowing / mentoring, how to access]*
+Architects can find a multitude of self-serve learning and development resources on the [architecture toolkit](https://trello.com/b/2ahP5HcQ/architecture-toolkit). If you have any specific needs, or would like to set up some shadowing, coaching or mentoring, come and talk to the [profession team](mailto:architecture.profession@education.gov.uk).
 
+### Community
+The architecture community is there to support you in your developing your skills and experience. There are regular masterclasses and knowledge sharing sessions, as well as opportunities to hear from and engage with our suppliers. head over to the [architecture community page](../../profession/architecture-community) to read more.
 
 ## Pathways into architecture
 Here are some examples of how architects come into the profession and what the career pathways might look like:
@@ -96,6 +101,6 @@ You can also download a [PDF version](../documents/dfe-architecture-framework-pa
 *[Add detail on DDaT pathways + DfE - from business analysis, development / DevOps, technical roles]*
 
 ## Profiles
-*[Add case studies for Enterprise / Solution / Technical Architect]*
+*[Add case studies for Enterprise / Solution / Technical / Data Architect]*
 
 For more information, or for help finding an architect for your project, contact the [architecture profession](mailto:architecture.profession@education.gov.uk)
