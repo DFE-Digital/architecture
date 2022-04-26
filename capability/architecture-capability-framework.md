@@ -83,7 +83,7 @@ To keep everything running smoothly, we have a small profession team, comprising
 ### Responsibilities
 Here are some examples of the expected responsibilities at different levels:
 
-| | G6 Enterprise Architect | G7 Solution Architect | SEO Technical Architect
+| | G6 Lead Architect | G7 Senior Architect | SEO Architect
 - | - | - | -
 __Delivery__ | Across one or more portfolios or business domains | Across a programme or group of projects, aligned to a portfolio or domain | Across one or a small group of projects, aligned to a portfolio or domain
 __Assurance__ | Review of business cases, establish in-line assurance mechanisms, reviewing submissions for assurance, technical service assessment, design assurance of major/critical programmes | Establish/support assurance mechanisms, assurance submissions, technical service assessment, design assurance of projects and programmes | Participate in assurance mechanisms, technical service assessment, design assurance of projects
