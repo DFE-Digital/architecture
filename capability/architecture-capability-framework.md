@@ -8,11 +8,11 @@ expires: 2022-12-01
 > This page is being drafted, but we wanted to share the information we'd gathered as soon as it was available. If you have any comments, please contact the [architecture profession](mailto:architecture.profession@education.gov.uk))
 
 ## Purpose
-This framework provides an outline of the roles, skills and experience that architects working within DfE have or would like to build. 
+This framework provides an outline of the roles, skills and experience that architects working within DfE have or would like to build.
 
 We've published the first iteration of our [DfE architecture capability framework](https://educationgovuk.sharepoint.com/:w:/r/sites/Businessoperationsplanningandperformance-CapabilityTeam/Shared%20Documents/Capability%20Team/Capability%20Frameworks,%20Assessment%20%26%20Career%20Pathways/Architecture/Architecture%20Capability%20Framework%20V1%20FINAL.docx?d=w070c3687bfd74cdb8e8269bd1962b681&csf=1&web=1&e=vckSwA), focused initially on our enterprise, solution and technical architect roles. This will be expanded to include other architecture roles soon.
 
-On these guidance pages, we summarise information in the framework, and describe some of the pathways into architecture and how to develop an architecture career. 
+On these guidance pages, we summarise information in the framework, and describe some of the pathways into architecture and how to develop an architecture career.
 
 The framework should help also people working and interacting with architects understand what we do and how we do it.
 
@@ -76,7 +76,7 @@ and other [Specialist Technical Architects](https://www.gov.uk/government/public
 
 ### Profession support
 
-To keep everything running smoothly, we have a small profession team, comprising the Head of Profession (Luke Slowen), an architecture practice and community manager (Theresa Mercer) and some professional support (Indy Bains). Have a look at our 
+To keep everything running smoothly, we have a small profession team, comprising the Head of Profession (Luke Slowen), an architecture practice and community manager (Theresa Mercer) and some professional support (Indy Bains). Have a look at our [architecture profession page](../../profession/architecture-profession)
 
 ## Things to help you
 
