@@ -15,7 +15,7 @@ Various technical standards exist (or are in development) and are relevant to ar
 - [Software development standards](https://technical-guidance.education.gov.uk/standards/), including things like [naming things](https://technical-guidance.education.gov.uk/standards/naming-things/), [storing source code](https://technical-guidance.education.gov.uk/standards/storing-source-code/) and [licensing software](https://technical-guidance.education.gov.uk/standards/licencing-software-or-code/)
 - [Data policies and standards](https://educationgovuk.sharepoint.com/sites/lvewp00085/SitePages/DfE-Data-Policies.aspx)
 - Infrastructure and network standards (in development)
-- [Information security standards]([in development](https://educationgovuk.sharepoint.com/sites/how-do-i/SitePages/security-assurance.aspx)
+- [Information security standards](https://educationgovuk.sharepoint.com/sites/how-do-i/SitePages/security-assurance.aspx)
 - Guidance on [meeting accessibility standards](https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps#meeting-accessibility-requirements) and the [technical standard for digital accessibility](https://www.gov.uk/guidance/public-sector-website-and-mobile-application-accessibility-monitoring#technical-standard-for-digital-accessibility)
 
 The application of standards is generally assured through co-design in teams, and peer review in architecture and technical communities. There are likely to be additional checks that standards have been met during service assessment. Occasionally, there may be spot checks to ensure consistent and appropriate application of standards.
