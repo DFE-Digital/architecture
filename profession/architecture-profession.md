@@ -48,7 +48,8 @@ Use the table below to find out who your architecture lead is. Or contact the [a
 | End user services | John Phillips |
 | Operational services | Mario Gledhill |
 | Digital strategy | Ant McCrea |
-| Data architecture | Tafseer Nisa |
+| Data architecture | Andy Townsend |
+| Data architecture strategy | Raqia Begum |
 | Data science | Pete Holding |
 | Data services | Rob Morigi-Eades |
 | Data analytics platform | Thomas Sykes |
