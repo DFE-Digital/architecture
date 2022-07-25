@@ -435,8 +435,8 @@ As the Dynamics 365 virus detection engine runs asynchronously (independent from
 A DfE team has successfully implemented a product called [Cloudmersive](https://cloudmersive.com/). It offers virus scanning and threat detection APIs that can be integrated with Dynamics 365.
 
 __Further information__
--	Product and implentation information - via the Architecture Profession [Architecture Profession](mailto:architecture.profession@education.gov.uk)
--	Contract information - Contracts team - [Contracts team](mailto:dandt.contracts@education.gov.uk)
+-	Product and implentation information - via the [Architecture Profession](mailto:architecture.profession@education.gov.uk)
+-	Contract information - [Contracts team](mailto:dandt.contracts@education.gov.uk)
 
 __Support__
 
