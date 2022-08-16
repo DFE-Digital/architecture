@@ -185,7 +185,7 @@ Enterprise integration and API management services make it easier to share data 
 
 The EAPIM platform provides a central place to host and discover APIs. It is a secure and fully accredited service that makes it easy to both publish and consume APIs.
 
-It is accesible to both internal and external users, with the [DfE Developer Hub] (https://dfe-developerhub.education.gov.uk/) being our external facing service. 
+It is accesible to both internal and external users, with the [DfE Developer Hub](https://dfe-developerhub.education.gov.uk/) being our external facing service and (https://developers-customerengagement.platform.education.gov.uk/) being our internal service. 
 
 EAPIM has been developed using Microsoft Azure’s API gateway, and the solution is deployed within the [CIP hosting platform](#cip) with an expert team supporting the infrastructure.
 
@@ -201,11 +201,11 @@ Here are some of the key benefits:
 
 __Documentation__
 
-We are currently in the process of improving the documentation surrounding EAPIM, so please contact our [support mailbox] (mailto:eapim.support@education.gov.uk) if you need further information.
+We are currently in the process of improving the documentation surrounding EAPIM, so please contact our [support mailbox](mailto:eapim.support@education.gov.uk) if you need further information.
 
 __Support__
 
-The service is supported internally by Solutions Delivery Team, within Infrastructure and Platforms. We provide support between 9am and 5pm. For any incidents or requests, please log through (ServiceNow) [https://dfe.service-now.com/serviceportal]. For any other queries please contact our [support mailbox] (mailto:eapim.support@education.gov.uk)
+The service is supported internally by Solutions Delivery Team, within Infrastructure and Platforms. We provide support between 9am and 5pm. For any incidents or requests, please log through (ServiceNow)[https://dfe.service-now.com/serviceportal]. For any other queries please contact our [support mailbox](mailto:eapim.support@education.gov.uk)
 
 __Roadmap__
 
@@ -216,13 +216,13 @@ We have around 45 APIs already using EAPIM including in APIs for areas such as:
 
 Since Solutions Delivery Team took EAPIM into support, we have been reviewing the EAPIM offering, ensuring its still meeting user need. This includes continuing provision of the current platform, but also looking at how we can improve both the platform and engagement with it. 
 
-We are now undertaking a programme of improvement work based off our findings, however if you have any feedback please get in touch with us at [support mailbox] (mailto:eapim.support@education.gov.uk)
+We are now undertaking a programme of improvement work based off our findings, however if you have any feedback please get in touch with us at [support mailbox](mailto:eapim.support@education.gov.uk)
 
 We are also engaging with wider cross-government API platform work such as that done by CDDO to ensure EAPIM can support DfE whilst aligning with the rest of government. 
 
 __Further guidance__
 
-For further guidance or any general enquiries please contact the Solutions Delivery Team via the [support mailbox] (mailto:eapim.support@education.gov.uk)
+For further guidance or any general enquiries please contact the Solutions Delivery Team via the [support mailbox](mailto:eapim.support@education.gov.uk)
 
 <a name="edap"></a>
 ### Enterprise Data and Analytics Platform
