@@ -185,51 +185,44 @@ Enterprise integration and API management services make it easier to share data 
 
 The EAPIM platform provides a central place to host and discover APIs. It is a secure and fully accredited service that makes it easy to both publish and consume APIs.
 
+It is accesible to both internal and external users, with the [DfE Developer Hub](https://dfe-developerhub.education.gov.uk/) being our external facing service and [Developer Platform](https://developers-customerengagement.platform.education.gov.uk/) being our internal service. 
+
 EAPIM has been developed using Microsoft Azure’s API gateway, and the solution is deployed within the [CIP hosting platform](#cip) with an expert team supporting the infrastructure.
 
 Here are some of the key benefits:
 
-- **Making it easier to share data**
-  - Developers can securely publish their APIs quickly in one place using the developer portal
-  - Data consumers can view all the APIs available and request access to data
-  - The service scales quickly in response to changing demand
-- **Reducing the admin for developer teams**
-  - Developers can host their APIs quickly by using automated features to build, test and publish. Features include automated on-boarding, templates, tested global policy controls, and identity and access management
-  - Once an APIs is hosted, there’s no need for developers to perform any platform maintenance
-  - Security accreditation is already in place
+- **Makes it easier to share data**
+- **Enables users to discover what data is available to them in a single place**
+- **Makes it easy to manage who can access your data**
+- **Reduces the admin for developer teams**
+- **Supports APIs developers with meeting required standards**
 - **Cost savings**
-  - EAPIM has a flexible subscription model, which means you won’t pay for more hosting space than you use
-  - By moving APIs to EAPIM, we are reducing the number of duplicate API platforms across the estate
-
-__Integration middleware__
-
-In addition to the API platform, integration middleware services are also available. These services use APIs to improve data sharing between multiple systems.
-
-The middleware technology improves access to siloed data and can deliver it between multiple systems in near real-time. By integrating systems in this way, we get better visibility of data, reduce the need to manually input data into multiple systems, increase efficiency and reduce the risk of data error.
+- **Helps the department with cross government reporting on APIs**
 
 __Documentation__
 
-Read the [Operating Model](https://educationgovuk.sharepoint.com/sites/lveesfa00073/API%20Management/Forms/AllItems.aspx?id=%2Fsites%2Flveesfa00073%2FAPI%20Management%2FPlatform%20Documentation%2FService%20Operating%20Model%20%28SOM%29%2FCurrent%20Version&viewid=00000000%2D0000%2D0000%2D0000%2D000000000000) for more information about the solution design, security, availability, support and governance. If you need access to this document, please contact [Matt Morgan](https://eur.delve.office.com/?u=2bea9bd4-72ee-4174-850b-f6531174a2c7&v=work).
+We are currently in the process of improving the documentation surrounding EAPIM, so please contact our [support mailbox](mailto:eapim.support@education.gov.uk) if you need further information.
 
 __Support__
 
-The service is supported internally by a central team of specialists within the Cloud Infrastructure and Platform Services team. To report an issue with the service, log a ticket via the [Service Portal](https://dfe.service-now.com/serviceportal). The team are available from 08:00 – 22:00 hrs Monday to Friday, excluding UK public holidays.
+The service is supported internally by Solutions Delivery Team, within Infrastructure and Platforms. We provide support between 9am and 5pm. For any incidents or requests, please log through [ServiceNow](https://dfe.service-now.com/serviceportal). For any other queries please contact our [support mailbox](mailto:eapim.support@education.gov.uk)
 
 __Roadmap__
 
-DfE customers already using EAPIM or undergoing a transition to adopt the service include:
+We have around 45 APIs already using EAPIM including in APIs for areas such as:
 -	Finance
 -	Better Financial Reporting Programme
--	We’ve also recently integrated ServiceNow and Zendesk with the Enterprise CRM to improve data sharing for the Apprenticeships Service Consolidated Support Team (40 users).
+- CRM Middleware which integrates Dynamics 365 systems with other systems such as ServiceNow and Zendesk
 
-Over the next 18 months, these services are evolving in following key areas:
-- Driving adoption
-- Onboarding more APIs onto the platform
-- Promoting reuse of integration middleware
+Since Solutions Delivery Team took EAPIM into support, we have been reviewing the EAPIM offering, ensuring its still meeting user need. This includes continuing provision of the current platform, but also looking at how we can improve both the platform and engagement with it. 
+
+We are now undertaking a programme of improvement work based off our findings, however if you have any feedback please get in touch with us at [support mailbox](mailto:eapim.support@education.gov.uk)
+
+We are also engaging with wider cross-government API platform work such as that done by CDDO to ensure EAPIM can support DfE whilst aligning with the rest of government. 
 
 __Further guidance__
 
-Contact [Sarfraz Malik](https://eur.delve.office.com/?u=8d0b2191-9a02-4a7f-8ad3-9b41ea129354&v=work) to find out more about this solution.
+For further guidance or any general enquiries please contact the Solutions Delivery Team via the [support mailbox](mailto:eapim.support@education.gov.uk)
 
 <a name="edap"></a>
 ### Enterprise Data and Analytics Platform
