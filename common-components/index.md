@@ -185,7 +185,7 @@ Enterprise integration and API management services make it easier to share data 
 
 The EAPIM platform provides a central place to host and discover APIs. It is a secure and fully accredited service that makes it easy to both publish and consume APIs.
 
-It is accesible to both internal and external users, with the [DfE Developer Hub](https://dfe-developerhub.education.gov.uk/) being our external facing service and [Developer Platform](https://developers-customerengagement.platform.education.gov.uk/) being our internal service. 
+It is accessible to both internal and external users, with the [DfE Developer Hub](https://dfe-developerhub.education.gov.uk/) being our external facing service and [Developer Platform](https://developers-customerengagement.platform.education.gov.uk/) being our internal service. 
 
 EAPIM has been developed using Microsoft Azure’s API gateway, and the solution is deployed within the [CIP hosting platform](#cip) with an expert team supporting the infrastructure.
 
@@ -209,7 +209,7 @@ The service is supported internally by Solutions Delivery Team, within Infrastru
 
 __Roadmap__
 
-We have around 45 APIs already using EAPIM including in APIs for areas such as:
+We have around 45 APIs already using EAPIM including APIs for areas such as:
 -	Finance
 -	Better Financial Reporting Programme
 - CRM Middleware which integrates Dynamics 365 systems with other systems such as ServiceNow and Zendesk
