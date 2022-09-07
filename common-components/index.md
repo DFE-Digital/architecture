@@ -36,17 +36,17 @@ to enable the building of services.
 
 Domain | Component | Owner | Status
 - | - | - | -
-Hosting platforms | [Cloud Infrastructure Platform (CIP)](#cip) | Dean Wilson | Live
- | [GOV.UK PaaS (in DfE)](#govuk-paas) | Dean Wilson | Beta
+Hosting platforms | [Cloud Infrastructure Platform (CIP)](#cip) | Matt Evans | Live
+ | [GOV.UK PaaS (in DfE)](#govuk-paas) | Matt Evans | Beta
 Security and networks | [DfE Sign-in](#dfe-signin) | Jenny O'Connor | Live
- | Core network | Dean Wilson | Live
-Integration | [API Management (EAPIM)](#eapim) | Dean Wilson | Beta
-Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | Harj Bilan | Beta
+ | Core network | Matt Evans | Live
+Integration | [API Management (EAPIM)](#eapim) | Iain McIntosh | Beta
+Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | Tafseer Nisa | Beta
  | [Postcode lookup](#postcode) | Mario Gledhill | Alpha
  | [Geospatial mapping](#mapping) | Mario Gledhill | Alpha
  | [Notifications and messaging](#notifications) | tbc | Discovery
 Applications | [Content Management Systems ](#cms) | Erhan Tahir | Beta
- | [Customer Relationship Management](#crm) | Dean Wilson | Beta
+ | [Customer Relationship Management](#crm) | Iain McIntosh | Beta
  | [Contact Centre Technology Service](#ccts) | Jenny O'Connor | Live
  | Marketing Automation platform | tbc | Discovery
  | Robotic Process Automation (RPA) platform | tbc | Alpha
@@ -60,7 +60,7 @@ End User Devices | Office 365 | Jenny O'Connor | Live
 | Mobile phones | Jenny O'Connor | Live
 | Service desk tools (Service Now) | Jenny O'Connor | Live
 Digital | Productivity tools (Slack, Trello, Confluence) | Jenny O'Connor | Beta
-Development | Development tools (Azure DevOps, Github) | Dean Wilson | Live
+Development | Development tools (Azure DevOps, Github) | Matt Evans | Live
 Information and data | SharePoint | Philip Humphries | Live
 
 ## How do we use components?
@@ -403,7 +403,7 @@ Each CMS brings a slightly different set of features and capabilities that fit d
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
-If you're considering CMS options, please discuss your needs with the [Head of Content Design](https://service-manual.education.gov.uk/manual/communities-of-practice/connect-with-the-content-design-community/connect-with-the-content-design-community). Work on the strategy for information services within the DfE is ongoing.
+If you're considering CMS options, please discuss your needs with the [DfE Content Design community on Slack](https://ukgovernmentdfe.slack.com/archives/C6L4J5DK6). Work on the strategy for information services within the DfE is ongoing.
 
 
 <a name="crm"></a>
