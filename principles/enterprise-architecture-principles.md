@@ -5,9 +5,9 @@ expires: 2021-01-01
 
 # Enterprise Architecture Principles
 
-Principles are general rules and guidelines, intended to be enduring and seldom amended, that inform and support the way in which the DfE fulfils its vision and principles. They reflect a level of consensus across the enterprise and embody the spirit and thinking of the enterprise architecture.
+Principles are general rules and guidelines that inform and support the way in which the DfE fulfils its vision and objectives. They are intended to be enduring and seldom amended. They reflect a level of consensus across the organisation (our 'enterprise') and embody the spirit and thinking of the enterprise architecture.
 
-Requirements gathering provide user needs and wants, principles provide the guidance to meet those needs.
+Discovery, user research and requirements gathering provide user needs and wants; principles provide the guidance to meet those needs.
 
 Throughout these principles, we refer to specific points of the UK Government [Service Standard](https://www.gov.uk/service-manual/service-standard) and [Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice), that underpin use of these principles.
 
@@ -15,7 +15,7 @@ Throughout these principles, we refer to specific points of the UK Government [S
 
 __Why?__
 
-Duplication of services or components adds cost and complexity.
+Duplication of services or components adds cost and complexity for the organisation.
 
 __How?__
 - When re-using components and services, projects are likely to need to assemble several components / products to meet end-to-end requirements and not just look for single solutions
@@ -32,11 +32,11 @@ __Relates to__
 
 __Why?__
 
-Components and services should be aligned with government strategies to increase reusability, minimise cost and improve consistency of user experience across government services. Cross government components include Gov.UK Notify, Gov.UK Verify, Gov.UK Pay - read more about [Government as a Platform](https://gds.blog.gov.uk/category/government-as-a-platform/) on the GDS blog.
+Components and services should be aligned with government strategies to increase reusability, minimise cost and improve consistency of user experience across Government services. Cross-Government components include Gov.UK Notify and Gov.UK Pay - read more about [Government as a Platform](https://gds.blog.gov.uk/category/government-as-a-platform/) on the GDS blog.
 
 __How?__
 
-Projects delivering new products or services should assess alignment with cross government strategies and deliver re-useable components and services which can be used at cross-government level
+Projects delivering new products or services should assess alignment with cross government strategies, and aim to deliver re-useable components and services which can be used at cross-Government level
 
 __Relates to__
 
@@ -49,7 +49,7 @@ __Why?__
 Technology investment should only be made where it demonstrably contributes to DfE goals or drivers
 
 __How?__
-- All projects should have a business case with measurable business outcomes aligned to DfE Goals and drivers.
+- All projects should have a business case with measurable business outcomes aligned to DfE goals and objectives
 - All projects should assign a person accountable for measurement, reporting and realisation of stated business benefits
 
 __Relates to__
@@ -61,14 +61,14 @@ __Relates to__
 __Why?__
 
 - Expenditure of public money should always look to deliver the best value for the taxpayer
-- Ongoing support and maintenance of solutions form a major part of the total costs and therefore should inform technology decisions
+- Ongoing support and maintenance of services form a major part of the total costs and therefore should inform technology decisions
 
 __How?__
--  All projects above the agreed set threshold, must be supported by an evidenced business case, ensuring that overall solution costs have been considered for value for money.
--  For all projects an Architecture Lead must asses the total cost of ownership and challenge where appropriate
--  Where duplicate service or component is proposed TCO should include costs of running both/all duplicated services
--  Investment must justified by supporting evidence.
--  Design must consider long term costs and support of any solution delivered
+-  All projects must be supported by a well-evidenced business case, ensuring that overall solution costs have been considered for value for money.
+-  An Architecture Lead must assess the total cost of ownership for the service and challenge where appropriate
+-  Where a duplicate service or component is proposed, total cost of ownership should include costs of running both/all duplicated services
+-  Investment must justified by supporting evidence
+-  Design must consider longer-term costs and support of any solution(s) delivered
 
 __Relates to__
 
@@ -84,9 +84,9 @@ Read more about our [Enterprise Data Architecure principles](/enterprise-data-ar
 
 __How?__
 
--  Data must be sharable – solutions should adhere to Departmental Data Standards, working with DfE Data Governance team to extend those standards if necessary.
+-  Data must be sharable – solutions should adhere to Departmental Data Standards, working with the DfE Data Governance team to extend those standards if necessary.
 -  Data must be shared – services should provide methods of sharing data with other services to support other user journeys, and with the Enterprise Data & Analysis Platform to support reporting, analysis and Data Science.
--  Data must be protected – services must take care during both development and operational phases to adequately secure live data, including but not limited to data containing Personally Identifiable Information. Architects must follow the Departmental Data Protection policies held by the DfE Data Governance team to ensure they are protecting our shared assets appropriately.
+-  Data must be protected – services must take care during both development and operational phases to adequately secure live data, including but not limited to data containing Personally Identifiable Information (PII). Architects must follow the Departmental Data Protection policies held by the DfE Data Governance team to ensure they are protecting our shared assets appropriately.
 
 __Relates to__
 
@@ -97,11 +97,11 @@ __Relates to__
 
 __Why?__
 
-We must ensure there is an equal playing field for all users.
-Systems must adhere to current government accessibility regulations.
+We must ensure there is a 'level playing field' for all users of a service - that services are inclusive of all users' needs.
+Services and systems must adhere to current government accessibility regulations.
 
 __How?__
--  Seek input from Accessibility Advisers on how designs might need amending to improve accessibility
+-  Seek input from DfE Accessibility Advisers on how designs might need amending to improve accessibility
 -  Include accessibility testing as part of any project delivery
 
 __Relates to__
@@ -118,8 +118,8 @@ __Why?__
 The department’s information assets must be protected to ensure that they are not inadvertently exposed to an unintended audience.
 
 __How?__
--   Early engagement with the Chief Information Security Officer (CISO) division will ensure that risk assessments are completed and appropriate security controls are designed into solutions before development has begun
--  Security controls must be proportionate to ensure that it is still possible for authorised users to access and share data seamlessly
+- Early engagement with the Information Security team will ensure that risk assessments are completed and appropriate security controls are designed into solutions before development has begun
+- Security controls must be proportionate, to ensure it is still possible for authorised users to access and share data seamlessly
 
 __Relates to__
 
@@ -136,8 +136,8 @@ __Why?__
 __How?__
 -  Choose Software as a Service (SaaS), before Platform as a Service (PaaS), before Infrastructure as a Service (IaaS)
 -  Check hosting arrangements and data sensitivity when selecting cloud solutions
--  Design exit strategy before entering cloud agreements
--  Design solutions to take advantage of cloud features, such as elastic scaling, automated spin-down
+-  Design the exit strategy before entering cloud agreements
+-  Design solutions to take advantage of cloud features, such as elastic scaling and automated spin-down
 
 __Relates to__
 
@@ -150,8 +150,8 @@ __Why?__
 Interoperability enables sharing of capabilities and data between systems
 
 __How?__
--  Service Oriented and microservice architectures maximise interoperability and re-use
--  Interfaces should be discoverable and self-describing  or documented
+-  Service Oriented Architectures and microservice architectures maximise interoperability and re-use
+-  Interfaces should be discoverable and self-describing or self-documented
 -  Interoperability can affect the demands on solutions, therefore designs may need to be scalable to cope with other usage
 
 __Relates to__
@@ -180,11 +180,11 @@ __Relates to__
 __Why?__
 
 - Avoidance of vendor lock-in
-- Moving to a new platform is simpler and requires less engineering
+- Moving to a new platform is simpler and requires less engineering (and cost)
 
 __How?__
 - Design must be platform agnostic
-- Minimise use platform specific features
+- Minimise use of platform specific features
 - Will require an exit strategy
 
 ## 12. Design loosely coupled solutions
@@ -196,7 +196,7 @@ __Why?__
 
 __How?__
 - Projects must ensure any additional coordination protocols needed are in place
-- Projects must ensure consistent data synchronisation with DfE Data guidance
+- Projects must ensure consistent data synchronisation aligned with DfE Data guidance
 
 __Relates to__
 
@@ -210,7 +210,7 @@ Replacing or superseding a component or service without removing existing compon
 
 __How?__
 - Any project delivering a technology component or service designed to supersede or replace an existing component or service must remove the existing service as part of that project
-- Project budgets need to include cost of decommissioning existing solutions or include total cost  of both systems in the business case.
+- Project budgets need to include cost of decommissioning existing solutions or include total ongoing cost of both systems in the business case.
 
 __Relates to__
 
