@@ -141,15 +141,13 @@ Visit the [GOV.UK PaaS technical guidance](https://technical-guidance.education.
 ### DfE Sign-in
 DfE Sign-in is the department’s strategic Identity and Access Management (IdAM) solution. DfE Sign-in already provides IdAM for services migrated from Secure Access and a number of other services that have on-boarded during 2019. All new services should use DfE Sign-in.
 
-DfE Sign-in is an OpenID Connect Identity provider (with support for SAMLp). It is designed to serve as a delegated authority for identity management, harnessing the global experience for all users. The net result is that Service Owners don't need to build identity solutions into their services and service users don't need to maintain many sets of credentials.
+DfE Sign-in is an OpenID Connect (OIDC) identity provider (with support for SAML). It is designed to serve as a delegated authority for identity management, harnessing the global experience for all users. The net result is that Service Owners don't need to build identity solutions into their services and service users don't need to maintain many sets of credentials.
 
 Because DfE Sign-in is a standards-based identity provider, integration is simple. Many technologies and frameworks have stable integration components and examples.
 
 __Documentation__
 
 Our service is available at [https://services.signin.education.gov.uk](https://services.signin.education.gov.uk/)
-
-Please read our [getting started](#) guide.
 
 You may also find the following code repositories for services that use DfE Sign-in useful, along with some example integrations that we have built:
 - [Teachers Payment Service](https://github.com/DFE-Digital/dfe-teachers-payment-service) (Ruby on Rails)
@@ -166,11 +164,7 @@ Please direct your users through this support route. If there is anything you wo
 
 __Roadmap__
 
-You can see [who’s already using DfE Sign-in](https://services.signin.education.gov.uk/). Any staff, provider and citizen services that currently use the Pirean Access: One product will migrate across to DfE Sign-in by July 2020.
-
-A full roadmap of services to be onboarded can be seen below:
-
-![Image of the DfE Sign-in roadmap](../images/dfesignin-roadmap.png "Image of the roadmap for DfE Sign-in")
+You can see [who’s already using DfE Sign-in](https://services.signin.education.gov.uk/). Any staff, provider and citizen services that currently use the Pirean Access: One product will migrate across to DfE Sign-in.
 
 __Further guidance__
 -	Service Manager - [Jane Ludlow](https://eur.delve.office.com/?u=29a68eae-0685-4e19-af80-e51da80951ae&v=work)
