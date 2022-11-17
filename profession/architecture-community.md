@@ -20,7 +20,7 @@ For more information, contact the named community lead below:
 | Technical Architecture | Andy Emley |
 | Architecture in Data Science| Pete Holding / Stuart Baillie |
 | Common technology themes | Pete Dingwall |
-| Data Architecture | Andy Townsend |
+| Data Architecture | Robert Morigi-Eades |
 
 ## Community meet-up
 We have a monthly, open-invite meet-up for all architects across DfE and those with an interest in architecture (civil servants and contractors).
