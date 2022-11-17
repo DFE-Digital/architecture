@@ -43,18 +43,17 @@ Use the table below to find out who your architecture lead is. Or contact the [a
 | - | - |
 | Teacher services | Andy Emley |
 | Children and families | Karishma Deshpande |
-| Schools and curriculum | Stewart Bailey-Smith, Atif Mir |
+| Schools and curriculum | Kiril Kolev |
 | Cyber security | Pete Dingwall |
 | End user services | John Phillips |
 | Operational services | Mario Gledhill |
 | Digital strategy | Ant McCrea |
-| Data architecture | Andy Townsend |
-| Data architecture strategy | Raqia Begum |
-| Data science | Pete Holding |
+| Data architecture | Tafseer Nisa / Raqia Begum |
 | Data services | Rob Morigi-Eades |
 | Data analytics platform | Thomas Sykes |
+| Data science | Pete Holding |
 | Apprenticeships | Siva Poopalan |
-| National Careers Service | Terry Rich-Whitehead |
+| National Careers Service | Spyros Ioannidis / Terry Rich-Whitehead |
 
 ## Help to find an architect
 
