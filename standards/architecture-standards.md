@@ -22,7 +22,7 @@ Various technical standards exist (or are in development) and are relevant to ar
 - [Information security standards](https://educationgovuk.sharepoint.com/sites/how-do-i/SitePages/security-assurance.aspx)
 - Guidance on [meeting accessibility standards](https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps#meeting-accessibility-requirements) and the [technical standard for digital accessibility](https://www.gov.uk/guidance/public-sector-website-and-mobile-application-accessibility-monitoring#technical-standard-for-digital-accessibility)
 
-## Standard Owners and their responsibilities
+## Standard owners and their responsibilities
 
 ## Application of standards
 
