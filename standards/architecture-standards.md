@@ -11,7 +11,7 @@ Architects in DfE should also be familiar with our [Enterprise Architecture prin
 
 ## Standards in DfE
 
-Various technical standards exist (or are in development) and are relevant to architecture work in DfE. Architects will be guided by and may need to apply the following standard(s) in their work:
+Various technical standards exist (or are in development) that are relevant to architecture work in DfE. Architects will be guided by and may need to apply the following standard(s) in their work:
 
 - [API standards](https://technical-guidance.education.gov.uk/guides/api-guidance/#dfe-api-standards)
 - [Software development standards](https://technical-guidance.education.gov.uk/standards/), including things like [naming things](https://technical-guidance.education.gov.uk/standards/naming-things/), [storing source code](https://technical-guidance.education.gov.uk/standards/storing-source-code/) and [licensing software](https://technical-guidance.education.gov.uk/standards/licencing-software-or-code/)
