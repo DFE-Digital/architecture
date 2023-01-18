@@ -36,17 +36,18 @@ to enable the building of services.
 
 Domain | Component | Owner | Status
 - | - | - | -
-Hosting platforms | [Cloud Infrastructure Platform (CIP)](#cip) | Dean Wilson | Live
- | [GOV.UK PaaS (in DfE)](#govuk-paas) | Dean Wilson | Beta
+Hosting platforms | [Cloud Infrastructure Platform (CIP)](#cip) | Matt Evans | Live
+ | [GOV.UK PaaS (in DfE)](#govuk-paas) | Matt Evans | Beta
 Security and networks | [DfE Sign-in](#dfe-signin) | Jenny O'Connor | Live
- | Core network | Dean Wilson | Live
-Integration | [API Management (EAPIM)](#eapim) | Dean Wilson | Beta
-Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | Harj Bilan | Beta
+ | Core network | Matt Evans | Live
+Integration | [API Management (EAPIM)](#eapim) | Iain McIntosh | Beta
+Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | Tafseer Nisa | Beta
  | [Postcode lookup](#postcode) | Mario Gledhill | Alpha
  | [Geospatial mapping](#mapping) | Mario Gledhill | Alpha
  | [Notifications and messaging](#notifications) | tbc | Discovery
 Applications | [Content Management Systems ](#cms) | Erhan Tahir | Beta
- | [Customer Relationship Management](#crm) | Dean Wilson | Beta
+ | [Customer Relationship Management](#crm) | Iain McIntosh | Beta
+ | [Contact Centre Technology Service](#ccts) | Jenny O'Connor | Live
  | Marketing Automation platform | tbc | Discovery
  | Robotic Process Automation (RPA) platform | tbc | Alpha
 
@@ -59,7 +60,7 @@ End User Devices | Office 365 | Jenny O'Connor | Live
 | Mobile phones | Jenny O'Connor | Live
 | Service desk tools (Service Now) | Jenny O'Connor | Live
 Digital | Productivity tools (Slack, Trello, Confluence) | Jenny O'Connor | Beta
-Development | Development tools (Azure DevOps, Github) | Dean Wilson | Live
+Development | Development tools (Azure DevOps, Github) | Matt Evans | Live
 Information and data | SharePoint | Philip Humphries | Live
 
 ## How do we use components?
@@ -140,15 +141,13 @@ Visit the [GOV.UK PaaS technical guidance](https://technical-guidance.education.
 ### DfE Sign-in
 DfE Sign-in is the department’s strategic Identity and Access Management (IdAM) solution. DfE Sign-in already provides IdAM for services migrated from Secure Access and a number of other services that have on-boarded during 2019. All new services should use DfE Sign-in.
 
-DfE Sign-in is an OpenID Connect Identity provider (with support for SAMLp). It is designed to serve as a delegated authority for identity management, harnessing the global experience for all users. The net result is that Service Owners don't need to build identity solutions into their services and service users don't need to maintain many sets of credentials.
+DfE Sign-in is an OpenID Connect (OIDC) identity provider (with support for SAML). It is designed to serve as a delegated authority for identity management, harnessing the global experience for all users. The net result is that Service Owners don't need to build identity solutions into their services and service users don't need to maintain many sets of credentials.
 
 Because DfE Sign-in is a standards-based identity provider, integration is simple. Many technologies and frameworks have stable integration components and examples.
 
 __Documentation__
 
 Our service is available at [https://services.signin.education.gov.uk](https://services.signin.education.gov.uk/)
-
-Please read our [getting started](#) guide.
 
 You may also find the following code repositories for services that use DfE Sign-in useful, along with some example integrations that we have built:
 - [Teachers Payment Service](https://github.com/DFE-Digital/dfe-teachers-payment-service) (Ruby on Rails)
@@ -165,11 +164,7 @@ Please direct your users through this support route. If there is anything you wo
 
 __Roadmap__
 
-You can see [who’s already using DfE Sign-in](https://services.signin.education.gov.uk/). Any staff, provider and citizen services that currently use the Pirean Access: One product will migrate across to DfE Sign-in by July 2020.
-
-A full roadmap of services to be onboarded can be seen below:
-
-![Image of the DfE Sign-in roadmap](../images/dfesignin-roadmap.png)
+You can see [who’s already using DfE Sign-in](https://services.signin.education.gov.uk/). Any staff, provider and citizen services that currently use the Pirean Access: One product will migrate across to DfE Sign-in.
 
 __Further guidance__
 -	Service Manager - [Jane Ludlow](https://eur.delve.office.com/?u=29a68eae-0685-4e19-af80-e51da80951ae&v=work)
@@ -184,51 +179,44 @@ Enterprise integration and API management services make it easier to share data 
 
 The EAPIM platform provides a central place to host and discover APIs. It is a secure and fully accredited service that makes it easy to both publish and consume APIs.
 
+It is accessible to both internal and external users, with the [DfE Developer Hub](https://dfe-developerhub.education.gov.uk/) being our external facing service and [Developer Platform](https://developers-customerengagement.platform.education.gov.uk/) being our internal service. 
+
 EAPIM has been developed using Microsoft Azure’s API gateway, and the solution is deployed within the [CIP hosting platform](#cip) with an expert team supporting the infrastructure.
 
 Here are some of the key benefits:
 
-- **Making it easier to share data**
-  - Developers can securely publish their APIs quickly in one place using the developer portal
-  - Data consumers can view all the APIs available and request access to data
-  - The service scales quickly in response to changing demand
-- **Reducing the admin for developer teams**
-  - Developers can host their APIs quickly by using automated features to build, test and publish. Features include automated on-boarding, templates, tested global policy controls, and identity and access management
-  - Once an APIs is hosted, there’s no need for developers to perform any platform maintenance
-  - Security accreditation is already in place
+- **Makes it easier to share data**
+- **Enables users to discover what data is available to them in a single place**
+- **Makes it easy to manage who can access your data**
+- **Reduces the admin for developer teams**
+- **Supports APIs developers with meeting required standards**
 - **Cost savings**
-  - EAPIM has a flexible subscription model, which means you won’t pay for more hosting space than you use
-  - By moving APIs to EAPIM, we are reducing the number of duplicate API platforms across the estate
-
-__Integration middleware__
-
-In addition to the API platform, integration middleware services are also available. These services use APIs to improve data sharing between multiple systems.
-
-The middleware technology improves access to siloed data and can deliver it between multiple systems in near real-time. By integrating systems in this way, we get better visibility of data, reduce the need to manually input data into multiple systems, increase efficiency and reduce the risk of data error.
+- **Helps the department with cross government reporting on APIs**
 
 __Documentation__
 
-Read the [Operating Model](https://educationgovuk.sharepoint.com/sites/lveesfa00073/API%20Management/Forms/AllItems.aspx?id=%2Fsites%2Flveesfa00073%2FAPI%20Management%2FPlatform%20Documentation%2FService%20Operating%20Model%20%28SOM%29%2FCurrent%20Version&viewid=00000000%2D0000%2D0000%2D0000%2D000000000000) for more information about the solution design, security, availability, support and governance. If you need access to this document, please contact [Matt Morgan](https://eur.delve.office.com/?u=2bea9bd4-72ee-4174-850b-f6531174a2c7&v=work).
+We are currently in the process of improving the documentation surrounding EAPIM, so please contact our [support mailbox](mailto:eapim.support@education.gov.uk) if you need further information.
 
 __Support__
 
-The service is supported internally by a central team of specialists within the Cloud Infrastructure and Platform Services team. To report an issue with the service, log a ticket via the [Service Portal](https://dfe.service-now.com/serviceportal). The team are available from 08:00 – 22:00 hrs Monday to Friday, excluding UK public holidays.
+The service is supported internally by Solutions Delivery Team, within Infrastructure and Platforms. We provide support between 9am and 5pm. For any incidents or requests, please log through [ServiceNow](https://dfe.service-now.com/serviceportal). For any other queries please contact our [support mailbox](mailto:eapim.support@education.gov.uk)
 
 __Roadmap__
 
-DfE customers already using EAPIM or undergoing a transition to adopt the service include:
+We have around 45 APIs already using EAPIM including APIs for areas such as:
 -	Finance
 -	Better Financial Reporting Programme
--	We’ve also recently integrated ServiceNow and Zendesk with the Enterprise CRM to improve data sharing for the Apprenticeships Service Consolidated Support Team (40 users).
+- CRM Middleware which integrates Dynamics 365 systems with other systems such as ServiceNow and Zendesk
 
-Over the next 18 months, these services are evolving in following key areas:
-- Driving adoption
-- Onboarding more APIs onto the platform
-- Promoting reuse of integration middleware
+Since Solutions Delivery Team took EAPIM into support, we have been reviewing the EAPIM offering, ensuring its still meeting user need. This includes continuing provision of the current platform, but also looking at how we can improve both the platform and engagement with it. 
+
+We are now undertaking a programme of improvement work based off our findings, however if you have any feedback please get in touch with us at [support mailbox](mailto:eapim.support@education.gov.uk)
+
+We are also engaging with wider cross-government API platform work such as that done by CDDO to ensure EAPIM can support DfE whilst aligning with the rest of government. 
 
 __Further guidance__
 
-Contact [Sarfraz Malik](https://eur.delve.office.com/?u=8d0b2191-9a02-4a7f-8ad3-9b41ea129354&v=work) to find out more about this solution.
+For further guidance or any general enquiries please contact the Solutions Delivery Team via the [support mailbox](mailto:eapim.support@education.gov.uk)
 
 <a name="edap"></a>
 ### Enterprise Data and Analytics Platform
@@ -315,7 +303,7 @@ These are the products and services in use and available across the department:
 
 They each bring a slightly different set of features and capabilities that fit different use cases. This table provides an overview:
 
-![Image of the DfE Postcode Capabilities](../images/postcode-overview.png)
+![Image of the DfE Postcode Capabilities](../images/postcode-overview.png "Image of Excel sheet of postcode lookup capabilities in DfE")
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
@@ -337,7 +325,7 @@ These are the products and services in use and available across the department:
 
 They each bring a slightly different set of features and capabilities that fit different use cases. This table provides an overview:
 
-![Image of the DfE Mapping Capabilities](../images/mapping-overview.png)
+![Image of the DfE Mapping Capabilities](../images/mapping-overview.png "Image of Excel sheet of mapping capabilities in DfE")
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
@@ -367,7 +355,7 @@ These applications will provide error monitoring and alerts to services that are
 
 Each application brings a slightly different set of features and capabilities that fit different use cases. This table provides an overview:
 
-![Image of the DfE Notification Capabilities](../images/notifications-overview.png)
+![Image of the DfE Notification Capabilities](../images/notifications-overview.png "Image of Excel sheet of notification capabilities in DfE")
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
@@ -405,11 +393,11 @@ Benefits of using a CMS include:
 
 Each CMS brings a slightly different set of features and capabilities that fit different use cases. This table provides an overview:
 
-![Image of the DfE Content Management System Capabilities](../images/cms-overview.png)
+![Image of the DfE Content Management System Capabilities](../images/cms-overview.png  "Image of Excel sheet of content management capabilities in DfE")
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
-If you're considering CMS options, please discuss your needs with the [Head of Content Design](https://service-manual.education.gov.uk/manual/communities-of-practice/connect-with-the-content-design-community/connect-with-the-content-design-community). Work on the strategy for information services within the DfE is ongoing.
+If you're considering CMS options, please discuss your needs with the [DfE Content Design community on Slack](https://ukgovernmentdfe.slack.com/archives/C6L4J5DK6). Work on the strategy for information services within the DfE is ongoing.
 
 
 <a name="crm"></a>
@@ -434,8 +422,8 @@ As the Dynamics 365 virus detection engine runs asynchronously (independent from
 A DfE team has successfully implemented a product called [Cloudmersive](https://cloudmersive.com/). It offers virus scanning and threat detection APIs that can be integrated with Dynamics 365.
 
 __Further information__
--	Product and implentation information - via the Architecture Profession [Architecture Profession](mailto:architecture.profession@education.gov.uk)
--	Contract information - Contracts team - [Contracts team](mailto:dandt.contracts@education.gov.uk)
+-	Product and implentation information - via the [Architecture Profession](mailto:architecture.profession@education.gov.uk)
+-	Contract information - [Contracts team](mailto:dandt.contracts@education.gov.uk)
 
 __Support__
 
@@ -459,6 +447,27 @@ SDT offer a standard support model for services they deliver. This includes:
 SDT have also set up a Dynamics Community of Practice, bringing together teams in the Department that are using Dynamics 365 in their services and projects. The community ensures ongoing conversations are taking place to standardise use of CRM products across the Department and ensure best practise is shared.
 
 For more information, or if you'd like to talk through about options for CRM, please contact [Iain McIntosh](https://gbr.delve.office.com/?u=b7680d65-eb71-4c1c-a68e-b95fa6248026&v=work).
+
+
+<a name="ccts"></a>
+### Contact Centre Technology Service (CCTS)
+CCTS provides a shared contact centre telephony capability with associated services such as non-geographic numbers, Interactive Voice Response (IVR), call management, recording and reporting. It is currently used by the following DfE service lines. 
+- Ministerial and Parliamentary Communication Division (MPCD) 
+- Teachers Qualification Unit (TQU) 
+- DfE Service Desk 
+- ESFA Customer Services 
+- Human Resources 
+- Press Office 
+- Standards and Testing Agency (STA) 
+
+Initial (Phase 1) deployment of CCTS focused on providing core contact centre telephony capabilities. Future phases will focus on integration with other common components and delivery of additional communication channels as shown below. 
+
+![ccts-phases](../images/ccts-phases.png "Image showing capabilities and delivery phases for CCTS")
+
+__Further guidance__
+
+Contact [Mark Hubbard](https://sfeur.delve.office.com/?u=968d2dff-5175-49ad-964d-a1c3cedf28ab&v=work) to find out more about CCTS.
+
 
 ## Further guidance on common components ##
 

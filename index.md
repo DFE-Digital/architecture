@@ -14,6 +14,7 @@ when building digital services.
 ## Profession
 
 - [Architecture profession](profession/architecture-profession)
+- [Architecture community](profession/architecture-community)
 
 ## Principles
 

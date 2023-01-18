@@ -1,6 +1,6 @@
 ---
 category: capability
-expires: 2022-03-31
+expires: 2022-12-01
 ---
 
 # Architecture Capability Framework
@@ -10,7 +10,11 @@ expires: 2022-03-31
 ## Purpose
 This framework provides an outline of the roles, skills and experience that architects working within DfE have or would like to build.
 
-It describes the pathways into architecture and how to develop an architecture career. It should help also people interacting with architects understand what we do and how we do it.
+We've published the first iteration of our [DfE architecture capability framework](https://educationgovuk.sharepoint.com/:w:/r/sites/Businessoperationsplanningandperformance-CapabilityTeam/Shared%20Documents/Capability%20Team/Capability%20Frameworks,%20Assessment%20%26%20Career%20Pathways/Architecture/Architecture%20Capability%20Framework%20V1%20FINAL.docx?d=w070c3687bfd74cdb8e8269bd1962b681&csf=1&web=1&e=vckSwA), focused initially on our enterprise, solution and technical architect roles. This will be expanded to include other architecture roles soon.
+
+On these guidance pages, we summarise information in the framework, and describe some of the pathways into architecture and how to develop an architecture career.
+
+The framework should help also people working and interacting with architects understand what we do and how we do it.
 
 It builds on the [GOV.UK DDaT Capability Framework](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework), extending the various skills, levels and mastery for the context of DfE.
 
@@ -55,29 +59,29 @@ Their responsibilities include:
 
 Solution Architects typically work within delivery teams to find the best use of data, applications and technology for the design and delivery of services and products. Whilst also helping to deliver business change and achieving organisational objectives.
 
-Solution Architects generally own the overall technical vision for a solution or set of solutions. They work within delivery teams to assure the implementation and delivery of those solutions.
+Solution Architects own the overall technical vision for a solution or set of solutions, or within a particular domain. They work within service delivery teams to assure the implementation and delivery of those solutions.
 
 ### Technical Architects
 
-Technical Architects are embedded within a multi-disciplinary team, working end-to-end to help to design and implement technical solutions. They are often specialists or technical subject matter experts in one or more disciplines (e.g. software development, data, security, DevOps). They mostly work in continuous delivery environments and are comfortable with turning business problems into technical design. They are often from a software development or engineering background, and are comfortable using a variety of technical tools and working with code.
+Technical Architects are generally embedded within a multi-disciplinary team (or across multiple teams), working end-to-end to help to design and implement technical solutions. They are often specialists or technical subject matter experts in one or more disciplines (e.g. software development, data, security, DevOps). They tend to work in continuous delivery environments and are comfortable with turning business problems into technical design. They tend to be from a software development or engineering background and are comfortable using technical toolsets and / or code.
 
-The role is aligned with the [Technical Architect](https://www.gov.uk/guidance/technical-architect) job role on the GOV.UK DDaT Capability Framework.
+Technical Architects currently work in portfolios and service lines within DfE, such as those found in Teacher Services or Children and Families, for example. This role is aligned to the [Technical Architect](https://www.gov.uk/guidance/technical-architect) job family of the GOV.UK DDaT Capability Framework.
 
-*[Add read across with DDaT Tech Arch skill levels, standard job descriptions]*
+*[Add read across with DDaT Tech Architect skill levels, standard job descriptions]*
 
 ### Specialist Architects
 
 We also have [Data Architects](https://www.gov.uk/government/publications/data-architect-role-description/data-architect-role-description)
-and other [Specialist Technical Architects](https://www.gov.uk/government/publications/technical-specialist-architect-role-description/technical-specialist-architect-role-description) (focused on things like security or networks, for example), who work closely with service delivery teams and the other parts of the department to help achieve our goals.
+and other [Specialist Technical Architects](https://www.gov.uk/government/publications/technical-specialist-architect-role-description/technical-specialist-architect-role-description) (focused on things like security, infrastructure or networks, for example), who work closely with service delivery teams and the other parts of the department to help achieve our goals.
 
 ### Profession support
 
-We also have an architecture practice and community manager and some professional support, to keep everything running smoothly in the profession.
+To keep everything running smoothly, we have a small profession team, comprising the Head of Profession (Luke Slowen), an architecture practice and community manager (Theresa Mercer) and some professional support (Indy Bains). Have a look at our [architecture profession page](../../profession/architecture-profession)
 
 ## Things to help you
+
 ### Responsibilities
 Here are some examples of the expected responsibilities at different levels:
-
 
 | | G6 Lead Architect | G7 Senior Architect | SEO Architect
 - | - | - | -
@@ -90,7 +94,6 @@ __Corporate__ | Budget delegation, leading cross-cutting work, mentoring, recrui
 
 (+ indicates a stretch goal)
 
-
 Architects (or those aspiring to be architects) should consider:
 
 - Which level am I operating at?
@@ -101,20 +104,13 @@ Architects (or those aspiring to be architects) should consider:
 *[Add examples for other architect roles]*
 
 ### Objectives
-*[Add standard deliverables, expectations]*
+*[Add standard deliverables, expectaions at different levels, links to professional objective template]*
 
 ### Learning and development
-*[Add offer, recommended learning, shadowing / mentoring, how to access]*
+Architects can find a multitude of self-serve learning and development resources on the [architecture toolkit](https://trello.com/b/2ahP5HcQ/architecture-toolkit). If you have any specific needs, or would like to set up some shadowing, coaching or mentoring, come and talk to the [profession team](mailto:architecture.profession@education.gov.uk).
 
 ### Community
-
-There is a thriving architecture community in DfE. We meet up monthly, to 'show and tell' good things that are happening in architecture and hear from wider Government, private sector, relevant suppliers and vendors on new, innovative solutions. And to just chat and share knowledge. You don't have to be an architect to join in - we often hear updates from business areas and those interested in what we're doing. If you want to get involved or have something to share, drop us a line in the [architecture profession](mailto:architecture.profession@education.gov.uk).
-
-And join us on the following channels:
-
-- [#architecture](https://ukgovernmentdfe.slack.com/archives/CFGA9DZSL) channel on [DfE Slack](https://ukgovernmentdfe.slack.com)
-- [#architecture](https://ukgovernmentdigital.slack.com/archives/C04V6F4SX) channel on [UK Government Slack](https://ukgovernmentdigital.slack.com)
-- [Architecture Community on Teams](https://teams.microsoft.com/l/team/19%3a431430007aba4eceaddb4a0ab32dc412%40thread.skype/conversations?groupId=a7bd5aaa-9b44-4594-b058-4ac717af83d9&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9)
+The architecture community is there to support you in your developing your skills and experience. There are regular masterclasses and knowledge sharing sessions, as well as opportunities to hear from and engage with our suppliers. head over to the [architecture community page](../../profession/architecture-community) to read more.
 
 ## Pathways into architecture
 Here are some examples of how architects come into the profession and what the career pathways might look like:
@@ -123,9 +119,9 @@ Here are some examples of how architects come into the profession and what the c
 
 You can also download a [PDF version](../documents/dfe-architecture-framework-pathways.pdf) of this architecture pathway map.
 
-*[Add detail on DDaT pathways + DfE - from business analysis, development / DevOps, technnical roles]*
+*[Add detail on DDaT pathways + DfE - from business analysis, development / DevOps, technical roles]*
 
 ## Profiles
-*[Add case studies for Enterprise / Solution / Technical Architect]*
+*[Add case studies for Enterprise / Solution / Technical / Data Architect]*
 
 For more information, or for help finding an architect for your project, contact the [architecture profession](mailto:architecture.profession@education.gov.uk)
