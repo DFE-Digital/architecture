@@ -3,12 +3,12 @@ category: Architecture Principles
 expires: 2021-01-01
 ---
 
-# Enterprise Data Architecture Principles
+# Enterprise Security Architecture Principles
 
 ## 1. Data is an Asset
 _Data is like any shared asset with value to the whole Department and beyond._
 
-__Why?__
+**Why?**
 
 Data is a Departmental shared resource with a measurable value. Data is the golden thread that supports seamless, user-centric user journeys that allow users to self-serve wherever possible. Data supports decision-making at all levels from front-line delivery to policy-making and governance across the Education sector. Accurate, timely data is required to support accurate, timely decisions. Like all corporate assets, data must be carefully managed and maintained, ensuring its accuracy and reliability. Since it is the foundation of our decision making, we must have clear visibility of where it is, how good it is and the individual who owns it on the Department’s behalf, and we must be able to access it where and when we need it.
 
