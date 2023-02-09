@@ -11,7 +11,7 @@ Architects in DfE should also be familiar with our [Enterprise Architecture prin
 
 Architects involved in developing software should also be familiar with our [coding principles](https://technical-guidance.education.gov.uk/principles/coding-principles/) and [front-end development principles](https://technical-guidance.education.gov.uk/principles/frontend-development-principles/).
 
-## Technical standards in development
+## Standards in development
 
 Some standards [have already been published](#published-technical-standards), but require work to make them fit-for-purpose across DfE. Most standards do not yet exist or are in development.
 
@@ -171,7 +171,7 @@ We're working with teams to prioritise and create the standards that will provid
 |                                     | Cabling Management                               |                                     |
 |                                     | Environment Management                           | Infrastructure and Platforms        |
 
-### Published technical standards
+## Published standards
 
 Whilst technical standards are being developed, architects may also find the following guidance useful in their work:
 
