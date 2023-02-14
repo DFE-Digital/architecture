@@ -3,13 +3,13 @@ category: Architecture Principles
 expires: 2023-12-01
 ---
 
-#Introduction 
+# Introduction 
 
 Identity within these guidelines refers to how our services utilise user identities to authenticate and authorise access to services, and how we design and build services to ensure consistency and re-use. Consistent use of identity platforms provides a foundation to develop joined-up end-to-end user journeys across our services. This enables  the delivery of tailored solutions and access privileges which are linked to the user’s role and aligned to their needs. 
 
 Guidance is also provided for the secure administration and management of our platforms and services. This ensures that access granted to systems is conscious and appropriate, is granted only for the time required for the specific activity and is logged and audited. 
 
-#Identity Segment Definitions 
+# Identity Segment Definitions 
 
 Consumers for the Department’s services are aligned to three main identity segments. This alignment enables standardisation across services and improves the experience for our users by enabling consistent end-to-end user journeys. 
 
@@ -19,30 +19,30 @@ Consumers for the Department’s services are aligned to three main identity seg
 
 * **B2E** - Identity segment for services provided for Civil Servants, contractors and managed service providers working on behalf of Government departments. 
 
-#Use of the guidelines 
+# Use of the guidelines 
 
 The following guidelines are provided to guide projects and teams when creating or procuring solutions for use by the Department’s users. The guidelines will  create a framework for projects to operate within and to demonstrate alignment with best practice. 
 
 The guidelines are split into 5 sections: 
 
-1.Support Defragmentation 
+1. Support Defragmentation 
 
-2.User Experience 
+2. User Experience 
 
-3.General ID Good Practice 
+3. General ID Good Practice 
 
-4.Scalability (Future Proofing) 
+4. Scalability (Future Proofing) 
 
-5.Links With Other Standards 
+5. Links With Other Standards 
 
 **Alignment and exceptions** to the principles will be reviewed as part of assurance processes with the security and architecture professions to streamline governance. Exceptions will be approved or declined as relevant, with all decisions tracked with rationale for future reference. 
 
 **Updates or modifications** to the principles can be requested initially via the Identity Management Community of Interest, and in the future with standard updates and iterations via GitHub. 
 
 
-#Section 1: Support Defragmentation 
+# Section 1: Support Defragmentation 
 
-##1. Align to a strategic authentication service 
+## 1. Align to a strategic authentication service 
 
 All systems must integrate with a strategic authentication service. 
 
@@ -70,9 +70,7 @@ Formal patterns are being developed at present with further information for adop
 
 * Retire capabilities which cannot support integration into strategic authentication services. 
 
- 
-
-##2. Support an approved authentication method 
+## 2. Support an approved authentication method 
 
 Systems must utilise modern and secure authentication protocols which are replay-resistant. 
 
@@ -95,10 +93,10 @@ Legacy protocols are prone to common attacks which can lead to system compromise
 * Retire capabilities which cannot support integration into strategic authentication services (as mentioned in section 1 above). 
 
  
-#Section 2: User Experience 
+# Section 2: User Experience 
 
 
-##3. Consider the user experience 
+## 3. Consider the user experience 
 
 Considering user needs is core to everything we do, and must therefore be considered for how we manage a user’s identity access journey. 
 
@@ -113,7 +111,7 @@ Follow existing guidance from the Service Manual - https://www.gov.uk/service-ma
 Work with User Researchers and Product Owners across the department and Government to understand what knowledge exists around ID. Share your users’ challenges widely to gather information and potential solutions. 
 
 
-##4. Consider end-user autonomy and self-service 
+## 4. Consider end-user autonomy and self-service 
 
 Systems should implement self-service capabilities to empower end-users and reduce support costs. 
 
@@ -141,10 +139,10 @@ The use of digital processes and self-service for end-users:
 
  
 
-#Section 3: General ID Good Practice 
+# Section 3: General ID Good Practice 
 
 
-##5. Provide end-to-end encryption 
+## 5. Provide end-to-end encryption 
 
 Systems must protect the end-to-end communications between the system and consumer to prevent common attacks and to protect data. 
 
@@ -163,7 +161,7 @@ End-to-end encryption is common when accessing external systems but must also be
 * Ensure that ongoing support for the system includes the ongoing management of certificates and processes to renew and upgrade as necessary. 
 
  
-##6. Provide a mature and appropriate access model 
+## 6. Provide a mature and appropriate access model 
 
 Systems must utilise a suitable access model so that it can be secured and managed appropriately. 
 
@@ -186,7 +184,7 @@ A relatively simple system may only require user, administrator and approver rol
 * Ensure that COTS and in-house developed systems provide a flexible and extensible access model which can be updated and amended as required. 
 
  
-##7. Enable just-in-time access for administrative permissions 
+## 7. Enable just-in-time access for administrative permissions 
 
 High-privilege and high-access roles must be assigned on a time-bound basis and used appropriately and only when required. 
 
@@ -207,7 +205,7 @@ The use of just-in-time access also instils more mature working practices, as ad
 * Provide a support model which includes full alignment to the JiT access model with defined approvers for access requests if necessary. 
 
  
-##8. Secure system and machine accounts 
+## 8. Secure system and machine accounts 
 
 System accounts are powerful and must be managed and secured appropriately to avoid misuse or malicious exploit. 
 
@@ -234,7 +232,7 @@ System accounts are often assigned unnecessarily high-privileges by the system o
 * Ensure that operational processes are established for maintaining the accounts and resetting credentials on a 6-12-month basis. 
 
  
-##9. Support relevant secure separation requirements 
+## 9. Support relevant secure separation requirements 
 
 Data held within systems must be segregated to enable access controls and support potential future divestment or separation requirements. 
 
@@ -254,7 +252,7 @@ This segregation will also support this principle to ensure the access model for
 
  
 
-##10. Consider requirements for Multi-Factor Authentication (MFA) 
+## 10. Consider requirements for Multi-Factor Authentication (MFA) 
 
 Systems should utilise additional authentication factors as standard to protect against malicious activity. 
 
@@ -277,7 +275,7 @@ MFA is often considered an additional control required when accessing systems as
 * Consider the platforms used to access the system **(Principle 2)** and review if MFA would be supported on all platforms. If not possible across all platforms, review a two-tier approach for access, with platforms unable to support MFA only given access to a sub-set of functionality and/or data. 
 
  
-##11. Integration into central reporting/SIEM for auditing 
+## 11. Integration into central reporting/SIEM for auditing 
 
 Systems must integrate into the Department’s SIEM (security information and event management) platform, to provide security oversight and assurance. 
 
@@ -293,7 +291,7 @@ Whilst individual system owners or teams have a responsibility for the security 
 
  
 
-##12. Support role segregation and separation of duties 
+## 12. Support role segregation and separation of duties 
 
 Systems must utilise a role model which ensures that roles are managed and segregated appropriately. 
 
@@ -314,7 +312,7 @@ Individuals should not be able to approve end-to-end lifecycle activity or promo
 * Ensure any self-promotion or self-approval processes and workflows are reviewed and approved by assurance teams. 
 
  
-##13. Utilise policy-based access controls 
+## 13. Utilise policy-based access controls 
 
 Systems should consider policy-based and attribute-based access controls to provide modern and flexible access methods. 
 
@@ -333,7 +331,7 @@ The use of policy-based access controls requires a reliable set of master data r
 * Architect systems for delegated controls where the Identity platform provides authentication and coarse-grained access, and the application retains responsibility for fine-grained access via user attributes. 
 
 
-##14. Adhere to least-privilege(?d) model 
+## 14. Adhere to least-privilege model 
 
 Roles and privileges assigned to systems must be appropriate for the user’s requirements. 
 
@@ -358,10 +356,10 @@ Managing access to the least-privilege model also ensures that impacts from mali
 * Manage the use of high-privilege roles appropriately, with time-bound access or with separate ‘break-glass’ accounts. 
 
 
-#Section 4: Scalability 
+# Section 4: Scalability 
 
  
-##15. Consider and support access from multiple platforms 
+## 15. Consider and support access from multiple platforms 
 
 Systems must support strategic authentication from all platforms used to access them. 
 
@@ -382,7 +380,7 @@ The system must support a consistent identity and authentication method,  regard
 * Do not align to internally focussed authentication services (Active Directory) if the system is intended to be used outside of the Department by third party users. 
 
  
-##16. Design the access model for growth 
+## 16. Design the access model for growth 
 
 Systems must provide the ability to extend the access model for additional access and use-cases without re-architecting. 
 
@@ -399,7 +397,7 @@ The business case for the relevant system should include details of the end-stat
 * Ensure that the access model is granular where required to support future expansion of the service to accommodate additional users, use-cases and data separation. 
 
  
-##17. Ensure access model can support multiple domains and organisations 
+## 17. Ensure access model can support multiple domains and organisations 
 
 Systems must provide the ability to enable and control access across diverse user types and organisations. 
 
@@ -414,10 +412,10 @@ Consumers of the Department’s systems are located across multiple organisation
 * Ensure the access model within the system can leverage attributes held within the Identity Management platform. This will enable it make access decisions based upon a minimum of organisation and user role. 
 
 
-#Section 5: Links With Other Standards 
+# Section 5: Links With Other Standards 
 
  
-##18. Support open standards 
+## 18. Support open standards 
 
 Open Standards ease integration burden on services, enable us to move at pace for functional and security related changes, whilst ensuring teams can easily access knowledge on integrating with and maintaining ID Systems. 
 
@@ -438,7 +436,7 @@ Open Standards ease integration burden on services, enable us to move at pace fo
 * When buying a service, make sure it conforms to the Open Standards existing ID management software that  the Department/Gov adhere to. 
 
  
-##19. Use data responsibly 
+## 19. Use data responsibly 
 
 Data used within identity platforms to identify users must be used appropriately and in line with our standard principles. 
 
@@ -459,7 +457,7 @@ Follow our existing data principles and guidance.
 https://github.com/DFE-Digital/architecture/blob/master/principles/enterprise-data-architecture-principles.md#6-data-use-is-ethical 
 
  
-##20. Use data masters to enable persistence and portability and reliability 
+## 20. Use data masters to enable persistence and portability and reliability 
 
 Services should agree on attributes that can be used to mirror/merge/reference user data across many systems, enabling gaps to be easily bridged as users move between disparate systems. 
 
