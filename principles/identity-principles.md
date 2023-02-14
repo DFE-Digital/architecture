@@ -423,7 +423,7 @@ Open Standards ease integration burden on services, enable us to move at pace fo
 
 **Why?**
 
-* We maintain alignment with the architecture principles https://github.com/DFE-Digital/architecture/blob/master/principles/enterprise-architecture-principles.md#10-use-open-standards 
+* We maintain alignment with the [architecture principles](https://github.com/DFE-Digital/architecture/blob/master/principles/enterprise-architecture-principles.md#10-use-open-standards). 
 
 * Open Standards ease integration burden on services. 
 
@@ -454,9 +454,7 @@ Data used within identity platforms to identify users must be used appropriately
 
 **How?**
 
-Follow our existing data principles and guidance. 
-
-https://github.com/DFE-Digital/architecture/blob/master/principles/enterprise-data-architecture-principles.md#6-data-use-is-ethical 
+Follow our existing [data principles and guidance](https://github.com/DFE-Digital/architecture/blob/master/principles/enterprise-data-architecture-principles.md#6-data-use-is-ethical). 
 
  
 ### 20. Use data masters to enable persistence and portability and reliability 
@@ -469,7 +467,7 @@ Utilising master data sources enables consistent and joined-up user experiences 
 
 **How?**
 
-* Follow our existing principles for data mastering and re-use. https://github.com/DFE-Digital/architecture/blob/master/principles/enterprise-data-architecture-principles.md#1-data-is-an-asset 
+* Follow our existing principles for [data mastering and re-use](https://github.com/DFE-Digital/architecture/blob/master/principles/enterprise-data-architecture-principles.md#1-data-is-an-asset).
 
 * Clearly document the attributes your service holds that future services may use to join up identities. 
 
