@@ -108,7 +108,7 @@ The user experience should be considered when utilising Identity Management solu
 
 **How?**
 
-Follow existing guidance from the Service Manual - https://www.gov.uk/service-manual/service-standard/point-1-understand-user-needs 
+Follow existing guidance from the [Service Manual](https://www.gov.uk/service-manual/service-standard/point-1-understand-user-needs)
 
 Work with User Researchers and Product Owners across the department and Government to understand what knowledge exists around ID. Share your users’ challenges widely to gather information and potential solutions. 
 
@@ -274,7 +274,7 @@ MFA is often considered an additional control required when accessing systems as
 
 * Consider MFA requirements when a system undergoes a significant change to scope, such as the addition of new functionality and/or access to additional data. 
 
-* Consider the platforms used to access the system **(Principle 2)** and review if MFA would be supported on all platforms. If not possible across all platforms, review a two-tier approach for access, with platforms unable to support MFA only given access to a sub-set of functionality and/or data. 
+* Consider the platforms used to access the system ([Principle 2](#2-support-an-approved-authentication-method)) and review if MFA would be supported on all platforms. If not possible across all platforms, review a two-tier approach for access, with platforms unable to support MFA only given access to a sub-set of functionality and/or data. 
 
  
 ### 11. Integration into central reporting/SIEM for auditing 
@@ -287,7 +287,7 @@ Whilst individual system owners or teams have a responsibility for the security 
 
 **How?**
 
-* Alignment to **Principle 1** enables integration and logging for the authentication into a system, as this is provided as part of the service. 
+* Alignment to [Principle 1](#1-align-to-a-strategic-authentication-service) enables integration and logging for the authentication into a system, as this is provided as part of the service. 
 
 * Follow standard Departmental Security Assurance Model (DSAM) processes to ensure the InfoSec team are aware of any sensitive data or access within the system. 
 
@@ -423,7 +423,7 @@ Open Standards ease integration burden on services, enable us to move at pace fo
 
 **Why?**
 
-* We maintain alignment with the architecture principles https://github.com/DFE-Digital/architecture/blob/master/principles/enterprise-architecture-principles.md#10-use-open-standards 
+* We maintain alignment with the [architecture principles](enterprise-architecture-principles/#10-use-open-standards). 
 
 * Open Standards ease integration burden on services. 
 
@@ -454,9 +454,7 @@ Data used within identity platforms to identify users must be used appropriately
 
 **How?**
 
-Follow our existing data principles and guidance. 
-
-https://github.com/DFE-Digital/architecture/blob/master/principles/enterprise-data-architecture-principles.md#6-data-use-is-ethical 
+Follow our existing [data principles and guidance](enterprise-data-architecture-principles/#6-data-use-is-ethical). 
 
  
 ### 20. Use data masters to enable persistence and portability and reliability 
@@ -469,7 +467,7 @@ Utilising master data sources enables consistent and joined-up user experiences 
 
 **How?**
 
-* Follow our existing principles for data mastering and re-use. https://github.com/DFE-Digital/architecture/blob/master/principles/enterprise-data-architecture-principles.md#1-data-is-an-asset 
+* Follow our existing principles for [data mastering and re-use](enterprise-data-architecture-principles/#1-data-is-an-asset).
 
 * Clearly document the attributes your service holds that future services may use to join up identities. 
 
