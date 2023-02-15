@@ -54,11 +54,11 @@ By aligning with a strategic authentication service, we simplify the end-user ex
 
 Formal patterns are being developed at present with further information for adoption of standard services. In lieu of the formal patterns, high-level alignment to shared services is shown below: 
 
-* B2C - Use the GDS One Login For Government Service 
+* B2C - Use the [GOV.UK One Login](https://www.sign-in.service.gov.uk/) service 
 
-* B2B - Use DfE Sign-in 
+* B2B - Use [DfE Sign-in](https://services.signin.education.gov.uk/) 
 
-* B2E - Use AzureAD and leverage **AzureAD B2B** to invite guests 
+* B2E - Use AzureAD, and leverage AzureAD B2B to invite guests 
 
 **How?**
 
@@ -423,7 +423,7 @@ Open Standards ease integration burden on services, enable us to move at pace fo
 
 **Why?**
 
-* We maintain alignment with the [architecture principles](enterprise-architecture-principles/#10-use-open-standards). 
+* We maintain alignment with the [architecture principles](../enterprise-architecture-principles/#10-use-open-standards). 
 
 * Open Standards ease integration burden on services. 
 
@@ -454,7 +454,7 @@ Data used within identity platforms to identify users must be used appropriately
 
 **How?**
 
-Follow our existing [data principles and guidance](enterprise-data-architecture-principles/#6-data-use-is-ethical). 
+Follow our existing [data principles and guidance](../enterprise-data-architecture-principles/#6-data-use-is-ethical). 
 
  
 ### 20. Use data masters to enable persistence and portability and reliability 
@@ -467,7 +467,7 @@ Utilising master data sources enables consistent and joined-up user experiences 
 
 **How?**
 
-* Follow our existing principles for [data mastering and re-use](enterprise-data-architecture-principles/#1-data-is-an-asset).
+* Follow our existing principles for [data mastering and re-use](../enterprise-data-architecture-principles/#1-data-is-an-asset).
 
 * Clearly document the attributes your service holds that future services may use to join up identities. 
 
