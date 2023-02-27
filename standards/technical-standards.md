@@ -13,7 +13,7 @@ Architects involved in developing software should also be familiar with our [cod
 
 ## Standards in development
 
-Some standards [have already been published](#published-technical-standards), but require work to make them fit-for-purpose across DfE. Most standards do not yet exist or are in development.
+Some standards [have already been published](#published-standards), but require work to make them fit-for-purpose across DfE. Most standards do not yet exist or are in development.
 
 The architecture team are co-ordinating the creation of technical standards in DfE. The following list shows proposed technical standards - derived from the Technology Reference Model and group by component - and who owns them.
 
