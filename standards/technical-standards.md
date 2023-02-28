@@ -13,11 +13,11 @@ Architects involved in developing software should also be familiar with our [cod
 
 ## Standards in development
 
-Some standards [have already been published](#published-standards), but require work to make them fit-for-purpose across DfE. Most standards do not yet exist or are in development.
+Some technical standards [have already been published](#published-standards), but require work to make them fit-for-purpose across DfE. Most technical standards do not yet exist or are in development.
 
-The architecture team are co-ordinating the creation of technical standards in DfE. The following list shows proposed technical standards - derived from the Technology Reference Model and group by component - and who owns them.
+The architecture team are co-ordinating the creation of technical standards in DfE. The following list shows proposed technical standards - derived from the [Technology Reference Model](https://educationgovuk.sharepoint.com/:f:/r/sites/gp/WorkplaceDocuments/Reference%20architecture/Technology%20Reference%20Model) and grouped by component - and who owns them.
 
-We're working with teams to prioritise and create the standards that will provide the most value to delivery teams and DfE. As standards are agreed and published, they will be updated on this page.
+We're working with these owners and teams to prioritise creation of the standards that will provide the most value to both delivery teams and DfE. The ones actively being working on are in **bold**. As standards are agreed and published, they will be updated on this page.
 
 ### Management components
 
@@ -32,13 +32,13 @@ We're working with teams to prioritise and create the standards that will provid
 |                                     | Data/Communications Security and Confidentiality |                                     |
 |                                     | Platform and System Security                     |                                     |
 |                                     | Vulnerability and Threat Management              |                                     |
-|                                     | Identity and Access Management                   |                                     |
+|                                     | **Identity and Access Management**               |                                     |
 |                                     | Security Incident Management                     |                                     |
 |                                     | Monitoring, Traceability, Auditing and Forensics |                                     |
 |                                     |                                                  |                                     |
 | System Management                   | Service Desk and CMDB Tools                      | End User Compute Services           |
 |                                     | Deployment, Audit and Inventory                  | Service Operations                  |
-|                                     | Monitoring and Event Management                  |                                     |
+|                                     | **Monitoring and Event Management**              |                                     |
 |                                     | Performance and Capacity Management              |                                     |
 |                                     | Mobile Device Management                         | End User Compute Services           |
 |                                     | Device Management and Configuration Tools        |                                     |
@@ -48,16 +48,16 @@ We're working with teams to prioritise and create the standards that will provid
 |                                     | Architecture Management                          | Architecture                        |
 |                                     | Roadmap Development and Management               | Strategy & Engagement               |
 |                                     | Performance Metrics                              | Delivery Management                 |
-|                                     | Service Catalog                                  | Service Operations                  |
+|                                     | Service Catalogue                                | Service Operations                  |
 |                                     | Resource Capacity Management                     | Capability                          |
 |                                     | Prioritisation                                   | Strategy & Engagement               |
 |                                     |                                                  |                                     |
-| Application Development             | Development Tools                                | Infrastructure and Platforms        |
-|                                     | Data Access Tools                                |                                     |
-|                                     | Scripting Tools                                  |                                     |
+| Application Development             | **Development Tools**                            | Infrastructure and Platforms        |
+|                                     | **Data Access Tools**                            |                                     |
+|                                     | **Scripting Tools**                              |                                     |
 |                                     | Modelling and Design Tools                       | Architecture                        |
 |                                     | Requirements Management Tools                    | Business Analysis community         |
-|                                     | Programming Languages                            | Infrastructure and Platforms        |
+|                                     | **Programming Languages**                        | Infrastructure and Platforms        |
 |                                     | Testing Tools                                    |                                     |
 |                                     | Source Code Management Tools                     |                                     |
 |                                     | Lifecycle and Configuration Management Tools     |                                     |
@@ -88,12 +88,12 @@ We're working with teams to prioritise and create the standards that will provid
 | Business Applications               | Finance and Accounting Applications              | Finance Systems                     |
 |                                     | Human Resource Management Applications           | Human Resources                     |
 |                                     | Sales, Purchasing and Commercial Applications    | Customer Experience                 |
-|                                     | Customer Service Applications                    | End User Compute Services           |
+|                                     | **Customer Service Applications**                | End User Compute Services           |
 |                                     | Case Management Applications                     | Infrastructure and Platforms        |
 |                                     | Business Operations Management Applications      | Business Operations                 |
 |                                     |                                                  |                                     |
-| Productivity Tools                  | Collaboration Applications                       | End User Compute Services           |
-|                                     | Productivity and Office Applications             |                                     |
+| Productivity Tools                  | **Collaboration Applications**                   | End User Compute Services           |
+|                                     | **Productivity and Office Applications**         |                                     |
 |                                     | Email and Calendar Applications                  |                                     |
 |                                     | Common Desktop Tools                             |                                     |
 |                                     | Instant Messaging and Presence Applications      |                                     |
@@ -101,12 +101,12 @@ We're working with teams to prioritise and create the standards that will provid
 |                                     | Browser and Web Desktop Applications             | End User Compute Services           |
 |                                     | Content Management Applications                  |                                     |
 |                                     | Enterprise Search Applications                   | Knowledge & Information Management  |
-|                                     | Accessibility Applications                       | Accessibility                       |
+|                                     | **Accessibility Applications**                   | Accessibility                       |
 |                                     | Video and Telephony Conferencing Applications    | End User Compute Services           |
 |                                     | Digital Signature Tools                          | Cyber Security / Service Operations |
 |                                     |                                                  |                                     |
-| Middleware                          | API Management                                   | Infrastructure and Platforms        |
-|                                     | Container Management                             |                                     |
+| Middleware                          | **API Management**                               | Infrastructure and Platforms        |
+|                                     | **Container Management**                         |                                     |
 |                                     | Enterprise Service Bus                           |                                     |
 |                                     | Message/Event Stream Processing                  |                                     |
 |                                     | Middleware connectors                            |                                     |
@@ -124,14 +124,14 @@ We're working with teams to prioritise and create the standards that will provid
 |                                     | Advanced Analytics Platforms                     |                                     |
 |                                     | IOT Stream Analytics                             |                                     |
 |                                     |                                                  |                                     |
-| Data Platforms                      | Relational Database Management Systems           |                                     |
+| Data Platforms                      | **Relational Database Management Systems**       |                                     |
 |                                     | Unstructured Data Management Systems             |                                     |
 |                                     | Analytical Data Management Systems               |                                     |
 |                                     | Data Integration and Orchestration Systems       | Data Engineering                    |
 |                                     | Data Transfer and Transformation Systems         |                                     |
 |                                     | Data Connectors                                  |                                     |
 |                                     | Data Governance and Quality Systems              | Data Architecture                   |
-|                                     | Master Data Management                           |                                     |
+|                                     | **Master Data Management**                       |                                     |
 |                                     |                                                  |                                     |
 
 ### Infrastructure components
