@@ -7,7 +7,7 @@ expires: 2023-12-01
 
 All architects in DfE design and deliver services that provide outcomes for end users and the department. They are responsible for the technical quality of the products and services we deliver, thinking innovatively and bringing a broader perspective to service delivery.
 
-In DfE, we have a broad mix of enterprise, solution, technical, data and specialist architects. We also sometimes have tech leads that have architecture responsibilities. There are lots of different roles and teams that 'do' architecture in one way or another, across a number of business areas.
+In DfE, we have a broad mix of enterprise, solution, technical, data and specialist architects. We sometimes have tech leads that have architecture responsibilities. There are lots of different roles and teams that 'do' architecture in one way or another, across a number of business areas.
 
 Here are some of the more common roles:
 
@@ -44,7 +44,7 @@ Read more about the role of a [technical architect](https://dfe-digital.github.i
 
 Data architects set the vision for DfE’s use of data, through data design, to meet business needs. They design and build data models to fulfil the strategic data needs of the business, as defined by the Chief Data Architect.
 
-For more information, have a look at the [data architecture and governance division](https://educationgovuk.sharepoint.com/sites/lvewp00071/SitePages/Data-Architecture.aspx) page.
+For more information, have a look at the [data architecture and governance division](https://educationgovuk.sharepoint.com/sites/lvewp00071/SitePages/Data-Architecture.aspx) pages.
 
 ## Security architects
 
@@ -58,14 +58,16 @@ Security architects design, build and assure the security of solutions. In DfE, 
 
 ## Specialist architects
 
-We also have [Data Architects](https://www.gov.uk/government/publications/data-architect-role-description/data-architect-role-description)
-and other [Specialist Technical Architects](https://www.gov.uk/government/publications/technical-specialist-architect-role-description/technical-specialist-architect-role-description) (focused on things like security, infrastructure or networks, for example), who work closely with service delivery teams and the other parts of the department to help achieve our goals.
+We also have some [Specialist Technical Architects](https://www.gov.uk/government/publications/technical-specialist-architect-role-description/technical-specialist-architect-role-description) (focused on things like infrastructure or networks, for example), who work closely with service delivery teams and the other parts of the department to help achieve our goals.
 
 ## Profession support
 
 To keep everything running smoothly, we have a small profession team, comprising the Head of Profession, an architecture profession manager and some professional support. Have a look at our [architecture profession page](../../profession/architecture-profession) for more information.
 
+
 ## The role of an architect through the delivery lifecycle
+
+Here are some questions and focus areas architects might have at different stages of the delivery lifecycle: 
 
 **Planning / inception / pre-discovery**
 - Questions - What is the problem space? Is there a problem to solve?
@@ -76,36 +78,38 @@ To keep everything running smoothly, we have a small profession team, comprising
 - Focus - Problem statement, goals and drivers, conceptual views, business/technical capability mapping, early option thinking
 
 **Alpha**
-- Questions - What are our risky assumptions? How can we release value early?
+- Questions - What are our riskiest assumptions? How can we release value early?
 - Focus - Solution prototyping, capability / service / application views, data architecture, design assumptions and constraints, options considered / tested
 
-**Beta (private / public)**
+**Beta**
 - Questions - What should we build first and is it adding value?
-- Focus - High > low level design (applications, data, integration, hosting, security), infrastructure / network topology, disaster recovery, logging, auditing, error handling, managing the service and support, architecture / design decisions
+- Focus - Moving from high to low-level design (applications, data, integration, hosting, security), infrastructure / network topology, disaster recovery, logging, auditing, error handling, managing the service and support, recording and adjusting architecture / design decisions
 
 **Live**
 - Questions - How can we continually add value to the service?
-- Focus - Continual improvement, relationships with suppliers, learning/future recommendations
+- Focus - Continual improvement, relationships with suppliers, learning / future recommendations
 
 
 ## Responsibilities of an architect
 
 Here are some examples of the expected responsibilities of an architect at different levels:
 
-| | G6 Lead Architect | G7 Senior Architect | SEO Architect
-- | - | - | -
-__Delivery__ | Across one or more portfolios or business domains | Across a programme or group of projects, aligned to a portfolio or domain | Across one or a small group of projects, aligned to a portfolio or domain
-__Assurance__ | Review of business cases, establish in-line assurance mechanisms, reviewing submissions for assurance, technical service assessment, design assurance of major/critical programmes | Establish/support assurance mechanisms, assurance submissions, technical service assessment, design assurance of projects and programmes | Participate in assurance mechanisms, technical service assessment, design assurance of projects
-__Strategies__ | Own one or more technology strategies and roadmaps | + One or more technology strategies and roadmaps |
-__Thought leadership__ | Write thematic papers to influence, lead community discussions | + Write thematic papers to influence, lead community discussions |
-__Line management__ | Team plans and management, workforce management | + Management and coaching of colleagues |
-__Corporate__ | Budget delegation, leading cross-cutting work, mentoring, recruitment, xGovernment collaboration | + Cross-cutting work (actively involved), mentoring, recruitment, xGovernment collaboration | + Recruitment, xGovernment collaboration
+| | G6 Lead Architect | G7 Senior Architect | SEO Architect |
+| - | - | - | - |
+|__Delivery__ | Across one or more portfolios or business domains | Across a programme or group of projects, aligned to a portfolio or domain | Across one or a small group of projects, aligned to a portfolio or domain |
+|__Assurance__ | Review of business cases, establish in-line assurance mechanisms, reviewing submissions for assurance, technical service assessment, design assurance of major/critical programmes | Establish/support assurance mechanisms, assurance submissions, technical service assessment, design assurance of projects and programmes | Participate in assurance mechanisms, technical service assessment, design assurance of projects |
+|__Strategies__ | Own one or more technology strategies and roadmaps | + One or more technology strategies and roadmaps |
+|__Thought leadership__ | Write thematic papers to influence, lead community discussions | + Write thematic papers to influence, lead community discussions |
+|__Line management__ | Team plans and management, workforce management | + Management and coaching of colleagues |
+|__Corporate__ | Budget delegation, leading cross-cutting work, mentoring, recruitment, xGovernment collaboration | + Cross-cutting work (actively involved), mentoring, recruitment, xGovernment collaboration | + Recruitment, xGovernment collaboration |
 
 (+ indicates a stretch goal)
 
 Architects (or those aspiring to be architects) should consider:
 
-- Which level am I operating at?
+- Which level am I currently operating at?
 - What else could / should I do?
 - How can I create space to cover?
 - What support do I need?
+
+Have a look at our [capability framework](architecture-capability-framework) page for more information.
