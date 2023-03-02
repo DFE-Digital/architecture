@@ -13,9 +13,9 @@ when building digital services.
 
 ## Profession
 
-- [Architecture roles](profession/architecture-roles)
-- [Architecture profession](profession/architecture-profession)
-- [Architecture community](profession/architecture-community)
+- [Architecture roles](profession/architecture-roles.md)
+- [Architecture profession](profession/architecture-profession.md)
+- [Architecture community](profession/architecture-community.md)
 - [Architecture Capability Framework](profession/architecture-capability-framework.md)
 
 ## Principles
