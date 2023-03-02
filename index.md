@@ -13,8 +13,10 @@ when building digital services.
 
 ## Profession
 
-- [Architecture profession](profession/architecture-profession)
-- [Architecture community](profession/architecture-community)
+- [Architecture roles](profession/architecture-roles.md)
+- [Architecture profession](profession/architecture-profession.md)
+- [Architecture community](profession/architecture-community.md)
+- [Architecture Capability Framework](profession/architecture-capability-framework.md)
 
 ## Principles
 
@@ -58,6 +60,6 @@ when building digital services.
 - [DfE Digital Confluence](https://dfedigital.atlassian.net)
 - [ESFA Confluence](https://skillsfundingagency.atlassian.net)
 
-## Capability
 
-- [Architecture Capability Framework](capability/architecture-capability-framework.md)
+
+

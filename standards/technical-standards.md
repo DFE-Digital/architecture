@@ -173,13 +173,13 @@ We're working with these owners and teams to prioritise creation of the standard
 
 ## Published standards
 
-Whilst technical standards are being developed, architects may also find the following guidance useful in their work:
+Whilst technical standards are being developed, architects may also find the following information useful in their work:
 
 - [API standards](https://technical-guidance.education.gov.uk/guides/api-guidance/#dfe-api-standards)
 - [Software development standards](https://technical-guidance.education.gov.uk/standards/), including things like [naming things](https://technical-guidance.education.gov.uk/standards/naming-things/), [storing source code](https://technical-guidance.education.gov.uk/standards/storing-source-code/) and [licensing software](https://technical-guidance.education.gov.uk/standards/licencing-software-or-code/)
 - [Data policies and standards](https://educationgovuk.sharepoint.com/sites/lvewp00085/SitePages/DfE-Data-Policies.aspx)
-- [Information security standards](https://educationgovuk.sharepoint.com/sites/how-do-i/SitePages/security-assurance.aspx)
-- Guidance on [meeting accessibility standards](https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps#meeting-accessibility-requirements) and the [technical standard for digital accessibility](https://www.gov.uk/guidance/public-sector-website-and-mobile-application-accessibility-monitoring#technical-standard-for-digital-accessibility)
+- [Information security assurance](https://educationgovuk.sharepoint.com/sites/how-do-i/SitePages/security-assurance.aspx)
+- Guidance on [meeting accessibility requirements](https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps#meeting-accessibility-requirements) and the [technical standard for digital accessibility](https://www.gov.uk/guidance/public-sector-website-and-mobile-application-accessibility-monitoring#technical-standard-for-digital-accessibility)
 
 ## Standard owners
 
