@@ -21,47 +21,69 @@ We're working with these owners and teams to prioritise creation of the standard
 
 ### Management components
 
-| Group                               | Standard                                         | Division                            |
-| ----------------------------------- | ------------------------------------------------ | ----------------------------------- |
-| Strategic Management                | Strategy Development                             | DDaT Senior Leadership Team         |
-|                                     | Goals and Outcomes                               |                                     |
-|                                     |                                                  |                                     |
-| Security Management                 | Perimeter and Network Security                   | Networks                            |
-|                                     | Device Security                                  | End User Compute Services           |
-|                                     | Virus and Malware Prevention and Management      | Cyber Security                      |
-|                                     | Data/Communications Security and Confidentiality |                                     |
-|                                     | Platform and System Security                     |                                     |
-|                                     | Vulnerability and Threat Management              |                                     |
-|                                     | **Identity and Access Management**               |                                     |
-|                                     | Security Incident Management                     |                                     |
-|                                     | Monitoring, Traceability, Auditing and Forensics |                                     |
-|                                     |                                                  |                                     |
-| System Management                   | Service Desk and CMDB Tools                      | End User Compute Services           |
-|                                     | Deployment, Audit and Inventory                  | Service Operations                  |
-|                                     | **Monitoring and Event Management**              |                                     |
-|                                     | Performance and Capacity Management              |                                     |
-|                                     | Mobile Device Management                         | End User Compute Services           |
-|                                     | Device Management and Configuration Tools        |                                     |
-|                                     | Remote Control Management Tools                  |                                     |
-|                                     |                                                  |                                     |
-| Delivery Management                 | Portfolio and Project Management                 | Delivery Management                 |
-|                                     | Architecture Management                          | Architecture                        |
-|                                     | Roadmap Development and Management               | Strategy & Engagement               |
-|                                     | Performance Metrics                              | Delivery Management                 |
-|                                     | Service Catalogue                                | Service Operations                  |
-|                                     | Resource Capacity Management                     | Capability                          |
-|                                     | Prioritisation                                   | Strategy & Engagement               |
-|                                     |                                                  |                                     |
-| Application Development             | **Development Tools**                            | Infrastructure and Platforms        |
-|                                     | **Data Access Tools**                            |                                     |
-|                                     | **Scripting Tools**                              |                                     |
-|                                     | Modelling and Design Tools                       | Architecture                        |
-|                                     | Requirements Management Tools                    | Business Analysis community         |
-|                                     | **Programming Languages**                        | Infrastructure and Platforms        |
-|                                     | Testing Tools                                    |                                     |
-|                                     | Source Code Management Tools                     |                                     |
-|                                     | Lifecycle and Configuration Management Tools     |                                     |
-|                                     |                                                  |                                     |
+#### Strategic Management
+
+| Group                        | Standard                                 | Interim recommendation     | Division                    |
+|------------------------------|------------------------------------------|----------------------------|-----------------------------|
+| Strategy Development         |                                          |                            |  DDaT Senior Leadership Team |
+| Goals and Outcomes           |                                          |                            |                             |
+
+
+#### Security Management
+
+| Group                        | Standard                                 | Interim recommendation     | Division                   |
+|------------------------------|------------------------------------------|----------------------------|----------------------------|
+| Perimeter and Network Security|                                         |                            | Networks                   |
+| Device Security              |                                          |                            | End User Compute Services  |
+| Virus and Malware Prevention and Management|                            |                            | Cyber Security             |
+| Data/Communication Security and Confidentiality|                        |                            |                            |
+| Platform and System Security |                                          |                            |                            |
+| Vulnerability and Threat Management |                                   |                            |                            |
+| Identity and Access Management | Business to Citizen/Consumer (B2C)     | GOV.UK One Login           |                            |
+|                              | Business to Business (B2B)               | DfE Sign in                |                            |
+|                              | Business to Enterprise/Employee (B2E)    | MS Azure Active Directory  |                            |
+| Security Incident Management |                                          |                            |                            |
+| Monitoring, Traceability, Auditing and Forensics|                       |                            |                            |
+
+#### System Management
+
+| Group                        | Standard                                 | Interim recommendation     | Division                   |
+|------------------------------|------------------------------------------|----------------------------|----------------------------|
+| Service Desk and CMDB Tools  |                                          |                            | End User Compute Services  |
+| Deployment, Audit and Inventory |                                       |                            | Service Operations         |
+| Monitoring and Event Management |                                       |                            |                            |
+| Performance and Capacity Management |                                   |                            |                            |
+| Mobile Device Management     |                                          |                            | End User Compute Services  |
+| Device Management and Configuration Tools |                             |                            |                            |
+| Remote Control Management Tools |                                       |                            |                            |
+
+#### Delivery Management
+
+| Group                        | Standard                                 | Interim recommendation     | Division                   |
+|------------------------------|------------------------------------------|----------------------------|----------------------------|
+| Portfolio and Project Management |                                      |                            | Delivery Management        |
+| Architecture Management      |                                          |                            | Architecture               |
+| Roadmap Development and Management |                                    |                            | Strategy & Engagement      |
+| Performance Metrics          |                                          |                            | Delivery Management        |
+| Service Catalogue            |                                          |                            | Service Operations         |
+| Resource Capacity Management |                                          |                            | Capability                 |
+| Prioritisation               |                                          |                            | Strategy & Engagement      |
+
+#### Application Development
+
+| Group                        | Standard                                 | Interim recommendation     | Division                   |
+|------------------------------|------------------------------------------|----------------------------|----------------------------|
+| Development Tools            |                                          | MS Visual Studio/VS Code/Azure DevOps | Inftrastucture and Platform |
+| Data Access Tools            |                                          |                            |                            |
+| Scripting Tools              |                                          |                            |                            |
+| Modelling and Design Tools   |                                          |                            | Architecture               |
+| Requirements Management Tools |                                         |                            | Business Analysis Community |
+| Programming Languages        |                                          | C# .NET                    | Infrastructure and Platforms |
+| Testing Tools                |                                          |                            |                            |
+| Source Code Management Tools |                                          | Github                     |                            |
+| Lifecycle and Configuration Management Tools |                          |                            |                            |
+
+
 
 ### Devices and peripherals
 
