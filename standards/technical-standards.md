@@ -19,157 +19,239 @@ The architecture team are co-ordinating the creation of technical standards in D
 
 We're working with these owners and teams to prioritise creation of the standards that will provide the most value to both delivery teams and DfE. The ones actively being working on are in **bold**. As standards are agreed and published, they will be updated on this page.
 
+## Accepted products
+
+Whilst technical standards are being developed, some accepted products in DfE have been highlighted against some of the higher priority groups. These are products that are currently in use in the department and make most sense to use / re-use. If you choose one of these products, you are *most likely* to be aligned with the standard being developed. More will be added as more data is gathered and analysed
+
 ### Management components
 
-| Group                               | Standard                                         | Division                            |
-| ----------------------------------- | ------------------------------------------------ | ----------------------------------- |
-| Strategic Management                | Strategy Development                             | DDaT Senior Leadership Team         |
-|                                     | Goals and Outcomes                               |                                     |
-|                                     |                                                  |                                     |
-| Security Management                 | Perimeter and Network Security                   | Networks                            |
-|                                     | Device Security                                  | End User Compute Services           |
-|                                     | Virus and Malware Prevention and Management      | Cyber Security                      |
-|                                     | Data/Communications Security and Confidentiality |                                     |
-|                                     | Platform and System Security                     |                                     |
-|                                     | Vulnerability and Threat Management              |                                     |
-|                                     | **Identity and Access Management**               |                                     |
-|                                     | Security Incident Management                     |                                     |
-|                                     | Monitoring, Traceability, Auditing and Forensics |                                     |
-|                                     |                                                  |                                     |
-| System Management                   | Service Desk and CMDB Tools                      | End User Compute Services           |
-|                                     | Deployment, Audit and Inventory                  | Service Operations                  |
-|                                     | **Monitoring and Event Management**              |                                     |
-|                                     | Performance and Capacity Management              |                                     |
-|                                     | Mobile Device Management                         | End User Compute Services           |
-|                                     | Device Management and Configuration Tools        |                                     |
-|                                     | Remote Control Management Tools                  |                                     |
-|                                     |                                                  |                                     |
-| Delivery Management                 | Portfolio and Project Management                 | Delivery Management                 |
-|                                     | Architecture Management                          | Architecture                        |
-|                                     | Roadmap Development and Management               | Strategy & Engagement               |
-|                                     | Performance Metrics                              | Delivery Management                 |
-|                                     | Service Catalogue                                | Service Operations                  |
-|                                     | Resource Capacity Management                     | Capability                          |
-|                                     | Prioritisation                                   | Strategy & Engagement               |
-|                                     |                                                  |                                     |
-| Application Development             | **Development Tools**                            | Infrastructure and Platforms        |
-|                                     | **Data Access Tools**                            |                                     |
-|                                     | **Scripting Tools**                              |                                     |
-|                                     | Modelling and Design Tools                       | Architecture                        |
-|                                     | Requirements Management Tools                    | Business Analysis community         |
-|                                     | **Programming Languages**                        | Infrastructure and Platforms        |
-|                                     | Testing Tools                                    |                                     |
-|                                     | Source Code Management Tools                     |                                     |
-|                                     | Lifecycle and Configuration Management Tools     |                                     |
-|                                     |                                                  |                                     |
+#### Strategic Management
+
+| Group                        | Standard                                 | Product                    | Division                    |
+|------------------------------|------------------------------------------|----------------------------|-----------------------------|
+| Strategy Development         |                                          |                            |  DDaT Senior Leadership Team |
+| Goals and Outcomes           |                                          |                            |                             |
+
+
+#### Security Management
+
+| Group                        | Standard                                 | Product                    | Division                   |
+|------------------------------|------------------------------------------|----------------------------|----------------------------|
+| Perimeter and Network Security|                                         |                            | Networks                   |
+| Device Security              |                                          |                            | End User Compute Services  |
+| Virus and Malware Prevention and Management|                            |                            | Cyber Security             |
+| Data/Communication Security and Confidentiality|                        |                            |                            |
+| Platform and System Security |                                          |                            |                            |
+| Vulnerability and Threat Management |                                   |                            |                            |
+| **Identity and Access Management** | Business to Citizen/Consumer (B2C) | *GOV.UK One Login          |                            |
+|                              | Business to Business (B2B)               | *DfE Sign in               |                            |
+|                              | Business to Enterprise/Employee (B2E)    | *MS Azure Active Directory |                            |
+| Security Incident Management |                                          |                            |                            |
+| Monitoring, Traceability, Auditing and Forensics|                       |                            |                            |
+
+#### System Management
+
+| Group                        | Standard                                 | Product                    | Division                   |
+|------------------------------|------------------------------------------|----------------------------|----------------------------|
+| Service Desk and CMDB Tools  |                                          |                            | End User Compute Services  |
+| Deployment, Audit and Inventory |                                       |                            | Service Operations         |
+| **Monitoring and Event Management** |                                   |                            |                            |
+| Performance and Capacity Management |                                   |                            |                            |
+| Mobile Device Management     |                                          |                            | End User Compute Services  |
+| Device Management and Configuration Tools |                             |                            |                            |
+| Remote Control Management Tools |                                       |                            |                            |
+
+#### Delivery Management
+
+| Group                        | Standard                                 | Product                    | Division                   |
+|------------------------------|------------------------------------------|----------------------------|----------------------------|
+| Portfolio and Project Management |                                      |                            | Delivery Management        |
+| Architecture Management      |                                          |                            | Architecture               |
+| Roadmap Development and Management |                                    |                            | Strategy & Engagement      |
+| Performance Metrics          |                                          |                            | Delivery Management        |
+| Service Catalogue            |                                          |                            | Service Operations         |
+| Resource Capacity Management |                                          |                            | Capability                 |
+| Prioritisation               |                                          |                            | Strategy & Engagement      |
+
+#### Application Development
+
+| Group                        | Standard                                 | Product                    | Division                   |
+|------------------------------|------------------------------------------|----------------------------|----------------------------|
+| **Development Tools**        |                                          | *MS Visual Studio          | Infrastructure & Platforms |
+|                              |                                          | *VS Code                   |                            |
+|                              |                                          | *Azure DevOps              |                            |
+| **Data Access Tools**        |                                          |                            |                            |
+| **Scripting Tools**          |                                          |                            |                            |
+| Modelling and Design Tools   |                                          |                            | Architecture               |
+| Requirements Management Tools |                                         |                            | Business Analysis Community |
+| **Programming Languages**    |                                          | *C# .NET                   | Infrastructure & Platforms |
+| Testing Tools                |                                          |                            |                            |
+| Source Code Management Tools |                                          | *Github                    |                            |
+| Lifecycle and Configuration Management Tools |                          |                            |                            |
+
+
 
 ### Devices and peripherals
 
-| Group                               | Standard                                         | Division                            |
-| ----------------------------------- | ------------------------------------------------ | ----------------------------------- |
-| End User Devices                    | Desktop Devices                                  | End User Compute Services           |
-|                                     | Laptop Devices                                   |                                     |
-|                                     | BYOD                                             |                                     |
-|                                     | Mobile Devices                                   |                                     |
-|                                     | Tablet Devices                                   |                                     |
-|                                     | End User Device OS                               |                                     |
-|                                     |                                                  |                                     |
-| Peripherals                         | Printers                                         | End User Compute Services           |
-|                                     | Scanners                                         |                                     |
-|                                     | Other Devices                                    |                                     |
-|                                     |                                                  |                                     |
-| IOT Devices                         | Edge Devices                                     | End User Compute Services           |
-|                                     |                                                  |                                     |
+#### End User Devices
+
+| Group                        | Standard                                 | Product                    | Division                   |
+| -----------------------------| -----------------------------------------| ---------------------------|----------------------------|
+| Desktop Devices              |                                          |                            | End User Compute Services  |
+| Laptop Devices               |                                          |                            |                            |
+| BYOD                         |                                          |                            |                            |
+| Mobile Devices               |                                          |                            |                            |
+| Tablet Devices               |                                          |                            |                            |
+| End User Device OS           |                                          |                            |                            |
+
+#### Peripherals
+
+| Group                        | Standard                                 | Product                    | Division                   |
+|------------------------------|------------------------------------------|----------------------------|----------------------------|
+| Printers                     |                                          |                            |End User Compute Srvices    |
+| Scanners                     |                                          |                            |                            |
+| Other Devices                |                                          |                            |                            |
+
+#### IOT Devices
+| Group                        | Standard                                 | Product                    | Division                   |
+|------------------------------|------------------------------------------|----------------------------|----------------------------|
+| Edge Devices                 |                                          |                            |End User Compute Services   |
+
 
 ### Application components
 
-| Group                               | Standard                                         | Division                            |
-| ----------------------------------- | ------------------------------------------------ | ----------------------------------- |
-| Business Applications               | Finance and Accounting Applications              | Finance Systems                     |
-|                                     | Human Resource Management Applications           | Human Resources                     |
-|                                     | Sales, Purchasing and Commercial Applications    | Customer Experience                 |
-|                                     | **Customer Service Applications**                | End User Compute Services           |
-|                                     | Case Management Applications                     | Infrastructure and Platforms        |
-|                                     | Business Operations Management Applications      | Business Operations                 |
-|                                     |                                                  |                                     |
-| Productivity Tools                  | **Collaboration Applications**                   | End User Compute Services           |
-|                                     | **Productivity and Office Applications**         |                                     |
-|                                     | Email and Calendar Applications                  |                                     |
-|                                     | Common Desktop Tools                             |                                     |
-|                                     | Instant Messaging and Presence Applications      |                                     |
-|                                     | Document Management and Workflow Applications    | Knowledge & Information Management  |
-|                                     | Browser and Web Desktop Applications             | End User Compute Services           |
-|                                     | Content Management Applications                  |                                     |
-|                                     | Enterprise Search Applications                   | Knowledge & Information Management  |
-|                                     | **Accessibility Applications**                   | Accessibility                       |
-|                                     | Video and Telephony Conferencing Applications    | End User Compute Services           |
-|                                     | Digital Signature Tools                          | Cyber Security / Service Operations |
-|                                     |                                                  |                                     |
-| Middleware                          | **API Management**                               | Infrastructure and Platforms        |
-|                                     | **Container Management**                         |                                     |
-|                                     | Enterprise Service Bus                           |                                     |
-|                                     | Message/Event Stream Processing                  |                                     |
-|                                     | Middleware connectors                            |                                     |
-|                                     | IOT Platforms                                    |                                     |
-|                                     |                                                  |                                     |
+#### Business Applications
+
+| Group                        | Standard                                 | Product                    |Division                    |
+|------------------------------|------------------------------------------|----------------------------|----------------------------|
+| Finance and Accounting Applications |                                   |                            |                            |
+| Human Resource Management Applications |                                |                            | Human resources            |
+| Sales, Purchasing and Commercial Applications |                         | *Jaeggar                   | Customer Experience        |
+| Marketing Applications       |                                          | *GOV.UK Notify             |                            |
+|                              |                                          | *MailChimp                 |                            |
+|                              |                                          | *SendGrid                  |                            |
+|                              |                                          | *SurveyMonkey              |                            |
+| **Customer Service Applications** |                                     | *MS Dynamics 365           | End User Compute Services  |
+|                              |                                          | *Zendesk (Customer Service Desk) |                      |
+| Case Management Applications |                                          |                            | Infrastructure & Platforms |
+| Business Operations Management Applications |                           | *MS Power Automate         | Business Operations        |
+|                              |                                          | *MS Azure Data Factory     |                            |
+|                              |                                          | *MS Forms (Data Capture)   |                            |
+
+#### Productivity Tools
+
+| Group                        | Standard                                 | Product                    | Division                   |
+|------------------------------|------------------------------------------|----------------------------|----------------------------|
+| **Collaboration Applications** |                                        | *MS Teams                  | End User Compute Services  |
+|                              |                                          | *Slack                     |                            |
+|                              |                                          | *LucidSpark                |                            |
+| **Productibity and Office Applications** |                              | *MS Office 365             |                            |
+| Email and Calendar Applications |                                       |                            |                            |
+| Common Desktop Tools         |                                          |                            |                            |
+| Instant Messaging and Presence Applications |                           |                            |                            |
+| Document Management and Workflow Applications  |                        | *MS SharePoint             | Knowledge & Information Management |
+|                              |                                          | *MS Power Automate         |                            |
+| Browser and Web Desktop Applications |                                  |                            | End User Compute Services  |
+| Content Management Applications |                                       | *Contentful                |                            |
+|                              |                                          | *GOV.UK Publisher          |                            |
+| Enterprise Search Applications |                                        |                            | Knowledge & Information Management |
+| **Accessibility Applicatons** |                                         |                            | Accessibility              |
+| Video and Telephony Conferencing Applications |                         |                            | End User Compute Services  |
+| Digital Signature Tools      |                                          |                            | Cyber Security / Service Operations |
+
+#### Middleware
+
+| Group                        | Standard                                 | Product                    | Division                   |
+|------------------------------|------------------------------------------|----------------------------|----------------------------|
+| **API Management**           |                                          |                            | Infrastructure & Platforms |
+| **Container Management**     |                                          |                            |                            |
+| Enterprise Service Bus       |                                          |                            |                            |
+| Message/Event Stream Processing |                                       |                            |                            |
+| Middleware connectors        |                                          |                            |                            |
+| IOT Platforms                |                                          |                            |                            |
 
 ### Data components
 
-| Group                               | Standard                                         | Division                            |
-| ----------------------------------- | ------------------------------------------------ | ----------------------------------- |
-| Analytics and Reporting             | Data Warehouse Systems                           | Data Architecture                   |
-|                                     | Dashboard Reporting                              |                                     |
-|                                     | Operational/Transactional Reporting              |                                     |
-|                                     | Analytical Reporting                             |                                     |
-|                                     | Advanced Analytics Platforms                     |                                     |
-|                                     | IOT Stream Analytics                             |                                     |
-|                                     |                                                  |                                     |
-| Data Platforms                      | **Relational Database Management Systems**       |                                     |
-|                                     | Unstructured Data Management Systems             |                                     |
-|                                     | Analytical Data Management Systems               |                                     |
-|                                     | Data Integration and Orchestration Systems       | Data Engineering                    |
-|                                     | Data Transfer and Transformation Systems         |                                     |
-|                                     | Data Connectors                                  |                                     |
-|                                     | Data Governance and Quality Systems              | Data Architecture                   |
-|                                     | **Master Data Management**                       |                                     |
-|                                     |                                                  |                                     |
+#### Analytics and Reporting
+
+| Group                        | Standard                                 | Product                    | Division                   |
+|----------------------------- |------------------------------------------|----------------------------|----------------------------|
+| Data Warehouse Systems       |                                          |                            | Data Architecture          |
+| Dashboard Reporting          |                                          |                            |                            |
+| Operational/Transactional Reporting |                                   |                            |                            |
+| Analytical Reporting         |                                          |                            |                            |
+| Advanced Analytics Platforms |                                          |                            |                            |
+| IOT Stream Analytics         |                                          |                            |                            |
+
+#### Data Platforms
+
+| Group                        | Standard                                 | Product                    | Division                   |
+|------------------------------|------------------------------------------|----------------------------|----------------------------|
+| **Relational Database Management Systems** |                            | *MS Azure SQL              |                            |
+|                              |                                          | *PostgreSQL                |                            |
+| Unstructured Data Management Systems |                                  |                            |                            |
+| Analytical Data Management Systems |                                    |                            |                            |
+| Data Integration and Orchestration Systems |                            |                            | Data Engineering           | 
+| Data Transfer and Transformation Systems |                              |                            |                            |
+| Data Connectors              |                                          |                            |                            |
+| Data Governance and Quality Systems |                                   |                            | Data Architecture          |
+| **Master Data Management**   |                                          |                            |                            |
 
 ### Infrastructure components
 
-| Group                               | Standard                                         | Division                            |
-| ----------------------------------- | ------------------------------------------------ | ----------------------------------- |
-| Server Platform                     | Server Hardware                                  | Infrastructure and Platforms        |
-|                                     | Server OS                                        |                                     |
-|                                     | Server Virtualisation Platform                   |                                     |
-|                                     | File and Print Services                          |                                     |
-|                                     | High Availability Platform Services              |                                     |
-|                                     | Application Virtualisation Platform              |                                     |
-|                                     |                                                  |                                     |
-| Storage and Backup                  | Storage System                                   |                                     |
-|                                     | Data Management and Replication                  |                                     |
-|                                     | Backup and Recovery                              |                                     |
-|                                     | Network Attached Storage                         |                                     |
-|                                     |                                                  |                                     |
-| Network and Telecoms Management     | Network Event and Fault Management               | Networks                            |
-|                                     | Network Configuration Management                 |                                     |
-|                                     | Voice/Video Management Tools                     | End User Compute Services           |
-|                                     | Network Performance and Capacity Management      | Networks                            |
-|                                     | Wireless LAN Management                          |                                     |
-|                                     | Conferencing Management Tools                    | End User Compute Services           |
-|                                     |                                                  |                                     |
-| Network and Telecoms Infrastructure | LAN Services                                     | Networks                            |
-|                                     | WAN Services                                     |                                     |
-|                                     | Voice Services                                   |                                     |
-|                                     | Video Services                                   |                                     |
-|                                     | Wireless Services                                |                                     |
-|                                     | Conferencing Services                            |                                     |
-|                                     |                                                  |                                     |
-| Data Centre and Facilities          | Racking                                          | Infrastructure and Platforms        |
-|                                     | Facilities Management                            | Estates                             |
-|                                     | Fire Protection                                  |                                     |
-|                                     | Physical Security                                |                                     |
-|                                     | Cabling Management                               |                                     |
-|                                     | Environment Management                           | Infrastructure and Platforms        |
+#### Server Platform
+
+
+| Group                        | Standard                                 | Product                    | Division                   |
+|------------------------------|------------------------------------------|----------------------------|----------------------------|
+| Server Hardware              |                                          |                            | Infrastructure & Platforms |
+| Server OS                    |                                          |                            |                            |
+| Server Virtualisation Platform |                                        |                            |                            |
+| File and Print Services      |                                          |                            |                            |
+| High Availability Platform Services |                                   |                            |                            |
+| Application Virtualisation Platform |                                   |                            |                            |
+
+#### Storage and Backup
+
+| Group                        | Standard                                 | Product                    | Division                   |
+|------------------------------|------------------------------------------|----------------------------|----------------------------|
+| Storage System               |                                          |                            |                            |
+| Data Management and Replication |                                       |                            |                            |
+| Backup and Recovery          |                                          |                            |                            |
+| Network Attached Storage     |                                          |                            |                            |
+
+#### Network and Telecoms Management
+
+| Group                        | Standard                                 | Product                    | Division                   |
+|------------------------------|------------------------------------------|----------------------------|----------------------------|
+| Network Event and Fault Management |                                    |                            | Networks                   |
+| Network Configuration Management |                                      |                            |                            |
+| Voice/Video Management Tools |                                          |                            | End User Compute Services  |
+| Network Performance and Capacity Management |                           |                            | Networks                   |
+| Wireless LAN Management      |                                          |                            |                            |
+| Conferencing Management Tools |                                         |                            | End User Compute Services  |
+
+#### Network and Telecoms Infrastructure
+
+| Group                        | Standard                                 | Product                    | Division                   |
+|------------------------------|------------------------------------------|----------------------------|----------------------------|
+| LAN Services                 |                                          |                            | Networks                   |
+| WAN Services                 |                                          |                            |                            |
+| Voice Services               |                                          |                            |                            |
+| Video Services               |                                          |                            |                            |
+| Wireless Services            |                                          |                            |                            |
+| Conferencing Services        |                                          |                            |                            |
+
+#### Data Centre and Facilities
+
+| Group                        | Standard                                 | Product                    | Division                   |
+|------------------------------|------------------------------------------|----------------------------|----------------------------|
+| Racking                      |                                          |                            | Infrastructure & Platforms |
+| Facilities Management        |                                          |                            | Estates                    |
+| Fire Protection              |                                          |                            |                            |
+| Physical Security            |                                          |                            |                            |
+| Cabling Management           |                                          |                            |                            |
+| Environment Management       |                                          |                            | Infrastructure & Platforms |
 
 ## Published standards
 
