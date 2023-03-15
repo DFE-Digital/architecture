@@ -19,6 +19,10 @@ The architecture team are co-ordinating the creation of technical standards in D
 
 We're working with these owners and teams to prioritise creation of the standards that will provide the most value to both delivery teams and DfE. The ones actively being working on are in **bold**. As standards are agreed and published, they will be updated on this page.
 
+## Accepted products
+
+Whilst technical standards are being developed, some accepted products in DfE have been highlighted against some of the higher priority groups. These are products that are currently in use in the department and make most sense to use / re-use. If you choose one of these products, you are *most likely* to be aligned with the standard being developed. More will be added as more data is gathered and analysed
+
 ### Management components
 
 #### Strategic Management
@@ -39,7 +43,7 @@ We're working with these owners and teams to prioritise creation of the standard
 | Data/Communication Security and Confidentiality|                        |                            |                            |
 | Platform and System Security |                                          |                            |                            |
 | Vulnerability and Threat Management |                                   |                            |                            |
-| Identity and Access Management | Business to Citizen/Consumer (B2C)     | *GOV.UK One Login          |                            |
+| **Identity and Access Management** | Business to Citizen/Consumer (B2C) | *GOV.UK One Login          |                            |
 |                              | Business to Business (B2B)               | *DfE Sign in               |                            |
 |                              | Business to Enterprise/Employee (B2E)    | *MS Azure Active Directory |                            |
 | Security Incident Management |                                          |                            |                            |
@@ -51,7 +55,7 @@ We're working with these owners and teams to prioritise creation of the standard
 |------------------------------|------------------------------------------|----------------------------|----------------------------|
 | Service Desk and CMDB Tools  |                                          |                            | End User Compute Services  |
 | Deployment, Audit and Inventory |                                       |                            | Service Operations         |
-| Monitoring and Event Management |                                       |                            |                            |
+| **Monitoring and Event Management** |                                   |                            |                            |
 | Performance and Capacity Management |                                   |                            |                            |
 | Mobile Device Management     |                                          |                            | End User Compute Services  |
 | Device Management and Configuration Tools |                             |                            |                            |
@@ -73,14 +77,14 @@ We're working with these owners and teams to prioritise creation of the standard
 
 | Group                        | Standard                                 | Product                    | Division                   |
 |------------------------------|------------------------------------------|----------------------------|----------------------------|
-| Development Tools            |                                          | *MS Visual Studio          | Infrastructure & Platforms |
+| **Development Tools**        |                                          | *MS Visual Studio          | Infrastructure & Platforms |
 |                              |                                          | *VS Code                   |                            |
 |                              |                                          | *Azure DevOps              |                            |
-| Data Access Tools            |                                          |                            |                            |
-| Scripting Tools              |                                          |                            |                            |
+| **Data Access Tools**        |                                          |                            |                            |
+| **Scripting Tools**          |                                          |                            |                            |
 | Modelling and Design Tools   |                                          |                            | Architecture               |
 | Requirements Management Tools |                                         |                            | Business Analysis Community |
-| Programming Languages        |                                          | *C# .NET                   | Infrastructure & Platforms |
+| **Programming Languages**    |                                          | *C# .NET                   | Infrastructure & Platforms |
 | Testing Tools                |                                          |                            |                            |
 | Source Code Management Tools |                                          | *Github                    |                            |
 | Lifecycle and Configuration Management Tools |                          |                            |                            |
@@ -123,7 +127,7 @@ We're working with these owners and teams to prioritise creation of the standard
 | Finance and Accounting Applications |                                   |                            |                            |
 | Human Resource Management Applications |                                |                            | Human resources            |
 | Sales, Purchasing and Commercial Applications |                         | *Jaeggar                   | Customer Experience        |
-| Customer Service Applications |                                         | *MS Dynamics 365           | End User Compute Services  |
+| **Customer Service Applications** |                                     | *MS Dynamics 365           | End User Compute Services  |
 |                              |                                          | *Zendesk (Customer Service Desk) |                      |
 | Case Management Applications |                                          |                            | Infrastructure & Platforms |
 | Business Operations Management Applications |                           | *MS Power Automate         | Business Operations        |
@@ -134,10 +138,10 @@ We're working with these owners and teams to prioritise creation of the standard
 
 | Group                        | Standard                                 | Product                    | Division                   |
 |------------------------------|------------------------------------------|----------------------------|----------------------------|
-| Collaboration Applications   |                                          | *MS Teams                  | End User Compute Services  |
+| **Collaboration Applications** |                                        | *MS Teams                  | End User Compute Services  |
 |                              |                                          | *Slack                     |                            |
 |                              |                                          | *LucidSpark                |                            |
-| Productibity and Office Applications |                                  | *MS Office 365             |                            |
+| **Productibity and Office Applications** |                              | *MS Office 365             |                            |
 | Email and Calendar Applications |                                       |                            |                            |
 | Common Desktop Tools         |                                          |                            |                            |
 | Instant Messaging and Presence Applications |                           |                            |                            |
@@ -147,7 +151,7 @@ We're working with these owners and teams to prioritise creation of the standard
 | Content Management Applications |                                       | *Contentful                |                            |
 |                              |                                          | *GOV.UK Publisher          |                            |
 | Enterprise Search Applications |                                        |                            | Knowledge & Information Management |
-| Accessibility Applicatons    |                                          |                            | Accessibility              |
+| **Accessibility Applicatons** |                                         |                            | Accessibility              |
 | Video and Telephony Conferencing Applications |                         |                            | End User Compute Services  |
 | Digital Signature Tools      |                                          |                            | Cyber Security / Service Operations |
 
@@ -155,8 +159,8 @@ We're working with these owners and teams to prioritise creation of the standard
 
 | Group                        | Standard                                 | Product                    | Division                   |
 |------------------------------|------------------------------------------|----------------------------|----------------------------|
-| API Management               |                                          |                            | Infrastructure & Platforms |
-| Container Management         |                                          |                            |                            |
+| **API Management**           |                                          |                            | Infrastructure & Platforms |
+| **Container Management**     |                                          |                            |                            |
 | Enterprise Service Bus       |                                          |                            |                            |
 | Message/Event Stream Processing |                                       |                            |                            |
 | Middleware connectors        |                                          |                            |                            |
@@ -179,14 +183,15 @@ We're working with these owners and teams to prioritise creation of the standard
 
 | Group                        | Standard                                 | Product                    | Division                   |
 |------------------------------|------------------------------------------|----------------------------|----------------------------|
-| Relational Database Management Systems |                                |                            |                            |
+| **Relational Database Management Systems** |                            | *MS Azure SQL              |                            |
+|                              |                                          | *PostgreSQL                |                            |
 | Unstructured Data Management Systems |                                  |                            |                            |
 | Analytical Data Management Systems |                                    |                            |                            |
 | Data Integration and Orchestration Systems |                            |                            | Data Engineering           | 
 | Data Transfer and Transformation Systems |                              |                            |                            |
 | Data Connectors              |                                          |                            |                            |
 | Data Governance and Quality Systems |                                   |                            | Data Architecture          |
-| Master Data Management       |                                          |                            |                            |
+| **Master Data Management**   |                                          |                            |                            |
 
 ### Infrastructure components
 
