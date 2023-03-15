@@ -127,6 +127,10 @@ Whilst technical standards are being developed, some accepted products in DfE ha
 | Finance and Accounting Applications |                                   |                            |                            |
 | Human Resource Management Applications |                                |                            | Human resources            |
 | Sales, Purchasing and Commercial Applications |                         | *Jaeggar                   | Customer Experience        |
+| Marketing Applications       |                                          | *GOV.UK Notify             |                            |
+|                              |                                          | *MailChimp                 |                            |
+|                              |                                          | *SendGrid                  |                            |
+|                              |                                          | *SurveyMonkey              |                            |
 | **Customer Service Applications** |                                     | *MS Dynamics 365           | End User Compute Services  |
 |                              |                                          | *Zendesk (Customer Service Desk) |                      |
 | Case Management Applications |                                          |                            | Infrastructure & Platforms |
