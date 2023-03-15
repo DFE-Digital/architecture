@@ -43,9 +43,9 @@ Whilst technical standards are being developed, some accepted products in DfE ha
 | Data/Communication Security and Confidentiality|                        |                            |                            |
 | Platform and System Security |                                          |                            |                            |
 | Vulnerability and Threat Management |                                   |                            |                            |
-| **Identity and Access Management** | Business to Citizen/Consumer (B2C) | *GOV.UK One Login          |                            |
-|                              | Business to Business (B2B)               | *DfE Sign in               |                            |
-|                              | Business to Enterprise/Employee (B2E)    | *MS Azure Active Directory |                            |
+| **Identity and Access Management** |                                    | B2C - GOV.UK One Login          |                            |
+|                              |                                          | B2B - DfE Sign in               |                            |
+|                              |                                          | B2E - MS Azure Active Directory |                            |
 | Security Incident Management |                                          |                            |                            |
 | Monitoring, Traceability, Auditing and Forensics|                       |                            |                            |
 
