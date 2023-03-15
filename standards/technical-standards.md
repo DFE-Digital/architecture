@@ -253,6 +253,43 @@ Whilst technical standards are being developed, some accepted products in DfE ha
 | Cabling Management           |                                          |                            |                            |
 | Environment Management       |                                          |                            | Infrastructure & Platforms |
 
+
+
+- [Security Management](#security-management)
+- [Network and Telecoms Infrastructure](#network-and-telecoms-infrastructure)
+- [Data Centre and Facilities](#data-centre-and-facilities)
+
+| Group | Standard                       | Product                       | Division                   |
+|-|--------------------------------|-------------------------------|----------------------------|
+| <a name="security-management">Security Management</a> | Perimeter and Network Security |                               | Networks                   |
+| | Device Security                |                               | End User Compute Services  |
+| | Virus and Malware Prevention and Management|                   | Cyber Security             |
+| | Data/Communication Security and Confidentiality|               |                            |
+| | Platform and System Security |                                 |                            |
+| | Vulnerability and Threat Management |                          |                            |
+| | **Identity and Access Management** | B2C - GOV.UK One Login    |                            |
+| |                              | B2B - DfE Sign in               |                            |
+| |                              | B2E - MS Azure Active Directory |                            |
+| | Security Incident Management |                                 |                            |
+| | Monitoring, Traceability, Auditing and Forensics|              |                            |
+| | | | |
+| <a name="network-and-telecoms-infrastructure">Network and Telecoms Infrastructure</a> | LAN Services                 |                            | Networks                   |
+| | WAN Services                 |                            |                            |
+| | Voice Services               |                            |                            |
+| | Video Services               |                            |                            |
+| | Wireless Services            |                            |                            |
+| | Conferencing Services        |                            |                            |
+| | | | |
+| <a name="data-centre-and-facilities">Data Centre and Facilities</a> | Racking                         |                            | Infrastructure & Platforms |
+| | Facilities Management           |                            | Estates                    |
+| | Fire Protection                 |                            |                            |
+| | Physical Security               |                            |                            |
+| | Cabling Management              |                            |                            |
+| | Environment Management          |                            | Infrastructure & Platforms |
+
+
+
+
 ## Published standards
 
 Whilst technical standards are being developed, architects may also find the following information useful in their work:
