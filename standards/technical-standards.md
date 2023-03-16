@@ -17,7 +17,7 @@ Some technical standards [have already been published](#published-standards), bu
 
 The architecture team are co-ordinating the creation of technical standards in DfE. The following list shows proposed technical standards - derived from the [Technology Reference Model](https://educationgovuk.sharepoint.com/:f:/r/sites/gp/WorkplaceDocuments/Reference%20architecture/Technology%20Reference%20Model) and grouped by component - and who owns them.
 
-We're working with these owners and teams to prioritise creation of the standards that will provide the most value to both delivery teams and DfE. The ones actively being working on are in **bold**. As standards are agreed and published, they will be updated on this page.
+We're working with these owners and teams to prioritise creation of the standards that will provide the most value to both delivery teams and DfE. The ones actively being worked on are in **bold**. As standards are agreed and published, they will be updated on this page.
 
 **Accepted products**
 
@@ -95,7 +95,7 @@ Whilst technical standards are being developed, some accepted products in DfE ha
 |------------------------------|------------------------------------------|----------------------------|----------------------------|
 | Business Applications        | Finance and Accounting Applications      |                            |                            |
 |                              | Human Resource Management Applications   |                            | Human resources            |
-|                              | Sales, Purchasing and Commercial Applications | *Jaeggar              | Customer Experience        |
+|                              | Sales, Purchasing and Commercial Applications | Jaeggar               | Customer Experience        |
 |                              | Marketing Applications                   | GOV.UK Notify              |                            |
 |                              |                                          | MailChimp                  |                            |
 |                              |                                          | SendGrid                   |                            |
@@ -110,7 +110,7 @@ Whilst technical standards are being developed, some accepted products in DfE ha
 | Productivity Tools           | **Collaboration Applications**           | MS Teams                   | End User Compute Services  |
 |                              |                                          | Slack                      |                            |
 |                              |                                          | LucidSpark                 |                            |
-|                              | **Productibity and Office Applications** | MS Office 365              |                            |
+|                              | **Productivity and Office Applications** | MS Office 365              |                            |
 |                              | Email and Calendar Applications          |                            |                            |
 |                              | Common Desktop Tools                     |                            |                            |
 |                              | Instant Messaging and Presence Applications |                         |                            |
