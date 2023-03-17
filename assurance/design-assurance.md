@@ -7,28 +7,77 @@ expires: 2022-07-01
 
 > Architecture in DfE has moved to a more profession-led model. This content is under review. Contact the [architecture profession](mailto:architecture.profession@education.gov.uk) for more information.
 
-## In-line assurance
+## Technical design assurance
 
-We have different ways of delivering services in DfE. How we assure that technical design meets the necessary [standards](../../standards/architecture-standards) needs to be flexible.
-We need to ensure we're doing the right things (through governance) and doing things right (through assurance). And not slowing down delivery in the process.
+We have different ways of delivering services in DfE. But we always need to assure that the technical design of our services meets the necessary [standards](../../standards/architecture-standards).
+We want to make sure we're doing the right things (through governance) and doing things right (through assurance). And not slowing down delivery in the process.
 
-The Senior Responsible Owner (SRO) or Service Owner (usually a Deputy Director) is accountable for all delivery within their service, programme or division. They rely on the advice of technical experts within their multi-disciplinary teams and portfolios when taking ownership of key technical decisions and risks for their domain. These responsibilities are at the heart of an 'in-line' assurance model.
+We’re testing a self-certification, exception-based approach for technical design assurance. The core principle being that a team should be able to easily find and apply the DfE technical standards in their work. Assuming a technical design complies with the standards, the team should not experience any friction in delivery. 
+Where there is an exception – either there is no standard, it’s not possible to comply or the standard needs updating – there is a process for agreeing what to do. This might involve a few or several people, depending on the complexity of the decision to be made.
 
-Groups of people (such as the Digital and Technology Senior Leadership Team or Service Owner community) are collectively accountable for strategic technical decisions across the organisation, ensuring all cross-divisional or cross-functional impacts are considered. These groups are supported by technical specialists in professional communities.
+### Responsibilities and decision-making
 
-We encourage an 'in-line' assurance model for architecture and technical design. You can read more about the evolving in-line assurance model and where this has been adopted or is being tested.
+The Senior Responsible Owner (SRO) or Service Owner (usually a Deputy Director) is accountable for all delivery within their service, programme, portfolio or division. They rely on the advice of technical experts within their multi-disciplinary teams when taking ownership of key technical decisions and risks in their domain.
 
-## Design assurance in delivery teams
+The Digital, Data and Technology (DDaT) Senior Leadership Team are collectively accountable for strategic technical decisions across the organisation, ensuring all cross-divisional or cross-functional impacts are considered. This decision making is supported by technical specialists in professional communities.
 
-We expect architectures will emerge and evolve over time, as services themselves change based on emerging user needs and other drivers, such as policy changes.
+Everyone is expected to comply with DfE technical standards. Where this isn’t possible or not happening – an exception - a group of technical specialists may be convened to help guide the team. We call this a technical design forum. They would discuss and agree an appropriate course of action for the exception.
 
-This requires ongoing and continuous review of architecture and technical design, to ensure services are being built sustainably and consistently, both across the service area and also the wider organisation.
+In the unlikely event a consensus can’t be reached, escalation to the DDaT Senior Leadership Team or DDaT Design and Delivery Board may be required.
 
-Architects work closely with their delivery teams to facilitate this, alongside product managers, developers, service designers and many other people. They also work alongside their lead or principal architect, who will have a view across multiple services or domains, to ensure breadth and consistency in their designs.
 
-Architects have access to a plethora of design skills and experience from across professional communities in DfE. They can use [architecture community meet-ups](../../capability/architecture-capability-framework/#community) to ask for help with design problems, or ask the [architecture profession](mailto:architecture.profession@education.gov.uk) to help facilitate a [peer review](#peer-review) of their design. Permanent (civil servant) architects have professional objectives that include supporting others in the community with peer review and preparation for service assessment.
+## How design assurance works in practice
 
-## Things to help you
+![Image of Exception-based-governance](../images/Exception-based-governance.png)
+
+### Self-certification
+
+During each design sprint, the person or team responsible for the technical design will search the architecture repository for artefacts that are applicable to their work - these might be standards, patterns or guidance. Where these artefacts exist, the design would be expected to comply and follow the guidance contained in those artefacts. If compliance with artefacts is achieved within the technical design, the delivery team do not need to seek any further approvals. This is self-certification.
+
+The team will also need to determine whether the technical design will close any existing exceptions. They can do this by searching the architecture repository. If exceptions do need to be closed, the architecture team should be notified.
+
+If not, the delivery team can proceed with registering the design in the [architecture repository](https://educationgovuk.sharepoint.com/sites/gp/artefacts/Forms/AllItems.aspx)
+
+Where artefacts do not exist, then the team cannot align with them and are free to design their solution to meet their user needs. If artefacts cover part, but not all, of a design, only the parts within scope of those artefacts could reasonably be expected to align with them. In this instance, the team should consider whether there should be artefacts to cover the gap and discuss with the architecture team to highlight the gap.
+
+Should the need for a new standard, pattern or other artefact emerge during technical design work, this should also be raised with the architecture team for discussion.
+
+### Managing an exception
+
+Where compliance with one or more artefacts cannot be achieved, then an exception should be discussed with the architecture team before proceeding with the delivery of the design.
+This can result in a number of outcomes, depending on the nature of the exemption:
+
+**Minor exceptions**
+
+Where there is a short-term reason not to comply with a standard, or a pre-existing design precludes compliance, this should be discussed with the architecture team.
+
+Considering the nature if the non-compliance and options for how and when the design could be made to comply would likely result in a temporary exemption. This will include conditions for the exemption - typically,the agreed timescales in which compliance may be achieved, how it would be monitored, or further exemption sought. For example, a pre-existing platform choice may be granted exception for a solution or service until it is next due for contract renewal.
+
+**Artefact challenge**
+
+Where the artefact is considered overly limiting on the design, so intentional non-compliance is likely, the design and reasoning should be discussed with the architecture team. They will consider any concerns and investigate whether the artefact is still appropriate, establishing if it needs updating or replacing. 
+
+A temporary exemption may be applied whilst the artefact is reviewed, but this will always carry a constraint that the team will need to align with the updated artefact within a prescribed period of time (regardless of whether the artefact is changed or not as part of the review).
+
+**Major exception**
+
+Where non-compliance is more significant or complex, the architecture team will arrange a review, at pace, pulling in a range of SMEs and perspectives to ascertain whether an exception is possible and the conditions that would be applied.
+
+**Exemption review**
+
+In all exemption cases, there will be a timeframe agreed to reach compliance, in which the delivery team will need to review the exemption and update their design. If the design then complies, then it will need to be registered in the architecture repository, once agreed with the architecture team. 
+
+**Where a decision can't be made**
+
+In all cases where the delivery team wish to dispute the terms of an exception or the appropriateness of any specific artefact, and consensus cannot be reached by a technical design forum, then an escalation process is available. 
+This will be facilitated by the architecture team, who will escalate to a group of nominated Deputy Directors from the DDaT Senior Leadership Team. 
+If a consensus cannot be achieved at this level, the dispute will be escalated to the Design and Delivery Board for review and decision
+
+### Things to help you
+
+Architects and teams have access to a plethora of design skills and experience from across professional communities in DfE. 
+
+You may find it helpful to ask for help with design problems or run a technical show and tell at an architecture community meet-up. You can also ask the architecture team to help facilitate a peer review of your design
 
 <a name="peer-review"></a>
 ### Peer review
@@ -51,18 +100,12 @@ Contact the [architecture profession](mailto:architecture.profession@education.g
 
 ### Design pack
 
-> These templates and examples require some re-work, to reflect our profession-led model for architecture, but they can still be used as a guide
+> These templates and examples are no longer in use; however, they do provide some guidance and may help you in developing your design
 
 - [Design pack, with example diagrams](../documents/design-pack.docx)
 - [Design pack, text only](../documents/design-pack-just-text.docx)
 
-These templates can be used as a guide when creating a design. Whether various elements are applicable will vary dependent on your particular circumstances, so treat these templates as a set of helpful things to consider as you draft your design. Of course, you're very welcome to use the document format as it stands, but many architects will want to replicate elements in their own service wikis and repositories.
-
-Broadly, a design pack provides an overview of the scope, deliverables and complexities of implementing change in a service landscape. It should provide enough information for all interested or required parties to understand the architecture and design changes needed and any new or improved functionality that the change will deliver. It should be useful in any delivery context, be that a digital, data or technology service.
-
-Above all, a design pack should move the design process forward, enabling effective review and assurance of impending change. It should be a living, breathing artefact that is continually updated by the project or service team, in collaboration with a lead architect.
-
-It is important to remember that this document should be used as a guide and adapted as necessary.
+These templates can be used as a guide when creating a design. Whether various elements are applicable will vary dependent on your particular circumstances, so treat these templates as a set of helpful things to consider as you draft your design. 
 
 ## Further guidance
 
