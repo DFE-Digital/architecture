@@ -4,13 +4,13 @@ expires: 2022-07-01
 ---
 
 
-# Technical design assurance
+# Technical governance
 
-We have different ways of delivering services in DfE. But we always need to assure that the technical design of our services meets the necessary [standards](../../standards/architecture-standards).
-We want to make sure we're doing the right things (through governance) and doing things right (through assurance). And not slowing down delivery in the process.
+We have different ways of delivering services in DfE. But we always need to ensure that the technical design of our services meets the necessary [standards](../../standards/architecture-standards). We want to make sure we're doing the right things (through governance) and doing things right (through assurance). And not slowing down delivery in the process.
 
-We’re testing a self-certification, exception-based approach for technical design assurance. The core principle being that a team should be able to easily find and apply the DfE technical standards in their work. Assuming a technical design complies with the standards, the team should not experience any friction in delivery. 
-Where there is an exception – either there is no standard, it’s not possible to comply or the standard needs updating – there is a process for agreeing what to do. This might involve a few or several people, depending on the complexity of the decision to be made.
+We’re testing a self-certification, exception-based approach for technical design governance. The core principle being that a team should be able to easily find and apply the DfE technical standards in their work. 
+
+Assuming a technical design complies with the standards, the team should not experience any friction in delivery. Where there is an exception - where there is no standard, it’s not possible to comply or the standard needs updating – there is a process for agreeing what to do. This might involve a few or several people, depending on the complexity of the decision to be made.
 
 ## Responsibilities and decision-making
 
@@ -25,7 +25,7 @@ In the unlikely event a consensus can’t be reached, escalation to the DDaT Sen
 
 ## How design assurance works in practice
 
-![Image of exception-based-governance](../images/exception-based-governance.png)
+![Image of exception-based governance flow](../../images/exception-based-governance.png)
 
 ### Self-certification
 
@@ -88,7 +88,7 @@ After the session, the profession will record any significant or cross-cutting a
 
 Contact the [architecture profession](mailto:architecture.profession@education.gov.uk) to discuss your peer review needs.
 
-### Technical Show and Tells
+### Technical show and tells
 
 It may be more appropriate for you to bring architects and team members together for a technical Show and Tell. These are a great way to provide support, challenge and design assurance in a less formal setting.
 
@@ -96,12 +96,12 @@ Contact the [architecture profession](mailto:architecture.profession@education.g
 
 ### Templates
 
-> These templates and examples are no longer in use; however, they do provide some guidance and may help you in developing your design
+> There are currently no standards for documenting technical design. The following templates and examples are no longer in use, however, they do provide some guidance and may help you in developing your design
 
 - [Design pack, with example diagrams](../documents/design-pack.docx)
 - [Design pack, text only](../documents/design-pack-just-text.docx)
 
-These templates can be used as a guide when creating a design. Whether various elements are applicable will vary dependent on your particular circumstances, so treat these templates as a set of helpful things to consider as you draft your design. 
+These templates can be used as a guide when creating a design. Whether various elements are applicable will vary dependent on your particular circumstances, so treat these templates as a set of helpful things to consider as you draft your design.
 
 ## Further guidance
 
