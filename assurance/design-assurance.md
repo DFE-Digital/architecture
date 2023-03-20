@@ -94,7 +94,7 @@ It may be more appropriate for you to bring architects and team members together
 
 Contact the [architecture profession](mailto:architecture.profession@education.gov.uk) to get a slot at a community meet-up.
 
-### Design pack
+### Templates
 
 > These templates and examples are no longer in use; however, they do provide some guidance and may help you in developing your design
 
