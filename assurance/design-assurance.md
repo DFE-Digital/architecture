@@ -3,11 +3,8 @@ category: Governance
 expires: 2022-07-01
 ---
 
-# Design assurance
 
-> Architecture in DfE has moved to a more profession-led model. This content is under review. Contact the [architecture profession](mailto:architecture.profession@education.gov.uk) for more information.
-
-## Technical design assurance
+# Technical design assurance
 
 We have different ways of delivering services in DfE. But we always need to assure that the technical design of our services meets the necessary [standards](../../standards/architecture-standards).
 We want to make sure we're doing the right things (through governance) and doing things right (through assurance). And not slowing down delivery in the process.
@@ -15,7 +12,7 @@ We want to make sure we're doing the right things (through governance) and doing
 We’re testing a self-certification, exception-based approach for technical design assurance. The core principle being that a team should be able to easily find and apply the DfE technical standards in their work. Assuming a technical design complies with the standards, the team should not experience any friction in delivery. 
 Where there is an exception – either there is no standard, it’s not possible to comply or the standard needs updating – there is a process for agreeing what to do. This might involve a few or several people, depending on the complexity of the decision to be made.
 
-### Responsibilities and decision-making
+## Responsibilities and decision-making
 
 The Senior Responsible Owner (SRO) or Service Owner (usually a Deputy Director) is accountable for all delivery within their service, programme, portfolio or division. They rely on the advice of technical experts within their multi-disciplinary teams when taking ownership of key technical decisions and risks in their domain.
 
@@ -28,7 +25,7 @@ In the unlikely event a consensus can’t be reached, escalation to the DDaT Sen
 
 ## How design assurance works in practice
 
-![Image of Exception-based-governance](../images/Exception-based-governance.png)
+![Image of exception-based-governance](../images/exception-based-governance.png)
 
 ### Self-certification
 
@@ -73,13 +70,12 @@ In all cases where the delivery team wish to dispute the terms of an exception o
 This will be facilitated by the architecture team, who will escalate to a group of nominated Deputy Directors from the DDaT Senior Leadership Team. 
 If a consensus cannot be achieved at this level, the dispute will be escalated to the Design and Delivery Board for review and decision
 
-### Things to help you
+## Things to help you
 
 Architects and teams have access to a plethora of design skills and experience from across professional communities in DfE. 
 
 You may find it helpful to ask for help with design problems or run a technical show and tell at an architecture community meet-up. You can also ask the architecture team to help facilitate a peer review of your design
 
-<a name="peer-review"></a>
 ### Peer review
 
 The architecture profession can help you find the right people to review your design and provide helpful, constructive advice, whatever your stage of delivery. This could be early on when you're thinking about the problem space and options, or later on, when you have physical design.
