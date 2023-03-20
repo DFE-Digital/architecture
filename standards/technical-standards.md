@@ -29,7 +29,6 @@ Whilst technical standards are being developed, some accepted products in DfE ha
 |------------------------------|------------------------------------------|----------------------------|-----------------------------|
 | Strategic Management         | Strategy Development                     |                            | DDaT Senior Leadership Team |
 |                              | Goals and Outcomes                       |                            |                             |
-| | | | |
 | Security Management          | Perimeter and Network Security           |                            | Networks                   |
 |                              | Device Security                          |                            | End User Compute Services  |
 |                              | Virus and Malware Prevention and Management |                         | Cyber Security             |
@@ -41,7 +40,6 @@ Whilst technical standards are being developed, some accepted products in DfE ha
 |                              |                                          | B2E - MS Azure Active Directory |                       |
 |                              | Security Incident Management             |                            |                            |
 |                              | Monitoring, Traceability, Auditing and Forensics|                     |                            |
-| | | | |
 | System Management            | Service Desk and CMDB Tools              |                            | End User Compute Services  |
 |                              | Deployment, Audit and Inventory          |                            | Service Operations         |
 |                              | **Monitoring and Event Management**      |                            |                            |
@@ -49,7 +47,6 @@ Whilst technical standards are being developed, some accepted products in DfE ha
 |                              | Mobile Device Management                 |                            | End User Compute Services  |
 |                              | Device Management and Configuration Tools |                           |                            |
 |                              | Remote Control Management Tools          |                            |                            |
-| | | | |
 | Delivery Management          | Portfolio and Project Management         |                            | Delivery Management        |
 |                              | Architecture Management                  |                            | Architecture               |
 |                              | Roadmap Development and Management       |                            | Strategy & Engagement      |
@@ -57,7 +54,6 @@ Whilst technical standards are being developed, some accepted products in DfE ha
 |                              | Service Catalogue                        |                            | Service Operations         |
 |                              | Resource Capacity Management             |                            | Capability                 |
 |                              | Prioritisation                           |                            | Strategy & Engagement      |
-| | | | |
 | Application Development      | **Development Tools**                    | MS Visual Studio           | Infrastructure & Platforms |
 |                              |                                          | VS Code                    |                            |
 |                              |                                          | Azure DevOps               |                            |
@@ -81,11 +77,9 @@ Whilst technical standards are being developed, some accepted products in DfE ha
 |                              | Mobile Devices                           |                            |                            |
 |                              | Tablet Devices                           |                            |                            |
 |                              | End User Device OS                       |                            |                            |
-| | | | |
 | Peripherals                  | Printers                                 |                            |End User Compute Srvices    |
 |                              | Scanners                                 |                            |                            |
 |                              | Other Devices                            |                            |                            |
-| | | | |
 |  IOT Devices                 | Edge Devices                             |                            | End User Compute Services  |
 
 
@@ -106,7 +100,6 @@ Whilst technical standards are being developed, some accepted products in DfE ha
 |                              | Business Operations Management Applications | MS Power Automate       | Business Operations        |
 |                              |                                          | MS Azure Data Factory      |                            |
 |                              |                                          | MS Forms (Data Capture)    |                            |
-| | | | |
 | Productivity Tools           | **Collaboration Applications**           | MS Teams                   | End User Compute Services  |
 |                              |                                          | Slack                      |                            |
 |                              |                                          | LucidSpark                 |                            |
@@ -123,7 +116,6 @@ Whilst technical standards are being developed, some accepted products in DfE ha
 |                              | **Accessibility Applicatons**            |                            | Accessibility              |
 |                              | Video and Telephony Conferencing Applications |                       | End User Compute Services  |
 |                              |Digital Signature Tools                   |                            | Cyber Security / Service Operations |
-| | | | |
 | Middleware                   | **API Management**                       |                            | Infrastructure & Platforms |
 |                              | **Container Management**                 |                            |                            |
 |                              | Enterprise Service Bus                   |                            |                            |
@@ -141,7 +133,6 @@ Whilst technical standards are being developed, some accepted products in DfE ha
 |                              | Analytical Reporting                     |                            |                            |
 |                              | Advanced Analytics Platforms             |                            |                            |
 |                              | IOT Stream Analytics                     |                            |                            |
-| | | | |
 | Data Platforms               |**Relational Database Management Systems**| MS Azure SQL               |                            | 
 |                              |                                          | PostgreSQL                 |                            |
 |                              | Unstructured Data Management Systems     |                            |                            |
@@ -162,26 +153,22 @@ Whilst technical standards are being developed, some accepted products in DfE ha
 |                              | File and Print Services                  |                            |                            |
 |                              | High Availability Platform Services      |                            |                            |
 |                              | Application Virtualisation Platform      |                            |                            |
-| | | | |
 | Storage and Backup           | Storage System                           |                            |                            |
 |                              | Data Management and Replication          |                            |                            |
 |                              | Backup and Recovery                      |                            |                            |
 |                              | Network Attached Storage                 |                            |                            |
-| | | | |
 | Network and Telecoms Management | Network Event and Fault Management    |                            | Networks                   |
 |                              | Network Configuration Management         |                            |                            |
 |                              | Voice/Video Management Tools             |                            | End User Compute Services  |
 |                              | Network Performance and Capacity Management |                         | Networks                   |
 |                              | Wireless LAN Management                  |                            |                            |
 |                              | Conferencing Management Tools            |                            | End User Compute Services  |
-| | | | |
 | Network and Telecoms Infrastructure | LAN Services                      |                            | Networks                   |
 |                              | WAN Services                             |                            |                            |
 |                              | Voice Services                           |                            |                            |
 |                              | Video Services                           |                            |                            |
 |                              | Wireless Services                        |                            |                            |
 |                              | Conferencing Services                    |                            |                            |
-| | | | |
 | Data Centre and Facilities   | Racking                                  |                            | Infrastructure & Platforms |
 |                              | Facilities Management                    |                            | Estates                    |
 |                              | Fire Protection                          |                            |                            |
