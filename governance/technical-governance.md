@@ -29,15 +29,15 @@ In the unlikely event a consensus can’t be reached, escalation to the DDaT Sen
 
 ### Self-certification
 
-During each design sprint, the person or team responsible for the technical design will search the architecture repository for artefacts that are applicable to their work - these might be standards, patterns or guidance. Where these artefacts exist, the design would be expected to comply and follow the guidance contained in those artefacts. If compliance with artefacts is achieved within the technical design, the delivery team do not need to seek any further approvals. This is self-certification.
+During each design sprint, the person or team responsible for the technical design will search the [architecture repository](https://educationgovuk.sharepoint.com/sites/gp/artefacts/Forms/AllItems.aspx) for artefacts that are applicable to their work - these might be standards, patterns or guidance. Where these artefacts exist, the design would be expected to comply and follow the guidance contained in those artefacts. If compliance with artefacts is achieved within the technical design, the delivery team do not need to seek any further approvals. This is self-certification.
 
 The team will also need to determine whether the technical design will close any existing exceptions. They can do this by searching the architecture repository. If exceptions do need to be closed, the architecture team should be notified.
 
-If not, the delivery team can proceed with registering the design in the [architecture repository](https://educationgovuk.sharepoint.com/sites/gp/artefacts/Forms/AllItems.aspx)
+If not, the delivery team can proceed with registering the design in the architecture repository.
 
 Where artefacts do not exist, then the team cannot align with them and are free to design their solution to meet their user needs. If artefacts cover part, but not all, of a design, only the parts within scope of those artefacts could reasonably be expected to align with them. In this instance, the team should consider whether there should be artefacts to cover the gap and discuss with the architecture team to highlight the gap.
 
-Should the need for a new standard, pattern or other artefact emerge during technical design work, this should also be raised with the architecture team for discussion.
+Should the need for a new standard, pattern or other artefact emerge during technical design work, this should also be raised with the [architecture team](mailto:architecture.profession@education.gov.uk)  for discussion.
 
 ### Managing an exception
 
