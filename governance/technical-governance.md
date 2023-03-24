@@ -102,12 +102,10 @@ Contact the [architecture team](mailto:architecture.profession@education.gov.uk)
 
 ### Templates
 
-> There are currently no standards for documenting technical design. The following templates and examples are no longer in use, however, they do provide some guidance and may help you in developing your design
+> There are currently no set standards for documenting technical design. The following templates and examples are no longer in use, however, they do provide some guidance and may help you to develop your design.
 
 - [Design pack, with example diagrams](../documents/design-pack.docx)
 - [Design pack, text only](../documents/design-pack-just-text.docx)
-
-These templates can be used as a guide when creating a design. Whether various elements are applicable will vary dependent on your particular circumstances, so treat these templates as a set of helpful things to consider as you draft your design.
 
 ## Further guidance
 

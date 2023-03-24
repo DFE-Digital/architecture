@@ -17,45 +17,11 @@ The architecture profession:
 
 There is a large community of permanent, managed service and contingent architects across the department, plus commercial frameworks to help fulfill your needs.
 
-If you're looking for architecture support for your project, you should discuss your needs with your [architecture lead](#architecture-leads) in the first instance.
-
-## Architecture leads
-
-Architecture leads work within a DfE portfolio or domain. They work closely with DDaT business partners and other DDaT specialists to support, steer and help join-up delivery.
-
-They:
-
-- assist, advise and guide programmes and projects, ensuring alignment with:
-  - technical strategies
-  - common patterns and components
-  - architecture principles
-  - architecture standards and assurance
-- can help identify architects and other technical specialists needed to support delivery, specifically:
-  - supporting recruitment of the right people to meet the needs of the portfolio / domain
-  - working with delivery teams to align with architecture principles, standards and patterns
-  - helping identify common goals / problems being solved across DfE and linking up
-
-Use the table below to find out who your architecture lead is. Or contact the [architecture profession](mailto:architecture.profession@education.gov.uk) if you're not sure.
-
-| Portfolio/domain | Architecture lead(s) |
-| - | - |
-| Teacher services | Andy Emley |
-| Children and families | tbc |
-| Schools and curriculum | Kiril Kolev |
-| Cyber security | Pete Dingwall |
-| End user services | John Phillips |
-| Operational services | Mario Gledhill |
-| Enterprise architecture | Ant McCrea |
-| Data architecture | Tafseer Nisa / Raqia Begum |
-| Data services | Rob Morigi-Eades |
-| Data analytics platform | Thomas Sykes |
-| Data science | Pete Holding |
-| Apprenticeship Service | Siva Poopalan |
-| National Careers Service | Spyros Ioannidis / Terry Rich-Whitehead |
+If you're looking for architecture support for your project, you should discuss your needs with your [architecture lead](architecture-leads.md) in the first instance.
 
 ## Help to find an architect
 
-The architecture profession will work with you and your architecture lead to fulfill your needs. That could be supporting you to recruit permanent staff or helping you bring in the right people or services, through one of our compliant commercial routes to market. This will enable you to:
+The architecture profession will work with you and your [architecture lead](architecture-leads.md) to fulfill your needs. That could be supporting you to recruit permanent staff or helping you bring in the right people or services, through one of our compliant commercial routes to market. This will enable you to:
 
 - get the right architecture skills, at the right time, at the right price
 - on-board architects into DfE consistently, so they understand our ways of working and assurance framework
@@ -73,9 +39,9 @@ For most services, it is expected that **architecture will emerge and evolve** o
 
 The benefit of iterative delivery is to release value to users as early as possible, then iterate and continuously improve to derive better outcomes based on user feedback. This requires ongoing, continuous architecture and technical design review, to ensure services are created sustainably and consistently across the portfolio or domain and the wider organisation. Embedded architects work alongside product managers, developers, service designers and many other people to achieve this.
 
-In DfE, we encourage an 'in-line' assurance approach, where decisions about architecture and technology are made within a portfolio or service team based on user need, with assurance from wider technical communities where needed. By aligning with architecture principles and standards in DfE, we believe minimum-viable governance speeds up delivery. Architects can share and assure their work in communities, ensuring fit with broader organisational strategies.
+In DfE, we encourage an 'in-line' assurance approach, where decisions about architecture and technology are made within a portfolio or service team based on user need, with assurance from wider technical communities where needed. By aligning with architecture principles and complying with [technical standards](../../standards/technical-standards/) in DfE, we believe minimum-viable governance speeds up delivery. Architects can share and assure their work in communities, ensuring fit with broader organisational strategies.
 
-To see how your needs for architecture and technical design assurance might be best met, see our [design assurance guidance](../../assurance/design-assurance/)
+To see how your needs for architecture and technical design assurance might be best met, see our [design assurance guidance](../../governance/technical-governance/)
 
 ## Further information
 
