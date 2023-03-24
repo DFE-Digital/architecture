@@ -33,6 +33,7 @@ It should be used in conjunction with the [DfE Digital Technical Guidance](https
 {% for pattern in pattern_groups %}
 - [{{ pattern.title }}]({{ pattern.url | relative_url }})
 {% endfor %}
+- [User-centred design patterns](https://design.education.gov.uk/design-system/patterns/)
 
 ## Governance
 
