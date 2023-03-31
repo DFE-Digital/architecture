@@ -21,11 +21,11 @@ We're working with these owners and teams to prioritise creation of the standard
 
 **Accepted products**
 
-Whilst technical standards are being developed, some accepted products in DfE have been highlighted against some of the higher priority groups. These are products that are currently in use in the department and make most sense to use / re-use. If you choose one of these products, you are *most likely* to be aligned with the standard being developed. More will be added as more data is gathered and analysed
+Whilst technical standards are being developed, some *accepted products* in DfE have been highlighted (in*italics*) against some of the higher priority groups. These are products that are currently in use in the department and make most sense to use / re-use. If you choose one of these products, you are *most likely* to be aligned with the standard being developed. More will be added as more data is gathered and analysed
 
 ### Management components
 
-| Group                        | Standard                                 | Product                    | Division                    |
+| Group                        | Standard areas                           | Product                    | Division                    |
 |------------------------------|------------------------------------------|----------------------------|-----------------------------|
 | Strategic Management         | Strategy Development                     |                            | DDaT Senior Leadership Team |
 |                              | Goals and Outcomes                       |                            |                             |
@@ -35,9 +35,9 @@ Whilst technical standards are being developed, some accepted products in DfE ha
 |                              | Data/Communication Security and Confidentiality|                      |                            |
 |                              | Platform and System Security             |                            |                            |
 |                              | Vulnerability and Threat Management      |                            |                            |
-|                              | **Identity and Access Management**       | B2C - GOV.UK One Login     |                            |
-|                              |                                          | B2B - DfE Sign in          |                            |
-|                              |                                          | B2E - MS Azure Active Directory |                       |
+|                              | **Identity and Access Management**       | *B2C - GOV.UK One Login*   |                            |
+|                              |                                          | *B2B - DfE Sign in*        |                            |
+|                              |                                          | *B2E - MS Azure Active Directory* |                     |
 |                              | Security Incident Management             |                            |                            |
 |                              | Monitoring, Traceability, Auditing and Forensics|                     |                            |
 | System Management            | Service Desk and CMDB Tools              |                            | End User Compute Services  |
@@ -54,22 +54,22 @@ Whilst technical standards are being developed, some accepted products in DfE ha
 |                              | Service Catalogue                        |                            | Service Operations         |
 |                              | Resource Capacity Management             |                            | Capability                 |
 |                              | Prioritisation                           |                            | Strategy & Engagement      |
-| Application Development      | **Development Tools**                    | MS Visual Studio           | Infrastructure & Platforms |
-|                              |                                          | VS Code                    |                            |
-|                              |                                          | Azure DevOps               |                            |
+| Application Development      | **Development Tools**                    | *MS Visual Studio*         | Infrastructure & Platforms |
+|                              |                                          | *VS Code*                  |                            |
+|                              |                                          | *Azure DevOps*             |                            |
 |                              | **Data Access Tools**                    |                            |                            |
 |                              | **Scripting Tools**                      |                            |                            |
 |                              | Modelling and Design Tools               |                            | Architecture               |
 |                              | Requirements Management Tools            |                            | Business Analysis Community |
-|                              | **Programming Languages**                | C# .NET                    | Infrastructure & Platforms |
+|                              | **Programming Languages**                | *C# .NET*                  | Infrastructure & Platforms |
 |                              | Testing Tools                            |                            |                            |
-|                              | Source Code Management Tools             | Github                     |                            |
+|                              | Source Code Management Tools             | *Github*                   |                            |
 |                              | Lifecycle and Configuration Management Tools |                        |                            |
 
 
 ### Devices and peripherals
 
-| Group                        | Standard                                 | Product                    | Division                   |
+| Group                        | Standard areas                           | Product                    | Division                   |
 | -----------------------------| -----------------------------------------| ---------------------------|----------------------------|
 | End User Devices             | Desktop Devices                          |                            | End User Compute Services  |
 |                              | Laptop Devices                           |                            |                            |
@@ -85,33 +85,33 @@ Whilst technical standards are being developed, some accepted products in DfE ha
 
 ### Application components
 
-| Group                        | Standard                                 | Product                    |Division                    |
+| Group                        | Standard areas                           | Product                    |Division                    |
 |------------------------------|------------------------------------------|----------------------------|----------------------------|
 | Business Applications        | Finance and Accounting Applications      |                            |                            |
 |                              | Human Resource Management Applications   |                            | Human resources            |
-|                              | Sales, Purchasing and Commercial Applications | Jaeggar               | Customer Experience        |
-|                              | Marketing Applications                   | GOV.UK Notify              |                            |
-|                              |                                          | MailChimp                  |                            |
-|                              |                                          | SendGrid                   |                            |
-|                              |                                          | SurveyMonkey               |                            |
-|                              | **Customer Service Applications**        | MS Dynamics 365            | End User Compute Services  |
-|                              |                                          | Zendesk (Customer Service Desk) |                       |
+|                              | Sales, Purchasing and Commercial Applications | *Jaeggar*             | Customer Experience        |
+|                              | Marketing Applications                   | *GOV.UK Notify*            |                            |
+|                              |                                          | *MailChimp*                |                            |
+|                              |                                          | *SendGrid*                 |                            |
+|                              |                                          | *SurveyMonkey*             |                            |
+|                              | **Customer Service Applications**        | *MS Dynamics 365*          | End User Compute Services  |
+|                              |                                          | *Zendesk (Customer Service Desk)* |                     |
 |                              | Case Management Applications             |                            | Infrastructure & Platforms |
-|                              | Business Operations Management Applications | MS Power Automate       | Business Operations        |
-|                              |                                          | MS Azure Data Factory      |                            |
-|                              |                                          | MS Forms (Data Capture)    |                            |
-| Productivity Tools           | **Collaboration Applications**           | MS Teams                   | End User Compute Services  |
-|                              |                                          | Slack                      |                            |
-|                              |                                          | LucidSpark                 |                            |
-|                              | **Productivity and Office Applications** | MS Office 365              |                            |
+|                              | Business Operations Management Applications | *MS Power Automate*     | Business Operations        |
+|                              |                                          | *MS Azure Data Factory*    |                            |
+|                              |                                          | *MS Forms (Data Capture)*  |                            |
+| Productivity Tools           | **Collaboration Applications**           | *MS Teams*                 | End User Compute Services  |
+|                              |                                          | *Slack*                    |                            |
+|                              |                                          | *LucidSpark*               |                            |
+|                              | **Productivity and Office Applications** | *MS Office 365*            |                            |
 |                              | Email and Calendar Applications          |                            |                            |
 |                              | Common Desktop Tools                     |                            |                            |
 |                              | Instant Messaging and Presence Applications |                         |                            |
-|                              | Document Management and Workflow Applications | MS SharePoint         | Knowledge & Information Management |
-|                              |                                          | MS Power Automate          |                            |
+|                              | Document Management and Workflow Applications | *MS SharePoint*       | Knowledge & Information Management |
+|                              |                                          | *MS Power Automate*        |                            |
 |                              | Browser and Web Desktop Applications     |                            | End User Compute Services  |
-|                              | Content Management Applications          | Contentful                 |                            |
-|                              |                                          | GOV.UK Publisher           |                            |
+|                              | Content Management Applications          | *Contentful*               |                            |
+|                              |                                          | *GOV.UK Publisher*         |                            |
 |                              | Enterprise Search Applications           |                            | Knowledge & Information Management |
 |                              | **Accessibility Applicatons**            |                            | Accessibility              |
 |                              | Video and Telephony Conferencing Applications |                       | End User Compute Services  |
@@ -125,7 +125,7 @@ Whilst technical standards are being developed, some accepted products in DfE ha
 
 ### Data components
 
-| Group                        | Standard                                 | Product                    | Division                   |
+| Group                        | Standard areas                           | Product                    | Division                   |
 |----------------------------- |------------------------------------------|----------------------------|----------------------------|
 | Analytics and Reporting      | Data Warehouse Systems                   |                            | Data Architecture          |
 |                              | Dashboard Reporting                      |                            |                            |
@@ -133,8 +133,8 @@ Whilst technical standards are being developed, some accepted products in DfE ha
 |                              | Analytical Reporting                     |                            |                            |
 |                              | Advanced Analytics Platforms             |                            |                            |
 |                              | IOT Stream Analytics                     |                            |                            |
-| Data Platforms               |**Relational Database Management Systems**| MS Azure SQL               |                            | 
-|                              |                                          | PostgreSQL                 |                            |
+| Data Platforms               |**Relational Database Management Systems**| *MS Azure SQL*             |                            | 
+|                              |                                          | *PostgreSQL*               |                            |
 |                              | Unstructured Data Management Systems     |                            |                            |
 |                              | Analytical Data Management Systems       |                            |                            |
 |                              | Data Integration and Orchestration Systems |                          | Data Engineering           | 
@@ -145,7 +145,7 @@ Whilst technical standards are being developed, some accepted products in DfE ha
 
 ### Infrastructure components
 
-| Group                        | Standard                                 | Product                    | Division                   |
+| Group                        | Standard areas                           | Product                    | Division                   |
 |------------------------------|------------------------------------------|----------------------------|----------------------------|
 | Server Platform              | Server Hardware                          |                            | Infrastructure & Platforms |
 |                              | Server OS                                |                            |                            |
