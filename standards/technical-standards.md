@@ -54,14 +54,14 @@ Whilst technical standards are being developed, some *accepted products* in DfE 
 |                              | Service Catalogue                        |                            | Service Operations         |
 |                              | Resource Capacity Management             |                            | Capability                 |
 |                              | Prioritisation                           |                            | Strategy & Engagement      |
-| Application Development      | **Development Tools**                    | *MS Visual Studio*         | Infrastructure & Platforms |
+| Application Development      | **Development Tools**                    | *MS Visual Studio*         | Software Development       |
 |                              |                                          | *VS Code*                  |                            |
 |                              |                                          | *Azure DevOps*             |                            |
 |                              | **Data Access Tools**                    |                            |                            |
 |                              | **Scripting Tools**                      |                            |                            |
 |                              | Modelling and Design Tools               |                            | Architecture               |
-|                              | Requirements Management Tools            |                            | Business Analysis Community |
-|                              | **Programming Languages**                | *C# .NET*                  | Infrastructure & Platforms |
+|                              | Requirements Management Tools            |                            | Business Analysis community |
+|                              | **Programming Languages**                | *C# .NET*                  | Software Development       |
 |                              | Testing Tools                            |                            |                            |
 |                              | Source Code Management Tools             | *Github*                   |                            |
 |                              | Lifecycle and Configuration Management Tools |                        |                            |
@@ -77,7 +77,7 @@ Whilst technical standards are being developed, some *accepted products* in DfE 
 |                              | Mobile Devices                           |                            |                            |
 |                              | Tablet Devices                           |                            |                            |
 |                              | End User Device OS                       |                            |                            |
-| Peripherals                  | Printers                                 |                            |End User Compute Srvices    |
+| Peripherals                  | Printers                                 |                            | End User Compute Services  |
 |                              | Scanners                                 |                            |                            |
 |                              | Other Devices                            |                            |                            |
 |  IOT Devices                 | Edge Devices                             |                            | End User Compute Services  |
