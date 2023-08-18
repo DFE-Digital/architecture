@@ -116,7 +116,7 @@ Whilst technical standards are being developed, some *accepted products* in DfE 
 |                              | **Accessibility Applicatons**            |                            | Accessibility              |
 |                              | Video and Telephony Conferencing Applications |                       | End User Compute Services  |
 |                              |Digital Signature Tools                   |                            | Cyber Security / Service Operations |
-| Middleware                   | **API Management**                       | *[EAPIM](../common-components/#api-management)* | Infrastructure & Platforms |
+| Middleware                   | **API Management**                       | *[EAPIM](../../common-components/#api-management)* | Infrastructure & Platforms |
 |                              | **Container Management**                 |                            |                            |
 |                              | Enterprise Service Bus                   |                            |                            |
 |                              | Message/Event Stream Processing          |                            |                            |
