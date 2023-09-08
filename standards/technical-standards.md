@@ -21,7 +21,7 @@ We're working with these owners and teams to prioritise creation of the standard
 
 **Accepted products**
 
-Whilst technical standards are being developed, some *accepted products* in DfE have been highlighted (in*italics*) against some of the higher priority groups. These are products that are currently in use in the department and make most sense to use / re-use. If you choose one of these products, you are *most likely* to be aligned with the standard being developed. More will be added as more data is gathered and analysed
+Whilst technical standards are being developed, some *accepted products* in DfE have been highlighted (in *italics*) against some of the higher priority groups. These are products that are currently in use in the department and make most sense to use / re-use. If you choose one of these products, you are *most likely* to be aligned with the standard being developed. More will be added as more data is gathered and analysed.
 
 ### Management components
 
@@ -29,42 +29,42 @@ Whilst technical standards are being developed, some *accepted products* in DfE 
 |------------------------------|------------------------------------------|----------------------------|-----------------------------|
 | Strategic Management         | Strategy Development                     |                            | DDaT Senior Leadership Team |
 |                              | Goals and Outcomes                       |                            |                             |
-| Security Management          | Perimeter and Network Security           |                            | Networks                   |
-|                              | Device Security                          |                            | End User Compute Services  |
-|                              | Virus and Malware Prevention and Management |                         | Cyber Security             |
-|                              | Data/Communication Security and Confidentiality|                      |                            |
-|                              | Platform and System Security             |                            |                            |
-|                              | Vulnerability and Threat Management      |                            |                            |
-|                              | **Identity and Access Management**       | *B2C - GOV.UK One Login*   |                            |
-|                              |                                          | *B2B - DfE Sign in*        |                            |
-|                              |                                          | *B2E - MS Azure Active Directory* |                     |
-|                              | Security Incident Management             |                            |                            |
-|                              | Monitoring, Traceability, Auditing and Forensics|                     |                            |
-| System Management            | Service Desk and CMDB Tools              |                            | End User Compute Services  |
-|                              | Deployment, Audit and Inventory          |                            | Service Operations         |
-|                              | **Monitoring and Event Management**      |                            |                            |
-|                              | Performance and Capacity Management      |                            |                            |
-|                              | Mobile Device Management                 |                            | End User Compute Services  |
-|                              | Device Management and Configuration Tools |                           |                            |
-|                              | Remote Control Management Tools          |                            |                            |
-| Delivery Management          | Portfolio and Project Management         |                            | Delivery Management        |
-|                              | Architecture Management                  |                            | Architecture               |
-|                              | Roadmap Development and Management       |                            | Strategy & Engagement      |
-|                              | Performance Metrics                      |                            | Delivery Management        |
-|                              | Service Catalogue                        |                            | Service Operations         |
-|                              | Resource Capacity Management             |                            | Capability                 |
-|                              | Prioritisation                           |                            | Strategy & Engagement      |
-| Application Development      | **Development Tools**                    | *MS Visual Studio*         | Software Development       |
-|                              |                                          | *VS Code*                  |                            |
-|                              |                                          | *Azure DevOps*             |                            |
-|                              | **Data Access Tools**                    |                            |                            |
-|                              | **Scripting Tools**                      |                            |                            |
-|                              | Modelling and Design Tools               |                            | Architecture               |
+| Security Management          | Perimeter and Network Security           |                            | Networks                    |
+|                              | Device Security                          |                            | End User Compute Services   |
+|                              | Virus and Malware Prevention and Management |                         | Cyber Security              |
+|                              | Data/Communication Security and Confidentiality|                      |                             |
+|                              | Platform and System Security             |                            |                             |
+|                              | Vulnerability and Threat Management      |                            |                             |
+|                              | **[Identity Management B2C](https://educationgovuk.sharepoint.com/:w:/r/sites/gp/artefacts/Identity%20Management%20B2C.docx?d=w5303a137dbd346bcb3d40b0d761fd177&csf=1&web=1&e=A2zqe3)**               | *GOV.UK One Login*   |                                   |
+|                              | **[Identity Management B2B](https://educationgovuk.sharepoint.com/:w:/r/sites/gp/artefacts/Identity%20Management%20B2B.docx?d=wccacb48b69314098aff841ce11efddb5&csf=1&web=1&e=dgKm5c)**               | *DfE Sign in*        |                                   |
+|                              | **[Identity Management B2E](https://educationgovuk.sharepoint.com/:w:/r/sites/gp/artefacts/Identity%20Management%20B2E.docx?d=wea4894124ad24eeb9efa82704556b5ff&csf=1&web=1&e=dMbGnU)**               | *MS Azure Active Directory* |                            |
+|                              | Security Incident Management             |                            |                             |
+|                              | Monitoring, Traceability, Auditing and Forensics|                     |                             |
+| System Management            | Service Desk and CMDB Tools              |                            | End User Compute Services   |
+|                              | Deployment, Audit and Inventory          |                            | Service Operations          |
+|                              | **Monitoring and Event Management**      |                            |                             |
+|                              | Performance and Capacity Management      |                            |                             |
+|                              | Mobile Device Management                 |                            | End User Compute Services   |
+|                              | Device Management and Configuration Tools |                           |                             |
+|                              | Remote Control Management Tools          |                            |                             |
+| Delivery Management          | Portfolio and Project Management         |                            | Delivery Management         |
+|                              | Architecture Management                  |                            | Architecture                |
+|                              | Roadmap Development and Management       |                            | Strategy & Engagement       |
+|                              | Performance Metrics                      |                            | Delivery Management         |
+|                              | Service Catalogue                        |                            | Service Operations          |
+|                              | Resource Capacity Management             |                            | Capability                  |
+|                              | Prioritisation                           |                            | Strategy & Engagement       |
+| Application Development      | **Development Tools**                    | *MS Visual Studio*         | Software Development        |
+|                              |                                          | *VS Code*                  |                             |
+|                              |                                          | *Azure DevOps*             |                             |
+|                              | **Data Access Tools**                    |                            |                             |
+|                              | **Scripting Tools**                      |                            |                             |
+|                              | Modelling and Design Tools               |                            | Architecture                |
 |                              | Requirements Management Tools            |                            | Business Analysis community |
-|                              | **Programming Languages**                | *C# .NET*                  | Software Development       |
-|                              | Testing Tools                            |                            |                            |
-|                              | Source Code Management Tools             | *Github*                   |                            |
-|                              | Lifecycle and Configuration Management Tools |                        |                            |
+|                              | **Programming Languages**                | *C# .NET*                  | Software Development        |
+|                              | Testing Tools                            |                            |                             |
+|                              | Source Code Management Tools             | *Github*                   |                             |
+|                              | Lifecycle and Configuration Management Tools |                        |                             |
 
 
 ### Devices and peripherals
