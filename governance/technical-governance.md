@@ -1,28 +1,28 @@
 ---
 category: Governance
-expires: 2023-12-01
+expires: 2024-07-01
 ---
 
 
 # Technical governance
 
-We have different ways of delivering services in DfE. But we always need to ensure that the technical design of our services meets the necessary [standards](../../standards/technical-standards).
+We have different ways of delivering services in DfE. But we always need to ensure that the technical design of our services meets the necessary [technical standards](../../standards/technical-standards).
 
-We want to make sure we're doing the right things (through governance) and doing things right (through assurance). And not slowing down delivery in the process.
+We want to make sure we're doing the right things (through governance) and doing things right (through assurance). And **not slowing down delivery** in the process.
 
-We’re testing a self-certification, exception-based approach for technical governance. The core principle being that a team should be able to easily find and apply the DfE technical standards in their work. 
+We’re testing a self-certification, exception-based approach for technical governance. The core principle being that a team should be able to easily find and apply the DfE [technical standards](../../standards/technical-standards) in their work. 
 
-Assuming a technical design complies with the standards, the team should not experience any friction in delivery. Where there is an exception - where there is no standard, it’s not possible to comply or the standard needs updating – there is a process for agreeing what to do. This might involve a few or several people, depending on the complexity of the decision to be made.
+Assuming a technical design complies with the standards, the team should not experience any friction in delivery. Where there is an exception - where there is no standard, it’s not possible to comply with a standard or a standard needs updating – there is a process for agreeing what to do. This might involve a few, or several people, depending on the complexity of the decision to be made.
 
 ## Responsibilities and decision-making
 
 The Senior Responsible Owner (SRO) or Service Owner (usually a Deputy Director) is accountable for all delivery within their service, programme, portfolio or division. They rely on the advice of technical experts within their multi-disciplinary teams when taking ownership of key technical decisions and risks in their domain.
 
-The Digital, Data and Technology (DDaT) Senior Leadership Team are collectively accountable for strategic technical decisions across the organisation, ensuring all cross-divisional or cross-functional impacts are considered. This decision making is supported by technical specialists in professional communities.
+The Digital, Data, Technology (DDT) Senior Leadership Team are collectively accountable for strategic technical decisions across the organisation, ensuring all cross-divisional or cross-functional impacts are considered. This decision making is supported by technical specialists in professional communities.
 
 Everyone is expected to comply with DfE technical standards. Where this isn’t possible or not happening – an exception - a group of technical specialists may be convened to help guide the team. We call this a technical design forum. They would discuss and agree an appropriate course of action for the exception.
 
-In the unlikely event a consensus can’t be reached, escalation to the DDaT Senior Leadership Team or DDaT Design and Delivery Board may be required.
+In the unlikely event a consensus can’t be reached, escalation to the DDT Senior Leadership Team or DDT Design and Delivery Board may be required.
 
 
 ## How design assurance works in practice
@@ -37,9 +37,9 @@ The team will also need to determine whether the technical design will close any
 
 If not, the delivery team can proceed with registering the design in the [architecture repository](https://educationgovuk.sharepoint.com/sites/gp/artefacts/Forms/AllItems.aspx).
 
-Where artefacts do not exist, then the team cannot align with them and are free to design their solution to meet their user needs. If artefacts cover part, but not all, of a design, only the parts within scope of those artefacts could reasonably be expected to align with them. In this instance, the team should consider whether there should be artefacts to cover the gap and discuss with the [architecture team](mailto:architecture.profession@education.gov.uk) to highlight the gap.
+Where artefacts do not exist, then the team cannot align with them and are free to design their solution to meet their user needs. If artefacts cover part, but not all, of a design, only the parts within scope of those artefacts could reasonably be expected to align with them. In this instance, the team should consider whether there *should* be artefacts to cover the gap and discuss this with the [architecture team](mailto:architecture.profession@education.gov.uk) to highlight the gap.
 
-Should the need for a new standard, pattern or other artefact emerge during technical design work, this should also be raised with the [architecture team](mailto:architecture.profession@education.gov.uk)  for discussion.
+Should the need for a new standard, pattern or other artefact emerge during technical design work, this should also be raised with the [architecture team](mailto:architecture.profession@education.gov.uk) for discussion.
 
 ### Managing an exception
 
@@ -61,7 +61,7 @@ A temporary exemption may be applied whilst the artefact is reviewed, but this w
 
 **Major exception**
 
-Where non-compliance is more significant or complex, the architecture team will arrange a review, at pace, pulling in a range of SMEs and perspectives to ascertain whether an exception is possible and the conditions that would be applied.
+Where non-compliance is more significant or complex, the architecture team will arrange a review, at pace, pulling in a range of subject matter experts and perspectives to ascertain whether an exception is possible and the conditions that would be applied.
 
 **Exemption review**
 
@@ -71,9 +71,9 @@ In all exemption cases, there will be a timeframe agreed to reach compliance, in
 
 In all cases where the delivery team wish to dispute the terms of an exception or the appropriateness of any specific artefact, and consensus cannot be reached by a technical design forum, then an escalation process is available. 
 
-This will be facilitated by the architecture team, who will escalate to a group of nominated Deputy Directors from the DDaT Senior Leadership Team.
+This will be facilitated by the architecture team, who will escalate to a group of nominated Deputy Directors from the DDT Senior Leadership Team.
 
-If a consensus cannot be achieved at this level, the dispute will be escalated to the Design and Delivery Board for review and decision
+If a consensus cannot be achieved at this level, the dispute will be escalated to the Design and Delivery Board for review and a decision.
 
 
 ## Things to help you
