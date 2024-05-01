@@ -1,6 +1,6 @@
 ---
 category: Standards
-expires: 2021-07-01
+expires: 2024-12-31
 ---
 
 # Common definitions
@@ -19,7 +19,7 @@ It is also important to understand the different roles involved in using a commo
 
 ### Who is this for?
 
-This set of definitions is aimed predominantly at people working in digital and technology service delivery teams in DfE. We also hope that colleagues in teams across the wider department will find these definitions useful, to understand a little more about digital and technology services.
+This set of definitions is aimed predominantly at people working in digital, data and technology service delivery teams in DfE. We also hope that colleagues in teams across the wider department will find these definitions useful, to understand a little more about digital, data and technology services.
 
 Think of this resource as our dictionary of terms.
 
@@ -45,7 +45,7 @@ The terms we use in the different levels of work may have different meanings or 
 - [Common component](#common-component)
 - [Platform](#platform)
 - [Register](#register)
-- [DDaT](#ddat)
+- [DDaT / DDT](#ddat)
 
 <a name="service"></a>
 ### Service ###
@@ -63,7 +63,7 @@ A service is a collection of 'things' that users interact with that help them ac
 Important things to know about a service:
 - They come and go
 - They have a life cycle
-- Digital is just one aspect of the service
+- 'Digital' is just one aspect of the service
 - Services are continuously improved
 - Services deliver policy outcomes
 
@@ -98,19 +98,19 @@ Capabilities are often categorised as:
 - people capabilities, that describe the skills, experience and capacity people have or need to do their job
 - enabling capabilities (such as technology, data) that support both business and people capabilities
 
-The DfE might define an organisational need to deliver Curriculum Design (a business capability). There may need to be people with varying skills and experience to help deliver Curriculum Design services (people capability). They may rely on other services, such as communications, to support their delivery (enabling capability).
+The DfE might define an organisational need to deliver Curriculum Design (a business capability). There may need to be people with varying skills and experience to help deliver Curriculum Design services (people capability). They may rely on other services, such as communications or finance, to support their delivery (enabling capability).
 
 
 <a name="product"></a>
 ### Product ###
 
-A product is a thing that helps to meet one or more user needs. A digital product is usually a piece of software.
+A product is a thing that helps to meet one or more user needs. A digital or technology product is usually a piece of software.
 
 Products can vary in size and can be grouped together and integrated to create a service. Typically, a service is a larger collection of products which are grouped together to help a user to achieve an outcome.
 
-An example is the 'Discover your skills and careers' product within the National Careers Service. It's a standalone product but is best consumed as part of the user journey across the wider service. This helps a user achieve the outcome of defining a career path and developing their skills to be successful in that career.
+An example is the 'Discover your skills and careers' product, within the National Careers Service. It's a standalone product but is best consumed as part of the user journey across the wider service. This helps a user achieve the outcome of defining a career path and developing their skills to be successful in that career.
 
-Some examples of technology products, used to enable a service, are Microsoft Dynamics or Salesforce. These are Commercial-Off-The-Shelf (COTS) products that, amongst other things, provide customer relationship management capability.
+Some examples of technology products, used to enable a service, might be Microsoft Dynamics 365 or Salesforce. These are Commercial-Off-The-Shelf (COTS) products that, amongst other things, provide Customer Relationship Management (CRM) capability.
 
 <a name="activities"></a>
 
@@ -172,12 +172,12 @@ A common component is a software or technical system that is created once and re
 
 Components are often used alongside design patterns. A pattern describes a general, reusable solution to a commonly occurring problem, within a given context.
 
-Common Components can be of any size but they all share the same characteristics:
-- They are designed according to common standards, principles and patterns, with independent quality assurance to ensure the principles and patterns have been applied.
-- They are designed and developed in a modular, scalable and resilient way to support ease of reuse and reliability.
-- They are mapped to a specific business or technical capability/service. This enables easy search and prevents duplication.
-- They are treated as an asset and therefore require asset lifecycle management – support wrap, continuous improvement, enhancement or replacement.
-- They are standalone but interoperable with other common components, such that change to one does not cause a ripple effect change to others.
+Common Components can be of any size but they all share the same characteristics. They are:
+- designed according to common standards, principles and patterns, with independent quality assurance to ensure the principles and patterns have been applied.
+- designed and developed in a modular, scalable and resilient way to support ease of reuse and reliability.
+- mapped to a specific business or technical capability/service. This enables easy search and prevents duplication.
+- treated as an asset and therefore require asset lifecycle management – support wrap, continuous improvement, enhancement or replacement.
+- standalone but interoperable with other common components, such that change to one does not cause a ripple effect change to others.
 
 In a mature organisation, common components allow us to build services and products more quickly - reusing common elements from other services (such as a ‘login’ element), rather than recreating it multiple times, in multiple ways.
 
@@ -191,7 +191,7 @@ Read more on the [common components guidance](../../common-components).
 
 A platform is something you can build a product or service upon. Platforms are typically groups of technologies that, collectively, provide the basis on which applications, products, services, processes can be built.
 
-Examples of technology platforms in use within DfE include the [Cloud Infrastructure Platform (CIP)](../../common-components/#cloud-infrastructure-platform), [GOV.UK Plaform-as-a-Service (PaaS)](../../common-components/#govuk-paas) and the [Enterprise API Management platform (EAPIM)](../../common-components/#enterprise-api-management).
+Examples of technology platforms in use within DfE include the [Cloud Infrastructure Platform (CIP)](../../common-components/#cloud-infrastructure-platform) and the [Find and Use an API platform](../../common-components/#enterprise-api-management).
 
 The Government Digital Service (GDS) offer [Government as a Platform](https://gds.blog.gov.uk/category/government-as-a-platform/) services, described as 'common core infrastructure of shared digital systems, technology and processes on which it’s easy to build brilliant, user-centric government services. Examples include GOV.UK Pay and GOV.UK Notify.'
 
@@ -203,20 +203,20 @@ We define a register as the single place to find authoritative information on a 
 
 For example, the Foreign and Commonwealth Office (FCO) maintains a register of countries. It is a single, maintained list of countries. Any service can connect to this register to provide a single, consistent and authoritative list to its users.
 
-Digital and Technology maintain a register of all Services, Products, Technology and Platforms, called the Configuration Management Database (CMDB).
+Technology maintain a register of all Services, Products, Technology and Platforms, called the Configuration Management Database (CMDB).
 
 <a name="ddat"></a>
-### DDaT ###
+### DDaT / DDT ###
 
-Digital, Data and Technology (DDaT) is a profession in the UK Civil Service, spearheaded by GDS and characterised by the [DDaT Profession Capability Framework](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework).
+Digital, Data and Technology (DDaT) was re-branded as Government Digital and Data in 2023. It is a profession in the UK Civil Service, spearheaded by GDS and characterised by the [Government Digital and Data Profession Capability Framework](https://ddat-capability-framework.service.gov.uk/).
 
-DDaT is also used within DfE to describe the collective community of people working in data, digital and technology roles across the department.
+Digital, Data, Technology (DDT) is a term used within DfE to describe the collective community of people working in data, digital and technology roles across the department.
 
 ## Roles ##
 
-We’re conscious that definitions of the roles involved in creating and maintaining services can sometimes be confusing - for example, does the Service Owner of a public-facing service have the same responsibilities as a Service Owner for an internal technology service?
+We’re conscious that definitions of the roles involved in creating and maintaining services can sometimes be confusing - for example, does the Service Owner of a public-facing service have the same responsibilities as a Service Owner for an internal DfE service?
 
-Associated roles are defined in the [DDaT Profession Capability Framework](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework) and may feature as part of our common definitions in the future.
+Associated roles are defined in the [Government Digital and Data Profession Capability Framework](https://ddat-capability-framework.service.gov.uk/) and may feature as part of our common definitions in the future.
 
 ## Get in touch ##
 
