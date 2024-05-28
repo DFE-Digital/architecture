@@ -63,9 +63,9 @@ A temporary exemption may be applied whilst the artefact is reviewed, but this w
 
 Where non-compliance is more significant or complex, the architecture team will arrange a review, at pace, pulling in a range of subject matter experts and perspectives to ascertain whether an exception is possible and the conditions that would be applied.
 
-**Exemption review**
+**Exception review**
 
-In all exemption cases, there will be a timeframe agreed to reach compliance, in which the delivery team will need to review the exemption and update their design. If the design then complies, then it will need to be registered in the [architecture repository](https://educationgovuk.sharepoint.com/sites/gp/artefacts/Forms/AllItems.aspx), once agreed with the architecture team. 
+In all exception cases, there will be a timeframe agreed to reach compliance, in which the delivery team will need to review the exception and update their design. If the design then complies, then it will need to be registered in the [architecture repository](https://educationgovuk.sharepoint.com/sites/gp/artefacts/Forms/AllItems.aspx), once agreed with the architecture team. 
 
 **Where a decision can't be made**
 
