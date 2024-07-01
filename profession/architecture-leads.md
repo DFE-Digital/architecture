@@ -1,6 +1,6 @@
 ---
 category: profession
-expires: 2023-12-31
+expires: 2024-12-31
 ---
 
 # Architecture leads
@@ -24,15 +24,13 @@ Use the table below to find out who your architecture lead is. Or contact the [a
 | Portfolio/domain | Architecture lead(s) |
 | - | - |
 | Teacher services | Andy Emley |
-| Children and families | tbc |
-| Schools and curriculum | Kiril Kolev |
-| Cyber security | Pete Dingwall |
+| Children and families | Ben Vandersteen |
+| Schools and curriculum | tbc - speak to Mike Bennett or Mamood Sultan |
+| Cyber security | tbc - speak to Angela Scale |
 | End user services | John Phillips |
 | Operational services | Mario Gledhill |
 | Enterprise architecture | Ant McCrea |
-| Data architecture | Tafseer Nisa / Raqia Begum |
-| Data services | Rob Morigi-Eades |
-| Data analytics platform | Thomas Sykes |
+| Data architecture | Mick Rothwell / Anna Ibrahim |
 | Data science | Pete Holding |
-| Apprenticeship Service | Siva Poopalan |
-| National Careers Service | Spyros Ioannidis / Terry Rich-Whitehead |
+| Apprenticeship Service | tbc - speak to Craig Faulkner |
+| National Careers Service | Chris Jones |
