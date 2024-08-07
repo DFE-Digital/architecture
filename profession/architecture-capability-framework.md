@@ -10,7 +10,7 @@ expires: 2022-12-01
 ## Purpose
 This framework provides an outline of the roles, skills and experience that architects working within DfE have or would like to build.
 
-We've published the first iteration of our [DfE architecture capability framework](https://educationgovuk.sharepoint.com/:w:/r/sites/Businessoperationsplanningandperformance-CapabilityTeam/Shared%20Documents/Capability%20Team/Capability%20Frameworks,%20Assessment%20%26%20Career%20Pathways/Architecture/Architecture%20Capability%20Framework%20V1%20FINAL.docx?d=w070c3687bfd74cdb8e8269bd1962b681&csf=1&web=1&e=vckSwA), focused initially on our enterprise, solution and technical architect roles. This will be expanded to include other architecture roles soon.
+We've published the first iteration of our [DfE architecture capability framework](https://educationgovuk.sharepoint.com/:w:/r/sites/lvewp00080/WorkplaceDocuments/Job%20Families/Architecture/Technical%20Architect/240709%20DfE%20Architecture%20Capability%20Framework%20v1.3.docx?d=w2db85c62ce0b4e0488048c4fa72291c7&csf=1&web=1&e=neAB7d), focused initially on our enterprise, solution and technical architect roles. This will be expanded to include other architecture roles soon.
 
 On these guidance pages, we summarise information in the framework, and describe some of the pathways into architecture and how to develop an architecture career.
 
