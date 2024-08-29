@@ -14,31 +14,20 @@ These principles should be applied alongside the UK Government [Service Standard
 
 ---
 
-1.	[Business alignment](#1-align-with-business-objectives)
-2.	[Standardisation](#2-standardisation)
-3.	[Flexibility and adaptability](#3-flexibility-and-adaptability)
-4.	[Security and compliance](#4-security-and-compliance)
-5.	[Cloud First](#5-cloud-first---rent-before-buy-before-build)
-6.	[Data integrity and quality](#6-data-integrity-and-quality)
-7.	[Reuse and modularity](#7-reuse-and-modularity)
-8.	[Design for operation](#8-design-for-operation)
-9.	['Good enough' services](#9-good-enough-services)
-
----
-
 ## 1. Align with business objectives
 
-### 1.1.	Description
 Align and prioritise digital, data and technology (DDT) strategies and delivery with DfE's business 
 goals and objectives, to maximise taxpayer value
 
-### 1.2.	Rationale
+**Rationale**
+
 *	Changes in ministerial priorities cause volatility in the goals and objectives of the 
 department
 *	Ensuring delivery aligns with departmental goals and objectives improves efficiency, 
 with better resource allocation and decision-making
 
-### 1.3.	Implications
+**Implications**
+
 *	To maximise taxpayer value, review deliveries as business and ministerial goals change, 
 ensuring appropriate investment of effort and money
 *	Ensure value by linking delivery metrics to business objectives, which also facilitates 
@@ -54,11 +43,11 @@ departmental objectives
 
 ## 2. Standardisation
 
-### 2.1.	Description
 Adhere to DfE standards and patterns, to promote consistency, simplify the landscape and 
 minimise technical debt
 
-### 2.2.	Rationale
+**Rationale**
+
 *	Use of consistent technologies and platforms facilitates interoperability, reduces 
 complexity and simplifies maintenance
 *	Quicker onboarding of suppliers, with reduced time and cost on evaluating 
@@ -70,7 +59,8 @@ within the department
 *	Streamlined processes, easier integration and cost savings through economies of 
 scale
 
-### 2.3.	Implications
+**Implications**
+
 *	Productivity of individuals and teams may reduce as they transition to standard tools 
 and platforms - expect some retraining requirements
 *	Pragmatism means one tool or platform may not be desirable or achievable - need to link 
@@ -84,15 +74,16 @@ technologies
 
 ## 3. Flexibility and adaptability
 
-### 3.1.	Description 
 Design services that can adapt to changing business needs and technological advancements
 
-### 3.2.	Rationale 
+**Rationale**
+
 *	Ministerial priorities will change. Business environments evolve rapidly - agility is 
 essential to serve users effectively.
 *	Reduced risk of obsolescence, quicker response to market changes
 
-### 3.3.	Implications 
+**Implications**
+
 *	Continuous development is expensive - design services to allow for predictable change 
 without redevelopment
 *	Predict the types of change that will affect your service area and accommodate these 
@@ -106,17 +97,18 @@ could be expected within the lifecycle of a service/product
 
 ## 4. Security and compliance
 
-### 4.1.	Description 
 Prioritise security measures and regulatory compliance in architecture decisions
 
-### 4.2.	Rationale 
+**Rationale**
+
 *	Good security practices protect data, maintain trust and avoids reputational damage, 
 impact to customers and legal penalties
 *	Understanding threats, vulnerabilities and applying mitigations at the design stage reduces 
 the cost of delivering secure services and prevents vulnerabilities risking DfE data and 
 services
 
-### 4.3.	Implications 
+**Implications**
+
 *	Conduct threat modelling early in a service lifecycle and review, as threats and the 
 service evolve
 *	Apply threat modelling to all components and flows in your service, from both external 
@@ -134,16 +126,17 @@ the organisation
 
 ## 5. Cloud First - rent, before buy, before build
 
-### 5.1.	Description 
 Do not build what can easily be bought off-the-shelf. Prioritise cloud-based services over on-premises alternatives.
 
-### 5.2.	Rationale 
+**Rationale**
+
 *	Commercial-off-the-shelf (COTS) services include the cost of development, operation and 
 best practice in their costs, and share these between all clients. Total Cost of 
 Ownership (TCO) is cheaper for 'utility' functionality.
 *	Leverage scalability, cost-effectiveness and agility of cloud services
 
-### 5.3.	Implications 
+**Implications** 
+
 *	Conduct an options appraisal before choosing a delivery approach 
 *	Evaluate COTS solutions against what's “good enough”, as they are unlikely to meet all 
 requirements - they may need façades, configuration or a hybrid approach to meet user 
@@ -163,10 +156,10 @@ hosting options
 
 ## 6. Data integrity and quality
 
-### 6.1.	Description 
 Ensure accurate, consistent and reliable data across DfE. Use master data sources and, when mastering data, make it available to other services through interfaces
 
-### 6.2.	Rationale 
+**Rationale** 
+
 *	Reliable data drives informed decision-making and operational efficiency
 *	Duplication or poor data management practices reduces user trust, introduces errors, 
 discrepancies and data quality issues, whilst increasing the cost and effort of data collation 
@@ -175,7 +168,8 @@ and analysis
 data, improve user experience and trust, and reduce data engineering costs, in 
 preparing data for analysis
 
-### 6.3.	Implications 
+**Implications**
+
 *	Use authoritative data sources without creating copies, to ensure data consistency, integrity and quality
 *	Authoritative data sources must have availability and scalability to meet service 
 demands, with appropriate support and service levels
@@ -186,10 +180,10 @@ operational and analytical data
 
 ## 7. Reuse and modularity
 
-### 7.1.	Description
 Solve problems once, encouraging the creation and reuse of components, services and patterns
 
-### 7.2.	Rationale 
+**Rationale**
+
 *	Delivering services and functionality is expensive - by avoiding reinventing the wheel, we 
 can streamline development efforts, reduce duplication and costs
 *	By decomposing services into small reusable components, teams can consume these 
@@ -206,7 +200,8 @@ making changes, only the component changes which reduces the testing required
 *	Measuring the of use of components allows better understanding of user journeys, to 
 inform policy and delivery decisions
 
-### 7.3.	Implications 
+**Implications**
+
 *	Interdependencies between services and teams increases complexity and will slow delivery
 initially 
 *	Assume that someone will need to reuse any new capabilities you deliver - look for 
@@ -231,10 +226,10 @@ functionality they provide
 
 ## 8. Design for operation
 
-### 8.1.	Description 
 Architect systems and services with operational efficiency, reliability and sustainability in mind
 
-### 8.2.	Rationale 
+**Rationale**
+
 *	Smooth service operations reduce downtime, enhance reliability and availability
 *	Designing for efficient operations, with appropriate availability and scalability without 
 manual intervention, drives reduced TCO
@@ -242,7 +237,8 @@ manual intervention, drives reduced TCO
 minimise delivery costs, or accelerate delivery timescales that adversely impact the 
 organisation or users long-term.
 
-### 8.3.	Implications 
+**Implications**
+
 *	Design systems with appropriate resilience and scalability to meet service needs, and 
 those of any dependent services. Where possible, automate these to avoid service 
 impacts in the event of sudden demand or failures.
@@ -271,18 +267,19 @@ evaluating options
 
 ## 9. 'Good enough' services
 
-### 9.1.	Description 
 Recognise that perfection is not always necessary. Strive for services that meet essential 
 requirements without unnecessary features. Prioritise value over perfection, especially in agile 
 and iterative contexts.
 
-### 9.2.	Rationale 
+**Rationale**
+
 * Balancing pragmatism with quality allows for faster delivery, adaptability and maximises 
 taxpayer value, whilst minimising delivery costs and allowing people to pivot to other 
 delivery
 * Pareto rule – 20% of functionality delivers 80% of the value
 
-### 9.3.	Implications 
+**Implications**
+
 *	Architecture needs to reflect the emergent nature of agile delivery and therefore do 'just 
 enough' architecture to enable delivery. This means longer term architecture should still 
 be done, but at an appropriate level to adapt, as detail emerges through delivery.
