@@ -14,18 +14,6 @@ These principles should be applied alongside the UK Government [Service Standard
 
 ---
 
-  - [1. Align with business objectives](#1-align-with-business-objectives)
-  - [2. Standardisation](#2-standardisation)
-  - [3. Flexibility and adaptability](#3-flexibility-and-adaptability)
-  - [4. Security and compliance](#4-security-and-compliance)
-  - [5. Cloud First - rent, before buy, before build](#5-cloud-first---rent-before-buy-before-build)
-  - [6. Data integrity and quality](#6-data-integrity-and-quality)
-  - [7. Reuse and modularity](#7-reuse-and-modularity)
-  - [8. Design for operation](#8-design-for-operation)
-  - [9. 'Good enough' services](#9-good-enough-services)
-
----
-
 ## 1. Align with business objectives
 
 **1.1.	Description**
