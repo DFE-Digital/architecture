@@ -12,7 +12,6 @@ Discovery, user research and requirements gathering provide user needs (and want
 
 These principles should be applied alongside the UK Government [Service Standard](https://www.gov.uk/service-manual/service-standard) and [Technology Code of Practice](https://www.gov.uk/guidance/the-technology-code-of-practice).
 
----
 
 ## 1. Align with business objectives
 
@@ -39,7 +38,6 @@ government policies and priorities
 delivering the capabilities should be weighed-up against the impact to achieving 
 departmental objectives
 
----
 
 ## 2. Standardisation
 
@@ -70,7 +68,6 @@ to use cases and allow exceptions for unusual scenarios
 technologies
 *	Need the flexibility to experiment with modern technologies to evaluate usefulness
 
----
 
 ## 3. Flexibility and adaptability
 
@@ -93,7 +90,6 @@ offset by reduced future cost of change
 *	Change may not happen - do not cover every eventuality, only consider changes that 
 could be expected within the lifecycle of a service/product
 
- ---
 
 ## 4. Security and compliance
 
@@ -122,11 +118,10 @@ and data - even if your service is considered lower risk, protections are
 required to prevent your system becoming a 'back door' into sensitive data elsewhere in 
 the organisation
 
----
 
-## 5. Cloud First - rent, before buy, before build
+## 5. Cloud First
 
-Do not build what can easily be bought off-the-shelf. Prioritise cloud-based services over on-premises alternatives.
+Rent, before buy, before build. Do not build what can easily be bought off-the-shelf. Prioritise cloud-based services over on-premises alternatives.
 
 **Rationale**
 
@@ -152,7 +147,6 @@ processes to align with COTS where possible.
 over Infrastructure-as-a-Service (IaaS), over on-premises options, when evaluating service 
 hosting options
 
----
 
 ## 6. Data integrity and quality
 
@@ -176,7 +170,6 @@ demands, with appropriate support and service levels
 *	Embed data management and governance practices in the organisation for both 
 operational and analytical data
 
----
 
 ## 7. Reuse and modularity
 
@@ -222,7 +215,6 @@ mitigation
 *	Requires teams to be able to discover existing components, services and patterns, and the 
 functionality they provide
 
----
 
 ## 8. Design for operation
 
@@ -263,7 +255,6 @@ future scalability (up and down) and optimise operational resource and cost dema
 *	Include full-lifecycle people and technical resource costs in TCO comparisons when 
 evaluating options
 
----
 
 ## 9. 'Good enough' services
 
