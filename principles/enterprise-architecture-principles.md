@@ -14,8 +14,6 @@ These principles should be applied alongside the UK Government [Service Standard
 
 ---
 
-**The Principles**
-
 1.	[Business alignment](#1-align-with-business-objectives)
 2.	[Standardisation](#2-standardisation)
 3.	[Flexibility and adaptability](#3-flexibility-and-adaptability)
