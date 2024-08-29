@@ -14,7 +14,6 @@ These principles should be applied alongside the UK Government [Service Standard
 
 ---
 
-- [Enterprise Architecture Principles](#enterprise-architecture-principles)
   - [1. Align with business objectives](#1-align-with-business-objectives)
   - [2. Standardisation](#2-standardisation)
   - [3. Flexibility and adaptability](#3-flexibility-and-adaptability)
