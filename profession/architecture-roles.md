@@ -40,6 +40,14 @@ Technical Architects currently work in portfolios and service lines within DfE, 
 
 Read more about the role of a [technical architect](https://dfe-digital.github.io/dfe-job-descriptions/architects/technical_architect) in DfE.
 
+## Business architects
+
+Business Architects are...
+
+Business Architects currently work in portfolios and service lines within DfE, such as those found in Teacher Services or Children and Families, for example. This role is aligned to the [Technical Architect](https://www.gov.uk/guidance/technical-architect) job family of the GOV.UK DDaT Capability Framework.
+
+Read more about the role of a [technical architect](https://dfe-digital.github.io/dfe-job-descriptions/architects/technical_architect) in DfE.
+
 ## Data architects
 
 Data architects set the vision for DfE’s use of data, through data design, to meet business needs. They design and build data models to fulfil the strategic data needs of the business, as defined by the Chief Data Architect.
