@@ -26,9 +26,11 @@ Read more about the role of an [enterprise architect](https://dfe-digital.github
 
 ## Business architects
 
-Business Architects are...
+Business Architects bridge the gap between business strategy and delivery and can usually be found operating within delivery teams helping teams to understand how capabilities, the organisation and information contribute to delivering value through organisational objectives.
 
-Business Architects currently work in portfolios and service lines within DfE, such as those found in Teacher Services or Children and Families, for example. This role is aligned to the [Technical Architect](https://www.gov.uk/guidance/technical-architect) job family of the GOV.UK DDaT Capability Framework.
+Business Architects typically create capability, information and organisation maps; value stream diagrams; business models and employ techniques such as heat mapping to enable greater understanding leading to more efficient and effective delivery.
+
+The Business Architect role is aligned to the [Business Architect](https://ddat-capability-framework.service.gov.uk/role/business-architect) job family of the GOV.UK DDaT Capability Framework.
 
 Read more about the role of a [business architect](https://dfe-digital.github.io/dfe-job-descriptions/architects/business_architect) in DfE.
 
