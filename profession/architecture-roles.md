@@ -1,6 +1,6 @@
 ---
 category: capability
-expires: 2023-12-01
+expires: 2024-12-01
 ---
 
 # Architecture roles
@@ -24,6 +24,16 @@ Their responsibilities typically include:
 
 Read more about the role of an [enterprise architect](https://dfe-digital.github.io/dfe-job-descriptions/architects/enterprise_architect) in DfE.
 
+## Business architects
+
+Business Architects bridge the gap between business strategy and delivery. They help business and delivery teams to understand how capabilities, the organisation and information contribute to delivering value, through organisational objectives.
+
+Business Architects typically create capability, information and organisation maps, value stream diagrams and business models. They employ techniques such as heat-mapping, to provide greater understanding of the landscape, enabling more efficient and effective delivery.
+
+The Business Architect role is aligned to the [Business Architect](https://ddat-capability-framework.service.gov.uk/role/business-architect) job family of the Government Digital and Data Capability Framework.
+
+Read more about the role of a [business architect](https://dfe-digital.github.io/dfe-job-descriptions/architects/business_architect) in DfE.
+
 ## Solution architects
 
 Solution Architects typically work within delivery teams to find the best use of data, applications and technology for the design and delivery of services and products. Whilst also helping to deliver business change and achieving organisational objectives.
@@ -36,7 +46,7 @@ Read more about the role of a [solution architect](https://dfe-digital.github.io
 
 Technical Architects are generally embedded within a multi-disciplinary team (or across multiple teams), working end-to-end to help to design and implement technical solutions. They are often specialists or technical subject matter experts in one or more disciplines (e.g. software development, data, security, DevOps). They tend to work in continuous delivery environments and are comfortable with turning business problems into technical design. They tend to be from a software development or engineering background and are comfortable using technical toolsets and / or code.
 
-Technical Architects currently work in portfolios and service lines within DfE, such as those found in Teacher Services or Children and Families, for example. This role is aligned to the [Technical Architect](https://www.gov.uk/guidance/technical-architect) job family of the GOV.UK DDaT Capability Framework.
+Technical Architects currently work in portfolios and service lines within DfE, such as those found in Teacher Services or Children and Families, for example. This role is aligned to the [Technical Architect](https://ddat-capability-framework.service.gov.uk/role/technical-architect) job family of the Government Digital and Data Capability Framework.
 
 Read more about the role of a [technical architect](https://dfe-digital.github.io/dfe-job-descriptions/architects/technical_architect) in DfE.
 
@@ -44,7 +54,7 @@ Read more about the role of a [technical architect](https://dfe-digital.github.i
 
 Data architects set the vision for DfE’s use of data, through data design, to meet business needs. They design and build data models to fulfil the strategic data needs of the business, as defined by the Chief Data Architect.
 
-For more information, have a look at the [data architecture and governance division](https://educationgovuk.sharepoint.com/sites/lvewp00071/SitePages/Data-Architecture.aspx) pages.
+For more information, have a look at the [data architecture and governance](https://educationgovuk.sharepoint.com/sites/lvewp00071/SitePages/Data-Architecture.aspx) site.
 
 ## Security architects
 
@@ -58,7 +68,7 @@ Security architects design, build and assure the security of solutions. In DfE, 
 
 ## Specialist architects
 
-We also have some [Specialist Technical Architects](https://www.gov.uk/government/publications/technical-specialist-architect-role-description/technical-specialist-architect-role-description) (focused on things like infrastructure or networks, for example), who work closely with service delivery teams and the other parts of the department to help achieve our goals.
+We also have some [Specialist Technical Architects](https://www.gov.uk/guidance/technical-specialist-architect) (focused on things like infrastructure or networks, for example), who work closely with service delivery teams and the other parts of the department to help achieve our goals.
 
 ## Profession support
 
