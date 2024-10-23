@@ -181,7 +181,7 @@ Find and Use an API is a service which provides a central place to host and disc
 
 It provides a GOV.UK branded public facing front door for users to discover and consume data from DfE APIs. APIs can be public facing, or available to DfE internal users only. A management portal is provided to allow developers to configure, document, provide information on authentication and publish APIs, and to manage subscription requests from users.
 
-Developers of new DfE APIs should aim to host their APIs on Find and Use an API, leveraging the security benefits and infrastructure cost savings of a shared service. Existing APIs should be listed on the service to allow discoverability and satisfy CDDO reporting requirements.
+Developers of new DfE APIs must host their APIs on Find and Use an API (other than in a small number of agreed exceptional cases), leveraging the security benefits and infrastructure cost savings of a shared service. Existing APIs which are hosted elsewhere must be listed on the service to allow discoverability and satisfy CDDO reporting requirements.
 
 __Development / Test / Pre-Production service__
 The Find and Use an API Pre-Production service should be used for all non-production purposes, e.g. development, test, UAT, OAT, or pre-production workloads.
@@ -218,7 +218,7 @@ We are currently in the process of finalising the documentation for Find and Use
 
 __Support and further guidance__
 
-The service is supported internally by the Solutions Delivery Team, within Infrastructure and Platforms. We provide support on weekdays between 9am and 5pm. For any incidents or requests, please log through [ServiceNow](https://dfe.service-now.com/serviceportal). For any other queries please contact our [support mailbox](mailto:dfe-api.support@education.gov.uk)
+The service is supported internally by the Solutions Delivery Team, within Infrastructure and Platforms. We provide support on weekdays between 9am and 5pm. For any incidents or requests, please log through [ServiceNow](https://dfe.service-now.com/serviceportal). Out-of-hours support is available with prior agreement. For any other queries please contact our [support mailbox](mailto:dfe-api.support@education.gov.uk)
 
 <a name="edap"></a>
 ### Enterprise Data and Analytics Platform
