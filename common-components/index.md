@@ -214,7 +214,7 @@ Here are some of the key benefits:
 
 __Documentation__
 
-We are currently in the process of finalising the documentation for Find and Use API, so please contact our [support mailbox](mailto:dfe-api.support@education.gov.uk) if you need further information.
+We are currently in the process of finalising the documentation for Find and Use an API, so please contact our [support mailbox](mailto:dfe-api.support@education.gov.uk) if you need further information.
 
 __Support and further guidance__
 
