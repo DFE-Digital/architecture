@@ -53,3 +53,17 @@ When mapping and analysing always aim to include as many of the core business ar
 
 *	Time and effort required to map may be significant
 *	Time and effort required to maintain maps may be significant
+
+## 4. The ultimate aim of business architecture is to increase organisational value
+
+Focus on identifying, creating, and optimising value. Prioritise activities that generate measurable outcomes or improvements for the DfE, rather than engaging in projects with unclear or marginal value.
+
+**Rationale**
+
+*	The DfE muse demonstrate value for money
+*	
+
+**Implications**
+
+*	
+*	
