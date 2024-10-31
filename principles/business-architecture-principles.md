@@ -10,8 +10,6 @@ Business Architecture principles serve as a set of rules and guidelines shaping 
 
 These principles should not be considered in isolation, rather they should build on Enterprise Architecture principles. Like most principles they intend to be enduring and seldom amended.
 
-These principles should be applied alongside the UK Government [Service Standard](https://www.gov.uk/service-manual/service-standard) and [Technology Code of Practice](https://www.gov.uk/guidance/the-technology-code-of-practice).
-
 
 ## 1. 1.	Align with business strategy
 
