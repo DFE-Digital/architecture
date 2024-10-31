@@ -26,3 +26,16 @@ Business architecture should always align with, and prioritise activities that s
 
 *	All business architecture initiatives must demonstrate how they contribute to DfEs overall strategy and goals.
 *	A solid understanding of DfE strategy and goals is a pre-requisite to embarking on business architecture.
+
+## 2. The business drives the narrative
+
+Business architecture activities are driven by the stakeholder voice. Business architects should be able to link work back to stakeholder requirements and present architecture options and alternatives based on requirements for stakeholders to review and approve.
+
+**Rationale**
+
+*	Satisfying stakeholder requirements provides an increased chance of delivering improvements through architecture lead business change
+
+**Implications**
+
+*	•	All business architecture initiatives must demonstrate how they contribute to business success.
+*	A solid understanding of DfE strategy and goals is a pre-requisite to embarking on business architecture.
