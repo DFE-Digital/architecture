@@ -11,7 +11,7 @@ Business Architecture principles serve as a set of rules and guidelines shaping 
 These principles should not be considered in isolation, rather they should build on Enterprise Architecture principles. Like most principles they intend to be enduring and seldom amended.
 
 
-## 1. 1.	Align with business strategy
+## 1. Align with business strategy
 
 Business architecture should always align with, and prioritise activities that support, DfE’s overall strategy and goals.
 
