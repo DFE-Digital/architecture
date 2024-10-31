@@ -15,21 +15,21 @@ Like most principles they intend to be enduring and seldom amended.
 
 ## 1. Align with business strategy
 
-Business architecture should always align with, and prioritise activities that support, DfE’s overall strategy and goals.
+Business architecture should always align with, and prioritise activities that support, DfE’s overall strategy and goals
 
 **Rationale**
 
 *	Ensures that architectural recommendations and decisions regarding DfE’s capabilities, organisation and information directly support DfE’s strategy and goals
-*	Business architecture helps determine the structures that enable strategy to be executed effectively and efficiently.
+*	Business architecture helps determine the structures that enable strategy to be executed effectively and efficiently
 
 **Implications**
 
-*	All business architecture initiatives must demonstrate how they contribute to DfEs overall strategy and goals.
-*	A solid understanding of DfE strategy and goals is a pre-requisite to embarking on business architecture.
+*	All business architecture initiatives must demonstrate how they contribute to DfEs overall strategy and goals
+*	A solid understanding of DfE strategy and goals is a pre-requisite to embarking on business architecture
 
 ## 2. The business drives the narrative
 
-Business architecture activities are driven by the stakeholder voice. Business architects should be able to link work back to stakeholder requirements and present architecture options and alternatives based on requirements for stakeholders to review and approve.
+Business architecture activities are driven by the stakeholder voice. Business architects should be able to link work back to stakeholder requirements and present architecture options and alternatives based on requirements for stakeholders to review and approve
 
 **Rationale**
 
@@ -42,7 +42,7 @@ Business architecture activities are driven by the stakeholder voice. Business a
 
 ## 3. The greater the scope the greater the benefit
 
-When mapping and analysing always aim to include as many of the core business architecture elements (capabilities, organisation, information and value streams) and as wide a view of the business as possible.
+When mapping and analysing always aim to include as many of the core business architecture elements (capabilities, organisation, information and value streams) and as wide a view of the business as possible
 
 **Rationale**
 
@@ -56,11 +56,11 @@ When mapping and analysing always aim to include as many of the core business ar
 
 ## 4. The ultimate aim of business architecture is to increase organisational value
 
-Focus on identifying, creating, and optimising value. Prioritise activities that generate measurable outcomes or improvements for the DfE, rather than engaging in projects with unclear or marginal value.
+Focus on identifying, creating, and optimising value. Prioritise activities that generate measurable outcomes or improvements for the DfE, rather than engaging in projects with unclear or marginal value
 
 **Rationale**
 
-*	The DfE muse demonstrate value for money
+*	The DfE, as a public body and  must demonstrate value for money
 *	
 
 **Implications**
