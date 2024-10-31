@@ -37,5 +37,5 @@ Business architecture activities are driven by the stakeholder voice. Business a
 
 **Implications**
 
-*	•	All business architecture initiatives must demonstrate how they contribute to business success.
-*	A solid understanding of DfE strategy and goals is a pre-requisite to embarking on business architecture.
+*	All business architecture initiatives must demonstrate how they contribute to business success
+*	Stakeholders play an important part in business architecture, their buy in and active engagement are essential to success
