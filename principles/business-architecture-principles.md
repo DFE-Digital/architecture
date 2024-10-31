@@ -8,7 +8,9 @@ Business Architecture is a structured approach for aligning an organisation’s 
 
 Business Architecture principles serve as a set of rules and guidelines shaping business architecture activities and together with appropriate standards provide the consistency and required focus necessary to support high quality outcomes.
 
-These principles should not be considered in isolation, rather they should build on Enterprise Architecture principles. Like most principles they intend to be enduring and seldom amended.
+These principles should not be considered in isolation, rather they should build on Enterprise Architecture principles.
+
+Like most principles they intend to be enduring and seldom amended.
 
 
 ## 1. Align with business strategy
