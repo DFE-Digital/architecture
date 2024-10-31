@@ -39,3 +39,17 @@ Business architecture activities are driven by the stakeholder voice. Business a
 
 *	All business architecture initiatives must demonstrate how they contribute to business success
 *	Stakeholders play an important part in business architecture, their buy in and active engagement are essential to success
+
+## 3. The greater the scope the greater the benefit
+
+When mapping and analysing always aim to include as many of the core business architecture elements (capabilities, organisation, information and value streams) and as wide a view of the business as possible.
+
+**Rationale**
+
+*	Mapping in isolation will only provide a sliced view of an organisation, limiting analysis and limiting the ability to identify improvements
+*	Mapping all elements and relating elements to each other exponentially increases understanding of an organisation
+
+**Implications**
+
+*	Time and effort required to map may be significant
+*	Time and effort required to maintain maps may be significant
