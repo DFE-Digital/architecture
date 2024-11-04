@@ -60,7 +60,7 @@ Focus on identifying, creating, and optimising value. Prioritise activities that
 
 **Rationale**
 
-*	The DfE, as a public body and  must demonstrate value for money.
+*	The DfE, as a public body must demonstrate value for money.
 *	
 
 **Implications**
