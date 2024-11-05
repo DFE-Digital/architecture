@@ -34,11 +34,13 @@ Business architecture activities are driven by the stakeholder voice. Business a
 **Rationale**
 
 *	Satisfying stakeholder requirements provides an increased chance of delivering improvements through architecture lead business change.
+*	By keeping a stakeholder-centric focus, the architect can design processes and solutions that enhance satisfaction and deliver value.
 
 **Implications**
 
 *	All business architecture initiatives must demonstrate how they contribute to business success.
 *	Stakeholders play an important part in business architecture, their buy in and active engagement are essential to success.
+*	Establish communication channels, involve stakeholders early in the design process, and maintain ongoing dialogue.
 
 ## 3. The greater the scope the greater the benefit
 
@@ -48,6 +50,7 @@ When mapping and analysing always aim to include as many of the core business ar
 
 *	Mapping in isolation will only provide a sliced view of an organisation, limiting analysis and limiting the ability to identify improvements.
 *	Mapping all elements and relating elements to each other exponentially increases understanding of an organisation.
+*	A holistic approach helps to avoid silos and ensures that changes in one area do not negatively impact others.
 
 **Implications**
 
@@ -61,9 +64,8 @@ Focus on identifying, creating, and optimising value. Prioritise activities that
 **Rationale**
 
 *	The DfE, as a public body must demonstrate value for money.
-*	
+*	Public funds must be used efficiently to deliver maximum value.
 
 **Implications**
 
-*	
-*	
+*	Continuous review and optimisation of processes, leveraging technology for automation where appropriate, and minimising waste.
