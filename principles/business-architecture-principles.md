@@ -44,18 +44,18 @@ Business architecture activities are driven by the stakeholder voice. Business a
 
 ## 3. The greater the scope, the greater the benefit
 
-When mapping and analysing, always aim to include as many of the core business architecture elements (capabilities, organisation, information and value streams) and as wide a view of the organisation as possible.
+When mapping, modelling and analysing, always aim to include as many of the core business architecture elements (capabilities, organisation, information and value streams) and as wide a view of the organisation as possible.
 
 **Rationale**
 
-*	Mapping in isolation will only provide a 'sliced' view of the organisation, limiting analysis and limiting the ability to identify improvements.
-*	Mapping all elements and relating elements to each other exponentially increases understanding of an organisation.
+*	Mapping or modelling in isolation will only provide a 'sliced' view of the organisation, limiting analysis and limiting the ability to identify improvements.
+*	Mapping or modelling all elements and relating elements to each other exponentially increases understanding of an organisation.
 *	A holistic approach helps to avoid silos and ensures that changes in one area do not negatively impact others.
 
 **Implications**
 
-*	Time and effort required to map more broadly may be significant.
-*	Time and effort required to maintain maps, once created, may be significant.
+*	Time and effort required to map or model more broadly may be significant.
+*	Time and effort required to maintain maps and models, once created, may be significant.
 
 ## 4. Increase organisational value
 
