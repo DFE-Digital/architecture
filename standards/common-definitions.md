@@ -97,6 +97,8 @@ Capabilities can be grouped together into families or categories, for instance:
 - business capabilities, that describe core activities an organisation does to achieve its goals.
 - enabling capabilities, that, in of themselves, do not directly deliver organisation goals but rather support other capabilities, and might be shared or centralised.
 
+Capabilities can also be decomposed into levels to show more detail, usually to no more than 3 levels.
+
 The DfE might define an organisational need to deliver Curriculum Design (a business capability). This will require people, processes, information, technology and other things. These may in turn rely on other capabilities, such as communications or finance, to support their delivery (enabling capability).
 
 
