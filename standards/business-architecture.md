@@ -1,15 +1,15 @@
 ---
-category: Standards
+category: Guidance
 expires: 2025-12-11
 ---
 
 # Business Architecture
 
-In DfE, business architects may be employed in various ways, performing various tasks. Whilst there may be no consistency in what a business architect is tasked to do it can be useful for DfE to have standards focused on how usual business architecture tasks might be performed.
+In DfE, business architects may be employed in various ways, performing various tasks. Whilst there may be no consistency in what a business architect is tasked to do it can be useful for DfE to have accepted practice focused on how usual business architecture tasks might be performed.
 
-Standards help provide business architects with guidance when creating artifacts, can ‘jump start’ tasks which would otherwise need scoping and support combining, comparing or contrasting artifacts by providing consistency if such activities are desired.
+Accepted practice helps provide business architects with guidance when creating artifacts, can ‘jump start’ tasks which would otherwise need scoping and support combining, comparing or contrasting artifacts by providing consistency if such activities are desired.
 
-Many business architecture standards might be suggested, none of which would be right or wrong. The standards offered are considered sensible for DfE, none are mandated.
+Many business architecture practices might be suggested, none of which would be right or wrong. The practices offered are considered sensible for DfE, none are mandated.
 
 Business architects should refer to DfE terms and definitions for descriptions of some of the ‘things’.
 
