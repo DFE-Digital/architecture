@@ -37,6 +37,8 @@ The terms we use in the different levels of work may have different meanings or 
 
 - [Service](#service)
 - [Capability](#capability)
+- [Value Stream](#values)
+- [Organisation](#organisation)
 - [Product](#product)
 - [Feature](#feature)
 - [Activities and tasks](#activities)
@@ -100,6 +102,24 @@ Capabilities can be grouped together into families or categories, for instance:
 Capabilities can also be decomposed into levels to show more detail, usually to no more than 3 levels.
 
 The DfE might define an organisational need to deliver Curriculum Design (a business capability). This will require people, processes, information, technology and other things. These may in turn rely on other capabilities, such as communications or finance, to support their delivery (enabling capability).
+
+
+<a name="values"></a>
+### Value Stream ###
+
+A value stream is a high-level representation of how an organisation creates value for its stakeholders. For the public sector value might also be thought of as an outcome and is most often associated with policy aims and objectives.
+Value streams are sequences of activities that when actioned enable an organisation to deliver value.
+Value streams are often represented in ‘map’ format showing relationships and flow between activities.
+Value streams are most often created as part of activities to describe an organisation to aid understanding and improved decision making.
+
+
+<a name="organisation"></a>
+### Organisation ###
+
+An organisation is an entity structured to achieve a range of objectives. For DfE these objectives are most likely to be outcomes associated to policy or the value DfE attempts to deliver.
+Organisation structures are most often represented in ‘map’ format showing relationships and flow between organisational units.
+Organisation maps should not be confused with organisation trees which are primarily concerned with hierarchies and reporting lines.
+Organisation maps are unlikely to be used in isolation and are most often created alongside mapping and modelling of capabilities, value streams and other such collateral to aid understanding and improved decision making.
 
 
 <a name="product"></a>
