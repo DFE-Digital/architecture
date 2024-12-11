@@ -108,8 +108,11 @@ The DfE might define an organisational need to deliver Curriculum Design (a busi
 ### Value Stream ###
 
 A value stream is a high-level representation of how an organisation creates value for its stakeholders. For the public sector value might also be thought of as an outcome and is most often associated with policy aims and objectives.
+
 Value streams are sequences of activities that when actioned enable an organisation to deliver value.
+
 Value streams are often represented in ‘map’ format showing relationships and flow between activities.
+
 Value streams are most often created as part of activities to describe an organisation to aid understanding and improved decision making.
 
 
@@ -117,8 +120,11 @@ Value streams are most often created as part of activities to describe an organi
 ### Organisation ###
 
 An organisation is an entity structured to achieve a range of objectives. For DfE these objectives are most likely to be outcomes associated to policy or the value DfE attempts to deliver.
+
 Organisation structures are most often represented in ‘map’ format showing relationships and flow between organisational units.
+
 Organisation maps should not be confused with organisation trees which are primarily concerned with hierarchies and reporting lines.
+
 Organisation maps are unlikely to be used in isolation and are most often created alongside mapping and modelling of capabilities, value streams and other such collateral to aid understanding and improved decision making.
 
 
