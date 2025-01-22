@@ -29,7 +29,7 @@ The architecture profession will work with you and your [architecture lead](arch
 - link them into the wider DfE architecture profession and communities
 - exit them professionally when their work is complete, with appropriate handover and knowledge transfer
 
-The profession can provide example [job descriptions](https://dfe-digital.github.io/dfe-job-descriptions), structured recruitment materials and template statements of work (for managed services and contingent workers).
+The profession can provide example [job descriptions](https://job-descriptions.education.gov.uk), structured recruitment materials and template statements of work (for managed services and contingent workers).
 
 If you'd like to know more, or discuss your needs in more detail, contact the [architecture profession](mailto:architecture.profession@education.gov.uk).
 
