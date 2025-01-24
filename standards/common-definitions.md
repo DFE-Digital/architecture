@@ -86,7 +86,7 @@ Capabilities can be grouped together into families or categories, for instance:
 
 Capabilities can also be decomposed into levels to show more detail, usually to no more than 3 levels.
 
-The DfE might define an organisational need to deliver Curriculum Design (a business capability). This will require people, processes, information, technology and other things. These may in turn rely on other capabilities, such as communications or finance, to support their delivery (enabling capability).
+The DfE might define an organisational need to deliver Curriculum Design (a business capability). This will require people, processes, information, technology and other things. These may in turn rely on other capabilities, such as communications or finance, to support their delivery (enabling capabilities).
 
 
 <a name="common-components"></a>
@@ -125,9 +125,9 @@ Data can sometimes be provided as a service for internal or specialist end users
 <a name="ddat"></a>
 ### DDaT / DDT ###
 
-Digital, Data and Technology (DDaT) was re-branded as Government Digital and Data in 2023. It is a profession in the UK Civil Service, spearheaded by GDS and characterised by the [Government Digital and Data Profession Capability Framework](https://ddat-capability-framework.service.gov.uk/).
+Digital, Data and Technology (DDaT) was re-branded as Government Digital and Data in 2023. It is a profession in the UK Civil Service, spearheaded by the Government Digital Service (GDS) and characterised by the [Government Digital and Data Profession Capability Framework](https://ddat-capability-framework.service.gov.uk/).
 
-Digital, Data, Technology (DDT) is a term used within DfE to describe the collective community of people working in data, digital and technology roles across the department.
+Digital, Data, Technology (DDT) is a term used within DfE to describe the collective community of people working in digital, data and technology roles across the department.
 
 
 <a name="feature"></a>
@@ -141,13 +141,13 @@ For example, features common to popular collaboration software products, like Te
 <a name="organisation"></a>
 ### Organisation ###
 
-An organisation is an entity structured to achieve a range of objectives. For DfE these objectives are most likely to be outcomes associated to policy or the value DfE attempts to deliver.
+An organisation is an entity structured to achieve a range of objectives. For DfE these objectives are most likely to be outcomes associated with policy or the missions DfE delivers.
 
-Organisation structures are most often represented in ‘map’ format showing relationships and flow between organisational units.
+Organisation structures are most often represented in a 'map' format, showing relationships and flow between organisational units.
 
-Organisation maps should not be confused with organisation trees which are primarily concerned with hierarchies and reporting lines.
+Organisation maps should not be confused with organisation trees, which are primarily concerned with hierarchies and reporting lines.
 
-Organisation maps are unlikely to be used in isolation and are most often created alongside mapping and modelling of capabilities, value streams and other such collateral to aid understanding and improved decision making.
+Organisation maps are unlikely to be used in isolation and are most often created alongside mapping and modelling of capabilities, value streams and other such collateral, to aid understanding and improved decision making.
 
 
 <a name="platform"></a>
@@ -224,7 +224,7 @@ Technology maintain a register of all Services, Products, Technology and Platfor
 
 
 <a name="roles"></a>
-## Roles ##
+### Roles ###
 
 We’re conscious that definitions of the roles involved in creating and maintaining services can sometimes be confusing - for example, does the Service Owner of a public-facing service have the same responsibilities as a Service Owner for an internal DfE service?
 
