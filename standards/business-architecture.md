@@ -13,7 +13,7 @@ Accepted best practice helps provide business architects with guidance when crea
 
 Many business architecture practices might be suggested or used in DfE. Whilst the practices offered below are considered sensible for DfE, none are mandated.
 
-Business architects should refer to the [DfE Subject Taxonomy](https://educationgovuk.sharepoint.com/sites/lvedfe00014) and [common definitions](common-definitions) for terms and definitions, for descriptions of some of the ‘things’.
+Business architects should refer to the [DfE Subject Taxonomy](https://educationgovuk.sharepoint.com/sites/lvedfe00014) and [common definitions](https://dfe-digital.github.io/architecture/standards/common-definitions/#common-definitions) for terms and definitions, for descriptions of some of the ‘things’.
 
 
 ## Maps and mapping
