@@ -22,7 +22,7 @@ Their responsibilities typically include:
 - ownership of architecture strategy and roadmaps for the organisation, including ‘as-is’ and ‘to-be’ transitional states
 - understanding DfE's ecosystem and its inter-dependencies
 
-Read more about the role of an [enterprise architect](https://dfe-digital.github.io/dfe-job-descriptions/architects/enterprise_architect) in DfE.
+Read more about the role of an [enterprise architect](https://job-descriptions.education.gov.uk/architects/enterprise-architect/) in DfE.
 
 ## Business architects
 
@@ -32,7 +32,7 @@ Business Architects typically create capability, information and organisation ma
 
 The Business Architect role is aligned to the [Business Architect](https://ddat-capability-framework.service.gov.uk/role/business-architect) job family of the Government Digital and Data Capability Framework.
 
-Read more about the role of a [business architect](https://dfe-digital.github.io/dfe-job-descriptions/architects/business_architect) in DfE.
+Read more about the role of a [business architect](business-architecture) in DfE.
 
 ## Solution architects
 
@@ -40,7 +40,7 @@ Solution Architects typically work within delivery teams to find the best use of
 
 Solution Architects own the overall technical vision for a solution or set of solutions, or within a particular domain. They work within service delivery teams to assure the implementation and delivery of those solutions.
 
-Read more about the role of a [solution architect](https://dfe-digital.github.io/dfe-job-descriptions/architects/solution_architect) in DfE.
+Read more about the role of a [solution architect](https://job-descriptions.education.gov.uk/architects/solution-architect/) in DfE.
 
 ## Technical architects
 
@@ -48,13 +48,13 @@ Technical Architects are generally embedded within a multi-disciplinary team (or
 
 Technical Architects currently work in portfolios and service lines within DfE, such as those found in Teacher Services or Children and Families, for example. This role is aligned to the [Technical Architect](https://ddat-capability-framework.service.gov.uk/role/technical-architect) job family of the Government Digital and Data Capability Framework.
 
-Read more about the role of a [technical architect](https://dfe-digital.github.io/dfe-job-descriptions/architects/technical_architect) in DfE.
+Read more about the role of a [technical architect](https://job-descriptions.education.gov.uk/architects/technical-architect/) in DfE.
 
 ## Data architects
 
 Data architects set the vision for DfE’s use of data, through data design, to meet business needs. They design and build data models to fulfil the strategic data needs of the business, as defined by the Chief Data Architect.
 
-For more information, have a look at the [data architecture and governance](https://educationgovuk.sharepoint.com/sites/lvewp00071/SitePages/Data-Architecture.aspx) site.
+For more information, have a look at the [data architecture](https://educationgovuk.sharepoint.com/sites/lvedfe00108/) site.
 
 ## Security architects
 
@@ -65,6 +65,8 @@ Security architects design, build and assure the security of solutions. In DfE, 
 - communicate widely with other stakeholders
 - advise on important security-related technologies and assess the risk associated with proposed changes
 - inspire and influence others to execute security principles
+
+This role is aligned to the [Security Architect](https://ddat-capability-framework.service.gov.uk/role/security-architect) job family of the Government Digital and Data Capability Framework.
 
 ## Specialist architects
 
