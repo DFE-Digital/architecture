@@ -4,11 +4,13 @@ expires: 2025-08-31
 ---
 # Business Architecture Principles
 
-Business Architecture aims to achieve alignment between an organisation’s strategy and its operational delivery. For DfE, it can provide insight into how DfE’s capabilities, its organisation and information can be best structured and best used to bring value, through the delivery of DfE’s public service mission and, more broadly, through transparency, accessibility, sustainability and the efficient use of resources.
+Business Architecture aims to achieve alignment between an organisation’s strategy and its operational delivery. 
 
-Business Architecture principles serve as a set of rules and guidelines that shape business architecture activities and, together with appropriate standards, provide the consistency and focus necessary to deliver high quality outcomes.
+For DfE, it can provide insight into how DfE’s capabilities, its organisation and information can be best structured and used to bring value, through the delivery of DfE’s public service mission and, more broadly, through transparency, accessibility, sustainability and the efficient use of resources.
 
-These principles should not be considered in isolation, rather they should build on [enterprise-architecture-principles](Enterprise Architecture principles).
+Business Architecture principles serve as a set of rules and guidelines that shape business architecture activities and, together with appropriate [standards](https://standards.education.gov.uk), provide the consistency and focus necessary to deliver high quality outcomes.
+
+These principles should not be considered in isolation, rather they should build on [enterprise-architecture-principles](enterprise-architecture-principles).
 
 Like most principles, they intend to be enduring and seldom amended.
 
@@ -24,7 +26,7 @@ Business architecture should always align with, and prioritise activities that s
 
 **Implications**
 
-*	All business architecture initiatives must demonstrate how they contribute to DfEs overall strategy and goals.
+*	All business architecture initiatives must demonstrate how they contribute to DfE's overall strategy and goals.
 *	A solid understanding of DfE strategy and goals is a pre-requisite to implementing business architecture.
 
 ## 2. The organisation drives the narrative
@@ -44,18 +46,18 @@ Business architecture activities are driven by the stakeholder voice. Business a
 
 ## 3. The greater the scope, the greater the benefit
 
-When mapping and analysing, always aim to include as many of the core business architecture elements (capabilities, organisation, information and value streams) and as wide a view of the organisation as possible.
+When mapping, modelling and analysing, always aim to include as many of the core business architecture elements (capabilities, organisation, information and value streams) and as wide a view of the organisation as possible.
 
 **Rationale**
 
-*	Mapping in isolation will only provide a 'sliced' view of the organisation, limiting analysis and limiting the ability to identify improvements.
-*	Mapping all elements and relating elements to each other exponentially increases understanding of an organisation.
+*	Mapping or modelling in isolation will only provide a 'sliced' view of the organisation, limiting analysis and limiting the ability to identify improvements.
+*	Mapping or modelling all elements and relating elements to each other exponentially increases understanding of an organisation.
 *	A holistic approach helps to avoid silos and ensures that changes in one area do not negatively impact others.
 
 **Implications**
 
-*	Time and effort required to map more broadly may be significant.
-*	Time and effort required to maintain maps, once created, may be significant.
+*	Time and effort required to map or model more broadly may be significant.
+*	Time and effort required to maintain maps and models, once created, may be significant.
 
 ## 4. Increase organisational value
 
