@@ -49,7 +49,7 @@ To deliver most value capability models should be comparable and therefore need 
 
 In DfE, capability models should ideally follow the guidance below:
 
-Categorisation - Capabilities should be categorised as [Business or Enabling](https://dfe-digital.github.io/architecture/standards/common-definitions/#capability)
+Categorisation - Capabilities should be categorised (stratified) as [Business or Enabling](https://dfe-digital.github.io/architecture/standards/common-definitions/#capability)
 
 Levelling - Capabilities should be levelled (decomposed) usually to 3 levels
 
