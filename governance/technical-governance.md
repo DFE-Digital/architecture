@@ -4,7 +4,7 @@ expires: 2024-07-01
 ---
 
 
-# Technical governance
+# Design governance and assurance
 
 We have different ways of delivering services in DfE. But we always need to ensure that the technical design of our services meets the necessary [technical standards](../../standards/technical-standards).
 
