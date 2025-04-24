@@ -67,7 +67,7 @@ A temporary exemption may be applied whilst the artefact is reviewed, but this w
 
 **Major exception**
 
-Where non-compliance is more significant or complex, the architecture team will arrange a review, at pace, pulling in a range of subject matter experts and perspectives to ascertain whether an exception is possible and the conditions that would be applied.
+Where non-compliance is more significant or complex, the architecture team will arrange a _design forum_ review, at pace, pulling in a range of subject matter experts and perspectives to ascertain whether an exception is possible and the conditions that would be applied.
 
 **Exception review**
 
