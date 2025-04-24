@@ -10,7 +10,7 @@ We have different ways of delivering services in DfE. But we always need to ensu
 
 We want to make sure we're doing the right things (through governance) and doing things right (through assurance). And **not slowing down delivery** in the process.
 
-We’re testing a self-certification, exception-based approach for technical assurance. The core principle being that a team should be able to easily find and apply the DfE [technical standards](../../standards/technical-standards) in their work. 
+We take a self-certification, exception-based approach to design assurance across digital, data and technology. The core principle being that a team should be able to easily find and apply the DfE [technical standards](../../standards/technical-standards) in their work.
 
 Assuming a technical design complies with the standards, the team should not experience any friction in delivery. Where there is an exception - where there is no standard, it’s not possible to comply with a standard or a standard needs updating – there is a process for agreeing what to do. This might involve a few, or several people, depending on the complexity of the decision to be made.
 
