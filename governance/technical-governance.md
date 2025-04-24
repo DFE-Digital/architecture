@@ -31,7 +31,7 @@ In the unlikely event a consensus can’t be reached, escalation to the DDT Seni
 
 ### Self-certification
 
-During each design sprint, the person or team responsible for the technical design will search the [architecture repository](https://educationgovuk.sharepoint.com/sites/gp/artefacts/Forms/AllItems.aspx) for artefacts that are applicable to their work - these might be standards, patterns or guidance. Where these artefacts exist, the design would be expected to comply and follow the guidance contained in those artefacts. If compliance with artefacts is achieved within the technical design, the delivery team do not need to seek any further approvals. This is self-certification.
+During each design sprint, the person or team responsible for the technical design will check for changes to technical standards in [Find and use a Standard](https://standards.education.gov.uk/) and also in the [architecture repository](https://educationgovuk.sharepoint.com/sites/gp/artefacts/Forms/AllItems.aspx) for any other artefacts that are applicable to their work - these might be patterns, references or handbooks. Where these artefacts exist, the design is expected to comply and follow the guidance contained in those artefacts. If compliance with artefacts is achieved within the technical design, the delivery team do not need to seek any further approvals. This is self-certification.
 
 The team will also need to determine whether the technical design will close any existing exceptions. They can do this by searching the [architecture repository](https://educationgovuk.sharepoint.com/sites/gp/artefacts/Forms/AllItems.aspx). If exceptions do need to be closed, the architecture team should be notified.
 
