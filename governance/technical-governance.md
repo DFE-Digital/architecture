@@ -10,7 +10,7 @@ We have different ways of delivering services in DfE. But we always need to ensu
 
 We want to make sure we're doing the right things (through governance) and doing things right (through assurance). And **not slowing down delivery** in the process.
 
-We’re testing a self-certification, exception-based approach for technical governance. The core principle being that a team should be able to easily find and apply the DfE [technical standards](../../standards/technical-standards) in their work. 
+We’re testing a self-certification, exception-based approach for technical assurance. The core principle being that a team should be able to easily find and apply the DfE [technical standards](../../standards/technical-standards) in their work. 
 
 Assuming a technical design complies with the standards, the team should not experience any friction in delivery. Where there is an exception - where there is no standard, it’s not possible to comply with a standard or a standard needs updating – there is a process for agreeing what to do. This might involve a few, or several people, depending on the complexity of the decision to be made.
 
@@ -20,7 +20,7 @@ The Senior Responsible Owner (SRO) or Service Owner (usually a Deputy Director) 
 
 The Digital, Data, Technology (DDT) Senior Leadership Team are collectively accountable for strategic technical decisions across the organisation, ensuring all cross-divisional or cross-functional impacts are considered. This decision making is supported by technical specialists in professional communities.
 
-Everyone is expected to comply with DfE technical standards. Where this isn’t possible or not happening – an exception - a group of technical specialists may be convened to help guide the team. We call this a technical design forum. They would discuss and agree an appropriate course of action for the exception.
+Everyone is expected to comply with DfE technical standards. Where this isn’t possible or not happening – an exception - a group of technical specialists may be convened to help guide the team. We call this a *design forum*. They would discuss and agree an appropriate course of action for the exception.
 
 In the unlikely event a consensus can’t be reached, escalation to the DDT Senior Leadership Team or DDT Design and Delivery Board may be required.
 
