@@ -4,13 +4,13 @@ expires: 2024-07-01
 ---
 
 
-# Technical governance
+# Design governance and assurance
 
 We have different ways of delivering services in DfE. But we always need to ensure that the technical design of our services meets the necessary [technical standards](../../standards/technical-standards).
 
 We want to make sure we're doing the right things (through governance) and doing things right (through assurance). And **not slowing down delivery** in the process.
 
-We’re testing a self-certification, exception-based approach for technical governance. The core principle being that a team should be able to easily find and apply the DfE [technical standards](../../standards/technical-standards) in their work. 
+We take a self-certification, exception-based approach to design assurance across digital, data and technology. The core principle being that a team should be able to easily find and apply the DfE [technical standards](../../standards/technical-standards) in their work.
 
 Assuming a technical design complies with the standards, the team should not experience any friction in delivery. Where there is an exception - where there is no standard, it’s not possible to comply with a standard or a standard needs updating – there is a process for agreeing what to do. This might involve a few, or several people, depending on the complexity of the decision to be made.
 
@@ -20,7 +20,7 @@ The Senior Responsible Owner (SRO) or Service Owner (usually a Deputy Director) 
 
 The Digital, Data, Technology (DDT) Senior Leadership Team are collectively accountable for strategic technical decisions across the organisation, ensuring all cross-divisional or cross-functional impacts are considered. This decision making is supported by technical specialists in professional communities.
 
-Everyone is expected to comply with DfE technical standards. Where this isn’t possible or not happening – an exception - a group of technical specialists may be convened to help guide the team. We call this a technical design forum. They would discuss and agree an appropriate course of action for the exception.
+Everyone is expected to comply with DfE technical standards. Where this isn’t possible or not happening – an exception - a group of technical specialists may be convened to help guide the team. We call this a *design forum*. They would discuss and agree an appropriate course of action for the exception.
 
 In the unlikely event a consensus can’t be reached, escalation to the DDT Senior Leadership Team or DDT Design and Delivery Board may be required.
 
@@ -31,13 +31,19 @@ In the unlikely event a consensus can’t be reached, escalation to the DDT Seni
 
 ### Self-certification
 
-During each design sprint, the person or team responsible for the technical design will search the [architecture repository](https://educationgovuk.sharepoint.com/sites/gp/artefacts/Forms/AllItems.aspx) for artefacts that are applicable to their work - these might be standards, patterns or guidance. Where these artefacts exist, the design would be expected to comply and follow the guidance contained in those artefacts. If compliance with artefacts is achieved within the technical design, the delivery team do not need to seek any further approvals. This is self-certification.
+During each design sprint, the person or team responsible for the technical design will check for changes to technical standards in [Find and use a Standard](https://standards.education.gov.uk/) and also in relevant architecture repositories for any other artefacts that are applicable to their work - these might be patterns, references or handbooks. Where these artefacts exist, the design is expected to comply and follow the guidance contained in those artefacts. If compliance with artefacts is achieved within the technical design, the delivery team do not need to seek any further approvals. This is self-certification.
 
-The team will also need to determine whether the technical design will close any existing exceptions. They can do this by searching the [architecture repository](https://educationgovuk.sharepoint.com/sites/gp/artefacts/Forms/AllItems.aspx). If exceptions do need to be closed, the architecture team should be notified.
+_Architecture Repositories_
+
+[Data and Solutions Architecture repository](https://educationgovuk.sharepoint.com/sites/lvewp00391/Lists/DSAAG%20Items/AllItems.aspx?xsdata=MDV8MDJ8fGQyOTI4ZTU4YTc4ZjRmOWVlZDNiMDhkZDgzM2MyYWM2fGZhZDI3N2M5YzYwYTRkYTFiNWYzYjNiOGIzNGE4MmY5fDB8MHw2Mzg4MTEwMTY1OTU0MzQ4MTF8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalptTmpGaFlqWmhMVGswT0RNdE5ERTFaUzA0WkRRM0xXWXpPVE5rWmpWbE9ESm1OMTloTkRGallUWXlNaTB3WVRKaExUUTRNekF0T0dNME15MWxOR1F6T1daaE5HUTJaV05BZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGMwTlRVd05EZzFPRGcyTkE9PXxhOGUzNGRlMDc4YmY0MDFlZWQzYjA4ZGQ4MzNjMmFjNnxhYmU1OGJkMWRkMDg0YjU4ODJmNzM5NmU1ODQyZDRkNA%3D%3D&sdata=VHl5WmU3TGFSYnlHbGlRMURBRDNEYUZ4MUphVVBIZFN2RE5tNzhFMVozaz0%3D&ovuser=fad277c9%2Dc60a%2D4da1%2Db5f3%2Db3b8b34a82f9%2CRichard%2EBOLAND%40EDUCATION%2EGOV%2EUK&OR=Teams%2DHL&CT=1745505012167&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNTAzMTMyMTAxOCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D)
+
+[Architecture repository](https://educationgovuk.sharepoint.com/sites/gp/artefacts/Forms/AllItems.aspx)
+
+The team will also need to determine whether the technical design will close any existing exceptions. If exceptions do need to be closed, the architecture team should be notified.
 
 If not, the delivery team can proceed with registering the design in the [architecture repository](https://educationgovuk.sharepoint.com/sites/gp/artefacts/Forms/AllItems.aspx).
 
-Where artefacts do not exist, then the team cannot align with them and are free to design their solution to meet their user needs. If artefacts cover part, but not all, of a design, only the parts within scope of those artefacts could reasonably be expected to align with them. In this instance, the team should consider whether there *should* be artefacts to cover the gap and discuss this with the [architecture team](mailto:architecture.profession@education.gov.uk) to highlight the gap.
+Where artefacts do not exist, then the team are free to design their solution to meet their user needs. If artefacts cover part, but not all, of a design, only the parts within scope of those artefacts are expected to align with them. In this instance, the team should consider whether there *should* be artefacts to cover the gap and discuss this with the [architecture team](mailto:architecture.profession@education.gov.uk) to highlight the gap.
 
 Should the need for a new standard, pattern or other artefact emerge during technical design work, this should also be raised with the [architecture team](mailto:architecture.profession@education.gov.uk) for discussion.
 
@@ -61,7 +67,7 @@ A temporary exemption may be applied whilst the artefact is reviewed, but this w
 
 **Major exception**
 
-Where non-compliance is more significant or complex, the architecture team will arrange a review, at pace, pulling in a range of subject matter experts and perspectives to ascertain whether an exception is possible and the conditions that would be applied.
+Where non-compliance is more significant or complex, the architecture team will arrange a _design forum_ review, at pace, pulling in a range of subject matter experts and perspectives to ascertain whether an exception is possible and the conditions that would be applied.
 
 **Exception review**
 
