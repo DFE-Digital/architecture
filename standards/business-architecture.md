@@ -49,11 +49,11 @@ To deliver most value capability models should be comparable and therefore need 
 
 In DfE, capability models should ideally follow the guidance below:
 
-Categorisation - Capabilities should be categorised (stratified) as [Business or Enabling](https://dfe-digital.github.io/architecture/standards/common-definitions/#capability)
+Categorisation - Capabilities should be categorised (stratified) as [Strategic, Business or Enabling](https://dfe-digital.github.io/architecture/standards/common-definitions/#capability)
 
 Levelling - Capabilities should be levelled (decomposed) usually to 3 levels
 
-* Level 1 key characteristics; strategic focus, broad scope, stable and enduring, often cut across organisational groups, can be easily decomposed
+* Level 1 key characteristics; broad scope, stable and enduring, often cut across organisational groups, can be easily decomposed
 * Level 2 key characteristics; operational focus, narrowing to actionable scope, relatively stable, direct ‘child’ of a level 1 capability
 * Level 3 key characteristics; process or task focused, specific scope, subject to regular change, direct ‘child’ of a level 2 capability
 
