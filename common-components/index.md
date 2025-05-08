@@ -41,7 +41,7 @@ Hosting platforms | [Cloud Infrastructure Platform (CIP)](#cip) | Matt Evans | L
 Security and networks | [DfE Sign-in](#dfe-signin) | Jenny O'Connor | Live
  | Core network | Matt Evans | Live
 Integration | [API Management (FaUAPI)](#fauapi) | Iain McIntosh | Public beta
-Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | Tafseer Nisa | Beta
+Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | Pat Healy | Beta
  | [Postcode lookup](#postcode) | Mario Gledhill | Alpha
  | [Geospatial mapping](#mapping) | Mario Gledhill | Alpha
  | [Notifications and messaging](#notifications) | tbc | Discovery
@@ -61,7 +61,7 @@ End User Devices | Office 365 | Jenny O'Connor | Live
 | Service desk tools (Service Now) | Jenny O'Connor | Live
 Digital | Productivity tools (Slack, Trello, Confluence) | Jenny O'Connor | Beta
 Development | Development tools (Azure DevOps, Github) | Matt Evans | Live
-Information and data | SharePoint | Philip Humphries | Live
+Information and data | SharePoint | Jenny O'Connor | Live
 
 ## How do we use components?
 
