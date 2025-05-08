@@ -3,7 +3,7 @@ category: Architecture Principles
 expires: 2021-01-01
 ---
 
-# Enterprise Data Architecture Principles
+# Data Architecture Principles
 
 ## 1. Data is an Asset
 _Data is like any shared asset with value to the whole Department and beyond._
