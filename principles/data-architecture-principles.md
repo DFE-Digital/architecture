@@ -10,7 +10,7 @@ _Data is like any shared asset with value to the whole Department and beyond._
 
 __Why?__
 
-Data has value because it supports decision-making at all levels; from front-line delivery to policy-making and governance across the Education sector. Accurate, timely data is required to support accurate, timely decisions. Like all corporate assets, data costs money: initially to create or procure and then to store, access and protect througout its lifecycle. So management of data assets has a financial aspect and decisions must past value for money tests. To maximise value, data must be carefully managed, ensuring its availability, accuracy and reliability. Data assets are also dangerous when used inappropriately, so they are regulated by, for exameple, UK GDPR. For all of these reasons, we must have clear visibility of where each data asset is, how it adds value and the individual who owns it on the Department’s behalf.
+Data has value because it supports decision-making at all levels; from front-line delivery to policy-making and governance across the Education sector. Accurate, timely data is required to support accurate, timely decisions. Like all corporate assets, data costs money: initially to create or procure and then to store, access and protect throughout its lifecycle. So management of data assets has a financial aspect and decisions must past value for money tests. To maximise value, data must be carefully managed, ensuring its availability, accuracy and reliability. Data assets are also dangerous when used inappropriately, so they are regulated by, for example, UK GDPR. For all of these reasons, we must have clear visibility of where each data asset is, how it adds value and the individual who owns it on the Department’s behalf.
 
 __How?__
 
