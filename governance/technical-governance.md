@@ -98,7 +98,7 @@ Contact the [architecture team](mailto:architecture.profession@education.gov.uk)
 
 It may be more appropriate for you to bring architects and team members together for a technical Show and Tell. These are a great way to provide support, challenge and design assurance in a less formal setting.
 
-Contact the [architecture team](mailto:architecture.profession@education.gov.uk) to get a slot at a community meet-up.
+Contact the [architecture team](mailto:architecture.profession@education.gov.uk) or add to the [community meet-up agenda](https://educationgovuk.sharepoint.com/:w:/r/sites/architecture/WorkplaceDocuments/Community/Meet%20ups/Architecture%20Community%20Meet-up%20-%20Schedule%20and%20Agenda.docx?d=w2c07d8b55f624fcdb6739fab9b7ed8d3&csf=1&web=1&e=Qlm7lw) to get a slot at the next community meet-up.
 
 ### Templates
 
