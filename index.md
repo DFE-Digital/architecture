@@ -48,7 +48,7 @@ It should be used in conjunction with the [DfE Digital Technical Guidance](https
 
 ## Repositories
 
-- [DfE SharePoint repo](https://educationgovuk.sharepoint.com/sites/gp/WorkplaceDocuments)
+- [DfE SharePoint repo](https://educationgovuk.sharepoint.com/sites/architecture/WorkplaceDocuments)
 - [DfE Digital Confluence](https://dfedigital.atlassian.net)
 - [ESFA Confluence](https://skillsfundingagency.atlassian.net)
 

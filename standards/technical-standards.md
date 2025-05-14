@@ -15,7 +15,7 @@ Architects involved in developing software should also be familiar with our [cod
 
 Some technical standards [have already been published](https://standards.education.gov.uk). But many do not yet exist or are in development, requiring work to make them fit-for-purpose across DfE.
 
-The architecture team are co-ordinating the creation of technical standards in DfE. The following list shows proposed technical standards - derived from the [Technology Reference Model](https://educationgovuk.sharepoint.com/:f:/r/sites/gp/WorkplaceDocuments/Reference%20architecture/Technology%20Reference%20Model) and grouped by component - and who owns them.
+The architecture team are co-ordinating the creation of technical standards in DfE. The following list shows proposed technical standards - derived from the [Technology Reference Model](https://educationgovuk.sharepoint.com/:f:/r/sites/architecture/WorkplaceDocuments/Reference%20architecture/Technology%20Reference%20Model) and grouped by component - and who owns them.
 
 We're working with these owners and teams to prioritise creation of the standards that will provide the most value to both delivery teams and DfE. The ones actively being worked on are in **bold**. As standards are agreed and published, they will be updated on this page.
 
