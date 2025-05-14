@@ -31,11 +31,11 @@ In the unlikely event a consensus can’t be reached, escalation to the DDT Seni
 
 ### Self-certification
 
-During each design sprint, the person or team responsible for the technical design will search the [architecture repository](https://educationgovuk.sharepoint.com/sites/gp/artefacts/Forms/AllItems.aspx) for artefacts that are applicable to their work - these might be standards, patterns or guidance. Where these artefacts exist, the design would be expected to comply and follow the guidance contained in those artefacts. If compliance with artefacts is achieved within the technical design, the delivery team do not need to seek any further approvals. This is self-certification.
+During each design sprint, the person or team responsible for the technical design will search the [architecture repository](https://educationgovuk.sharepoint.com/sites/architecture/artefacts/Forms/AllItems.aspx) for artefacts that are applicable to their work - these might be standards, patterns or guidance. Where these artefacts exist, the design would be expected to comply and follow the guidance contained in those artefacts. If compliance with artefacts is achieved within the technical design, the delivery team do not need to seek any further approvals. This is self-certification.
 
-The team will also need to determine whether the technical design will close any existing exceptions. They can do this by searching the [architecture repository](https://educationgovuk.sharepoint.com/sites/gp/artefacts/Forms/AllItems.aspx). If exceptions do need to be closed, the architecture team should be notified.
+The team will also need to determine whether the technical design will close any existing exceptions. They can do this by searching the [architecture repository](https://educationgovuk.sharepoint.com/sites/architecture/artefacts/Forms/AllItems.aspx). If exceptions do need to be closed, the architecture team should be notified.
 
-If not, the delivery team can proceed with registering the design in the [architecture repository](https://educationgovuk.sharepoint.com/sites/gp/artefacts/Forms/AllItems.aspx).
+If not, the delivery team can proceed with registering the design in the [architecture repository](https://educationgovuk.sharepoint.com/sites/architecture/artefacts/Forms/AllItems.aspx).
 
 Where artefacts do not exist, then the team cannot align with them and are free to design their solution to meet their user needs. If artefacts cover part, but not all, of a design, only the parts within scope of those artefacts could reasonably be expected to align with them. In this instance, the team should consider whether there *should* be artefacts to cover the gap and discuss this with the [architecture team](mailto:architecture.profession@education.gov.uk) to highlight the gap.
 
@@ -65,7 +65,7 @@ Where non-compliance is more significant or complex, the architecture team will 
 
 **Exception review**
 
-In all exception cases, there will be a timeframe agreed to reach compliance, in which the delivery team will need to review the exception and update their design. If the design then complies, then it will need to be registered in the [architecture repository](https://educationgovuk.sharepoint.com/sites/gp/artefacts/Forms/AllItems.aspx), once agreed with the architecture team. 
+In all exception cases, there will be a timeframe agreed to reach compliance, in which the delivery team will need to review the exception and update their design. If the design then complies, then it will need to be registered in the [architecture repository](https://educationgovuk.sharepoint.com/sites/architecture/artefacts/Forms/AllItems.aspx), once agreed with the architecture team. 
 
 **Where a decision can't be made**
 
@@ -98,7 +98,7 @@ Contact the [architecture team](mailto:architecture.profession@education.gov.uk)
 
 It may be more appropriate for you to bring architects and team members together for a technical Show and Tell. These are a great way to provide support, challenge and design assurance in a less formal setting.
 
-Contact the [architecture team](mailto:architecture.profession@education.gov.uk) to get a slot at a community meet-up.
+Contact the [architecture team](mailto:architecture.profession@education.gov.uk) or add to the [community meet-up agenda](https://educationgovuk.sharepoint.com/:w:/r/sites/architecture/WorkplaceDocuments/Community/Meet%20ups/Architecture%20Community%20Meet-up%20-%20Schedule%20and%20Agenda.docx?d=w2c07d8b55f624fcdb6739fab9b7ed8d3&csf=1&web=1&e=Qlm7lw) to get a slot at the next community meet-up.
 
 ### Templates
 
