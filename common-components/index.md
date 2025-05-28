@@ -38,7 +38,6 @@ Domain | Component | Owner | Status
 - | - | - | -
 Hosting platforms | [Cloud Infrastructure Platform (CIP)](#cip) | Matt Evans | Live
  | [Microsoft Power Platform](#powerplatform) | Erhan Tahir | Live
- | [GOV.UK PaaS (in DfE)](#govuk-paas) | Matt Evans | Beta
 Security and networks | [DfE Sign-in](#dfe-signin) | Jenny O'Connor | Live
  | Core network | Matt Evans | Live
 Integration | [API Management (FaUAPI)](#fauapi) | Iain McIntosh | Public beta
@@ -167,22 +166,10 @@ Read Microsoft’s guidance on what Power Platform is and how it can benefit you
 
 To start learning how to use Power Platform, take a look at Microsoft learning pathways: [Power Platform on Microsoft Learn | Microsoft Learn](https://learn.microsoft.com/en-us/training/powerplatform/)
 
-__Lead Contacts__
+__Contact__
 
-- Product Owner - [Erhan Tahir](https://eur.delve.office.com/?u=9859f5fa-2aec-449a-a2df-61f623313558&v=work)
-- Power Platform Analyst - [Shariyar-Irfan Rashid-Qazi](https://eur.delve.office.com/?u=36d259d2-da10-486c-be4b-bf8754443ed2&v=work)
+- Service Manager - [Erhan Tahir](https://eur.delve.office.com/?u=9859f5fa-2aec-449a-a2df-61f623313558&v=work)
 
-
-<a name="govuk-paas"></a>
-### GOV.UK PaaS
-GOV.UK Platform as a Service (PaaS) is a platform developed by Government Digital Service (GDS) and available for government departments to deploy
-applications and backend services. It is based on the widely used open source platform Cloud Foundry and built on Amazon Web Services.
-
-It is a simpler alternative to CIP and doesn't require infrastructure specialists to get started.
-
-__Documentation__
-
-Visit the [GOV.UK PaaS technical guidance](https://technical-guidance.education.gov.uk/guides/govuk-paas/) for more information.
 
 <a name="dfe-signin"></a>
 ### DfE Sign-in
@@ -198,8 +185,8 @@ Our service is available at [https://services.signin.education.gov.uk](https://s
 
 You may also find the following code repositories for services that use DfE Sign-in useful, along with some example integrations that we have built:
 - [Teachers Payment Service](https://github.com/DFE-Digital/dfe-teachers-payment-service) (Ruby on Rails)
--	[Course Directory](https://github.com/SkillsFundingAgency/dfc-coursedirectory) (.NET Core)
--	[Other integration examples](https://github.com/dfe-digital/?utf8=%E2%9C%93&q=example)
+- [Course Directory](https://github.com/SkillsFundingAgency/dfc-coursedirectory) (.NET Core)
+- [Other integration examples](https://github.com/dfe-digital/?utf8=%E2%9C%93&q=example)
 
 __Support__
 
