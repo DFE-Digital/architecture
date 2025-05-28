@@ -3,9 +3,7 @@ category: Guidance
 expires: 2025-12-11
 ---
 
-# Business Architecture
-
-# Best practice
+# Business architecture best practice
 
 In DfE, business architects may be employed in various ways, performing various tasks. Whilst there may be inconsistency in what a business architect is tasked to do, it can be useful for DfE to have accepted best practice, focused on how usual business architecture tasks might be performed.
 
@@ -40,6 +38,7 @@ The purpose of modelling is to aid analysis of business activities to drive impr
 The recommended basic modelling tools are Microsoft Visio or Excel. For more complex modelling exercises, use ArchiMate compatible tools such as [Archi](https://www.archimatetool.com/).
 
 *What things might a business architect typically model?* Business capabilities, processes, information/intelligence (from data), operating models, services.
+
 
 ## Capability modelling
 
