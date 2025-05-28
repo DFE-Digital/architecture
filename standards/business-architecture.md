@@ -3,7 +3,9 @@ category: Guidance
 expires: 2025-12-12
 ---
 
-# Business architecture best practice
+# Business architecture 
+
+## Best practice
 
 In DfE, business architects may be employed in various ways, performing various tasks. Whilst there may be inconsistency in what a business architect is tasked to do, it can be useful for DfE to have accepted best practice, focused on how usual business architecture tasks might be performed.
 
