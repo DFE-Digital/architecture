@@ -1,6 +1,6 @@
 ---
 category: Guidance
-expires: 2025-12-11
+expires: 2025-12-12
 ---
 
 # Business architecture best practice
