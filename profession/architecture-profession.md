@@ -21,7 +21,7 @@ If you're looking for architecture support for your project, you should discuss 
 
 ## Help to find an architect
 
-The architecture profession will work with you and your [architecture lead](architecture-leads.md) to fulfill your needs. That could be supporting you to recruit permanent staff or helping you bring in the right people or services, through one of our compliant commercial routes to market. This will enable you to:
+The architecture profession will work with you and your [architecture lead](#architecture-leads) to fulfill your needs. That could be supporting you to recruit permanent staff or helping you bring in the right people or services, through one of our compliant commercial routes to market. This will enable you to:
 
 - get the right architecture skills, at the right time, at the right price
 - on-board architects into DfE consistently, so they understand our ways of working and assurance framework
@@ -29,9 +29,42 @@ The architecture profession will work with you and your [architecture lead](arch
 - link them into the wider DfE architecture profession and communities
 - exit them professionally when their work is complete, with appropriate handover and knowledge transfer
 
-The profession can provide example [job descriptions](https://dfe-digital.github.io/dfe-job-descriptions), structured recruitment materials and template statements of work (for managed services and contingent workers).
+The profession can provide example [job descriptions](https://job-descriptions.education.gov.uk), structured recruitment materials and template statements of work (for managed services and contingent workers).
 
 If you'd like to know more, or discuss your needs in more detail, contact the [architecture profession](mailto:architecture.profession@education.gov.uk).
+
+## Architecture leads
+
+Architecture leads work within a DfE portfolio or domain. They work closely with DDT business partners and other DDT specialists to support, steer and help join-up delivery.
+
+They:
+
+- assist, advise and guide programmes and projects, ensuring alignment with:
+  - technical strategies
+  - common patterns and components
+  - architecture principles
+  - architecture standards and assurance
+- can help identify architects and other technical specialists needed to support delivery, specifically:
+  - supporting recruitment of the right people to meet the needs of the portfolio / domain
+  - working with delivery teams to align with architecture principles, standards and patterns
+  - helping identify common goals / problems being solved across DfE and linking up
+
+Use the table below to find out who your architecture lead is. Or contact the [architecture profession](mailto:architecture.profession@education.gov.uk) if you're not sure.
+
+
+| Portfolio/domain | Architecture lead(s) |
+| - | - |
+| Teacher services | tbc - Speak to Rob Rodney |
+| Children and families | Ben Vandersteen |
+| Schools and curriculum | tbc - speak to Mamood Sultan |
+| Cyber security | tbc - speak to Angela Scale |
+| End user services | John Phillips |
+| Operational services | Mario Gledhill |
+| Enterprise architecture | Ant McCrea |
+| Data architecture | Richard Boland / Rajinder Bilkhu |
+| Data science | Pete Holding |
+| Apprenticeship Service | tbc - speak to Craig Faulkner |
+| National Careers Service | Chris Jones |
 
 ## Help with assurance
 

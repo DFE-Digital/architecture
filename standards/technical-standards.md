@@ -13,9 +13,9 @@ Architects involved in developing software should also be familiar with our [cod
 
 ## Standards in development
 
-Some technical standards [have already been published](#published-standards), but require work to make them fit-for-purpose across DfE. Most technical standards do not yet exist or are in development.
+Some technical standards [have already been published](https://standards.education.gov.uk). But many do not yet exist or are in development, requiring work to make them fit-for-purpose across DfE.
 
-The architecture team are co-ordinating the creation of technical standards in DfE. The following list shows proposed technical standards - derived from the [Technology Reference Model](https://educationgovuk.sharepoint.com/:f:/r/sites/gp/WorkplaceDocuments/Reference%20architecture/Technology%20Reference%20Model) and grouped by component - and who owns them.
+The architecture team are co-ordinating the creation of technical standards in DfE. The following list shows proposed technical standards - derived from the [Technology Reference Model](https://educationgovuk.sharepoint.com/:f:/r/sites/architecture/WorkplaceDocuments/Reference%20architecture/Technology%20Reference%20Model) and grouped by component - and who owns them.
 
 We're working with these owners and teams to prioritise creation of the standards that will provide the most value to both delivery teams and DfE. The ones actively being worked on are in **bold**. As standards are agreed and published, they will be updated on this page.
 
@@ -35,12 +35,12 @@ Whilst technical standards are being developed, some *accepted products* in DfE 
 |                              | Data/Communication Security and Confidentiality|                      |                             |
 |                              | Platform and System Security             |                            |                             |
 |                              | Vulnerability and Threat Management      |                            |                             |
-|                              | **[Identity Management B2C](https://educationgovuk.sharepoint.com/:w:/r/sites/gp/artefacts/Identity%20Management%20B2C.docx?d=w5303a137dbd346bcb3d40b0d761fd177&csf=1&web=1&e=A2zqe3)**               | *GOV.UK One Login*   |                                   |
-|                              | **[Identity Management B2B](https://educationgovuk.sharepoint.com/:w:/r/sites/gp/artefacts/Identity%20Management%20B2B.docx?d=wccacb48b69314098aff841ce11efddb5&csf=1&web=1&e=dgKm5c)**               | *DfE Sign in*        |                                   |
-|                              | **[Identity Management B2E](https://educationgovuk.sharepoint.com/:w:/r/sites/gp/artefacts/Identity%20Management%20B2E.docx?d=wea4894124ad24eeb9efa82704556b5ff&csf=1&web=1&e=dMbGnU)**               | *MS Azure Active Directory* |                            |
+|                              | [Identity Management B2C](https://standards.education.gov.uk/standard/identitymanagementb2c)               | *GOV.UK One Login*   |                                   |
+|                              | [Identity Management B2B](https://standards.education.gov.uk/standard/identity-management-b2b)               | *DfE Sign in*        |                                   |
+|                              | [Identity Management B2E](https://standards.education.gov.uk/standard/identity-management-b2e)               | *MS Azure Active Directory* |                            |
 |                              | Security Incident Management             |                            |                             |
 |                              | Monitoring, Traceability, Auditing and Forensics|                     |                             |
-| System Management            | Service Desk and CMDB Tools              |                            | End User Compute Services   |
+| System Management            | [Service Management](https://standards.education.gov.uk/standard/service-management) |                            | End User Compute Services   |
 |                              | Deployment, Audit and Inventory          |                            | Service Operations          |
 |                              | **Monitoring and Event Management**      |                            |                             |
 |                              | Performance and Capacity Management      |                            |                             |
@@ -80,7 +80,7 @@ Whilst technical standards are being developed, some *accepted products* in DfE 
 | Peripherals                  | Printers                                 |                            | End User Compute Services  |
 |                              | Scanners                                 |                            |                            |
 |                              | Other Devices                            |                            |                            |
-|  IOT Devices                 | Edge Devices                             |                            | End User Compute Services  |
+| IOT Devices                  | Edge Devices                             |                            | End User Compute Services  |
 
 
 ### Application components
@@ -113,10 +113,10 @@ Whilst technical standards are being developed, some *accepted products* in DfE 
 |                              | Content Management Applications          | *Contentful*               |                            |
 |                              |                                          | *GOV.UK Publisher*         |                            |
 |                              | Enterprise Search Applications           |                            | Knowledge & Information Management |
-|                              | **Accessibility Applicatons**            |                            | Accessibility              |
+|                              | **Accessibility Applications**           |                            | Accessibility              |
 |                              | Video and Telephony Conferencing Applications |                       | End User Compute Services  |
 |                              |Digital Signature Tools                   |                            | Cyber Security / Service Operations |
-| Middleware                   | **API Management**                       | *[EAPIM](../../common-components/#api-management)* | Infrastructure & Platforms |
+| Middleware                   | **API Management**                       | *[FaUAPI](../../common-components/#api-management)* | Infrastructure & Platforms |
 |                              | **Container Management**                 |                            |                            |
 |                              | Enterprise Service Bus                   |                            |                            |
 |                              | Message/Event Stream Processing          |                            |                            |
@@ -131,13 +131,13 @@ Whilst technical standards are being developed, some *accepted products* in DfE 
 |                              | Dashboard Reporting                      |                            |                            |
 |                              | Operational/Transactional Reporting      |                            |                            |
 |                              | Analytical Reporting                     |                            |                            |
-|                              | Advanced Analytics Platforms             |                            |                            |
+|                              | **Advanced Analytics Platforms**         | *Databricks*               |                            |
 |                              | IOT Stream Analytics                     |                            |                            |
 | Data Platforms               |**Relational Database Management Systems**| *MS Azure SQL*             |                            | 
 |                              |                                          | *PostgreSQL*               |                            |
 |                              | Unstructured Data Management Systems     |                            |                            |
-|                              | Analytical Data Management Systems       |                            |                            |
-|                              | Data Integration and Orchestration Systems |                          | Data Engineering           | 
+|                              | **Analytical Data Management Systems**   | *Databricks*               | Data Engineering           |
+|                              | Data Integration and Orchestration Systems |                          |                            | 
 |                              | Data Transfer and Transformation Systems |                            |                            |
 |                              | Data Connectors                          |                            |                            |
 |                              | Data Governance and Quality Systems      |                            | Data Architecture          |
@@ -147,7 +147,8 @@ Whilst technical standards are being developed, some *accepted products* in DfE 
 
 | Group                        | Standard areas                           | Product                    | Division                   |
 |------------------------------|------------------------------------------|----------------------------|----------------------------|
-| Server Platform              | Server Hardware                          |                            | Infrastructure & Platforms |
+| Server Platform              | [Cloud Hosting Platform](https://standards.education.gov.uk/standard/cloud-hosting-platform) |                            | Infrastructure & Platforms |
+|                              | Server Hardware                          |                            |                            |
 |                              | Server OS                                |                            |                            |
 |                              | Server Virtualisation Platform           |                            |                            |
 |                              | File and Print Services                  |                            |                            |

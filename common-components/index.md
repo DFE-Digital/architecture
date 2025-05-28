@@ -40,8 +40,8 @@ Hosting platforms | [Cloud Infrastructure Platform (CIP)](#cip) | Matt Evans | L
  | [GOV.UK PaaS (in DfE)](#govuk-paas) | Matt Evans | Beta
 Security and networks | [DfE Sign-in](#dfe-signin) | Jenny O'Connor | Live
  | Core network | Matt Evans | Live
-Integration | [API Management (EAPIM)](#eapim) | Iain McIntosh | Beta
-Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | Tafseer Nisa | Beta
+Integration | [API Management (FaUAPI)](#fauapi) | Iain McIntosh | Public beta
+Information and data | [Enterprise Data and Analytics Platform (EDAP)](#edap) | Pat Healy | Beta
  | [Postcode lookup](#postcode) | Mario Gledhill | Alpha
  | [Geospatial mapping](#mapping) | Mario Gledhill | Alpha
  | [Notifications and messaging](#notifications) | tbc | Discovery
@@ -61,7 +61,7 @@ End User Devices | Office 365 | Jenny O'Connor | Live
 | Service desk tools (Service Now) | Jenny O'Connor | Live
 Digital | Productivity tools (Slack, Trello, Confluence) | Jenny O'Connor | Beta
 Development | Development tools (Azure DevOps, Github) | Matt Evans | Live
-Information and data | SharePoint | Philip Humphries | Live
+Information and data | SharePoint | Jenny O'Connor | Live
 
 ## How do we use components?
 
@@ -171,52 +171,54 @@ __Further guidance__
 -	Product Owner - [Ilona Posluszny](https://gbr.delve.office.com/?u=40757922-2ddc-4491-ab69-043106176d65&v=work)
 
 
-<a name="eapim"></a>
+<a name="fauapi"></a>
 ### API Management
 Enterprise integration and API management services make it easier to share data quickly and securely – whether you’re an integration partner, developer, publisher or data consumer.
 
-**Enterprise API Management (EAPIM) Platform**
+__Find and Use an API (FaUAPI)__
 
-The EAPIM platform provides a central place to host and discover APIs. It is a secure and fully accredited service that makes it easy to both publish and consume APIs.
+Find and Use an API is a service which provides a central place to host and discover DfE APIs. It is a secure and fully accredited service that makes it easy to both publish and consume APIs.
 
-It is accessible to both internal and external users, with the [DfE Developer Hub](https://dfe-developerhub.education.gov.uk/) being our external facing service and [Developer Platform](https://developers-customerengagement.platform.education.gov.uk/) being our internal service. 
+It provides a GOV.UK branded public facing front door for users to discover and consume data from DfE APIs. APIs can be public facing, or available to DfE internal users only. A management portal is provided to allow developers to configure, document, provide information on authentication and publish APIs, and to manage subscription requests from users.
 
-EAPIM has been developed using Microsoft Azure’s API gateway, and the solution is deployed within the [CIP hosting platform](#cip) with an expert team supporting the infrastructure.
+Developers of new DfE APIs must host their APIs on Find and Use an API (other than in a small number of agreed exceptional cases), leveraging the security benefits and infrastructure cost savings of a shared service. Existing APIs which are hosted elsewhere must be listed on the service to allow discoverability and satisfy CDDO reporting requirements.
+
+__Development / Test / Pre-Production service__
+The Find and Use an API Pre-Production service should be used for all non-production purposes, e.g. development, test, UAT, OAT, or pre-production workloads.
+
+* The pre-production version of the public-facing consumer portal can be found at https://pp-find-and-use-an-api.education.gov.uk
+* The pre-production version of the DfE developer-facing management portal can be found at https://pp-apimanagement.education.gov.uk
+* Pre-production hosted APIs are available at https://pp-api.education.gov.uk
+
+__Production service__
+The Find and Use an API Production service should *only* be used for production workloads.
+- The public-facing consumer portal can be found at https://beta-find-and-use-an-api.education.gov.uk
+- The DfE developer-facing management portal can be found at https://apimanagement.education.gov.uk
+- APIs are available at https://api.education.gov.uk
+
+__Onboarding__
+DfE developers can request a workspace in the pre-production instance at any time and start to use the service. Please contact [dfe-api.support@education.gov.uk](mailto:dfe-api.support@education.gov.uk) to arrange a guided onboarding session for your team if required.
+
+__Technologies__
+FaUAPI has been developed using Azure platform-as-a-service components, including Azure API Management, and the solution is deployed within the [CIP hosting platform](#cip) with an expert team supporting the infrastructure.
 
 Here are some of the key benefits:
 
-- **Makes it easier to share data**
-- **Enables users to discover what data is available to them in a single place**
-- **Makes it easy to manage who can access your data**
-- **Reduces the admin for developer teams**
-- **Supports APIs developers with meeting required standards**
-- **Cost savings**
-- **Helps the department with cross government reporting on APIs**
+- Makes it easier to share data
+- Enables users to discover what data is available to them in a single place
+- Makes it easy to manage who can access your data
+- Reduces the admin for developer teams
+- Supports APIs developers with meeting required standards
+- Cost savings
+- Helps the department with cross government reporting on APIs
 
 __Documentation__
 
-We are currently in the process of improving the documentation surrounding EAPIM, so please contact our [support mailbox](mailto:eapim.support@education.gov.uk) if you need further information.
+We are currently in the process of finalising the documentation for Find and Use an API, so please contact our [support mailbox](mailto:dfe-api.support@education.gov.uk) if you need further information.
 
-__Support__
+__Support and further guidance__
 
-The service is supported internally by Solutions Delivery Team, within Infrastructure and Platforms. We provide support between 9am and 5pm. For any incidents or requests, please log through [ServiceNow](https://dfe.service-now.com/serviceportal). For any other queries please contact our [support mailbox](mailto:eapim.support@education.gov.uk)
-
-__Roadmap__
-
-We have around 45 APIs already using EAPIM including APIs for areas such as:
--	Finance
--	Better Financial Reporting Programme
-- CRM Middleware which integrates Dynamics 365 systems with other systems such as ServiceNow and Zendesk
-
-Since Solutions Delivery Team took EAPIM into support, we have been reviewing the EAPIM offering, ensuring its still meeting user need. This includes continuing provision of the current platform, but also looking at how we can improve both the platform and engagement with it. 
-
-We are now undertaking a programme of improvement work based off our findings, however if you have any feedback please get in touch with us at [support mailbox](mailto:eapim.support@education.gov.uk)
-
-We are also engaging with wider cross-government API platform work such as that done by CDDO to ensure EAPIM can support DfE whilst aligning with the rest of government. 
-
-__Further guidance__
-
-For further guidance or any general enquiries please contact the Solutions Delivery Team via the [support mailbox](mailto:eapim.support@education.gov.uk)
+The service is supported internally by the Solutions Delivery Team, within Infrastructure and Platforms. We provide support on weekdays between 9am and 5pm. For any incidents or requests, please log through [ServiceNow](https://dfe.service-now.com/serviceportal). Out-of-hours support is available with prior agreement. For any other queries please contact our [support mailbox](mailto:dfe-api.support@education.gov.uk)
 
 <a name="edap"></a>
 ### Enterprise Data and Analytics Platform

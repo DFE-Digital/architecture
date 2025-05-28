@@ -10,7 +10,7 @@ expires: 2022-12-01
 ## Purpose
 This framework provides an outline of the roles, skills and experience that architects working within DfE have or would like to build.
 
-We've published the first iteration of our [DfE architecture capability framework](https://educationgovuk.sharepoint.com/:w:/r/sites/lvewp00080/WorkplaceDocuments/Job%20Families/Architecture/Technical%20Architect/240709%20DfE%20Architecture%20Capability%20Framework%20v1.3.docx?d=w2db85c62ce0b4e0488048c4fa72291c7&csf=1&web=1&e=neAB7d), focused initially on our enterprise, solution and technical architect roles. This will be expanded to include other architecture roles soon.
+We have published the our [DfE architecture capability framework](https://educationgovuk.sharepoint.com/:w:/r/sites/architecture/WorkplaceDocuments/Profession/Capability%20Framework/DfE%20Architecture%20Capability%20Framework%20v1.5.docx?d=wb8d7319a79104592ba8b4d0c9c5724d3&csf=1&web=1&e=KVquE7), focused initially on our enterprise, solution, technical and security architect roles. This will be expanded to include other architecture roles soon.
 
 On these guidance pages, we summarise information in the framework, and describe some of the pathways into architecture and how to develop an architecture career.
 
@@ -27,7 +27,7 @@ It builds on the [GOV.UK DDaT Capability Framework](https://www.gov.uk/governmen
 *[Add standard deliverables, expectations at different levels, links to professional objective template]*
 
 ### Learning and development
-Architects can find a multitude of self-serve learning and development resources on the [architecture toolkit](https://trello.com/b/2ahP5HcQ/architecture-toolkit). If you have any specific needs, or would like to set up some shadowing, coaching or mentoring, come and talk to the [profession team](mailto:architecture.profession@education.gov.uk).
+Architects can find a multitude of self-serve learning and development resources on the [architecture toolkit](https://planner.cloud.microsoft/webui/plan/V_MJD_d-AUqrjB4GRgyug5YABPL1/view/board?tid=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9). If you have any specific needs, or would like to set up some shadowing, coaching or mentoring, come and talk to the [profession team](mailto:architecture.profession@education.gov.uk).
 
 ### Community
 The architecture community is there to support you in your developing your skills and experience. There are regular masterclasses and knowledge sharing sessions, as well as opportunities to hear from and engage with our suppliers. head over to the [architecture community page](../../profession/architecture-community) to read more.

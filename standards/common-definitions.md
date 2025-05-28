@@ -35,17 +35,142 @@ Here is a high-level view of some of our common definitions, with some examples 
 
 The terms we use in the different levels of work may have different meanings or connotations, dependent on your or your user's perspective. We’ve tried to make these definitions as generic as possible without losing meaning, or have provided contextual examples to help give meaning.
 
-- [Service](#service)
-- [Capability](#capability)
-- [Product](#product)
-- [Feature](#feature)
 - [Activities and tasks](#activities)
-- [Technology](#technology)
-- [Data](#data)
+- [Capability](#capability)
 - [Common component](#common-component)
-- [Platform](#platform)
-- [Register](#register)
+- [Data](#data)
 - [DDaT / DDT](#ddat)
+- [Feature](#feature)
+- [Organisation](#organisation)
+- [Platform](#platform)
+- [Product](#product)
+- [Service](#service)
+- [Register](#register)
+- [Roles](#roles)
+- [Technology](#technology)
+- [Value Stream](#values)
+
+
+<a name="activities"></a>
+### Activities and tasks ###
+
+Activities and tasks are the things people do in relation to using a service, including:
+- finding out how something works
+- calling people for help
+- applying for something
+- gathering evidence
+- waiting and worrying about what might happen
+- being notified about a result
+- calling to find out what’s happening
+
+Activities can also describe the things that need to happen to make a service work, whether by people or by computers, for example, to achieve an outcome, such as:
+- checking eligibility
+- checking suitability
+- making a decision
+- notifying someone about a decision
+- revoking permission
+
+Activities should describe what happens, but not how it happens, by whom or with what. So, we’d use ‘notifying someone’ rather than ‘sending a letter’ and ‘making a decision’ rather than ‘casework’.
+
+For example, a claims advisor deciding how much someone’s insurance claim is worth (activity) may use several systems to look-up data about the individual (tasks).
+
+
+<a name="capability"></a>
+### Capability ###
+
+A capability is an abstract concept, used to describe what we do (but not how). Capabilities can be thought of as all the things we do to deliver on our goals and are realised by people, processes, information, technology and other things – they help us consider whether we have all the expertise, knowledge, tools, organisation and capacity to do it.
+
+Capabilities can be grouped together into families or categories, for instance:
+- business capabilities, that describe core activities an organisation does to achieve its goals.
+- enabling capabilities, that, in of themselves, do not directly deliver organisation goals but rather support other capabilities, and might be shared or centralised.
+
+Capabilities can also be decomposed into levels to show more detail, usually to no more than 3 levels.
+
+The DfE might define an organisational need to deliver Curriculum Design (a business capability). This will require people, processes, information, technology and other things. These may in turn rely on other capabilities, such as communications or finance, to support their delivery (enabling capabilities).
+
+
+<a name="common-components"></a>
+### Common components ###
+
+A common component is a software or technical system that is created once and reused many times in different services or business contexts. They are building blocks, typically mapped to a business or technical capability, which can be used to deliver modular services or systems of a higher order.
+
+Components are often used alongside design patterns. A pattern describes a general, reusable solution to a commonly occurring problem, within a given context.
+
+Common Components can be of any size but they all share the same characteristics. They are:
+- designed according to common standards, principles and patterns, with independent quality assurance to ensure the principles and patterns have been applied.
+- designed and developed in a modular, scalable and resilient way to support ease of reuse and reliability.
+- mapped to a specific business or technical capability/service. This enables easy search and prevents duplication.
+- treated as an asset and therefore require asset lifecycle management – support wrap, continuous improvement, enhancement or replacement.
+- standalone but interoperable with other common components, such that change to one does not cause a ripple effect change to others.
+
+In a mature organisation, common components allow us to build services and products more quickly - reusing common elements from other services (such as a ‘login’ element), rather than recreating it multiple times, in multiple ways.
+
+Some examples of common components in DfE are [DfE Sign-in](../../common-components/#dfe-sign-in), providing identity and access management, and the [Enterprise Data and Analytics Platform (EDAP)](../../common-components/#enterprise-data-and-analytics-platform), for strategic data management.
+
+Read more on the [common components guidance](../../common-components).
+
+
+<a name="data"></a>
+### Data ###
+
+By data, we mean the actual information that’s either generated by or used to carry out activities and services. We try to describe what the data actually is using descriptive words, such as ‘National Insurance number’, and avoid acronyms.
+
+Data can be thought of in two ways, operational data, which is generated by the operation of a service. An example would be user completion rates on a digital service.
+
+The second can be thought of as intelligence. Data that we consciously generate in order to make decisions. Some might consider this to be information - data that has been ordered or analysed and provides meaning, more than purely the data alone. An example might be customer satisfaction or census data. We ask a conscious question from our users, in order to generate meaning.
+
+Data can sometimes be provided as a service for internal or specialist end users, for example, through registers or other databases, Application Programming Interfaces (APIs), standards and permission or usage based controls.
+
+
+<a name="ddat"></a>
+### DDaT / DDT ###
+
+Digital, Data and Technology (DDaT) was re-branded as Government Digital and Data in 2023. It is a profession in the UK Civil Service, spearheaded by the Government Digital Service (GDS) and characterised by the [Government Digital and Data Profession Capability Framework](https://ddat-capability-framework.service.gov.uk/).
+
+Digital, Data, Technology (DDT) is a term used within DfE to describe the collective community of people working in digital, data and technology roles across the department.
+
+
+<a name="feature"></a>
+### Feature ###
+
+Features are specific activities or tasks (outcomes) that services or products can deliver. Certain features might be differentiating factors between services and products; they might help you decide which is the right product for you to use.
+
+For example, features common to popular collaboration software products, like Teams, might include things like video conferencing, voice calling, chat or instant messaging. Similarly, the 'Discover your skills and careers' product within the National Careers Service has a job search feature, with which users can drill down into the details of different jobs, to help them understand if that's a good career choice for them. This differs from a job search feature on a recruitment website, for example, that displays live vacancies for a particular job. These are different features.
+
+
+<a name="organisation"></a>
+### Organisation ###
+
+An organisation is an entity structured to achieve a range of objectives. For DfE these objectives are most likely to be outcomes associated with policy or the missions DfE delivers.
+
+Organisation structures are most often represented in a 'map' format, showing relationships and flow between organisational units.
+
+Organisation maps should not be confused with organisation trees, which are primarily concerned with hierarchies and reporting lines.
+
+Organisation maps are unlikely to be used in isolation and are most often created alongside mapping and modelling of capabilities, value streams and other such collateral, to aid understanding and improved decision making.
+
+
+<a name="platform"></a>
+### Platform ###
+
+A platform is something you can build a product or service upon. Platforms are typically groups of technologies that, collectively, provide the basis on which applications, products, services, processes can be built.
+
+Examples of technology platforms in use within DfE include the [Cloud Infrastructure Platform (CIP)](../../common-components/#cloud-infrastructure-platform) and the [Find and Use an API platform](../../common-components/#fauapi).
+
+The Government Digital Service (GDS) offer [Government as a Platform](https://gds.blog.gov.uk/category/government-as-a-platform/) services, described as 'common core infrastructure of shared digital systems, technology and processes on which it’s easy to build brilliant, user-centric government services. Examples include GOV.UK Pay and GOV.UK Notify.'
+
+
+<a name="product"></a>
+### Product ###
+
+A product is a thing that helps to meet one or more user needs. A digital or technology product is usually a piece of software.
+
+Products can vary in size and can be grouped together and integrated to create a service. Typically, a service is a larger collection of products which are grouped together to help a user to achieve an outcome.
+
+An example is the 'Discover your skills and careers' product, within the National Careers Service. It's a standalone product but is best consumed as part of the user journey across the wider service. This helps a user achieve the outcome of defining a career path and developing their skills to be successful in that career.
+
+Some examples of technology products, used to enable a service, might be Microsoft Dynamics 365 or Salesforce. These are Commercial-Off-The-Shelf (COTS) products that, amongst other things, provide Customer Relationship Management (CRM) capability.
+
 
 <a name="service"></a>
 ### Service ###
@@ -88,61 +213,22 @@ We sometimes refer to *internal* services - those that support the running of th
 For more insight into services, have a look at the _#serviceowners_ and _#servicedesign_ channels on [DfE Slack](https://ukgovernmentdfe.slack.com).
 
 
-<a name="capability"></a>
-### Capability ###
+<a name="register"></a>
+### Register ###
 
-A capability is an abstract concept, used to describe what we do (but not how). It can be thought of as all the things we need to deliver on our goals – they help us consider whether we have all the expertise, knowledge, technology, organisation and capacity to do it.
+We define a register as the single place to find authoritative information on a single subject or domain. A register must have a data controller or steward who is responsible for ensuring the information contained on a register is kept up to date, accurate and accessible.
 
-Capabilities are often categorised as:
-- business capabilities, that describe what the organisation does
-- people capabilities, that describe the skills, experience and capacity people have or need to do their job
-- enabling capabilities (such as technology, data) that support both business and people capabilities
+For example, the Foreign and Commonwealth Office (FCO) maintains a register of countries. It is a single, maintained list of countries. Any service can connect to this register to provide a single, consistent and authoritative list to its users.
 
-The DfE might define an organisational need to deliver Curriculum Design (a business capability). There may need to be people with varying skills and experience to help deliver Curriculum Design services (people capability). They may rely on other services, such as communications or finance, to support their delivery (enabling capability).
+Technology maintain a register of all Services, Products, Technology and Platforms, called the Configuration Management Database (CMDB).
 
 
-<a name="product"></a>
-### Product ###
+<a name="roles"></a>
+### Roles ###
 
-A product is a thing that helps to meet one or more user needs. A digital or technology product is usually a piece of software.
+We’re conscious that definitions of the roles involved in creating and maintaining services can sometimes be confusing - for example, does the Service Owner of a public-facing service have the same responsibilities as a Service Owner for an internal DfE service?
 
-Products can vary in size and can be grouped together and integrated to create a service. Typically, a service is a larger collection of products which are grouped together to help a user to achieve an outcome.
-
-An example is the 'Discover your skills and careers' product, within the National Careers Service. It's a standalone product but is best consumed as part of the user journey across the wider service. This helps a user achieve the outcome of defining a career path and developing their skills to be successful in that career.
-
-Some examples of technology products, used to enable a service, might be Microsoft Dynamics 365 or Salesforce. These are Commercial-Off-The-Shelf (COTS) products that, amongst other things, provide Customer Relationship Management (CRM) capability.
-
-<a name="activities"></a>
-
-### Activities and tasks ###
-
-Activities and tasks are the things people do in relation to using a service, including:
-- finding out how something works
-- calling people for help
-- applying for something
-- gathering evidence
-- waiting and worrying about what might happen
-- being notified about a result
-- calling to find out what’s happening
-
-Activities can also describe the things that need to happen to make a service work, whether by people or by computers, for example, to achieve an outcome, such as:
-- checking eligibility
-- checking suitability
-- making a decision
-- notifying someone about a decision
-- revoking permission
-
-Activities should describe what happens, but not how it happens, by whom or with what. So, we’d use ‘notifying someone’ rather than ‘sending a letter’ and ‘making a decision’ rather than ‘casework’.
-
-For example, a claims advisor deciding how much someone’s insurance claim is worth (activity) may use several systems to look-up data about the individual (tasks).
-
-
-<a name="feature"></a>
-### Feature ###
-
-Features are specific activities or tasks (outcomes) that services or products can deliver. Certain features might be differentiating factors between services and products; they might help you decide which is the right product for you to use.
-
-For example, features common to popular collaboration software products, like Teams, might include things like video conferencing, voice calling, chat or instant messaging. Similarly, the 'Discover your skills and careers' product within the National Careers Service has a job search feature, with which users can drill down into the details of different jobs, to help them understand if that's a good career choice for them. This differs from a job search feature on a recruitment website, for example, that displays live vacancies for a particular job. These are different features.
+Associated roles are defined in the [Government Digital and Data Profession Capability Framework](https://ddat-capability-framework.service.gov.uk/) and may feature as part of our common definitions in the future.
 
 
 <a name="technology"></a>
@@ -153,70 +239,17 @@ Technology covers the systems, tools, platforms and applications we build, maint
 For example, a cloud hosting platform would be considered a particular type of technology.
 
 
-<a name="data"></a>
-### Data ###
+<a name="values"></a>
+### Value Stream ###
 
-By data, we mean the actual information that’s either generated by or used to carry out activities and services. We try to describe what the data actually is using descriptive words, such as ‘National Insurance number’, and avoid acronyms.
+A value stream is a high-level representation of how an organisation creates value for its stakeholders. For the public sector value might also be thought of as an outcome and is most often associated with policy aims and objectives.
 
-Data can be thought of in two ways, operational data, which is generated by the operation of a service. An example would be user completion rates on a digital service.
+Value streams are sequences of activities that when actioned enable an organisation to deliver value.
 
-The second can be thought of as intelligence. Data that we consciously generate in order to make decisions. Some might consider this to be information - data that has been ordered or analysed and provides meaning, more than purely the data alone. An example might be customer satisfaction or census data. We ask a conscious question from our users, in order to generate meaning.
+Value streams are often represented in ‘map’ format showing relationships and flow between activities.
 
-Data can sometimes be provided as a service for internal or specialist end users, for example, through registers or other databases, Application Programming Interfaces (APIs), standards and permission or usage based controls.
+Value streams are most often created as part of activities to describe an organisation to aid understanding and improved decision making.
 
-
-<a name="common-components"></a>
-### Common components ###
-
-A common component is a software or technical system that is created once and reused many times in different services or business contexts. They are building blocks, typically mapped to a business or technical capability, which can be used to deliver modular services or systems of a higher order.
-
-Components are often used alongside design patterns. A pattern describes a general, reusable solution to a commonly occurring problem, within a given context.
-
-Common Components can be of any size but they all share the same characteristics. They are:
-- designed according to common standards, principles and patterns, with independent quality assurance to ensure the principles and patterns have been applied.
-- designed and developed in a modular, scalable and resilient way to support ease of reuse and reliability.
-- mapped to a specific business or technical capability/service. This enables easy search and prevents duplication.
-- treated as an asset and therefore require asset lifecycle management – support wrap, continuous improvement, enhancement or replacement.
-- standalone but interoperable with other common components, such that change to one does not cause a ripple effect change to others.
-
-In a mature organisation, common components allow us to build services and products more quickly - reusing common elements from other services (such as a ‘login’ element), rather than recreating it multiple times, in multiple ways.
-
-Some examples of common components in DfE are [DfE Sign-in](../../common-components/#dfe-sign-in), providing identity and access management, and the [Enterprise Data and Analytics Platform (EDAP)](../../common-components/#enterprise-data-and-analytics-platform), for strategic data management.
-
-Read more on the [common components guidance](../../common-components).
-
-
-<a name="platform"></a>
-### Platform ###
-
-A platform is something you can build a product or service upon. Platforms are typically groups of technologies that, collectively, provide the basis on which applications, products, services, processes can be built.
-
-Examples of technology platforms in use within DfE include the [Cloud Infrastructure Platform (CIP)](../../common-components/#cloud-infrastructure-platform) and the [Find and Use an API platform](../../common-components/#enterprise-api-management).
-
-The Government Digital Service (GDS) offer [Government as a Platform](https://gds.blog.gov.uk/category/government-as-a-platform/) services, described as 'common core infrastructure of shared digital systems, technology and processes on which it’s easy to build brilliant, user-centric government services. Examples include GOV.UK Pay and GOV.UK Notify.'
-
-
-<a name="register"></a>
-### Register ###
-
-We define a register as the single place to find authoritative information on a single subject or domain. A register must have a data controller or steward who is responsible for ensuring the information contained on a register is kept up to date, accurate and accessible.
-
-For example, the Foreign and Commonwealth Office (FCO) maintains a register of countries. It is a single, maintained list of countries. Any service can connect to this register to provide a single, consistent and authoritative list to its users.
-
-Technology maintain a register of all Services, Products, Technology and Platforms, called the Configuration Management Database (CMDB).
-
-<a name="ddat"></a>
-### DDaT / DDT ###
-
-Digital, Data and Technology (DDaT) was re-branded as Government Digital and Data in 2023. It is a profession in the UK Civil Service, spearheaded by GDS and characterised by the [Government Digital and Data Profession Capability Framework](https://ddat-capability-framework.service.gov.uk/).
-
-Digital, Data, Technology (DDT) is a term used within DfE to describe the collective community of people working in data, digital and technology roles across the department.
-
-## Roles ##
-
-We’re conscious that definitions of the roles involved in creating and maintaining services can sometimes be confusing - for example, does the Service Owner of a public-facing service have the same responsibilities as a Service Owner for an internal DfE service?
-
-Associated roles are defined in the [Government Digital and Data Profession Capability Framework](https://ddat-capability-framework.service.gov.uk/) and may feature as part of our common definitions in the future.
 
 ## Get in touch ##
 
