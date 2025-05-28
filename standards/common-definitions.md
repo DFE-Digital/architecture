@@ -78,15 +78,16 @@ For example, a claims advisor deciding how much someone’s insurance claim is w
 <a name="capability"></a>
 ### Capability ###
 
-A capability is an abstract concept, used to describe what we do (but not how). Capabilities can be thought of as all the things we do to deliver on our goals and are realised by people, processes, information, technology and other things – they help us consider whether we have all the expertise, knowledge, tools, organisation and capacity to do it.
+A capability is an abstract concept, used to describe what we do (but not how). Capabilities can be thought of as all the things we do to define and deliver our goals and are realised by people, processes, information, technology and other things. They help us consider whether we have all the expertise, knowledge, tools, organisation and capacity to do it.
 
-Capabilities can be grouped together into families or categories, for instance:
-- business capabilities, that describe core activities an organisation does to achieve its goals.
+Capabilities are often grouped together into families or categories, for instance:
+- strategic capabilities, that describe high level goal setting activities.
+- core capabilities, that describe core activities an organisation does to achieve its goals.
 - enabling capabilities, that, in of themselves, do not directly deliver organisation goals but rather support other capabilities, and might be shared or centralised.
 
 Capabilities can also be decomposed into levels to show more detail, usually to no more than 3 levels.
 
-The DfE might define an organisational need to deliver Curriculum Design (a business capability). This will require people, processes, information, technology and other things. These may in turn rely on other capabilities, such as communications or finance, to support their delivery (enabling capabilities).
+For example, as part of setting policy for schools Policy (a strategic capability), the DfE might define an organisational need to deliver Curriculum Design (a core capability). This will require people, processes, information, technology and other things. These may in turn rely on other capabilities, such as communications or finance, to support their delivery (enabling capabilities).
 
 
 <a name="common-components"></a>
