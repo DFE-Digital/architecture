@@ -42,25 +42,25 @@ The recommended basic modelling tools are Microsoft Visio or Excel. For more com
 
 ## Capability modelling
 
-As described in [Common Definitions](../common-definitions/#capability) capabilities are abstract concepts used to describe what we do.
+As described in [common definitions](../common-definitions/#capability), capabilities are abstract concepts used to describe *what* we do.
 
-To deliver most value capability models should be comparable and therefore need to be created in a consistent manner. This ensures clarity, reliability, and usability across various stakeholders and initiatives.
+To deliver most value in an organisation, capability models should be comparable and therefore need to be created in a consistent manner. This ensures clarity, reliability and usability for various stakeholders and across initiatives.
 
 In DfE, capability models should follow the guidance below:
 
 ### Categorisation
 
-Capabilities should be categorised as [Strategic, Core or Enabling](../common-definitions/#capability)
+Capabilities should be categorised as [strategic, core or enabling](../common-definitions/#capability)
 
 ### Levelling
 
-Capabilities should be levelled (decomposed) usually to 3 levels, with the following characteristics:
+Capabilities should be levelled (decomposed), usually to 3 levels, with the following characteristics:
 
 * Level 1 - broad scope, stable and enduring, often cut across organisational groups, can be easily decomposed
 * Level 2 - operational focus, narrowing to actionable scope, relatively stable, direct ‘child’ of a level 1 capability
 * Level 3 - process or task focused, specific scope, subject to regular change, direct ‘child’ of a level 2 capability
 
-A generic example of levelling is as below:
+A generic example of levelling is:
 
 |Level 1| Level 2|Level 3|
 |-----------|-----------|-----------|
@@ -68,5 +68,10 @@ A generic example of levelling is as below:
 |Product Development|<ul><li>Ideation and Concept Development</li><li>User Research and Analysis</li><li>Product Testing and Validation</li><li>Product Lifecycle Management</li><li>Product Design and Prototyping|For Level 2 Product Design and Prototyping<ul><li>Conceptual Design</li><li>Prototype Development</li><li>Design Validation</li><li>Collaboration and Tools|
 |Supply Chain Management|<ul><li>Supply Chain Risk Management</li><li>Demand Planning and Forecasting</li><li>Procurement and Supplier Management|For Level 2 Procurement and Supplier Management<ul><li>Bid Management</li><li>Contract Management|
 
-Avoid capabilities so broad that they include multiple unrelated areas and/or too abstract to provide practical value and require an unmanageable number of levels to decompose e.g. ‘delivering customer services’, ‘managing financial operations’ or ’developing products and services’. Capabilities should also be described to a level of detail that is easily understood and unambiguous to ensure clarity, aid ease of use and avoid risk of duplication.
+### Scope
 
+Avoid capabilities so broad that they include multiple unrelated areas. And/or are too abstract to provide practical value, requiring an unmanageable number of levels to decompose. For example, ‘delivering customer services’, ‘managing financial operations’ or ’developing products and services’ are all too broad. 
+
+### Definition
+
+Capabilities should be described to a level of detail that is easily understood and unambiguous, to ensure clarity, aid ease of use and avoid risk of duplication.
