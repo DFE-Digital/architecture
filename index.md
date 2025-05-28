@@ -37,7 +37,7 @@ It should be used in conjunction with the [DfE Digital Technical Guidance](https
 
 ## Governance
 
-- [Technical governance](governance/technical-governance.md)
+- [Design governance](governance/design-governance.md)
 
 ## Profession
 
