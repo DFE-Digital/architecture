@@ -11,7 +11,7 @@ expires: 2023-02-15
 ```mermaid
 graph TD
     A(fa:fa-user Requestor) -->|Define the need and raise| B(fa:fa-handshake DDaT Business Partner)
-    B --> C{Architecture need?}
+    B --> C{Is this an architecture need?}
     C -.-> |Seek advice| D(fa:fa-users Profession)
     D -.-> C
     C --> |No: help define the need| B

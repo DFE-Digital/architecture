@@ -1,20 +1,9 @@
 # DfE Architecture
-This site documents the architecture principles, standards and guidance that we expect teams working
-within the [Department for Education (DfE)](https://www.gov.uk/government/organisations/department-for-education)
-to follow when designing services.
+This site documents the architecture principles, standards and guidance that we expect teams working within the [Department for Education (DfE)](https://www.gov.uk/government/organisations/department-for-education) to follow when designing services.
 
-It complements the [UK Government Service Manual](https://www.gov.uk/service-manual) and its
-[technology section](https://www.gov.uk/service-manual/technology),
-which covers service design more broadly.
+It complements the [UK Government Service Manual](https://www.gov.uk/service-manual) and its [technology section](https://www.gov.uk/service-manual/technology), which covers service design more broadly.
 
-It should be used in conjunction with the
-[DfE Digital Technical Guidance](https://technical-guidance.education.gov.uk),
-when building digital services.
-
-## Profession
-
-- [Architecture profession](profession/architecture-profession)
-- [Architecture community](profession/architecture-community)
+It should be used in conjunction with the [DfE Digital Technical Guidance](https://technical-guidance.education.gov.uk), when building digital services.
 
 ## Principles
 
@@ -34,6 +23,7 @@ when building digital services.
 {% for standard in standard_groups %}
 - [{{ standard.title }}]({{ standard.url | relative_url }})
 {% endfor %}
+- [Common Components](common-components/)
 
 ## Patterns
 
@@ -43,21 +33,25 @@ when building digital services.
 {% for pattern in pattern_groups %}
 - [{{ pattern.title }}]({{ pattern.url | relative_url }})
 {% endfor %}
+- [User-centred design patterns](https://design.education.gov.uk/design-system/patterns/)
 
-## Common Components ##
+## Governance
 
-- [Common Components](common-components/)
+- [Technical governance](governance/technical-governance.md)
 
-## Design assurance
+## Profession
 
-- [Design assurance](assurance/design-assurance)
+- [Architecture roles](profession/architecture-roles.md)
+- [Architecture profession](profession/architecture-profession.md)
+- [Architecture community](profession/architecture-community.md)
+- [Architecture Capability Framework](profession/architecture-capability-framework.md)
 
 ## Repositories
 
-- [DfE SharePoint repo](https://educationgovuk.sharepoint.com/sites/gp/WorkplaceDocuments)
+- [DfE SharePoint repo](https://educationgovuk.sharepoint.com/sites/architecture/WorkplaceDocuments)
 - [DfE Digital Confluence](https://dfedigital.atlassian.net)
 - [ESFA Confluence](https://skillsfundingagency.atlassian.net)
 
-## Capability
 
-- [Architecture Capability Framework](capability/architecture-capability-framework.md)
+
+

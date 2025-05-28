@@ -1,217 +1,284 @@
 ---
 category: Architecture Principles
-expires: 2022-12-01
+expires: 2025-08-31
 ---
-
 # Enterprise Architecture Principles
 
-Principles are general rules and guidelines that inform and support the way in which the DfE fulfils its vision and objectives. They are intended to be enduring and seldom amended. They reflect a level of consensus across the organisation (our 'enterprise') and embody the spirit and thinking of the enterprise architecture.
+Enterprise Architecture principles are general rules and guidelines that inform and support decisions in how DfE should deliver services, to align with its vision and objectives. 
 
-Discovery, user research and requirements gathering provide user needs and wants; principles provide the guidance to meet those needs.
+They are intended to be enduring and seldom amended. They reflect a level of consensus across the organisation (our 'enterprise') and embody the spirit and thinking of the enterprise architecture.
 
-Throughout these principles, we refer to specific points of the UK Government [Service Standard](https://www.gov.uk/service-manual/service-standard) and [Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice), that underpin use of these principles.
+Discovery, user research and requirements gathering provide user needs (and wants), which inform what a service does. Principles provide guidance on how services should be architected to meet those needs.
 
-## 1. Re-use services and components
+These principles should be applied alongside the UK Government [Service Standard](https://www.gov.uk/service-manual/service-standard) and [Technology Code of Practice](https://www.gov.uk/guidance/the-technology-code-of-practice).
 
-__Why?__
 
-Duplication of services or components adds cost and complexity for the organisation.
+## 1. Align with business objectives
 
-__How?__
-- When re-using components and services, projects are likely to need to assemble several components / products to meet end-to-end requirements and not just look for single solutions
-- Where no approved service or component exists, any new service or component should be designed to maximise re-usability
-- Services or components should be delivered at the smallest possible granularity to facilitate re-use
+Align and prioritise digital, data and technology (DDT) strategies and delivery with DfE's business 
+goals and objectives, to maximise taxpayer value
 
-__Relates to__
+**Rationale**
 
-- [TCoP8](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice#share-reuse-and-collaborate): Share, reuse and collaborate
-- [SS2](https://www.gov.uk/service-manual/service-standard/point-2-solve-a-whole-problem): Solve a whole problem for users.
-- [SS13](https://www.gov.uk/service-manual/service-standard/point-13-use-common-standards-components-patterns): Use and contribute to open standards, common components and patterns
+*	Changes in ministerial priorities cause volatility in the goals and objectives of the 
+department
+*	Ensuring delivery aligns with departmental goals and objectives improves efficiency, 
+with better resource allocation and decision-making
 
-## 2. Align technology choices with cross-Government strategy
+**Implications**
 
-__Why?__
+*	To maximise taxpayer value, review deliveries as business and ministerial goals change, 
+ensuring appropriate investment of effort and money
+*	Ensure value by linking delivery metrics to business objectives, which also facilitates 
+rapid review of relevance when goals and objectives change
+*	Work may be deprioritised or stopped as business goals and objectives change. 
+*	Invest in functionality and delivery that has long-term stability through changing 
+government policies and priorities
+*	User needs may not align with DfE business objectives, therefore the cost and value of 
+delivering the capabilities should be weighed-up against the impact to achieving 
+departmental objectives
 
-Components and services should be aligned with government strategies to increase reusability, minimise cost and improve consistency of user experience across Government services. Cross-Government components include Gov.UK Notify and Gov.UK Pay - read more about [Government as a Platform](https://gds.blog.gov.uk/category/government-as-a-platform/) on the GDS blog.
 
-__How?__
+## 2. Standardisation
 
-Projects delivering new products or services should assess alignment with cross government strategies, and aim to deliver re-useable components and services which can be used at cross-Government level
+Adhere to DfE standards and patterns, to promote consistency, simplify the landscape and 
+minimise technical debt
 
-__Relates to__
+**Rationale**
 
-[SS3](https://www.gov.uk/service-manual/service-standard/point-3-join-up-across-channels): Provide a joined up experience across all channels
+*	Use of consistent technologies and platforms facilitates interoperability, reduces 
+complexity and simplifies maintenance
+*	Quicker onboarding of suppliers, with reduced time and cost on evaluating 
+technology options
+*	It becomes easier to reallocate resources between deliveries, to optimise deliveries and 
+accommodate changing priorities
+*	Consistent technology choices reduce technical debt and proliferation of technology 
+within the department
+*	Streamlined processes, easier integration and cost savings through economies of 
+scale
 
-## 3. Link technology decisions to DfE goals
+**Implications**
 
-__Why?__
+*	Productivity of individuals and teams may reduce as they transition to standard tools 
+and platforms - expect some retraining requirements
+*	Pragmatism means one tool or platform may not be desirable or achievable - need to link 
+to use cases and allow exceptions for unusual scenarios
+*	Standards need developing and managing across all areas of DDT
+*	Standards need processes and governance to adapt to changing needs and modern 
+technologies
+*	Need the flexibility to experiment with modern technologies to evaluate usefulness
 
-Technology investment should only be made where it demonstrably contributes to DfE goals or drivers
 
-__How?__
-- All projects should have a business case with measurable business outcomes aligned to DfE goals and objectives
-- All projects should assign a person accountable for measurement, reporting and realisation of stated business benefits
+## 3. Flexibility and adaptability
 
-__Relates to__
+Design services that can adapt to changing business needs and technological advancements
 
-- [SS10](https://www.gov.uk/service-manual/service-standard/point-10-define-success-publish-performance-data): Define what success looks like and publish performance data
+**Rationale**
 
-## 4. Evaluate Total Cost of Ownership
+*	Ministerial priorities will change. Business environments evolve rapidly - agility is 
+essential to serve users effectively.
+*	Reduced risk of obsolescence, quicker response to market changes
 
-__Why?__
+**Implications**
 
-- Expenditure of public money should always look to deliver the best value for the taxpayer
-- Ongoing support and maintenance of services form a major part of the total costs and therefore should inform technology decisions
+*	Continuous development is expensive - design services to allow for predictable change 
+without redevelopment
+*	Predict the types of change that will affect your service area and accommodate these 
+in the design, through configuration or replaceable/expandable modules
+*	Delivery of flexible and adaptable services will be more complex and costly initially, 
+offset by reduced future cost of change
+*	Change may not happen - do not cover every eventuality, only consider changes that 
+could be expected within the lifecycle of a service/product
 
-__How?__
--  All projects must be supported by a well-evidenced business case, ensuring that overall solution costs have been considered for value for money.
--  An Architecture Lead must assess the total cost of ownership for the service and challenge where appropriate
--  Where a duplicate service or component is proposed, total cost of ownership should include costs of running both/all duplicated services
--  Investment must justified by supporting evidence
--  Design must consider longer-term costs and support of any solution(s) delivered
 
-__Relates to__
+## 4. Security and compliance
 
-- [SS10](https://www.gov.uk/service-manual/service-standard/point-10-define-success-publish-performance-data): Define what success looks like and publish performance data
+Prioritise security measures and regulatory compliance in architecture decisions
 
-## 5. Data is a shared asset
+**Rationale**
 
-__Why?__
+*	Good security practices protect data, maintain trust and avoids reputational damage, 
+impact to customers and legal penalties
+*	Understanding threats, vulnerabilities and applying mitigations at the design stage reduces 
+the cost of delivering secure services and prevents vulnerabilities risking DfE data and 
+services
 
-We are striving to be a data-driven department: data is the golden thread that supports seamless, user-centric user journeys.  Data enables evidence based decisions to be made, supports management and governance of our business activities, is used to hold us to account for delivery and allows us to assess the effectiveness of our Departmental policies.
+**Implications**
 
-Read more about our [Enterprise Data Architecure principles](/enterprise-data-architecture-principles)
-
-__How?__
-
--  Data must be sharable – solutions should adhere to Departmental Data Standards, working with the DfE Data Governance team to extend those standards if necessary.
--  Data must be shared – services should provide methods of sharing data with other services to support other user journeys, and with the Enterprise Data & Analysis Platform to support reporting, analysis and Data Science.
--  Data must be protected – services must take care during both development and operational phases to adequately secure live data, including but not limited to data containing Personally Identifiable Information (PII). Architects must follow the Departmental Data Protection policies held by the DfE Data Governance team to ensure they are protecting our shared assets appropriately.
-
-__Relates to__
-
-- [TCoP10](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice#make-better-use-of-data): Make better use of data
-
-
-## 6. Design for accessibility
-
-__Why?__
-
-We must ensure there is a 'level playing field' for all users of a service - that services are inclusive of all users' needs.
-Services and systems must adhere to current government accessibility regulations.
-
-__How?__
--  Seek input from DfE Accessibility Advisers on how designs might need amending to improve accessibility
--  Include accessibility testing as part of any project delivery
-
-__Relates to__
-
-- [TCoP2](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice#make-things-accessible-and-inclusive): Make things accessible and inclusive
-- [SS4](https://www.gov.uk/service-manual/service-standard/point-4-make-the-service-simple-to-use): Make things easy to use
-- [SS5](https://www.gov.uk/service-manual/service-standard/point-5-make-sure-everyone-can-use-the-service): Make sure everyone can use the service
-
-
-## 7. Deliver a secure service  
-
-__Why?__
-
-The department’s information assets must be protected to ensure that they are not inadvertently exposed to an unintended audience.
-
-__How?__
-- Early engagement with the Information Security team will ensure that risk assessments are completed and appropriate security controls are designed into solutions before development has begun
-- Security controls must be proportionate, to ensure it is still possible for authorised users to access and share data seamlessly
-
-__Relates to__
-
-- [TCoP6](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice#make-things-secure): Make things secure
-- [SS9](https://www.gov.uk/service-manual/service-standard/point-9-create-a-secure-service): Create a secure service which protects users' privacy
-
-## 8. Deliver cloud-native solutions
-
-__Why?__
-
-- The scale of public cloud services enables the delivery of highly scalable, cost effective, secure services. Consumption based billing and rapid provisioning supports the Government ICT strategy.
-- A service can be configured and built using a SaaS product, without bespoke customisation and vendor lock in
-
-__How?__
--  Choose Software as a Service (SaaS), before Platform as a Service (PaaS), before Infrastructure as a Service (IaaS)
--  Check hosting arrangements and data sensitivity when selecting cloud solutions
--  Design the exit strategy before entering cloud agreements
--  Design solutions to take advantage of cloud features, such as elastic scaling and automated spin-down
-
-__Relates to__
-
-[TCoP5](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice#use-cloud-first): Use cloud first
-
-## 9. Design for interoperability
-
-__Why?__
-
-Interoperability enables sharing of capabilities and data between systems
-
-__How?__
--  Service Oriented Architectures and microservice architectures maximise interoperability and re-use
--  Interfaces should be discoverable and self-describing or self-documented
--  Interoperability can affect the demands on solutions, therefore designs may need to be scalable to cope with other usage
-
-__Relates to__
-
-- [TCoP9](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice#integrate-and-adapt-technology): Integrate and adapt technology
-
-## 10. Use open standards
-
-__Why?__
-
-- Avoidance of vendor lock-in
-- Lays the foundation for delivering interoperability
-- Open standards facilitate interoperability and data exchange among different products or services.
-
-__How?__
-
-Where open standards  do not exist, create one or find the best fit with least lock in
-
-__Relates to__
-
-- [TCoP4](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice#make-use-of-open-standards): Make use of open standards
-- [SS13](https://www.gov.uk/service-manual/service-standard/point-13-use-common-standards-components-patterns): Use and contribute to open standards, common components and patterns
-
-## 11. Design for portability
-
-__Why?__
-
-- Avoidance of vendor lock-in
-- Moving to a new platform is simpler and requires less engineering (and cost)
-
-__How?__
-- Design must be platform agnostic
-- Minimise use of platform specific features
-- Will require an exit strategy
-
-## 12. Design loosely coupled solutions
-
-__Why?__
-
-- Loosely coupled components can be replaced with alternative implementations that provide the same services.
-- Components in a loosely coupled system are less constrained to the same platform, language, operating system, or build environment.
-
-__How?__
-- Projects must ensure any additional coordination protocols needed are in place
-- Projects must ensure consistent data synchronisation aligned with DfE Data guidance
-
-__Relates to__
-
-- [TCoP9](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice#integrate-and-adapt-technology): Integrate and adapt technology
-
-## 13. Minimise technical debt
-
-__Why?__
-
-Replacing or superseding a component or service without removing existing components or services increases technical debt
-
-__How?__
-- Any project delivering a technology component or service designed to supersede or replace an existing component or service must remove the existing service as part of that project
-- Project budgets need to include cost of decommissioning existing solutions or include total ongoing cost of both systems in the business case.
-
-__Relates to__
-
-- [SS2](https://www.gov.uk/service-manual/service-standard/point-2-solve-a-whole-problem): Solve the whole problem for a users
+*	Conduct threat modelling early in a service lifecycle and review, as threats and the 
+service evolve
+*	Apply threat modelling to all components and flows in your service, from both external 
+and internal threat actors, and apply appropriate mitigations
+*	Threat mitigations should be prioritised in backlogs to prevent exploitation of 
+vulnerabilities
+*	A system is only as secure as its weakest link - all components, modules and 
+flows should be protected regardless of the sensitivity of data held by that service 
+*	Exploitation of weak points can provide a stepping stone into other services, platforms, 
+and data - even if your service is considered lower risk, protections are 
+required to prevent your system becoming a 'back door' into sensitive data elsewhere in 
+the organisation
+
+
+## 5. Cloud First
+
+Rent, before buy, before build. Do not build what can easily be bought off-the-shelf. Prioritise cloud-based services over on-premises alternatives.
+
+**Rationale**
+
+*	Commercial-off-the-shelf (COTS) services include the cost of development, operation and 
+best practice in their costs, and share these between all clients. Total Cost of 
+Ownership (TCO) is cheaper for 'utility' functionality.
+*	Leverage scalability, cost-effectiveness and agility of cloud services
+
+**Implications** 
+
+*	Conduct an options appraisal before choosing a delivery approach 
+*	Evaluate COTS solutions against what's “good enough”, as they are unlikely to meet all 
+requirements - they may need façades, configuration or a hybrid approach to meet user 
+needs. For example, if a COTS solution delivers 80% of user needs, consider wrapping or 
+extending the COTS solution for the remaining 20%, rather than building 100% bespoke.
+*	Avoid customisation of COTS solutions to deliver bespoke functionality. Where required, 
+use configuration and integration to tailor the solution to user needs. Adapt business 
+processes to align with COTS where possible.
+*	Develop an exit strategy before adopting COTS, to prevent vendor lock-in 
+*	Evaluate TCO between COTS and bespoke options during options appraisal. This should include
+ hosting, platform, delivery resource and support costs, for the lifetime of the product.
+*	Prioritise Software-as-a-Service (SaaS) services, over Platform-as-a-Service (PaaS), 
+over Infrastructure-as-a-Service (IaaS), over on-premises options, when evaluating service 
+hosting options
+
+
+## 6. Data integrity and quality
+
+Ensure accurate, consistent and reliable data across DfE. Use master data sources and, when mastering data, make it available to other services through interfaces
+
+**Rationale** 
+
+*	Reliable data drives informed decision-making and operational efficiency
+*	Duplication or poor data management practices reduces user trust, introduces errors, 
+discrepancies and data quality issues, whilst increasing the cost and effort of data collation 
+and analysis
+*	By creating and using trusted shared data sources, services can provide consistent 
+data, improve user experience and trust, and reduce data engineering costs, in 
+preparing data for analysis
+
+**Implications**
+
+*	Use authoritative data sources without creating copies, to ensure data consistency, integrity and quality
+*	Authoritative data sources must have availability and scalability to meet service 
+demands, with appropriate support and service levels
+*	Embed data management and governance practices in the organisation for both 
+operational and analytical data
+
+
+## 7. Reuse and modularity
+
+Solve problems once, encouraging the creation and reuse of components, services and patterns
+
+**Rationale**
+
+*	Delivering services and functionality is expensive - by avoiding reinventing the wheel, we 
+can streamline development efforts, reduce duplication and costs
+*	By decomposing services into small reusable components, teams can consume these 
+rather than building functionality from scratch
+*	Services can be delivered by assembling existing components quicker, cheaper 
+and more consistently than duplicating functionality
+*	Capabilities cross organisational and service boundaries - reuse can break 
+down the silos that naturally form around portfolio-centred teams and create a more 
+consistent user experience
+*	Modularity allows rearrangement of components and functionality when policy or 
+organisational goals or objectives change
+*	Updates to shared components automatically apply to all dependent services - when 
+making changes, only the component changes which reduces the testing required
+*	Measuring the of use of components allows better understanding of user journeys, to 
+inform policy and delivery decisions
+
+**Implications**
+
+*	Interdependencies between services and teams increases complexity and will slow delivery
+initially 
+*	Assume that someone will need to reuse any new capabilities you deliver - look for 
+similarities rather than differences, only build what does not exist already, and make it 
+reusable. Where there are differences consider encapsulation or abstraction to extend 
+the base functionality, and make that a service.
+*	Changes to components need to be non-breaking to avoid failures in dependant 
+systems
+*	Make services small and re-useable, breaking functionality into separate modules or 
+components with integration capabilities 
+*	Facilitate synchronous and/or asynchronous integrations, as appropriate 
+*	Separate front-end functionality from back-end components - back-ends should not 
+depend on front-end validation (or other functionality) to work correctly 
+*	Design and scale each component for availability and re-use - consider 'circuit 
+breakers' for latency and non-responsiveness of components but avoid duplication as 
+mitigation
+*	Components need to support all users equitably
+*	Requires teams to be able to discover existing components, services and patterns, and the 
+functionality they provide
+
+
+## 8. Design for operation
+
+Architect systems and services with operational efficiency, reliability and sustainability in mind
+
+**Rationale**
+
+*	Smooth service operations reduce downtime, enhance reliability and availability
+*	Designing for efficient operations, with appropriate availability and scalability without 
+manual intervention, drives reduced TCO
+*	The majority of costs for any service occur post-delivery - avoid short-term decisions to 
+minimise delivery costs, or accelerate delivery timescales that adversely impact the 
+organisation or users long-term.
+
+**Implications**
+
+*	Design systems with appropriate resilience and scalability to meet service needs, and 
+those of any dependent services. Where possible, automate these to avoid service 
+impacts in the event of sudden demand or failures.
+*	Services may need different levels of availability and scalability for each module or 
+component. Overall service availability and scalability is only as good as 
+its weakest link. Plan and test for Disaster Recovery and Business Continuity scenarios, 
+as well as peak loads, to ensure service designs are appropriate.
+*	Automation and integration of service operations to a common Configuration Management 
+Database (CMDB), logging and monitoring platforms promotes easier maintenance, proactive 
+monitoring and better support, with reduced resource requirements. 
+*	All projects delivering services that replace existing services or components must 
+include decommissioning of the old service(s) or component(s) in the project activity and costs,
+ to actively reduce technical debt
+*	Automate delivery pipelines to update CMDB / Service Catalogue, to ensure information is 
+always up to date during delivery phases
+*	Evaluate the long-term viability of suppliers and products, to prevent technical debt or risk of 
+supplier failure
+*	Architecture decisions need to factor the expected lifecycle of the service and its 
+impact on stakeholders, the environment and TCO
+*	Decisions need to prioritise prevention of technical debt, minimise rework, ensure 
+future scalability (up and down) and optimise operational resource and cost demands
+*	Include full-lifecycle people and technical resource costs in TCO comparisons when 
+evaluating options
+
+
+## 9. 'Good enough' services
+
+Recognise that perfection is not always necessary. Strive for services that meet essential 
+requirements without unnecessary features. Prioritise value over perfection, especially in agile 
+and iterative contexts.
+
+**Rationale**
+
+* Balancing pragmatism with quality allows for faster delivery, adaptability and maximises 
+taxpayer value, whilst minimising delivery costs and allowing people to pivot to other 
+delivery
+* Pareto rule – 20% of functionality delivers 80% of the value
+
+**Implications**
+
+*	Architecture needs to reflect the emergent nature of agile delivery and therefore do 'just 
+enough' architecture to enable delivery. This means longer term architecture should still 
+be done, but at an appropriate level to adapt, as detail emerges through delivery.
+*	Avoid “gilding the lily” or over-engineering - focus on critical features and iterate based 
+on feedback. Measure the value for money of each feature, including cost of delivery resources over 
+a realistic lifetime of the service before adding to backlog. Stop when the service reaches 
+'good enough'.
+*	Evaluate the cost saving of COTS options with 'good-enough' functionality against bespoke 
+delivery
+*	Ensure compliance with legislative, accessibility and security standards
+*	Have a 'definition of done' - check regularly whether this criteria has been met
