@@ -64,9 +64,9 @@ A generic example of levelling is:
 
 |Level 1| Level 2|Level 3|
 |-----------|-----------|-----------|
-|Customer Relationship Management|* Customer Segmentation and Analytics<br>* Customer Support and Service<br>* Customer Feedback Management|For Level 2 Customer Feedback Management:<br>* Feedback Collection<br>* Feedback Analysis<br>* Feedback Integration<br>* Feedback Management Tools and Platforms|
-|Product Development|<ul><li>Ideation and Concept Development<br>User Research and Analysis<br>Product Testing and Validation<br>Product Lifecycle Management<br>Product Design and Prototyping|For Level 2 Product Design and Prototyping<ul><li>Conceptual Design<br>Prototype Development<br>Design Validation<br>Collaboration and Tools|
-|Supply Chain Management|<ul><li>Supply Chain Risk Management<br>Demand Planning and Forecasting<br>Procurement and Supplier Management|For Level 2 Procurement and Supplier Management<ul><li>Bid Management<br>Contract Management|
+|Customer Relationship Management|- Customer Segmentation and Analytics<br>- Customer Support and Service<br>- Customer Feedback Management|For Level 2 Customer Feedback Management:<br>- Feedback Collection<br>- Feedback Analysis<br>- Feedback Integration<br>- Feedback Management Tools and Platforms|
+|Product Development|- Ideation and Concept Development<br>- User Research and Analysis<br>- Product Testing and Validation<br>- Product Lifecycle Management<br>- Product Design and Prototyping|For Level 2 Product Design and Prototyping:<br>- Conceptual Design<br>- Prototype Development<br>- Design Validation<br>- Collaboration and Tools|
+|Supply Chain Management|<br>- Supply Chain Risk Management<br>- Demand Planning and Forecasting<br>- Procurement and Supplier Management|For Level 2 Procurement and Supplier Management:<br>- Bid Management<br>- Contract Management|
 
 ### Scope
 
