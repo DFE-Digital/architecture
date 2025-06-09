@@ -26,7 +26,7 @@ In the unlikely event a consensus can’t be reached, escalation to the DDT Seni
 
 ## How design assurance works in practice
 
-![Image of exemption-based-governance flow](../images/exemption-based-governance-all.png)
+![Image of exemption-based-governance flow](../images/exception-based-governance-all.png)
 
 ### Self-certification
 
