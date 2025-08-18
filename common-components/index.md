@@ -352,8 +352,8 @@ __Error tracking__
 
 These applications will provide error monitoring and alerts to services that are developing solutions, so that they are aware of errors as they appear:
 
-- [Rollbar](https://docs.sentry.io/)
-- [Sentry](https://docs.rollbar.com/docs)
+- [Rollbar](https://docs.rollbar.com)
+- [Sentry](https://docs.sentry.io)
 
 Each application brings a slightly different set of features and capabilities that fit different use cases. This table provides an overview:
 
