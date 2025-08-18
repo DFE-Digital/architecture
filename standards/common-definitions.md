@@ -211,8 +211,6 @@ Every service should have an owner who is accountable for improving the service,
 
 We sometimes refer to *internal* services - those that support the running of the department, such as Finance, Commercial or HR services - and *external* services - those that DfE provides to its external users, like learners, teachers and schools, for example, the Apprenticeships Service or Teacher Vacancies Service.
 
-For more insight into services, have a look at the _#serviceowners_ and _#servicedesign_ channels on [DfE Slack](https://ukgovernmentdfe.slack.com).
-
 
 <a name="register"></a>
 ### Register ###
