@@ -1,6 +1,6 @@
 ---
 category: profession
-expires: 2025-09-31
+expires: 2026-09-31
 ---
 
 # Architecture Community
@@ -17,7 +17,6 @@ For more information, contact the named community lead below:
 
 | Community of Practice | Lead architect |
 | ----------| ---------- |
-| Technical Architecture | Andy Emley |
 | Architecture in Data Science| Pete Holding / Stuart Baillie |
 | Data Architecture | Richard Boland |
 
@@ -33,11 +32,9 @@ The meet-up provides opportunity to discuss and share all things architecture an
 Hosting of the meet-up and topics is shared by the community and usually rotates round [architecture leads](architecture-profession#architecture-leads).
 
 ## Collaboration channels
-We use the Teams channel to collaborate across the community. Here we share interesting articles, chat about current challenges and ask (lots of) questions - you can usually find out if someone is tackling a similar problem or is hosting a session that you can join.
+We use the [Architecture Community Teams site](https://teams.microsoft.com/l/team/19%3a431430007aba4eceaddb4a0ab32dc412%40thread.skype/conversations?groupId=a7bd5aaa-9b44-4594-b058-4ac717af83d9&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) to collaborate across the community. Here we share interesting articles, chat about current challenges and ask (lots of) questions - you can usually find out if someone is tackling a similar problem or is hosting a session that you can join.
 
-- [Architecture Community](https://teams.microsoft.com/l/team/19%3a431430007aba4eceaddb4a0ab32dc412%40thread.skype/conversations?groupId=a7bd5aaa-9b44-4594-b058-4ac717af83d9&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) on DfE Teams
-
-You can self-join these channels with your DfE account, but please reach out to the [architecture profession](mailto:architecture.profession@education.gov.uk) if you're struggling.
+You can self-join this community with your DfE account, but please reach out to the [architecture profession](mailto:architecture.profession@education.gov.uk) if you need any assistance.
 
 ## Useful resources
 In addition to our communities, there are a wide range of helpful resources available, for knowledge sharing, seeking advice, exchanging ideas and providing guidance to help you.
