@@ -101,9 +101,9 @@ Whilst technical standards are being developed, some *accepted products* in DfE 
 |                              |                                          | *MS Azure Data Factory*    |                            |
 |                              |                                          | *MS Forms (Data Capture)*  |                            |
 | Productivity Tools           | **Collaboration Applications**           | *MS Teams*                 | End User Compute Services  |
-|                              |                                          | *Slack*                    |                            |
 |                              |                                          | *LucidSpark*               |                            |
-|                              | **Productivity and Office Applications** | *MS Office 365*            |                            |
+|                              |                                          | *MS Office 365*            |                            |
+|                              | **Productivity and Office Applications** |                            |                            |
 |                              | Email and Calendar Applications          |                            |                            |
 |                              | Common Desktop Tools                     |                            |                            |
 |                              | Instant Messaging and Presence Applications |                         |                            |
