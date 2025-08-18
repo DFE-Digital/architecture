@@ -46,6 +46,4 @@ In addition to our communities, there are a wide range of helpful resources avai
 Feel free to dive in:
 
 - [DfE architecture toolkit](https://planner.cloud.microsoft/webui/plan/V_MJD_d-AUqrjB4GRgyug5YABPL1/view/board?tid=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9)
-- [#architecture](https://ukgovernmentdigital.slack.com/archives/C04V6F4SX) on cross-Government (xGov) Slack
-- [xGov Enterprise Architect community](http://ukgovernmente-rue7893.slack.com/) on Slack
 - [xGov Business Architecture Group](https://khub.net/group/x-gov-business-architecture-group)
