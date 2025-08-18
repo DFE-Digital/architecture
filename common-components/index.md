@@ -37,7 +37,6 @@ to enable the building of services.
 Domain | Component | Owner | Status
 - | - | - | -
 Hosting platforms | [Cloud Infrastructure Platform (CIP)](#cip) | Matt Evans | Live
- | [GOV.UK PaaS (in DfE)](#govuk-paas) | Matt Evans | Beta
 Security and networks | [DfE Sign-in](#dfe-signin) | Jenny O'Connor | Live
  | Core network | Matt Evans | Live
 Integration | [API Management (FaUAPI)](#fauapi) | Iain McIntosh | Public beta
@@ -124,18 +123,6 @@ Read the [Cloud Infrastructure and Platform Services wiki](https://educationgovu
 - Infrastructure Operations Lead - [Angie Paylor](https://eur.delve.office.com/?u=7e831e96-5ff2-4f34-8679-aeb58dbbf011&v=work)
 - Platform Support Lead - [Paul Cripwell](https://eur.delve.office.com/?u=11bcb046-7de9-4dd9-858d-7997129df02d&v=work)
 - Head of Infrastructure Services - [Huw Evans](https://eur.delve.office.com/?u=9d286650-5ffc-4c99-bada-31bcb22cbc10&v=work)
-
-
-<a name="govuk-paas"></a>
-### GOV.UK PaaS
-GOV.UK Platform as a Service (PaaS) is a platform developed by Government Digital Service (GDS) and available for government departments to deploy
-applications and backend services. It is based on the widely used open source platform Cloud Foundry and built on Amazon Web Services.
-
-It is a simpler alternative to CIP and doesn't require infrastructure specialists to get started.
-
-__Documentation__
-
-Visit the [GOV.UK PaaS technical guidance](https://technical-guidance.education.gov.uk/guides/govuk-paas/) for more information.
 
 <a name="dfe-signin"></a>
 ### DfE Sign-in
