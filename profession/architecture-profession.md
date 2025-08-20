@@ -54,8 +54,9 @@ Use the table below to find out who your architecture lead is. Or contact the [a
 
 | Portfolio/domain | Architecture lead(s) |
 | - | - |
-| Teacher services | tbc - Speak to Rob Rodney |
-| Children and families | Ben Vandersteen |
+| Teacher services | Robert Rees |
+| Children and families | tbc |
+| Business architecture | Paul Cripwell / Shelina Begum |
 | Schools and curriculum | tbc - speak to Mamood Sultan |
 | Cyber security | tbc - speak to Angela Scale |
 | End user services | John Phillips |
