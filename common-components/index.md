@@ -386,7 +386,7 @@ Each CMS brings a slightly different set of features and capabilities that fit d
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
-If you're considering CMS options, please discuss your needs with [DfE Content Design community on Teams](https://teams.microsoft.com/l/channel/19%3A6b768534d64045b89db1872550d34fa0%40thread.tacv2/1%20-%20Content%20Design?groupId=8912a6b5-cc25-446b-99cd-2ad2eb8cf90f&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) Work on the strategy for information services within the DfE is ongoing.
+If you're considering CMS options for your service, please discuss your needs with someone in the [DfE Content Design community](https://teams.microsoft.com/l/channel/19%3A6b768534d64045b89db1872550d34fa0%40thread.tacv2/1%20-%20Content%20Design?groupId=8912a6b5-cc25-446b-99cd-2ad2eb8cf90f&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9). Work on the strategy for information services within the DfE is ongoing.
 
 <a name="crm"></a>
 ### Customer Relationship Management
