@@ -1,3 +1,5 @@
 # Build and Release Folders
 _site
 
+# asdf
+.tool-versions
