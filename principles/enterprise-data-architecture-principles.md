@@ -15,8 +15,8 @@ Data is a Departmental shared resource with a measurable value. Data is the gold
 __How?__
 
 - This principle is related to ”Data is shared,” and “Data is obtainable,” so all teams should understand the relationship between the value of data, sharing of data and accessibility to data. 
-- All data should be registered in the Department’s [Data Estate Map](https://s101p01-ifax01.ad.hq.dept:8443/search/#!lineage-container) that records the legal basis on which we capture the data, how we process and use it, who owns it and the policies and privacy notices that apply to it. This will ensure we remain visibly compliant with Data Protection legislation such as GDPR.
-- Data must only be used for legally permitted purposes, as defined by GDPR and captured in the [Data Estate Map](https://s101p01-ifax01.ad.hq.dept:8443/search/#!lineage-container).
+- All data should be registered in the Department’s [Data Estate Map](https://educationgovuk.sharepoint.com/sites/lvewp00085/SitePages/The-Data-Estate-Map.aspx?csf=1&web=1&e=sIdWqv) that records the legal basis on which we capture the data, how we process and use it, who owns it and the policies and privacy notices that apply to it. This will ensure we remain visibly compliant with Data Protection legislation such as GDPR.
+- Data must only be used for legally permitted purposes, as defined by GDPR and captured in the [Data Estate Map](https://educationgovuk.sharepoint.com/sites/lvewp00085/SitePages/The-Data-Estate-Map.aspx?csf=1&web=1&e=sIdWqv).
 - Services must work to improve the value of our shared data assets by ensuring processes are in place to maintain and improve data quality. This includes making sure data is validated by users at point of capture wherever possible, and tracking the changes to data across user journeys.
 - Services must refrain from diluting the value of our data assets by creating their own versions of assets – we must agree master data sources and ensure those are always used
 - We must have clear accountability for our data assets, in the form of data owners
