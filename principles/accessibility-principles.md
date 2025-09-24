@@ -7,7 +7,7 @@ expires: 2021-01-01
 
 These high-level principles from [Craig Abbott](https://twitter.com/abbott567) and [Colin](https://twitter.com/htmlandbacon) at DWP Digital encapsulate how we should consider accessibility needs when designing services in DfE.
 
-[DESIGN for Accessibility](https://educationgovuk.sharepoint.com/:w:/r/sites/lvewp00043/Shared%20Documents/Design%20Principles.docx) is a more detailed set of principles and guidelines that teams should work with when designing and building services in DfE.
+[DESIGN for Accessibility](https://educationgovuk.sharepoint.com/sites/lvewp00043) is a more detailed set of principles and guidelines that teams should work with when designing and building services in DfE.
 
 For more information, talk to the [accessibility team](mailto:Accessibility.Support@education.gov.uk) or see guidance on the [Digital Accessibility Hub](https://educationgovuk.sharepoint.com/sites/lvewp00043/SitePages/Digital-Accessibility-Hub-Home.aspx) in SharePoint.
 
