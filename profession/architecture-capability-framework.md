@@ -47,4 +47,3 @@ You can also download a [PDF version](../documents/dfe-architecture-framework-pa
 For more information, or for help finding an architect for your project, contact the [architecture profession](mailto:architecture.profession@education.gov.uk)
 
 
-[def]: https://educationgovuk.sharepoint.com/sites/architecture/SitePages/home.aspx../../profession/architecture-community
