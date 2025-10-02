@@ -30,7 +30,7 @@ It builds on the [GOV.UK DDaT Capability Framework](https://www.gov.uk/governmen
 Architects can find a multitude of self-serve learning and development resources on the [architecture toolkit](https://planner.cloud.microsoft/webui/plan/V_MJD_d-AUqrjB4GRgyug5YABPL1/view/board?tid=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9). If you have any specific needs, or would like to set up some shadowing, coaching or mentoring, come and talk to the [profession team](mailto:architecture.profession@education.gov.uk).
 
 ### Community
-The architecture community is there to support you in your developing your skills and experience. There are regular masterclasses and knowledge sharing sessions, as well as opportunities to hear from and engage with our suppliers. head over to the [architecture community page][(https://educationgovuk.sharepoint.com/sites/architecture/SitePages/home.aspx)]
+The architecture community is there to support you in your developing your skills and experience. There are regular masterclasses and knowledge sharing sessions, as well as opportunities to hear from and engage with our suppliers. head over to the [architecture community page](https://dfe-digital.github.io/architecture/profession/architecture-community/#architecture-community).
 
 ## Pathways into architecture
 Here are some examples of how architects come into the profession and what the career pathways might look like:
