@@ -1,6 +1,6 @@
 ---
 category: Business Architecture Principles
-expires: 2025-08-31
+expires: 2026-09-10
 ---
 # Business Architecture Principles
 
