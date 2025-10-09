@@ -1,6 +1,6 @@
 ---
 category: profession
-expires: 2022-03-31
+expires: 2026-09-10
 ---
 
 # Architecture profession
