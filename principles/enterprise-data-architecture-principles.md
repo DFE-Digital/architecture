@@ -1,6 +1,6 @@
 ---
 category: Architecture Principles
-expires: 2021-01-01
+expires: 2026-09-10
 ---
 
 # Enterprise Data Architecture Principles

@@ -1,6 +1,6 @@
 ---
 category: Architecture Principles
-expires: 2025-08-31
+expires: 2026-09-10
 ---
 # Enterprise Architecture Principles
 
