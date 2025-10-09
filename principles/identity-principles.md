@@ -1,6 +1,6 @@
 ---
 category: Architecture Principles
-expires: 2023-12-01
+expires: 2026-09-10
 ---
 
 # Identity principles
@@ -423,7 +423,7 @@ Open Standards ease integration burden on services, enable us to move at pace fo
 
 **Why?**
 
-* We maintain alignment with the [architecture principles](../enterprise-architecture-principles/#10-use-open-standards). 
+* We maintain alignment with the [enterprise architecture principles](../enterprise-architecture-principles). 
 
 * Open Standards ease integration burden on services. 
 
@@ -454,7 +454,7 @@ Data used within identity platforms to identify users must be used appropriately
 
 **How?**
 
-Follow our existing [data principles and guidance](../enterprise-data-architecture-principles/#6-data-use-is-ethical). 
+Follow our existing [data principles and guidance](../data-architecture-principles/#6-data-use-is-ethical). 
 
  
 ### 20. Use data masters to enable persistence and portability and reliability 
@@ -467,7 +467,7 @@ Utilising master data sources enables consistent and joined-up user experiences 
 
 **How?**
 
-* Follow our existing principles for [data mastering and re-use](../enterprise-data-architecture-principles/#1-data-is-an-asset).
+* Follow our existing principles for [data mastering and re-use](../architecture/principles/ data-architecture-principles/#1-data-is-an-asset).
 
 * Clearly document the attributes your service holds that future services may use to join up identities. 
 

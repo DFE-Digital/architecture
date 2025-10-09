@@ -1,6 +1,6 @@
 ---
 category: capability
-expires: 2022-12-01
+expires: 2026-09-10
 ---
 
 # Architecture Capability Framework
