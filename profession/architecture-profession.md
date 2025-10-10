@@ -79,6 +79,6 @@ To see how your needs for architecture and technical design assurance might be b
 
 Browse the [intro to the architecture profession](https://educationgovuk.sharepoint.com/:p:/r/sites/architecture/WorkplaceDocuments/Profession/Intro%20to%20the%20Architecture%20profession.pptx?d=w9fe726eff66f47b79bc372b7a8f1055d&csf=1&web=1&e=mb1eca) deck.
 
-More information on architecture roles and responsibilities is available on our [architecture capability framework](../../capability/architecture-capability-framework/) guidance.
+More information on architecture roles and responsibilities is available on our [architecture capability framework](../../architecture-capability-framework)
 
 For any other information on the architecture practice, contact the [architecture profession](mailto:architecture.profession@education.gov.uk).
