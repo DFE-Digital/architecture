@@ -78,7 +78,7 @@ We also have some [Specialist Technical Architects](https://www.gov.uk/guidance/
 
 ## Profession support
 
-To keep everything running smoothly, we have a small profession team, comprising the Head of Profession, an architecture profession manager and some professional support. Have a look at our [architecture profession page](../../profession/architecture-profession) for more information.
+To keep everything running smoothly, we have a small profession team, comprising the Head of Profession, an architecture profession manager and some professional support. Have a look at our [architecture profession page](https://dfe-digital.github.io/architecture/profession/architecture-profession) for more information.
 
 
 ## The role of an architect through the delivery lifecycle
