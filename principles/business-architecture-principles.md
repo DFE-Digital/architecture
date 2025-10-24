@@ -10,7 +10,7 @@ For DfE, it can provide insight into how DfE’s capabilities, its organisation 
 
 Business Architecture principles serve as a set of rules and guidelines that shape business architecture activities and, together with appropriate [standards](https://standards.education.gov.uk), provide the consistency and focus necessary to deliver high quality outcomes.
 
-These principles should not be considered in isolation, rather they should build on [enterprise architecture principles](../enterprise-architecture-principles).
+These principles should not be considered in isolation, rather they should build on [enterprise architecture principles](../educationgovuk.sharepoint.com/:w:/r/sites/architecture/_layouts/15/Doc.aspx?sourcedoc=%7B949E5B7C-5AEA-45B8-BE87-6CC87DBDED08%7D&file=DfE%20Enterprise%20Architecture%20Principles.docx&action=default&mobileredirect=true&DefaultItemOpen=1%3Fweb%3D1).
 
 Like most principles, they intend to be enduring and seldom amended.
 
