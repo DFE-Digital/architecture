@@ -454,7 +454,7 @@ Data used within identity platforms to identify users must be used appropriately
 
 **How?**
 
-Follow our existing [data principles and guidance](../enterprise-architecture-principles/#10-use-open-standards). 
+Follow our existing [data principles and guidance](../data-architecture-principles/#6-data-use-is-ethical). 
 
  
 ### 20. Use data masters to enable persistence and portability and reliability 
