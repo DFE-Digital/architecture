@@ -467,7 +467,7 @@ Utilising master data sources enables consistent and joined-up user experiences 
 
 **How?**
 
-* Follow our existing principles for [data mastering and re-use](../architecture/principles/ data-architecture-principles/#1-data-is-an-asset).
+* Follow our existing principles for [data mastering and re-use](../data-architecture-principles/#1-data-is-an-asset).
 
 * Clearly document the attributes your service holds that future services may use to join up identities. 
 
