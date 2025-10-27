@@ -29,7 +29,7 @@ The meet-up provides opportunity to discuss and share all things architecture an
 - **Discussing common challenges in architecture**, such as technical debt, patterns, roadmaps and strategy
 - **Lean coffee discussion**, where we propose, vote and talk about any challenges of the day
 
-Hosting of the meet-up and topics is shared by the community and usually rotates round [architecture leads](https://dfe-digital.github.io/architecture/profession/architecture-profession/#architecture-leads).
+Hosting of the meet-up and topics is shared by the community and usually rotates round [architecture leads](../architecture-profession/#architecture-leads).
 
 ## Collaboration channels
 We use the [Architecture Community Teams site](https://teams.microsoft.com/l/team/19%3a431430007aba4eceaddb4a0ab32dc412%40thread.skype/conversations?groupId=a7bd5aaa-9b44-4594-b058-4ac717af83d9&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) to collaborate across the community. Here we share interesting articles, chat about current challenges and ask (lots of) questions - you can usually find out if someone is tackling a similar problem or is hosting a session that you can join.
