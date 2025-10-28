@@ -41,7 +41,7 @@ Manuals and repositories:
 * [Technical guidance](https://technical-guidance.education.gov.uk/)
 * [Architecture manual](https://dfe-digital.github.io/architecture/#dfe-architecture)
 * [Data architecture repository](https://educationgovuk.sharepoint.com/sites/lvewp00391/Lists/DSAAG%20Items/AllItems.aspx)
-* [Cyber and information security](https://cyber-security.education.gov.uk/)
+* [Cyber and information security](https://educationgovuk.sharepoint.com/sites/security/SitePages/assurance.aspx).
 
 The team will also need to determine whether their design will close any existing exemptions. They can do this by searching [Find and use standards](https://standards.education.gov.uk) for known exemptions. 
 
