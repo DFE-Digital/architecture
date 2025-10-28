@@ -1,6 +1,6 @@
 ---
 category: Standards
-expires: 2024-12-31
+expires: 2026-24-10
 ---
 
 # Common definitions

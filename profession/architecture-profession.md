@@ -1,6 +1,6 @@
 ---
 category: profession
-expires: 2022-03-31
+expires: 2026-09-10
 ---
 
 # Architecture profession
@@ -71,7 +71,7 @@ For most services, it is expected that **architecture will emerge and evolve** o
 
 The benefit of iterative delivery is to release value to users as early as possible, then iterate and continuously improve to derive better outcomes based on user feedback. This requires ongoing, continuous architecture and technical design review, to ensure services are created sustainably and consistently across the portfolio or domain and the wider organisation. Embedded architects work alongside product managers, developers, service designers and many other people to achieve this.
 
-In DfE, we encourage an 'in-line' assurance approach, where decisions about architecture and technology are made within a portfolio or service team based on user need, with assurance from wider technical communities where needed. By aligning with architecture principles and complying with [technical standards](../../standards/technical-standards/) in DfE, we believe minimum-viable governance speeds up delivery. Architects can share and assure their work in communities, ensuring fit with broader organisational strategies.
+In DfE, we encourage an 'in-line' assurance approach, where decisions about architecture and technology are made within a portfolio or service team based on user need, with assurance from wider technical communities where needed. By aligning with architecture principles and complying with [technical standards](https://dfe-digital.github.io/architecture/standards/technical-standards) in DfE, we believe minimum-viable governance speeds up delivery. Architects can share and assure their work in communities, ensuring fit with broader organisational strategies.
 
 To see how your needs for architecture and technical design assurance might be best met, see our [design assurance guidance](../../governance/design-governance/)
 
@@ -79,6 +79,6 @@ To see how your needs for architecture and technical design assurance might be b
 
 Browse the [intro to the architecture profession](https://educationgovuk.sharepoint.com/:p:/r/sites/architecture/WorkplaceDocuments/Profession/Intro%20to%20the%20Architecture%20profession.pptx?d=w9fe726eff66f47b79bc372b7a8f1055d&csf=1&web=1&e=mb1eca) deck.
 
-More information on architecture roles and responsibilities is available on our [architecture capability framework](../../capability/architecture-capability-framework/) guidance.
+More information on architecture roles and responsibilities is available on our [architecture capability framework](https://educationgovuk.sharepoint.com/sites/architecture/_layouts/15/Doc.aspx?sourcedoc=%7BB8D7319A-7910-4592-BA8B-4D0C9C5724D3%7D&file=DfE%20Architecture%20Capability%20Framework%20v1.5.docx&action=default&mobileredirect=true&DefaultItemOpen=1)
 
 For any other information on the architecture practice, contact the [architecture profession](mailto:architecture.profession@education.gov.uk).

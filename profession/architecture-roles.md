@@ -1,6 +1,6 @@
 ---
 category: capability
-expires: 2024-12-01
+expires: 2026-09-10
 ---
 
 # Architecture roles
@@ -34,7 +34,7 @@ Business architects typically create capability, information and organisation ma
 
 Business architect roles in DfE align with the [Business architect](https://ddat-capability-framework.service.gov.uk/role/business-architect) role in the Government Digital and Data Capability Framework. 
 
-You can read more about the [role of a business architect](../business-architecture) or view the standard [Business architect job description](https://job-descriptions.education.gov.uk/architects/business-architect/).
+You can read more about the [role of a business architect](../business-architecture) or view standards [Business architect job description](https://job-descriptions.education.gov.uk/architects/business-architect/).
 
 ## Solution architects
 
@@ -78,7 +78,7 @@ We also have some [Specialist Technical Architects](https://www.gov.uk/guidance/
 
 ## Profession support
 
-To keep everything running smoothly, we have a small profession team, comprising the Head of Profession, an architecture profession manager and some professional support. Have a look at our [architecture profession page](../../profession/architecture-profession) for more information.
+To keep everything running smoothly, we have a small profession team, comprising the Head of Profession, an architecture profession manager and some professional support. Have a look at our [architecture profession page](../architecture-profession) for more information.
 
 
 ## The role of an architect through the delivery lifecycle

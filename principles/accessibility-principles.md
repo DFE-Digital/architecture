@@ -1,6 +1,6 @@
 ---
 category: Accessibility Principles
-expires: 2021-01-01
+expires: 2026-09-10
 ---
 
 # Accessibility Principles
