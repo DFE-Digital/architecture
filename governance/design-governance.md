@@ -41,12 +41,12 @@ Manuals and repositories:
 * [Technical guidance](https://technical-guidance.education.gov.uk/)
 * [Architecture manual](https://dfe-digital.github.io/architecture/#dfe-architecture)
 * [Data architecture repository](https://educationgovuk.sharepoint.com/sites/lvewp00391/Lists/DSAAG%20Items/AllItems.aspx)
-* [Cyber and information security](https://cyber-security.education.gov.uk/)
+* [Cyber and information security](https://educationgovuk.sharepoint.com/sites/security/SitePages/assurance.aspx).
 
 The team will also need to determine whether their design will close any existing exemptions. They can do this by searching [Find and use standards](https://standards.education.gov.uk) for known exemptions. 
 
-If exemptions do need to be closed, this should be done on the [Service Health Check App](https://educationgovuk.sharepoint.com/sites/ServiceHealthCheck/SitePages/Service-Health-Check-Hub-App-v3.aspx?csf=1&web=1&e=fgNNwr).
-
+If exemptions do need to be closed, this should be done on the [Service Health Check App](https://educationgovuk.sharepoint.com/sites/ServiceHealthCheckhub).
+KvKV
 If not, the delivery team can proceed, and ensure they maintain the design in an appropriate repository for the service.
 
 Where guiding artefacts do not exist, then the team are free to design their solution to meet their user needs. 
