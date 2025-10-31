@@ -9,7 +9,7 @@ Like all UK Government departments, architects in DfE are guided by the [UK Gove
 
 Architects in DfE should also be familiar with our [Enterprise Architecture principles](../principles/enterprise-architecture-principles.md), [Technical Architecture principles](https://technical-guidance.education.gov.uk/principles/architecture/#technical-architecture-principles) and [Data Architecture principles](../data-architecture-principles).  
 
-Architects involved in developing software should also be familiar with our [coding principles](https://technical-guidance.education.gov.uk/principles/coding-principles/) and [front-end development principles](https://technical-guidance.education.gov.uk/principles/frontend-development-principles/).
+Architects involved in developing software should also be familiar with our [coding principles](https://technical-guidance.education.gov.uk/principles/coding-principles/) and [Front-end development principles](https://technical-guidance.education.gov.uk/principles/frontend-development-principles/).
 
 ## Standards in development
 
