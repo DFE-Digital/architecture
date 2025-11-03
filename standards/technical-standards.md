@@ -7,7 +7,7 @@ expires: 2026-24-10
 
 Like all UK Government departments, architects in DfE are guided by the [UK Government Service Standard](https://www.gov.uk/service-manual/service-standard), the [Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) and the [Government Functional Standards](https://www.gov.uk/government/collections/functional-standards).
 
-Architects in DfE should also be familiar with our [Enterprise Architecture principles](../principles/enterprise-architecture-principles.md), [Technical Architecture principles](https://technical-guidance.education.gov.uk/principles/architecture/#technical-architecture-principles) and [Data Architecture principles](../data-architecture-principles).  
+Architects in DfE should also be familiar with our [Enterprise Architecture principles](../principles/enterprise-architecture-principles), [Technical Architecture principles](https://technical-guidance.education.gov.uk/principles/architecture/#technical-architecture-principles) and [Data Architecture principles](../principles/data-architecture-principles).  
 
 Architects involved in developing software should also be familiar with our [coding principles](https://technical-guidance.education.gov.uk/principles/coding-principles/) and [Front-end development principles](https://technical-guidance.education.gov.uk/principles/frontend-development-principles/).
 
@@ -184,7 +184,8 @@ Whilst technical standards are being developed, architects may also find the fol
 
 - [API standards](https://technical-guidance.education.gov.uk/guides/api-guidance/#dfe-api-standards)
 - [Software development standards](https://technical-guidance.education.gov.uk/standards/), including things like [naming things](https://technical-guidance.education.gov.uk/standards/naming-things/), [storing source code](https://technical-guidance.education.gov.uk/standards/storing-source-code/) and [licensing software](https://technical-guidance.education.gov.uk/standards/licencing-software-or-code/)
-- [Data policies](https://educationgovuk.sharepoint.com/sites/lvedfe00108/SitePages/Data-Architecture-and-Governance-Team.aspx)              - [Standards](https://standards.education.gov.uk/standards) 
+- [Data policies](https://educationgovuk.sharepoint.com/sites/lvedfe00108/SitePages/Data-Architecture-and-Governance-Team.aspx)
+- [Standards](https://standards.education.gov.uk/standards) 
 - [Information security assurance](https://educationgovuk.sharepoint.com/sites/security/SitePages/assurance.aspx)
 - Guidance on [meeting accessibility requirements](https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps#meeting-accessibility-requirements) and the [technical standard for digital accessibility](https://www.gov.uk/guidance/public-sector-website-and-mobile-application-accessibility-monitoring#technical-standard-for-digital-accessibility)
 
