@@ -57,7 +57,7 @@ Should the need for a new standard, pattern or other artefact emerge during desi
 
 ### Managing an exemption
 
-Where compliance with one or more artefacts cannot be achieved, then an exemption should be raised on the [Service Healthcheck App](https://educationgovuk.sharepoint.com/sites/ServiceHealthCheck/SitePages/Service-Health-Check-Hub-App-v3.aspx?csf=1&web=1&e=fgNNwr) before proceeding with the delivery of the design.
+Where compliance with one or more artefacts cannot be achieved, then an exemption should be raised on the [Service Healthcheck App](https://educationgovuk.sharepoint.com/sites/ServiceHealthCheckhub) before proceeding with the delivery of the design.
 
 This can result in a number of outcomes, depending on the nature of the exemption:
 

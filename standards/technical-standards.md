@@ -7,7 +7,7 @@ expires: 2026-24-10
 
 Like all UK Government departments, architects in DfE are guided by the [UK Government Service Standard](https://www.gov.uk/service-manual/service-standard), the [Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) and the [Government Functional Standards](https://www.gov.uk/government/collections/functional-standards).
 
-Architects in DfE should also be familiar with our [Enterprise Architecture principles](../principles/enterprise-architecture-principles), [Technical Architecture principles](https://technical-guidance.education.gov.uk/principles/architecture/#technical-architecture-principles) and [Data Architecture principles](../principles/data-architecture-principles).  
+Architects in DfE should also be familiar with our [Enterprise Architecture principles](../principles/enterprise-architecture-principles), [Technical Architecture principles](https://technical-guidance.education.gov.uk/principles/architecture/#technical-architecture-principles) and [Data Architecture principles](../data-architecture-principles).  
 
 Architects involved in developing software should also be familiar with our [coding principles](https://technical-guidance.education.gov.uk/principles/coding-principles/) and [Front-end development principles](https://technical-guidance.education.gov.uk/principles/frontend-development-principles/).
 
