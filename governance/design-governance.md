@@ -108,7 +108,7 @@ During the session, you'll walk through key points of your design, seek and disc
 
 After the session, the team will need to record and track any significant or cross-cutting decisions and actions.
 
-Contact the [DDT standards forum](https://standards.education.gov.uk/support) for advice on setting up a peer review.
+Contact the [Architecture Profession](Architecture.PROFESSION@education.gov.uk) for advice on setting up a peer review.
 
 ### Show and tells
 
