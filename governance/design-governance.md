@@ -41,12 +41,12 @@ Manuals and repositories:
 * [Technical guidance](https://technical-guidance.education.gov.uk/)
 * [Architecture manual](https://dfe-digital.github.io/architecture/#dfe-architecture)
 * [Data architecture repository](https://educationgovuk.sharepoint.com/sites/lvewp00391/Lists/DSAAG%20Items/AllItems.aspx)
-* [Cyber and information security](https://cyber-security.education.gov.uk/)
+* [Cyber and information security](https://educationgovuk.sharepoint.com/sites/security/SitePages/assurance.aspx).
 
 The team will also need to determine whether their design will close any existing exemptions. They can do this by searching [Find and use standards](https://standards.education.gov.uk) for known exemptions. 
 
-If exemptions do need to be closed, this should be done on the [Service Health Check App](https://educationgovuk.sharepoint.com/sites/ServiceHealthCheck/SitePages/Service-Health-Check-Hub-App-v3.aspx?csf=1&web=1&e=fgNNwr).
-
+If exemptions do need to be closed, this should be done on the [Service Health Check App](https://educationgovuk.sharepoint.com/sites/ServiceHealthCheckhub).
+KvKV
 If not, the delivery team can proceed, and ensure they maintain the design in an appropriate repository for the service.
 
 Where guiding artefacts do not exist, then the team are free to design their solution to meet their user needs. 
@@ -57,7 +57,7 @@ Should the need for a new standard, pattern or other artefact emerge during desi
 
 ### Managing an exemption
 
-Where compliance with one or more artefacts cannot be achieved, then an exemption should be raised on the [Service Healthcheck App](https://educationgovuk.sharepoint.com/sites/ServiceHealthCheck/SitePages/Service-Health-Check-Hub-App-v3.aspx?csf=1&web=1&e=fgNNwr) before proceeding with the delivery of the design.
+Where compliance with one or more artefacts cannot be achieved, then an exemption should be raised on the [Service Healthcheck App](https://educationgovuk.sharepoint.com/sites/ServiceHealthCheckhub) before proceeding with the delivery of the design.
 
 This can result in a number of outcomes, depending on the nature of the exemption:
 
@@ -108,7 +108,7 @@ During the session, you'll walk through key points of your design, seek and disc
 
 After the session, the team will need to record and track any significant or cross-cutting decisions and actions.
 
-Contact the [DDT standards forum](https://standards.education.gov.uk/support) for advice on setting up a peer review.
+Contact the [Architecture Profession](Architecture.PROFESSION@education.gov.uk) for advice on setting up a peer review.
 
 ### Show and tells
 

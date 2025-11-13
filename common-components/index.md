@@ -228,7 +228,7 @@ The majority of the Service Requests fulfilled by the team can be categorised un
 •	Data support / ETL requests – providing administration and specialist support
 •	General SQL / tooling guidance and advice
 
-The day-to-day working practices of the team ensures that Information Asset Owners and Managers are able to fulfil their obligations under the [Information Asset Ownership and Registration Policy](https://educationgovuk.sharepoint.com/how-do-i/information-management/kim/Pages/managing-information-assets.aspx)
+The day-to-day working practices of the team ensures that Information Asset Owners and Managers are able to fulfil their obligations under the [Information Asset Ownership and Registration Policy](https://educationgovuk.sharepoint.com/sites/security/SitePages/information-asset-registration-ownership-policy.aspx).
 
 __Roadmap__
 

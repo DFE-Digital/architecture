@@ -34,7 +34,7 @@ Business architects typically create capability, information and organisation ma
 
 Business architect roles in DfE align with the [Business architect](https://ddat-capability-framework.service.gov.uk/role/business-architect) role in the Government Digital and Data Capability Framework. 
 
-You can read more about the [role of a business architect](../business-architecture) or view standards [Business architect job description](https://job-descriptions.education.gov.uk/architects/business-architect/).
+You can read more about the [role of a business architect](../business-architecture) or view standard [Business architect job description](https://job-descriptions.education.gov.uk/architects/business-architect/).
 
 ## Solution architects
 
