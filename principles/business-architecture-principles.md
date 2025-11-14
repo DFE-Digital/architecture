@@ -1,6 +1,6 @@
 ---
 category: Business Architecture Principles
-expires: 2025-08-31
+expires: 2026-09-10
 ---
 # Business Architecture Principles
 
@@ -10,7 +10,7 @@ For DfE, it can provide insight into how DfE’s capabilities, its organisation 
 
 Business Architecture principles serve as a set of rules and guidelines that shape business architecture activities and, together with appropriate [standards](https://standards.education.gov.uk), provide the consistency and focus necessary to deliver high quality outcomes.
 
-These principles should not be considered in isolation, rather they should build on [enterprise-architecture-principles](enterprise-architecture-principles).
+These principles should not be considered in isolation, rather they should build on [enterprise architecture principles](../enterprise-architecture-principles).
 
 Like most principles, they intend to be enduring and seldom amended.
 

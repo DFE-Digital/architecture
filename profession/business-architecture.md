@@ -11,7 +11,7 @@ Best practice helps business architects when creating artefacts - it can ‘jump
 
 Whilst several business architecture practices are suggested, they are not mandated in DfE. However, they are considered sensible in the context of DfE.
 
-Business architects should refer to the [common definitions](../standards/common-definitions).
+Business architects should refer to the [common definitions](../standards/common-definitions), [service offer](https://educationgovuk.sharepoint.com/:w:/r/sites/architecture/WorkplaceDocuments/Business%20architecture/Service%20Offer/On-Demand%20Business%20Architecture%20Service.docx?d=wa37c0d33686641cb9274cbad9630a371&csf=1&web=1&e=1cAzW3) and [method](https://educationgovuk.sharepoint.com/:w:/r/sites/architecture/WorkplaceDocuments/Business%20architecture/Method/Business%20Architecture%20Method.docx?d=wb34862ccec7c4c05ae680e97a9ba766a&csf=1&web=1&e=gQjNGJ).
 
 
 ## Mapping

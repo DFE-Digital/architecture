@@ -1,6 +1,6 @@
 ---
 category: profession
-expires: 2022-03-31
+expires: 2026-09-10
 ---
 
 # Architecture profession
@@ -17,7 +17,7 @@ The architecture profession:
 
 There is a large community of permanent, managed service and contingent architects across the department, plus commercial frameworks to help fulfill your needs.
 
-If you're looking for architecture support for your project, you should discuss your needs with your [architecture lead](architecture-leads.md) in the first instance.
+If you're looking for architecture support for your project, you should discuss your needs with your [architecture lead](#architecture-leads) in the first instance.
 
 ## Help to find an architect
 
@@ -51,19 +51,18 @@ They:
 
 Use the table below to find out who your architecture lead is. Or contact the [architecture profession](mailto:architecture.profession@education.gov.uk) if you're not sure.
 
-
 | Portfolio/domain | Architecture lead(s) |
 | - | - |
-| Teacher services | tbc - Speak to Rob Rodney |
-| Children and families | Ben Vandersteen |
-| Schools and curriculum | tbc - speak to Mamood Sultan |
+| Schools Digital, incl. Teacher services | Robert Rees |
+| Children and families | Yousaf Khan-Rauf |
+| Regions | tbc - speak to Mamood Sultan |
+| Growth and skills, incl. Apprenticeship service | tbc - speak to Craig Faulkner |
 | Cyber security | tbc - speak to Angela Scale |
 | End user services | John Phillips |
 | Operational services | Mario Gledhill |
 | Enterprise architecture | Ant McCrea |
 | Data architecture | Richard Boland / Rajinder Bilkhu |
 | Data science | Pete Holding |
-| Apprenticeship Service | tbc - speak to Craig Faulkner |
 | National Careers Service | Chris Jones |
 
 ## Help with assurance
@@ -72,12 +71,14 @@ For most services, it is expected that **architecture will emerge and evolve** o
 
 The benefit of iterative delivery is to release value to users as early as possible, then iterate and continuously improve to derive better outcomes based on user feedback. This requires ongoing, continuous architecture and technical design review, to ensure services are created sustainably and consistently across the portfolio or domain and the wider organisation. Embedded architects work alongside product managers, developers, service designers and many other people to achieve this.
 
-In DfE, we encourage an 'in-line' assurance approach, where decisions about architecture and technology are made within a portfolio or service team based on user need, with assurance from wider technical communities where needed. By aligning with architecture principles and complying with [technical standards](../../standards/technical-standards/) in DfE, we believe minimum-viable governance speeds up delivery. Architects can share and assure their work in communities, ensuring fit with broader organisational strategies.
+In DfE, we encourage an 'in-line' assurance approach, where decisions about architecture and technology are made within a portfolio or service team based on user need, with assurance from wider technical communities where needed. By aligning with architecture principles and complying with [technical standards](../technical-standards) in DfE, we believe minimum-viable governance speeds up delivery. Architects can share and assure their work in communities, ensuring fit with broader organisational strategies.
 
-To see how your needs for architecture and technical design assurance might be best met, see our [design assurance guidance](../../governance/technical-governance/)
+To see how your needs for architecture and technical design assurance might be best met, see our [design assurance guidance](../../governance/design-governance/)
 
 ## Further information
 
-More information on architecture roles and responsibilities is available on our [architecture capability framework](../../capability/architecture-capability-framework/) guidance.
+Browse the [intro to the architecture profession](https://educationgovuk.sharepoint.com/:p:/r/sites/architecture/WorkplaceDocuments/Profession/Intro%20to%20the%20Architecture%20profession.pptx?d=w9fe726eff66f47b79bc372b7a8f1055d&csf=1&web=1&e=mb1eca) deck.
+
+More information on architecture roles and responsibilities is available on our [architecture capability framework](../architecture-capability-framework/)
 
 For any other information on the architecture practice, contact the [architecture profession](mailto:architecture.profession@education.gov.uk).

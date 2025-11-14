@@ -1,6 +1,6 @@
 ---
 category: Standards
-expires: 2022-06-12
+expires: 2026-24-10
 ---
 
 # Architecture documentation

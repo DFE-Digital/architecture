@@ -1,6 +1,6 @@
 ---
 category: Guidance
-expires: 2025-12-12
+expires: 2026-24-10
 ---
 
 # Business architecture 

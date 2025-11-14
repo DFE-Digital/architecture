@@ -1,6 +1,6 @@
 ---
 category: Architecture Principles
-expires: 2025-08-31
+expires: 2026-09-10
 ---
 # Enterprise Architecture Principles
 
@@ -15,7 +15,7 @@ These principles should be applied alongside the UK Government [Service Standard
 
 ## 1. Align with business objectives
 
-Align and prioritise digital, data and technology (DDT) strategies and delivery with DfE's business 
+Align DfE digital, data and technology strategies and service delivery with DfE's business 
 goals and objectives, to maximise taxpayer value
 
 **Rationale**

@@ -59,7 +59,7 @@ End User Devices | Office 365 | Jenny O'Connor | Live
 | Phones and Skype | Jenny O'Connor | Live
 | Mobile phones | Jenny O'Connor | Live
 | Service desk tools (Service Now) | Jenny O'Connor | Live
-Digital | Productivity tools (Slack, Trello, Confluence) | Jenny O'Connor | Beta
+Digital | Productivity tools (Trello, Confluence) | Jenny O'Connor | Beta
 Development | Development tools (Azure DevOps, Github) | Matt Evans | Live
 Information and data | SharePoint | Jenny O'Connor | Live
 
@@ -275,7 +275,7 @@ The majority of the Service Requests fulfilled by the team can be categorised un
 •	Data support / ETL requests – providing administration and specialist support
 •	General SQL / tooling guidance and advice
 
-The day-to-day working practices of the team ensures that Information Asset Owners and Managers are able to fulfil their obligations under the [Information Asset Ownership and Registration Policy](https://educationgovuk.sharepoint.com/how-do-i/information-management/kim/Pages/managing-information-assets.aspx)
+The day-to-day working practices of the team ensures that Information Asset Owners and Managers are able to fulfil their obligations under the [Information Asset Ownership and Registration Policy](https://educationgovuk.sharepoint.com/sites/security/SitePages/information-asset-registration-ownership-policy.aspx).
 
 __Roadmap__
 
@@ -386,8 +386,8 @@ __Error tracking__
 
 These applications will provide error monitoring and alerts to services that are developing solutions, so that they are aware of errors as they appear:
 
-- [Rollbar](https://docs.sentry.io/)
-- [Sentry](https://docs.rollbar.com/docs)
+- [Rollbar](https://docs.rollbar.com)
+- [Sentry](https://docs.sentry.io)
 
 Each application brings a slightly different set of features and capabilities that fit different use cases. This table provides an overview:
 
@@ -406,7 +406,7 @@ A Content Management System (CMS) allows users to create, manage, modify, publis
 
 CMS products support collaboration across teams, with multiple users being able to work on content in the back-end of the CMS, allowing for quick and easy updates. CMS users can customise the design and functionality of the front-end by using templates and extensions.
 
-[Contentful](https://www.contentful.com) is the department's preferred headless CMS product, which is currently in use by a number of services. Contentful has an enterprise license plan and support, and has been assured for use in DfE, meaning teams can purchase the space size they need and incorporate into their service easily. For more information, email the [Digital Tools Support team](mailto:digital-tools-support@digital.education.gov.uk) or contact them via [#digital-tools-support](https://ukgovernmentdfe.slack.com/archives/CMS9V0JQL) on DfE Slack.
+[Contentful](https://www.contentful.com) is the department's preferred headless CMS product, which is currently in use by a number of services. Contentful has an enterprise license plan and support, and has been assured for use in DfE, meaning teams can purchase the space size they need and incorporate into their service easily. For more information, contact the digital tools support team via their [Digital Tools SharePoint site](https://educationgovuk.sharepoint.com/sites/lvewp00197).
 
 Other CMS products either in use or have been considered across the department are:
 
@@ -433,7 +433,7 @@ Each CMS brings a slightly different set of features and capabilities that fit d
 
 Here's a link to an [Excel version of the table](../documents/common-component-matrix.xlsx).
 
-If you're considering CMS options, please discuss your needs with the [DfE Content Design community on Slack](https://ukgovernmentdfe.slack.com/archives/C6L4J5DK6). Work on the strategy for information services within the DfE is ongoing.
+If you're considering CMS options, please discuss your needs with [DfE Content Design community on Slack](https://ukgovernmentdfe.slack.com/archives/C6L4J5DK6). Work on the strategy for information services within the DfE is ongoing.
 
 
 <a name="crm"></a>
