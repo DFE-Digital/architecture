@@ -40,11 +40,14 @@ The terms we use in the different levels of work may have different meanings or 
 - [Common component](#common-component)
 - [Data](#data)
 - [DDaT / DDT](#ddat)
+- [Engine](#engine)
 - [Feature](#feature)
 - [Organisation](#organisation)
+- [Pattern](#pattern)
 - [Platform](#platform)
 - [Product](#product)
 - [Service](#service)
+- [Standard](#standard)
 - [Register](#register)
 - [Roles](#roles)
 - [Technology](#technology)
@@ -78,7 +81,7 @@ For example, a claims advisor deciding how much someone’s insurance claim is w
 <a name="capability"></a>
 ### Capability ###
 
-A capability is an abstract concept, used to describe what we do (but not how). Capabilities can be thought of as all the things we do to define and deliver our goals and are realised by people, processes, information, technology and other things. They help us consider whether we have all the expertise, knowledge, tools, organisation and capacity to do it.
+A capability is an abstract concept, used to describe <i>what</i> we do (but not how). Capabilities can be thought of as all the things we do to define and deliver our goals, which are realised by people, processes, information, technology, and other things. They help us consider whether we have all the necessary expertise, knowledge, tools, organisation and capacity to do it.
 
 Capabilities are often grouped together into families or categories, for instance:
 - strategic capabilities, that describe high level goal setting activities.
@@ -131,6 +134,19 @@ Digital, Data and Technology (DDaT) was re-branded as Government Digital and Dat
 Digital, Data, Technology (DDT) is a term used within DfE to describe the collective community of people working in digital, data and technology roles across the department.
 
 
+<a name="engine"></a>
+### Engine ###
+
+An engine is a reusable set of services and components, which accelerate digital delivery of similar business capabilities across DfE.
+
+Engines realise <a name="pattern">patterns</a> and <a name="standard">standards</a>, removing complexity and simplifying compliance for delivery teams, whilst ensuring consistency and quality of data.
+
+We classify engines as either data, business, or front-end, to align with the DfE target architecture.
+
+Some examples might be an eligibility checking or funding business engine, an organisation or person data engine, or a whole front-end engine.
+
+
+
 <a name="feature"></a>
 ### Feature ###
 
@@ -149,6 +165,22 @@ Organisation structures are most often represented in a 'map' format, showing re
 Organisation maps should not be confused with organisation trees, which are primarily concerned with hierarchies and reporting lines.
 
 Organisation maps are unlikely to be used in isolation and are most often created alongside mapping and modelling of capabilities, value streams and other such collateral, to aid understanding and improved decision making.
+
+
+<a name="pattern"></a>
+### Pattern ###
+
+Patterns are reusable common solutions that help us comply with standards.
+
+A pattern is a solution that has been useful in one practical context and is likely to be useful in others.
+
+Patterns provide reusable, standardised and proven ways to solve problems. They can either be standards themselves, or recommended methods for implementing standard solutions, or components for specific use cases. For instance, they describe reusable solutions to common problems.
+
+Patterns guide you on how, when, and why to use components, and what trade-offs to consider. Components are the elements you use.
+
+A 'design pattern' refers to any pattern addressing issues of software architecture, service design, or software development.
+
+Read more on the [DfE standards framework](https://create-and-manage-standards.education.gov.uk/guidance/standards-framework).
 
 
 <a name="platform"></a>
@@ -170,7 +202,7 @@ Products can vary in size and can be grouped together and integrated to create a
 
 An example is the 'Discover your skills and careers' product, within the National Careers Service. It's a standalone product but is best consumed as part of the user journey across the wider service. This helps a user achieve the outcome of defining a career path and developing their skills to be successful in that career.
 
-Some examples of technology products, used to enable a service, might be Microsoft Dynamics 365 or Salesforce. These are Commercial-Off-The-Shelf (COTS) products that, amongst other things, provide Customer Relationship Management (CRM) capability.
+Some examples of technology products, used to enable a service, might be Microsoft Dynamics 365 or Salesforce. These are Commercial-Off-The-Shelf (COTS) products that, amongst other things, provide Customer Relationship Management (CRM) <a href="#capability">capabilities</a>.
 
 
 <a name="service"></a>
@@ -220,6 +252,20 @@ We define a register as the single place to find authoritative information on a 
 For example, the Foreign and Commonwealth Office (FCO) maintains a register of countries. It is a single, maintained list of countries. Any service can connect to this register to provide a single, consistent and authoritative list to its users.
 
 Technology maintain a register of all Services, Products, Technology and Platforms, called the Configuration Management Database (CMDB).
+
+
+<a name="standard"></a>
+### Standard ###
+
+Standards are established norms or requirements that we must comply with, to enact policies. They often define products or actions required, and may suggest patterns, processes and components for their implementation.
+
+Standards should be accessible to teams so they can understand and plan for delivery obligations. They are enforceable, meaning compliance can be objectively assessed. Standards must also be actionable, achievable, and ideally driven by policy intent.
+
+New standards are identified and managed through a lifecycle process, with all standards reviewed at least annually. They can be superseded or retired. 
+
+Typically, standards fall into one of 3 categories, based on a hierarchy of needs: legal and regulatory obligations, industry standards, or organisational standards.
+
+Read more on the [DfE standards framework](https://create-and-manage-standards.education.gov.uk/guidance/standards-framework).
 
 
 <a name="roles"></a>
