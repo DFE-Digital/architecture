@@ -37,6 +37,7 @@ to enable the building of services.
 Domain | Component | Owner | Status
 - | - | - | -
 Hosting platforms | [Cloud Infrastructure Platform (CIP)](#cip) | Matt Evans | Live
+ | [Microsoft Power Platform](#powerplatform) | Erhan Tahir | Live
 Security and networks | [DfE Sign-in](#dfe-signin) | Jenny O'Connor | Live
  | Core network | Matt Evans | Live
 Integration | [API Management (FaUAPI)](#fauapi) | Iain McIntosh | Public beta
@@ -124,6 +125,52 @@ Read the [Cloud Infrastructure and Platform Services wiki](https://educationgovu
 - Platform Support Lead - [Paul Cripwell](https://eur.delve.office.com/?u=11bcb046-7de9-4dd9-858d-7997129df02d&v=work)
 - Head of Infrastructure Services - [Huw Evans](https://eur.delve.office.com/?u=9d286650-5ffc-4c99-bada-31bcb22cbc10&v=work)
 
+
+<a name="powerplatform"></a>
+### Microsoft Power Platform
+Power Platform refers to a suite of applications that allow you to:
+
+- Build custom applications with a point and click approach (Power Apps)
+- Automate business processes and workflows to avoid repetitive tasks (Power Automate)
+- Build intelligent chatbots to triage frontline customer queries (Power Virtual Agents)
+- Create externally facing websites that deliver information and services to customers (Power Pages)
+- Create visuals and analyse data for business insights (Power BI)
+
+Power Platform tools can all interconnect to share data and create powerful solutions, and they are designed be no-code / low-code. This means you don’t need to be a professional software developer to build your services. 
+
+Key benefits of Power Platform include:
+- Cheaper to develop, run and support: Complex solutions can be developed and supported by DfE users with self-learning and a small license cost. No need to procure 3rd party solutions with expensive development teams. 
+- Empowers users to develop their own solutions: By putting non developers in control of designing and developing your own solutions, it reduces the risk of 3rd party development teams building something that doesn’t meet your users’ needs or your requirements.  
+- Reduces the dependency on shadow IT: Power Platform is a DfE approved and supported service.  Using it instead of procuring 3rd party services removes the risk of unapproved IT services being used and potentially risking DfE data. 
+- Automation: Utilising the suite of tools within the power platform has the potential to automate repetitive, every-day tasks and free up time for DfE users to focus on other activity.
+- Fully integrates with other MS tools: Power Platform is part of Microsoft 365, so integrates seamlessly with other 365 services and allows you to leverage existing data held in Microsoft apps.
+
+__Documentation__
+
+All documentation for Power Platform is stored on the [Power Platform Hub](https://educationgovuk.sharepoint.com/sites/lvewp00303). This is a SharePoint site so is only accessible to internal DfE staff. 
+
+
+__Support__
+
+Power Platform is managed centrally by the Digital Tools Support Team. They action all service requests, implement platform level changes, apply automated governance controls and manage licensing.
+Any applications or service built on power platform must be supported by the team or individual who built it. The Digital Tools Support Team do not provide any application or service level support. 
+
+All requests for Power Platform can be supplier via a single [Service Portal request form](https://dfe.service-now.com/serviceportal?id=sc_cat_item&sys_id=2d54ef691b8ed550b192ec69b04bcbd7&sysparm_category=09e18be6db2f8340865049ee3b96190f). 
+
+We are building a community of Power Platform ‘makers’ who offer support and help to each other. You can join this community on [Teams](https://teams.microsoft.com/l/channel/19%3a0e5af752cced4aaf969d798a76336b7a%40thread.skype/M365%2520Power%2520Platform%25F0%259F%2593%25B2?groupId=761e570c-e48a-4d2d-9c92-8c2d25041ea7&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) or [Yammer](https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiIxMjI0NDA3Mjg1NzYifQ/all). 
+
+
+__Further guidance__
+
+Read Microsoft’s guidance on what Power Platform is and how it can benefit you: [What is Microsoft Power Platform | Microsoft Power Platform](https://powerplatform.microsoft.com/en-gb/what-is-power-platform/)
+
+To start learning how to use Power Platform, take a look at Microsoft learning pathways: [Power Platform on Microsoft Learn | Microsoft Learn](https://learn.microsoft.com/en-us/training/powerplatform/)
+
+__Contact__
+
+- Service Manager - [Erhan Tahir](https://eur.delve.office.com/?u=9859f5fa-2aec-449a-a2df-61f623313558&v=work)
+
+
 <a name="dfe-signin"></a>
 ### DfE Sign-in
 DfE Sign-in is the department’s strategic Identity and Access Management (IdAM) solution. DfE Sign-in already provides IdAM for services migrated from Secure Access and a number of other services that have on-boarded during 2019. All new services should use DfE Sign-in.
@@ -138,8 +185,8 @@ Our service is available at [https://services.signin.education.gov.uk](https://s
 
 You may also find the following code repositories for services that use DfE Sign-in useful, along with some example integrations that we have built:
 - [Teachers Payment Service](https://github.com/DFE-Digital/dfe-teachers-payment-service) (Ruby on Rails)
--	[Course Directory](https://github.com/SkillsFundingAgency/dfc-coursedirectory) (.NET Core)
--	[Other integration examples](https://github.com/dfe-digital/?utf8=%E2%9C%93&q=example)
+- [Course Directory](https://github.com/SkillsFundingAgency/dfc-coursedirectory) (.NET Core)
+- [Other integration examples](https://github.com/dfe-digital/?utf8=%E2%9C%93&q=example)
 
 __Support__
 
