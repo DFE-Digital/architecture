@@ -31,7 +31,7 @@ Business architecture should always align with, and prioritise activities that s
 
 ## 2. The organisation drives the narrative
 
-Business architecture activities are driven by the stakeholder voice. Business architects should be able to link work back to well-researched stakeholder requirements and present architecture options based on requirements, for stakeholders to review. **Activities must not be performed without the business**. Either the business should lead and perform activities or activities should be delegated to others **but only** with appropriate business sponsorship.
+Business architecture activities are driven by the stakeholder voice. Business architects should be able to link work back to well-researched stakeholder requirements and present architecture options based on requirements, for stakeholders to review. **Activities must not be performed without business involvement**. Either business stakeholders should lead and perform activities or activities should be delegated to others **but only** with appropriate business sponsorship.
 
 **Rationale**
 
