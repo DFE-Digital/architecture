@@ -173,15 +173,15 @@ Developers of new DfE APIs must host their APIs on Find and Use an API (other th
 __Development / Test / Pre-Production service__
 The Find and Use an API Pre-Production service should be used for all non-production purposes, e.g. development, test, UAT, OAT, or pre-production workloads.
 
-* The pre-production version of the public-facing consumer portal can be found at https://pp-find-and-use-an-api.education.gov.uk
-* The pre-production version of the DfE developer-facing management portal can be found at https://pp-apimanagement.education.gov.uk
-* Pre-production hosted APIs are available at https://pp-api.education.gov.uk
+* The pre-production version of the public-facing consumer portal can be found at [https://pp-find-and-use-an-api.education.gov.uk](https://pp-find-and-use-an-api.education.gov.uk)
+* The pre-production version of the DfE developer-facing management portal can be found at [https://pp-apimanagement.education.gov.uk](https://pp-apimanagement.education.gov.uk)
+* Pre-production hosted APIs are available at [https://pp-api.education.gov.uk](https://pp-api.education.gov.uk)
 
 __Production service__
 The Find and Use an API Production service should *only* be used for production workloads.
-- The public-facing consumer portal can be found at https://beta-find-and-use-an-api.education.gov.uk
-- The DfE developer-facing management portal can be found at https://apimanagement.education.gov.uk
-- APIs are available at https://api.education.gov.uk
+- The public-facing consumer portal can be found at [https://beta-find-and-use-an-api.education.gov.uk](https://beta-find-and-use-an-api.education.gov.uk)
+- The DfE developer-facing management portal can be found at [https://apimanagement.education.gov.uk](https://apimanagement.education.gov.uk)
+- APIs are available at [https://api.education.gov.uk](https://api.education.gov.uk)
 
 __Onboarding__
 DfE developers can request a workspace in the pre-production instance at any time and start to use the service. Please contact [dfe-api.support@education.gov.uk](mailto:dfe-api.support@education.gov.uk) to arrange a guided onboarding session for your team if required.
