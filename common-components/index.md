@@ -56,10 +56,9 @@ Applications | [Content Management Systems ](#cms) | Erhan Tahir | Beta
 Domain | Component | Owner | Status
 - | - | - | -
 End User Devices | Office 365 | Jenny O'Connor | Live
-| Phones and Skype | Jenny O'Connor | Live
 | Mobile phones | Jenny O'Connor | Live
 | Service desk tools (Service Now) | Jenny O'Connor | Live
-Digital | Productivity tools (Trello, Confluence) | Jenny O'Connor | Beta
+Digital | Productivity tools (Teams, Confluence) | Jenny O'Connor | Beta
 Development | Development tools (Azure DevOps, Github) | Matt Evans | Live
 Information and data | SharePoint | Jenny O'Connor | Live
 
