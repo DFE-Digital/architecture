@@ -153,12 +153,12 @@ as establishments or people. The engines are connected through APIs and
 supported by enabling platforms including identity, integration,
 messaging and analytics.](target-architecture-engines.png)
 
-### Front-end engine
+### Front-end engines
 
-The **front-end engine** provides shared capability for delivering
+**Front-end engines** provides shared capability for delivering
 digital services to users.
 
-It may include:
+They may include:
 
 -   identity and authentication integration\
 -   consistent navigation and design patterns\
