@@ -37,7 +37,7 @@ to enable the building of services.
 Domain | Component | Owner | Status
 - | - | - | -
 Hosting platforms | [Cloud Infrastructure Platform (CIP)](#cip) | Matt Evans | Live
- | [Microsoft Power Platform](#powerplatform) | Erhan Tahir | Live
+ | [Power Platform](#powerplatform) | Erhan Tahir | Live
 Security and networks | [DfE Sign-in](#dfe-signin) | Jenny O'Connor | Live
  | Core network | Matt Evans | Live
 Integration | [API Management (FaUAPI)](#fauapi) | Iain McIntosh | Public beta
@@ -127,8 +127,8 @@ Read the [Cloud Infrastructure and Platform Services wiki](https://educationgovu
 
 
 <a name="powerplatform"></a>
-### Microsoft Power Platform
-Power Platform refers to a suite of applications that allow you to:
+### Power Platform
+Power Platform refers to a suite of Microsoft applications that allow you to:
 
 - Build custom applications with a point and click approach (Power Apps)
 - Automate business processes and workflows to avoid repetitive tasks (Power Automate)
