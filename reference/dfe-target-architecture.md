@@ -18,6 +18,12 @@ expires: 2027-03-05
 > enabling platforms such as identity, integration, messaging and
 > analytics.
 
+![Diagram showing enabling services surrounding the architecture
+engines, including authentication services, API gateway, event messaging
+infrastructure, analytics platforms and hosting
+platforms.](../../images/target-architecture-enabling-platforms.png)
+
+## Introduction
 
 The DfE Target Architecture describes how digital, data and technology
 services should be structured across the department to deliver joined-up
@@ -63,6 +69,38 @@ DfE delivers services to a wide range of users across the education
 system. These interactions can be understood through three broad types
 of user journey.
 
+**Customer journeys**
+
+Customer journeys represent **services** used by:
+
+-   the education sector
+-   citizens
+-   parents, teachers and learners
+
+These services are typically designed around policy outcomes or
+regulatory processes.
+
+**Partner journeys**
+
+Partner journeys represent **system-to-system interactions** with
+external organisations.
+
+These typically involve:
+
+-   integrations with school management information systems
+-   APIs used by sector systems
+-   data sharing with other government departments
+
+**Business journeys**
+
+Business journeys support **internal users and operational processes**,
+including:
+
+-   DfE staff
+-   policy teams
+-   analysts
+-   operational and delivery teams
+
 We sometimes refer to this model as the **'fidget spinner'** view of
 DfE services because it shows how different types of interaction revolve
 around shared data and enabling capabilities.
@@ -77,49 +115,16 @@ staff.](../../images/target-architecture-user-journeys.png)
 The model highlights that while users and services may differ, many rely
 on the same underlying data and capabilities.
 
-**Customer journeys**
-
-Customer journeys represent **services** used by:
-
--   the education sector\
--   citizens\
--   parents, teachers and learners
-
-These services are typically designed around policy outcomes or
-regulatory processes.
-
-**Partner journeys**
-
-Partner journeys represent **system-to-system interactions** with
-external organisations.
-
-These typically involve:
-
--   integrations with school management information systems\
--   APIs used by sector systems\
--   data sharing with other government departments
-
-**Business journeys**
-
-Business journeys support **internal users and operational processes**,
-including:
-
--   DfE staff\
--   policy teams\
--   analysts\
--   operational and delivery teams
-
-
 ## From user journeys to architecture
 
 Although services appear very different from a user perspective, many
 rely on **similar underlying capabilities**, including:
 
--   common operational datasets\
--   shared business rules\
+-   common operational datasets
+-   shared business rules
 -   similar workflows and validations
 
-Historically these capabilities have often been implemented separately
+Historically, these capabilities have often been implemented separately
 in different systems, which has led to duplication, inconsistent data
 and higher delivery costs.
 
@@ -196,11 +201,6 @@ Data engines provide:
 
 
 ### Enabling platforms
-
-![Diagram showing enabling services surrounding the architecture
-engines, including authentication services, API gateway, event messaging
-infrastructure, analytics platforms and hosting
-platforms.](../../images/target-architecture-enabling-platforms.png)
 
 Examples include:
 
