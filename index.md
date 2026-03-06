@@ -5,6 +5,11 @@ It complements the [UK Government Service Manual](https://www.gov.uk/service-man
 
 It should be used in conjunction with the [DfE Digital Technical Guidance](https://technical-guidance.education.gov.uk), when building digital services.
 
+## Reference Architecture
+
+- [DfE Target Architecture](reference/dfe-target-architecture.md)
+- [Enterprise Data Model](https://educationgovuk.sharepoint.com/sites/lvedfe00108/SitePages/EDM.aspx)
+
 ## Principles
 
 {% assign principle_groups = site.pages
