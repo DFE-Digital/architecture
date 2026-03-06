@@ -30,7 +30,7 @@ system designs. Instead, it defines patterns and structures that help
 teams design services in a consistent and reusable way.
 
 The target architecture supports the goals described in DfE's digital,
-data and technology strategies and aligns with our [architecture principles](https://dfe-digital.github.io/architecture/#principles).
+data and technology strategies and aligns with our [architecture principles](../../#principles).
 
 The target architecture helps DfE to:
 
@@ -73,7 +73,7 @@ Three main user journeys radiate from a central core of shared data and
 enabling services: customer journeys used by citizens and the education
 sector, partner journeys involving system-to-system integrations and
 data sharing, and business journeys used by internal DfE
-staff.](target-architecture-user-journeys.png)
+staff.](../images/target-architecture-user-journeys.png)
 
 The model highlights that while users and services may differ, many rely
 on the same underlying data and capabilities.
@@ -151,7 +151,7 @@ services. Business engines implement reusable business rules and
 workflows. Data engines provide authoritative operational datasets such
 as establishments or people. The engines are connected through APIs and
 supported by enabling platforms including identity, integration,
-messaging and analytics.](target-architecture-engines.png)
+messaging and analytics.](../images/target-architecture-engines.png)
 
 ### Front-end engines
 
@@ -201,7 +201,7 @@ Data engines provide:
 ![Diagram showing enabling services surrounding the architecture
 engines, including authentication services, API gateway, event messaging
 infrastructure, analytics platforms and hosting
-platforms.](target-architecture-enabling-platforms.png)
+platforms.](../images/target-architecture-enabling-platforms.png)
 
 Examples include:
 
@@ -220,7 +220,7 @@ architecture. A user interacts with a service through the front-end
 engine. The front-end engine invokes one or more business engines to
 apply policy rules or workflows. Business engines retrieve or update
 operational data using data
-engines.](target-architecture-user-journey-through-engines.png)
+engines.](../images/target-architecture-engines-example.png)
 
 A typical interaction might follow this pattern:
 
@@ -236,7 +236,7 @@ A typical interaction might follow this pattern:
 ## How teams should apply the target architecture
 
 When designing services, teams should apply the target architecture in
-line with the [enterprise architecture principles](https://dfe-digital.github.io/architecture/principles/enterprise-architecture-principles).
+line with the [enterprise architecture principles](../../principles/enterprise-architecture-principles).
 
 ### Look for existing engines first
 
@@ -245,7 +245,7 @@ provides the functionality required.
 
 ### Design capabilities for reuse
 
-If new capabilities are needed, consider whether they could be
+If new capabilities are needed, consider whether they should be
 implemented as a reusable engine rather than a service-specific
 component.
 
