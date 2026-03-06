@@ -215,7 +215,7 @@ Examples include:
 
 ## How services use the target architecture
 
-![Service interaction diagram showing a typical user journey through the
+![Service interaction diagram showing an example user journey through the
 architecture. A user interacts with a service through the front-end
 engine. The front-end engine invokes one or more business engines to
 apply policy rules or workflows. Business engines retrieve or update
