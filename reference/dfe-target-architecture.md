@@ -5,8 +5,8 @@ expires: 2027-03-05
 
 # DfE Target Architecture
 
-> **Tl;dr**
->
+## Summary
+
 > The DfE target architecture separates user experience, business
 > capabilities and operational data into reusable engines.
 >
