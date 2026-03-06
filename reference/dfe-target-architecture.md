@@ -5,6 +5,8 @@ expires: 2027-03-05
 
 # DfE Target Architecture
 
+> **Tl;dr**
+>
 > The DfE target architecture separates user experience, business
 > capabilities and operational data into reusable engines.
 >
@@ -18,10 +20,10 @@ expires: 2027-03-05
 > enabling platforms such as identity, integration, messaging and
 > analytics.
 
-![Diagram showing enabling services surrounding the architecture
+[![Diagram showing enabling services surrounding the architecture
 engines, including authentication services, API gateway, event messaging
 infrastructure, analytics platforms and hosting
-platforms.](../../images/target-architecture-enabling-platforms.png)
+platforms.](../../images/target-architecture-enabling-platforms.png)](../../images/target-architecture-enabling-platforms.png)
 
 ## Introduction
 
@@ -69,9 +71,7 @@ DfE delivers services to a wide range of users across the education
 system. These interactions can be understood through three broad types
 of user journey.
 
-**Customer journeys**
-
-Customer journeys represent **services** used by:
+**Customer journeys**, representing **services** used by:
 
 -   the education sector
 -   citizens
@@ -80,21 +80,14 @@ Customer journeys represent **services** used by:
 These services are typically designed around policy outcomes or
 regulatory processes.
 
-**Partner journeys**
-
-Partner journeys represent **system-to-system interactions** with
-external organisations.
-
-These typically involve:
+**Partner journeys**, representing **system-to-system interactions** with
+external organisations. These typically involve:
 
 -   integrations with school management information systems
 -   APIs used by sector systems
 -   data sharing with other government departments
 
-**Business journeys**
-
-Business journeys support **internal users and operational processes**,
-including:
+**Business journeys** that support **internal users and operational processes**, including:
 
 -   DfE staff
 -   policy teams
