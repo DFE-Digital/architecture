@@ -37,7 +37,7 @@ system designs. Instead, it defines patterns and structures that help
 teams design services in a consistent and reusable way.
 
 The target architecture supports the goals described in DfE's digital,
-data and technology strategies and aligns with our [architecture principles](../../#principles).
+data and technology strategies and aligns with our [architecture principles](../../#principles). It has full support from the Chief Digital and Technology Officer (CDTO) and DDT Committee.
 
 The target architecture helps DfE to:
 
@@ -177,7 +177,7 @@ the same implementation of policy logic.
 ### Data engines
 
 Data engines provide shared access to authoritative operational
-datasets.
+data.
 
 Example domains include:
 
