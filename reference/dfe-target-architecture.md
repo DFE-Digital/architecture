@@ -19,8 +19,8 @@ expires: 2027-03-05
 > These engines are connected through APIs and supported by shared
 > enabling platforms such as identity, integration, messaging and
 > analytics.
-
-[![Diagram showing enabling services surrounding the architecture
+>
+> [![Diagram showing enabling services surrounding the architecture
 engines, including authentication services, API gateway, event messaging
 infrastructure, analytics platforms and hosting
 platforms.](../../images/target-architecture-enabling-platforms.png)](../../images/target-architecture-enabling-platforms.png)
@@ -29,7 +29,7 @@ platforms.](../../images/target-architecture-enabling-platforms.png)](../../imag
 
 The DfE Target Architecture describes how digital, data and technology
 services should be structured across the department to deliver joined-up
-services, make better use of data, and reduce duplication.
+services, make better use of data and reduce duplication.
 
 It provides a conceptual blueprint for how services should evolve
 over time. The architecture does not prescribe specific technologies or
@@ -42,13 +42,13 @@ data and technology strategies and aligns with our [architecture principles](../
 The target architecture helps DfE to:
 
 -   deliver joined-up user experiences
--   reduce duplication and technical debt
+-   reduce duplication and technical debt across services
 -   improve agility and responsiveness
 -   enable reuse across services
 -   make better use of operational data
+-   support policy change more easily
 
-
-## Architecture in the DfE blueprint
+## The target architecture in the DfE blueprint
 
 The target architecture forms part of a broader digital, data and
 technology blueprint used to guide strategic change across DfE.
@@ -94,9 +94,10 @@ external organisations. These typically involve:
 -   analysts
 -   operational and delivery teams
 
-We sometimes refer to this model as the **'fidget spinner'** view of
-DfE services because it shows how different types of interaction revolve
-around shared data and enabling capabilities.
+This model is sometimes referred to as the **'fidget spinner'** view of
+DfE services. It highlights that different types of interaction with DfE - 
+customer, partner and internal business journeys - revolve around shared 
+operational data and reusable capabilities.
 
 ![Conceptual diagram showing the "fidget spinner" model of DfE services.
 Three main user journeys radiate from a central core of shared data and
@@ -105,8 +106,8 @@ sector, partner journeys involving system-to-system integrations and
 data sharing, and business journeys used by internal DfE
 staff.](../../images/target-architecture-user-journeys.png)
 
-The model highlights that while users and services may differ, many rely
-on the same underlying data and capabilities.
+The target architecture helps structure these shared capabilities as
+reusable **engines** that support many services across the department.
 
 ## From user journeys to architecture
 
@@ -124,12 +125,15 @@ and higher delivery costs.
 The target architecture addresses this by introducing **reusable
 engines** that provide shared capabilities across services.
 
+These engines separate user experience, business capabilities
+and operational data, so they can evolve independently and be
+reused across many services.
 
 ## What is an engine?
 
 In the DfE target architecture, an engine is a reusable service that
-provides a specific capability used by multiple services across the
-department.
+provides a specific capability used by multiple products and user 
+journeys across the department.
 
 An engine typically:
 
@@ -139,8 +143,13 @@ An engine typically:
 -   provides a stable and scalable platform capability
 -   evolves independently from the user interfaces that consume it
 
+Instead of every service building its own versions of common capabilities,
+engines allow DfE to provide them once and reuse them widely.
 
 ## Core components of the target architecture
+
+The target architecture organises capabilities into three types of
+engine, supported by shared, enabling platforms.
 
 ![Layered architecture diagram showing the core engines used in the DfE
 target architecture. A front-end engine provides shared user-facing
@@ -152,8 +161,11 @@ messaging and analytics.](../../images/target-architecture-engines.png)
 
 ### Front-end engines
 
-Front-end engines provides shared capability for delivering
+Front-end engines provide shared capability for delivering
 digital services to users.
+
+They support consistent user experiences across services by
+providing common components and integration patterns.
 
 They may include:
 
@@ -195,6 +207,9 @@ Data engines provide:
 
 ### Enabling platforms
 
+Enabling platforms provide common infrastructure and technical
+services that support the engines and the services that use them.
+
 Examples include:
 
 -   identity and authentication services
@@ -214,7 +229,8 @@ apply policy rules or workflows. Business engines retrieve or update
 operational data using data
 engines.](../../images/target-architecture-engines-example.png)
 
-A typical interaction might follow this pattern:
+Most services built by DfE will combine capabilities from multiple engines. 
+A typical service interaction might follow this pattern:
 
 1.  A user interacts with a service through a **front-end engine**
 2.  The service invokes one or more **business engines** to apply policy
@@ -224,6 +240,8 @@ A typical interaction might follow this pattern:
 4.  Supporting capabilities such as authentication, messaging or
     analytics are provided by **enabling platforms**
 
+This approach allows services to focus on delivering user outcomes
+while relying on shared capabilities, where appropriate.
 
 ## How teams should apply the target architecture
 
@@ -260,7 +278,10 @@ tightly coupling logic within a single application.
 
 ## Evolving towards the target architecture
 
-The target architecture will emerge gradually as services evolve. Next steps include:
+The target architecture will be realised gradually as services evolve 
+and new shared capabilities are introduced. 
+
+Next steps include:
 
 -   prioritising and building the first engines
 -   integrating services with shared engines
