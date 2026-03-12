@@ -141,7 +141,7 @@ An engine is a reusable set of services and components, which accelerate digital
 
 Engines realise <a name="pattern">patterns</a> and <a name="standard">standards</a>, removing complexity and simplifying compliance for delivery teams, whilst ensuring consistency and quality of data.
 
-We classify engines as either data, business, or front-end, to align with the DfE target architecture.
+We classify engines as either data, business, or front-end, to align with the [DfE target architecture](../../reference/dfe-target-architecture).
 
 Some examples might be an eligibility checking or funding business engine, an organisation or person data engine, or a whole front-end engine.
 
