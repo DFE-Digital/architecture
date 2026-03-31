@@ -14,7 +14,7 @@ expires: 2027-03-05
 >     and digital interfaces
 > -   **business engines** implement reusable policy and operational
 >     logic
-> -   **data engines** provide authoritative operational datasets
+> -   **data engines** provide shared access to authoritative operational data
 >
 > These engines are connected through APIs and supported by shared
 > enabling platforms such as identity, integration, messaging and
