@@ -137,10 +137,10 @@ journeys across the department.
 
 An engine typically:
 
--   implements a clearly defined capability or data domain
+-   implements a clearly defined business capability or data entity
 -   exposes functionality through APIs or integration interfaces
 -   is designed to support multiple services
--   provides a stable and scalable platform capability
+-   provides a stable, performant and scalable platform capability
 -   evolves independently from the user interfaces that consume it
 
 Instead of every service building its own versions of common capabilities,
@@ -191,7 +191,7 @@ the same implementation of policy logic.
 Data engines provide shared access to authoritative operational
 data.
 
-Example domains include:
+Example data engines could include:
 
 -   establishments (schools and providers)
 -   people (learners or staff)
@@ -201,8 +201,9 @@ Example domains include:
 Data engines provide:
 
 -   consistent access to operational data
--   APIs for querying and updating information
--   reliable and scalable access to shared datasets
+-   enforced data quality
+-   APIs for creating, querying and updating information
+-   reliable and scalable access to shared data
 
 
 ### Enabling platforms
@@ -268,7 +269,7 @@ data engines.
 **Avoid duplicating operational data**
 
 Where a **data engine** exists, treat it as the authoritative source
-rather than creating separate copies of the same dataset.
+rather than creating separate copies of the same data.
 
 **Design modular services**
 
