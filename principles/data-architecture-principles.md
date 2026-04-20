@@ -10,12 +10,12 @@ _Data is like any shared asset with value to the whole Department and beyond._
 
 __Why?__
 
-Data has value because it supports decision-making; in front-line delivery, in policy making and in public accountability of the Education sector. Like all corporate assets, data costs money to create or procure and then to store, access and protect throughout its lifecycle. So it is important to maximise the value, with careful, proactive management, ensuring its availability, accuracy and reliability for well-understood legitimate user journeys. Data assets are also targetted for their value to illicit interests and so need to be protected as with any corporate asset. For all of these reasons, we must have clear visibility of where each data asset is, how it adds value and the individual who owns it on the Department’s behalf.
+Data has value because it supports decision-making; in front-line delivery, in policy making and in public accountability of the Education sector. Like all corporate assets, data costs money to create or procure and then to store, access and protect throughout its lifecycle. So it is important to maximise the value, with careful, proactive management, ensuring its availability, accuracy and reliability for well-understood legitimate user journeys. Data assets are also targeted for their value to illicit interests and so need to be protected as with any corporate asset. For all of these reasons, we must have clear visibility of where each data asset is, how it adds value and the individual who owns it on the Department’s behalf.
 
 __How?__
 
 - This principle is related to ”Data is shared,” and “Data is obtainable,” so all teams should understand the relationship between the value of data, sharing of data and accessibility to data
-- All data should be registered in the Department’s [Information Asset Register](https://educationgovuk.sharepoint.com/sites/iac/SitePages/Information-Asset-Register.aspx) that records the legal basis on which we capture the data, how we process and use it, who owns it and the policies and privacy notices that apply to it. This will ensure we remain visibly compliant with Data Protection legislation such as GDPR
+- All data should be registered in the Department’s [Information Asset Register](https://educationgovuk.sharepoint.com/sites/iac/SitePages/Information-Asset-Register.aspx) that records the legal basis on which we capture the data, how we process and use it, who owns it and the policies and privacy notices that apply to it. This will ensure we remain visibly compliant with current legislation
 - Data must only be used for legally permitted purposes, as defined by GDPR and captured in the [Information Asset Register](https://educationgovuk.sharepoint.com/sites/iac/SitePages/Information-Asset-Register.aspx)
 - Services must work to improve the value of our shared data assets by ensuring processes are in place to maintain and improve data quality, in accordance with the [Technical Standards](https://standards.education.gov.uk/). This includes making sure data is validated by users at point of capture wherever possible, and tracking the changes to data across user journeys
 - Services must refrain from diluting the value of our data assets by creating their own versions of assets – we must agree master data sources and ensure those are always used
@@ -30,7 +30,7 @@ _All confidential, sensitive or personal data will be protected from unauthorise
 
 __Why?__
 
-The Department has a legal and moral obligation to keep personal, confidential or sensitive data secure, and we must ensure that uses and users of the data conform with this obligation. In the case of personal data in particular, we can only use it for the legal purposes for which it was collected. Pre-release access to statistical data must also be highly controlled as there are strong legal limits around what may be shared before publication, and commercially sensitive data may inhibit the Department’s ability to manage its contracts effectively if it is shared inappropriately. The Department also a large amount of children’s data, which it must safeguard.
+The Department has a legal and moral obligation to keep personal, confidential or sensitive data secure, and we must ensure that uses and users of the data conform with this obligation. In the case of personal data in particular, we can only use it for the legal purposes as legislation permits. Pre-release access to statistical data must also be highly controlled as there are strong legal limits around what may be shared before publication, and commercially sensitive data may inhibit the Department’s ability to manage its contracts effectively if it is shared inappropriately. The Department also a large amount of children’s data, which it must safeguard.
 
 __How?__
 
@@ -59,11 +59,11 @@ __How?__
 
 - This principle is related to ”Data is an asset,” and “Data is obtainable,” so all teams should understand the relationship between the value of data, sharing of data and accessibility to data
 - Our digital services and legacy applications must conceptually comprise a single ‘shared environment’ across which data is easily consumed between services
-- We must adhere to the common set of policies, procedures and standards for data management, discovery and access agreed by data owners and stored in the Data Estate Map
+- We must adhere to the common set of policies, procedures and standards for data management, discovery and access agreed by data owners
 - Services must design appropriate interfaces to their data to allow other services and users to consume their data
-- Services should assume that the Department will need to analyse data created/collected by that service and should use the common patterns developed to enable easily passing data to the Enterprise Data & Analysis Platform
-- Data should be consistently defined throughout the Department, using definitions that are understandable and available to all users. A central data dictionary should be created and maintained as part of our Data Estate Map
-- For data to be discoverable, we must maintain a searchable central metadata repository, including data elements, data models and other metadata as part of our Data Estate Map
+- Services should assume that the Department will need to analyse data created/collected by that service and should use the common patterns developed 
+- Data should be consistently defined throughout the Department, using definitions that are understandable and available to all users. A central data dictionary should be created and maintained.
+- For data to be discoverable, we must maintain a searchable central metadata repository, including data elements, data models and other metadata
 - Where legally permitted, data will be available externally to further the business of government and to support wider citizen and business use of Departmental data
 
 ## 4. Data is Obtainable
@@ -79,8 +79,8 @@ __How?__
 - This principle also relates to ‘Data is secure’ – we must ensure the right balance between obtainability and security
 - All users should be able to obtain data easily
 - The way information is stored, accessed and presented must be adaptable for a wide range of users and their corresponding methods of access
-- Obtainable data must also include good quality metadata to minimise the risk of erroneous decision-making based on a misunderstanding of the data context. Much of this will be captured in the [Data Estate Map](https://app.powerbi.com/groups/me/apps/48f275b0-661f-4add-b050-163fa77661f9/dashboards/602d1747-3cd1-4656-8b58-dbc3243d6f2d?experience=power-bi), but should also include process/user journey metadata to understand how data were captured in the first place
-- Good governance must be in place to ensure those with access to data understand their responsibilities under the Data Protection Act, and the limits of what they can do in the way of publishing, sharing or modifying the data. The Data Estate Map should be used to store and present this information to users
+- Obtainable data must also include good quality metadata to minimise the risk of erroneous decision-making based on a misunderstanding of the data context. This should include process/user journey metadata to understand how data were captured in the first place
+- Good governance must be in place to ensure those with access to data understand their responsibilities under the current legislation, and the limits of what they can do in the way of publishing, sharing or modifying the data.
 - It must be quick and easy to determine who has access to each data asset, and to audit any human or computer access for any time period going back for a reasonable amount of time
 
 ## 5. Data is Analysable
@@ -91,12 +91,9 @@ __Why?__
 Making sound policy and spending decisions across the whole Department is significantly enhanced by access to timely, accurate data from all services and across the wider educational sector. Holding this data for all systems, services, functions and processes will enable a common view on our citizen interactions, our management decisions and how our utilisation of resources best serves the tax-payer. With the Department’s increasing delivery focus, we increasingly need to have Business Intelligence and Management Information across the sector, as well as our own Financial, Commercial & HR processes.
 
 __How?__
-
-- Data should be gathered from all systems, services and applications and stored in the Enterprise Data & Analysis Platform (EDAP) so that analysts can easily consume and compare data from across the DfE without creating multiple analytical copies of data
-- All new systems and services will be procured or developed on the basis that they can store data within EDAP
 - Visualisation and analytics software will be provided to allow consumption of data in ways appropriate to user needs, including reports, dashboards, statistical analysis etc
 - This data and its subsequent use will be covered by DfE Data Governance policies and processes, and the Government Statistical Service Code of Practice
-- Data owners must define policies and processes to ensure data quality problems identified once data reaches EDAP can be reported to relevant services and data stewards to be fixed at source. See our [Data Governance Hub](https://educationgovuk.sharepoint.com/sites/lvewp00085)
+- Data owners must define policies and processes to ensure data quality problems identified can be reported to relevant services and data stewards to be fixed at source.
 
 ## 6. Data use is Ethical
 _We must process and store data in line with the ethical consensus around data use_
