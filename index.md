@@ -8,7 +8,7 @@ It should be used in conjunction with the [DfE Digital Technical Guidance](https
 ## Reference Architecture
 
 - [DfE Target Architecture](reference/dfe-target-architecture.md)
-- [Enterprise Data Model](https://educationgovuk.sharepoint.com/sites/lvedfe00108/SitePages/EDM.aspx)
+- [Enterprise Data Model](reference/enterprise-data-model)
 
 ## Principles
 
