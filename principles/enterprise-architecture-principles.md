@@ -31,7 +31,7 @@ with better resource allocation and decision-making
 ensuring appropriate investment of effort and money
 *	Ensure value by linking delivery metrics to business objectives, which also facilitates 
 rapid review of relevance when goals and objectives change
-*	Work may be deprioritised or stopped as business goals and objectives change. 
+*	Work may be deprioritised or stopped as business goals and objectives change 
 *	Invest in functionality and delivery that has long-term stability through changing 
 government policies and priorities
 *	User needs may not align with DfE business objectives, therefore the cost and value of 
