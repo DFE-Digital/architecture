@@ -81,7 +81,7 @@ For example, a claims advisor deciding how much someone’s insurance claim is w
 <a name="capability"></a>
 ### Capability ###
 
-A capability is an abstract concept, used to describe <i>what</i> we do (but not how). Capabilities can be thought of as all the things we do to define and deliver our goals, which are realised by people, processes, information, technology, and other things. They help us consider whether we have all the necessary expertise, knowledge, tools, organisation and capacity to do it.
+A capability is an abstract concept, used to describe <i>what</i> we do, or can do (but not how). Capabilities can be thought of as all the things we do to define and deliver our goals, which are realised by people, processes, information, technology, and other things. They help us consider whether we have all the necessary expertise, knowledge, tools, organisation and capacity to do it.
 
 Capabilities are often grouped together into families or categories, for instance:
 - strategic capabilities, that describe high level goal setting activities.
