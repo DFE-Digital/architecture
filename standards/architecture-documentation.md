@@ -7,6 +7,10 @@ expires: 2026-24-10
 
 In DfE, architects are trusted to choose the most appropriate way of documenting their design thinking, decisions and rationale, in a way that best fits with their delivery. It's important that design is done in the open and architects share their thinking across the community. The architecture profession provides various tools, techniques and guides to help architects do that.
 
+Most common for technical architecture is [C4 diagramming](https://c4model.com/). Some enterprise and business architecture models are defined in Archimate and published using [Archi](https://www.archimatetool.com/).
+
+You can browse the architecture toolkit](https://planner.cloud.microsoft/webui/plan/V_MJD_d-AUqrjB4GRgyug5YABPL1/view/board?tid=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) for more ideas and examples.
+
 ## Architecture Decision Records
 
 Use of lightweight Architecture Decision Records (ADRs), as [described by Michael Nygard](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions), is a technique strongly encouraged in DfE, for capturing important architectural decisions along with their context and consequences. Recording design decisions in this way enables retrospective review at key points, benefits future team members getting up-to-speed quickly, as well as providing a basis for external oversight, where needed. We recommend storing ADRs in source control, to provide a record that remains in sync with the code itself.
