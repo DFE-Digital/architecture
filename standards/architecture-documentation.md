@@ -9,7 +9,7 @@ In DfE, architects are trusted to choose the most appropriate way of documenting
 
 Most common for technical architecture is [C4 diagramming](https://c4model.com/). Some enterprise and business architecture models are defined in Archimate and published using [Archi](https://www.archimatetool.com/).
 
-You can browse the architecture toolkit](https://planner.cloud.microsoft/webui/plan/V_MJD_d-AUqrjB4GRgyug5YABPL1/view/board?tid=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) for more ideas and examples.
+You can browse the [architecture toolkit](https://planner.cloud.microsoft/webui/plan/V_MJD_d-AUqrjB4GRgyug5YABPL1/view/board?tid=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) for more ideas and examples.
 
 ## Architecture Decision Records
 
