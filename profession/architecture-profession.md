@@ -53,17 +53,19 @@ Use the table below to find out who your architecture lead is. Or contact the [a
 
 | Portfolio/domain | Architecture lead(s) |
 | - | - |
-| Schools Digital, incl. Teacher services | Robert Rees |
-| Children and families | Yousaf Khan-Rauf |
-| Regions | tbc - speak to Mamood Sultan |
-| Growth and skills, incl. Apprenticeship service | tbc - speak to Craig Faulkner |
-| Cyber security | tbc - speak to Angela Scale |
+| Schools Digital | Robert Rees |
+| Children and families | Pradeep Neelakandan |
+| Regions Digital Services | tbc - speak to Mamood Sultan |
+| Skills and Growth (including Apprenticeship Service) | tbc - speak to Craig Faulkner |
+| Cyber security | Martin Sivorn |
 | End user services | John Phillips |
 | Operational services | Mario Gledhill |
 | Enterprise architecture | Ant McCrea |
-| Data architecture | Richard Boland / Rajinder Bilkhu |
-| Data science | Pete Holding |
-| National Careers Service | Chris Jones |
+| Data architecture | Zog Gibbens |
+| Further Education / Data collection | Pete Holding |
+| Funding Service | Robin Darby |
+| School Account | Marc Pacheco |
+| Standards and Testing Agency | Olufemi Ayilara |
 
 ## Help with assurance
 
