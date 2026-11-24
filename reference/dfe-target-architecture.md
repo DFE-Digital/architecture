@@ -1,6 +1,7 @@
 ---
 category: reference
 expires: 2027-03-05
+redirect_to: https://deliver-good-services.education.gov.uk/guides/dfe-target-architecture
 ---
 
 # DfE Target Architecture
