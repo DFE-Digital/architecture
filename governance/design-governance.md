@@ -1,6 +1,7 @@
 ---
 category: Governance
 expires: 2026-09-24
+redirect_to: https://deliver-good-services.education.gov.uk/guides/architecture-governance-and-assurance
 ---
 
 
