@@ -1,6 +1,7 @@
 ---
 category: Components
 expires: 2021-12-31
+redirect_to: https://deliver-good-services.education.gov.uk/guides/common-components
 ---
 
 # Common components
